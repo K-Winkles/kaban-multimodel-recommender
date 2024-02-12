@@ -1,0 +1,782 @@
+{
+    "remaining_requests": 15941,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Red-Kap-Mens-Classic-Work/dp/B00O4UYU62",
+    "body": {
+        "name": "Red Kap Men's Classic Work Jean",
+        "price": "$23.49",
+        "originalPrice": "",
+        "rawPrice": 23.49,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Red-Kap-Mens-Classic-Work/dp/B00O4UYU62",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B00O4UYU62"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B00781QIKA",
+                "variationName": "Color",
+                "variationValue": "Prewashed Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61vfuxutNBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00781QJKE",
+                "variationName": "Color",
+                "variationValue": "Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gmJJRlQkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00781QJ7M",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gmJJRlQkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00781QSFA",
+                "variationName": "Color",
+                "variationValue": "Pw",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gmJJRlQkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00781QDH8",
+                "variationName": "Color",
+                "variationValue": "Prewashed Indigo - 36i",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gmJJRlQkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00781QVUW",
+                "variationName": "Color",
+                "variationValue": "Prewashed Indigo - 38i",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gmJJRlQkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00DOBCPSW",
+                "variationName": "Size",
+                "variationValue": "28W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QBAC",
+                "variationName": "Size",
+                "variationValue": "28W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QBL6",
+                "variationName": "Size",
+                "variationValue": "28W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QDZ0",
+                "variationName": "Size",
+                "variationValue": "29",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QC2Y",
+                "variationName": "Size",
+                "variationValue": "29W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QD3C",
+                "variationName": "Size",
+                "variationValue": "29W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QCJW",
+                "variationName": "Size",
+                "variationValue": "29W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QF4O",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QEAY",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QEQI",
+                "variationName": "Size",
+                "variationValue": "30W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QHY2",
+                "variationName": "Size",
+                "variationValue": "31",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QGPW",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QGCU",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QH6A",
+                "variationName": "Size",
+                "variationValue": "31W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QJKE",
+                "variationName": "Size",
+                "variationValue": "32",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QI7S",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QIKA",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QIXM",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QLZW",
+                "variationName": "Size",
+                "variationValue": "33",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QKB2",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QKMG",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QL0W",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QNI2",
+                "variationName": "Size",
+                "variationValue": "34",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QMQA",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QN4G",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QNWS",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00DOBHQK4",
+                "variationName": "Size",
+                "variationValue": "35",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QHL0",
+                "variationName": "Size",
+                "variationValue": "36",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QP6C",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QPMG",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QPYO",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QAVW",
+                "variationName": "Size",
+                "variationValue": "37",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QV0W",
+                "variationName": "Size",
+                "variationValue": "38",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QTDQ",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QTVI",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QUJ4",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QVUW",
+                "variationName": "Size",
+                "variationValue": "38W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QXSM",
+                "variationName": "Size",
+                "variationValue": "40",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QWCO",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QWS8",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QX9Q",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R03E",
+                "variationName": "Size",
+                "variationValue": "42",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QYK4",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QZ08",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781QZNA",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R2BY",
+                "variationName": "Size",
+                "variationValue": "44",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R16K",
+                "variationName": "Size",
+                "variationValue": "44W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R1JC",
+                "variationName": "Size",
+                "variationValue": "44W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R200",
+                "variationName": "Size",
+                "variationValue": "44W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R3TU",
+                "variationName": "Size",
+                "variationValue": "46",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R2RI",
+                "variationName": "Size",
+                "variationValue": "46W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R32C",
+                "variationName": "Size",
+                "variationValue": "46W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R3EA",
+                "variationName": "Size",
+                "variationValue": "46W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R5NO",
+                "variationName": "Size",
+                "variationValue": "48",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R45I",
+                "variationName": "Size",
+                "variationValue": "48W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R4F8",
+                "variationName": "Size",
+                "variationValue": "48W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R57A",
+                "variationName": "Size",
+                "variationValue": "48W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R74Q",
+                "variationName": "Size",
+                "variationValue": "50",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R5Z2",
+                "variationName": "Size",
+                "variationValue": "50W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R6FG",
+                "variationName": "Size",
+                "variationValue": "50W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00DOBMMTY",
+                "variationName": "Size",
+                "variationValue": "50W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R81I",
+                "variationName": "Size",
+                "variationValue": "52",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R6QK",
+                "variationName": "Size",
+                "variationValue": "52W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00781R7G4",
+                "variationName": "Size",
+                "variationValue": "52W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00DOBN75M",
+                "variationName": "Size",
+                "variationValue": "52W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00O4VIKWG",
+                "variationName": "Size",
+                "variationValue": "54W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00O4VINDM",
+                "variationName": "Size",
+                "variationValue": "54W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00O4VIN9Q",
+                "variationName": "Size",
+                "variationValue": "54W x 34L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41cD3ZGTHHL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/415kix6pJzL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31eW2pcg4SL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31fEaRZh0bL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61idXB6OUvL.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/915e70f7-7534-5202-becd-812f188b3753/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Red Kap Store",
+            "link": "https://www.amazon.com/stores/RedKap/page/FF507572-EB7E-468D-B6F2-69C7AA86C871?ref_=ast_bln"
+        },
+        "brand": "RedKap",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 1173,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "Pant label length may state a longer finished dimension (34U, 36U, 37U) depending on the style, as items are cut to order.",
+            "Prewashed 13.75 oz. heavyweight denim",
+            "Classic fit with traditional rise",
+            "Bartack reinforced pockets",
+            "HEAVY-DUTY HARDWARE. Brass ratcheting hidden zipper and button closure that lasts."
+        ],
+        "description": "You can tough out any job with these rugged work jeans. They're made of prewashed 13.75 oz. heavyweight denim for durability and styled in a classic fit that accommodates your work boots. These classic work jeans also feature a traditional rise to ensure the comfort and coverage you need for the bending and climbing you do. Bartack reinforced pockets carry your stuff while enduring the heavy demands of jobs in construction and farming. These durable but comfortable classic jeans never miss a day of work.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 16.4 x 11.7 x 2 inches; 2.05 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e PD54"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e January 16, 2015"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e VF Imagewear, Inc."
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B00DOBCPSW"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#44,929 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #229 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 1,173 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/53c29ede-e620-4845-8c73-13bec537eb01.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0591d2fe-ae12-4a41-b05f-3147d8a4c90d.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/504b871f-712d-4857-934a-170e05a83f91.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/76ed39bb-cc3e-4851-8f31-df043d084b26.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/94d31bbf-2223-4d0c-ac05-2e288f91cf27.__CR0,0,1940,600_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Brent Kryda",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGBBRFZ4OBW5PFWEPLRJBJI5OAGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RVHLGVU2FQHZ8?ASIN=B00O4UYU62",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 8, 2019",
+                "reviewTitle": "5.0 out of 5 stars \"Classic work jean\" indeed!",
+                "reviewText": "I like RedKap. They offer a quality product at an affordable price and are no-nonsense in terms of appearance. No, you don't get to pull off a fashion statement like with Dickies or Carhartt. RedKap is less workwear chic (and don't get me wrong, those brands stand the test of time and wear like champs) than it is \"just\" workwear.But hey, I'm a fat, nerdy corporate office ground level guy, what would I know about workwear? Truth be told, I don't have much of a call for jeans at my workplace, and even my daily \"personal uniform\" is more traditional/smart casual (khaki pants, button down shirts, sweater vests). That said, I am a gardener and I do put in a warehouse shift now and then, and while I don't wear jeans often outside of these purposes, I do reach for a pair now and then!These jeans are no-nonsense, sturdy, basic blue jeans. Five pockets, rugged and somewhat heavy material, no fancy stitching, not even any metal rivets. If you wear them at your natural waist rather than hanging from your hips, they are a good fit, slightly on the snug side of perfect. Most other reviewers seem to find that they are long and have a really high rise; traditional work jeans (originally called waist overalls) are cut this way and are great for keeping a shirt tucked in and not exposing the canyon when bent over.They fade over time, as do many jeans, and are the right darkness of blue for this reason. I had a smaller pair that I wore for nearly a decade that faded where you would expect, on pockets, seams, and cod flap, and while they remained thick and durable, also became very soft and comfortable to the point where I would prefer them as a lounge pant over sweat pants. I'm glad I can get them on Amazon rather than have to hunt them down through work wear mail order catalogs (my local shops always just seemed to carry Dickies, again, a fine jean, but not what I was after, being very non-label and minimalist).Budget wise, these are a great find for your large carriage gentleman. I'm on an Amazon Essentials kick these days and find they look great paired with any of their button-down shirts, or for more practical, let's get dirty stuff, the RedKap Industrial work shirts, though my neighbor has remarked it looks like I'm going for prison chic with that combination. I disagree. As long as these things are made, I'll be including them in my closet for when I need to get dirty or even just look a bit less smart casual. But hey, don't listen to this fat office desk jockey, try on a pair for yourself!",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dennis",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGDAKQKLUCBRPK2JNJZ5SK7VKCAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2DWFTI9CEFK3A?ASIN=B00O4UYU62",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love them",
+                "reviewText": "Great price, great fit, heavy duty quality denim material. Much better value than Lee jeans.Red Cap,Keep the price low and I will buy again and again.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Edward kolenda",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHYWL4JSYLSDSEIAZUJACYI5PTMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3FPFIN1R2OBF5?ASIN=B00O4UYU62",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 17, 2024",
+                "reviewTitle": "4.0 out of 5 stars Good quality, but a little baggy!",
+                "reviewText": "The jeans showed up in a timely manner, and for the money are very high quality. I don\u2019t know how long they will last, because I just bought them. I do concrete work, so jeans don\u2019t last long with me. I usually wear wrangler cowboy cut rodeo jeans, and I decided to give these a try, because they are a little cheaper. The material seems similar to the wrangler\u2019s I wear, but they are baggy jeans, which I don\u2019t care for. I\u2019m a cowboy, so I like what I know! Maybe that\u2019s the style, but I\u2019m 50 years old, and baggy just isn\u2019t for me. If they make a tighter cut of jeans, I\u2019ll definitely be on board with them.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "David I.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG4IMU66MGSSJ2AM3GXZAWHFBIKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3MR5BZPFZ4WPJ?ASIN=B00O4UYU62",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 19, 2024",
+                "reviewTitle": "5.0 out of 5 stars 5ft10 size 36/30",
+                "reviewText": "Fit as should , nice looking and quality , and comparable to other jeans .",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "outta99",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHIMSRCHY57QOUZ52L34PXLANGOA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RFDL4SGZZDXG2?ASIN=B00O4UYU62",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 21, 2023",
+                "reviewTitle": "5.0 out of 5 stars Excellent work jeans",
+                "reviewText": "Work everyday in these red capp jeans, I like the three belt loops across the back. Good quality denim. Run true to size for me . You can't beat these jeans. Two thumbs up",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon CustomerAmazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFHKC6BTDDIYNFLAM2SYY7R6GBXA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R31N5RDMAQ9SRC?ASIN=B00O4UYU62",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 3, 2024",
+                "reviewTitle": "3.0 out of 5 stars Too long",
+                "reviewText": "Material seems durable so far, waist fits fine, inseam is 2 sizes too long. Not a fan of having to roll the legs or walk on the hems",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71A1laemk4L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHG5EVKAH3XXVIOEHJV5MY6PJR3Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2VKGAL8N69JYF?ASIN=B00O4UYU62",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 22, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great jeans for the money",
+                "reviewText": "This was my first pair of Red Kap clothing. Was impressed that for $25 I got a pair of 100% cotton jeans that fit well and have good workmanship. As a tradesperson with over 15 years experience I highly recommend these if you\u2019re looking for a durable, presentable, and most importantly budget pair of jeans. Can ride a bicycle in these, fit wise, too. True to size.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MapOfTheWoods",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGW7TKHXS6W2IIXQKZOSYJ2TN2XQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1MIE7MFBW5BL9?ASIN=B00O4UYU62",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 26, 2023",
+                "reviewTitle": "1.0 out of 5 stars Big Dumpy Nope",
+                "reviewText": "I would never recommend these to anybody with good conscience. These sizes are stupid. As a thin guy who needs work denim, these are DANGEROUSLY HUGE. No human being that wears my size has legs this huge, and no human being wants to wear pants that make them look like they're wearing an adult diaper. These jeans are terribly thin, awful quality, would never stand up to a single day on the job for me. The legs get DANGEROUSLY snagged on things around me as they ding dong like stupid liberty bells.Let me repeat this: Not one single human being that wears a small size like this has legs and thighs like a bigger human. I'm sick of these American standardized sizes that constantly change just to brainwash society.These are the absolute LAST jeans I would recommend to anybody that actually works and needs something that will hold up. The stitching is totally flawed, strings hanging everywhere. Just a low, low quality pair of jeans that are sized so poorly, you'd think they were made by children.I don't wear jeans for fashion when I need something that I can work in, but I do need them to fit me in a way that doesn't just outright suck, JUST like every other pair of \"American size\" jeans anymore.I have a pair of Key jeans from 23 years ago that absolutely rule, no snags or fraying, still dark, still thick, and I've worn them at least twice a week for work in mine shafts, covered in clay and mud, dragged through brambles, etc. I wash them, let them air dry, and they feel like new jeans every time I put them on. I will obviously never have this kind of quality again, because even that company can't stop with this stupid sizing issue.You know what doesn't seem to try to brainwash me? Euro sizing. I'm done with US clothing sizes. This was the last straw. Not recommended.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Caveat Emptor",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 28, 2024",
+                "reviewTitle": "HEAVY WEIGHT TOUGH FABRIC, like in the old days! (hooray!)",
+                "reviewText": "Now this is retro quality, very heavy-weight denim and great stitching (no rivets)! Just what I was looking for! I expect these will last a lifetime, they're so solid in feel!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mike",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 23, 2021",
+                "reviewTitle": "Red Kap Mens Classic Work Jean",
+                "reviewText": "good product",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gary F.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 7, 2018",
+                "reviewTitle": "Should have ordered a size larger.",
+                "reviewText": "They fit smaller than expected.Unable to wear.Immediately went in the donation box.I should have ordered a size larger.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Stephen Mate",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 29, 2020",
+                "reviewTitle": "Good value.",
+                "reviewText": "Product was as described. Comfortable fit. Good value.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

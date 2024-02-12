@@ -1,0 +1,510 @@
+{
+    "remaining_requests": 16404,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Lacoste-Sleeve-Crewneck-Cotton-Sweater/dp/B081BN2PRT",
+    "body": {
+        "name": "Lacoste Mens Long Sleeve Crew Neck Regular Fit Sweater",
+        "price": null,
+        "originalPrice": "",
+        "rawPrice": null,
+        "currency": null,
+        "canonicalUrl": "https://www.amazon.com/Lacoste-Sleeve-Crewneck-Cotton-Sweater/dp/B081BNNMC6",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B081BNNMC6"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B081BNDRLG",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Gy+PjLUwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BZZTVP3R",
+                "variationName": "Color",
+                "variationValue": "Cobalt",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41x53T1-nNL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B6WXYL8D",
+                "variationName": "Color",
+                "variationValue": "Kingdom",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XCa0GAM4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09RQ96MFP",
+                "variationName": "Color",
+                "variationValue": "Marina",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31BZEl9wdoL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B081BNGNRJ",
+                "variationName": "Color",
+                "variationValue": "Navy Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31WS0d56n8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BZZVL3SL",
+                "variationName": "Color",
+                "variationValue": "Panorama",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Std6qAWTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B081BN4FXW",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313DmrI54jL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B081BNPMNG",
+                "variationName": "Color",
+                "variationValue": "Silver Chine",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41YgpfOJyLL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BZZV3NJ4",
+                "variationName": "Color",
+                "variationValue": "Sinople",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312TplgB2CL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B6WYQRGW",
+                "variationName": "Color",
+                "variationValue": "Watermelon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4107bLkyaPL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09RQ997H4",
+                "variationName": "Color",
+                "variationValue": "Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31T2FgJ8HNL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B081BN58T3",
+                "variationName": "Color",
+                "variationValue": "Vine Chine",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NalS1uVCL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B081BN2H1B",
+                "variationName": "Color",
+                "variationValue": "Electric",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qHMQ6WeVL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B099BJ4DLK",
+                "variationName": "Color",
+                "variationValue": "Bellflower Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3121+d6tsSL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08GZZDBC2",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31zpPjgD+yL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BZZV2Q3Q",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081BNDRLG",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081BNW84T",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081BN2PRT",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081BNMXYP",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081BNGNQC",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081BN8797",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081BNMPML",
+                "variationName": "Size",
+                "variationValue": "4X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08GZZDBC2",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41Gy PjLUwL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31ebFtwTohL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31qVBrQrESL.jpg"
+        ],
+        "imagesCount": 3,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Lacoste Store",
+            "link": "https://www.amazon.com/stores/LACOSTE/page/D097A420-5668-4EE6-B9A5-DDF9ECD012F9?ref_=ast_bln"
+        },
+        "brand": "LACOSTE",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 663,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Fabric",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Pull On",
+            "Classic Fit",
+            "Classic ribbed crew neck, pullover style",
+            "100% organic cotton jersey feels soft all year round",
+            "Ribbed finishes along waistband and cuffs",
+            "Signature embroidered green crocodile made from recycled material",
+            "Contrast herringbone detail along inner neckline"
+        ],
+        "description": "This classic jersey sweater, crafted in good-for-you and good-for-the-earth organic cotton, is a versatile, year-round choice.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1/000-0000000-8675309?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2/000-0000000-8675309?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3/000-0000000-8675309?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Sweaters",
+                "link": "https://www.amazon.com/Mens-Sweaters/b/ref=dp_bc_aui_C_4/000-0000000-8675309?ie=UTF8&node=1044442"
+            },
+            {
+                "name": "Pullovers",
+                "link": "https://www.amazon.com/Mens-Pullover-Sweaters/b/ref=dp_bc_aui_C_5/000-0000000-8675309?ie=UTF8&node=2476516011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.86 x 10.63 x 1.22 inches; 3.53 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e AH1985-51"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e November 11, 2019"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Lacoste"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B081BNDRLG"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#36,211 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #48 in Men's Pullover Sweaters"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 663 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Wear the polo on the outside. Share Lacoste values on the inside#crocodileinside Lacoste clothes set your spirit - and your movements - free: cool and creative, they assert effortless elegance. Fabrics are packable, essentials are chic and bright prints are ready to play. And tennis inspiration is redefined not just for this summer, but for those to come too. #Lacoste Lacoste was born with a simple action. In 1933, tennis champion Rene Lacoste cut the sleeves off his shirt to gain ease of movement on the court. The polo came into being, the crocodile too. Behind the simplicity of the gesture is innovation. Ever since, Lacoste reinvents itself with easy collection. Between technical performance, minimal style and french elegance: silhouettes in perfect balance.",
+                "media_link": []
+            },
+            {
+                "media_text": "Wear the polo on the outside. Share Lacoste values on the inside#crocodileinside Lacoste clothes set your spirit - and your movements - free: cool and creative, they assert effortless elegance. Fabrics are packable, essentials are chic and bright prints are ready to play. And tennis inspiration is redefined not just for this summer, but for those to come too. #Lacoste Lacoste was born with a simple action. In 1933, tennis champion Rene Lacoste cut the sleeves off his shirt to gain ease of movement on the court. The polo came into being, the crocodile too. Behind the simplicity of the gesture is innovation. Ever since, Lacoste reinvents itself with easy collection. Between technical performance, minimal style and french elegance: silhouettes in perfect balance.",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/f82b6bc8-d764-4bc1-9a17-633c273e5485.__CR0,88,2020,625_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "CII",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHKRORUBU33ULUK4FWJCL3CTRSWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2JQAIHM8OVNW8?ASIN=B081BNNMC6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 14, 2023",
+                "reviewTitle": "5.0 out of 5 stars Stylish, Comfortable, and High-Quality - Lacoste Delivers!",
+                "reviewText": "I recently bought the Lacoste Men's Long Sleeve Crew Neck Regular Fit Sweater, and it has quickly become one of my favorite pieces of clothing. The first thing I noticed about this sweater is the quality of the material. It's made of soft, high-grade fabric that feels comfortable against the skin. The knit is dense and durable, suggesting that it will hold up well over time and through multiple washes.The fit of this sweater is exactly as advertised - regular and true to size. It provides a sleek, tailored look without being too tight or restrictive, perfect for a variety of body types. I appreciate that it maintains its shape throughout the day, ensuring a consistently smart appearance.The style is classic and versatile. The crew neck design is timeless and easy to pair with both casual and more formal attire. Whether I'm wearing it to the office or out for a casual dinner, this sweater fits seamlessly into various settings. The iconic Lacoste crocodile logo is subtly placed and adds a touch of elegance and brand recognition.Another aspect I love is the range of colors available. It allows for versatility in my wardrobe, and the colors are rich and true to what's shown online.In terms of comfort, this sweater is cozy enough for cooler weather without being overly heavy or bulky. It provides just the right amount of warmth, making it an excellent choice for fall and spring, or as a layer in winter.Price-wise, while Lacoste is a premium brand with a price tag to match, I find this sweater to be a worthwhile investment considering its quality, style, and durability.In summary, the Lacoste Men's Long Sleeve Crew Neck Regular Fit Sweater is a fantastic buy for anyone looking for a stylish, comfortable, and high-quality sweater. It strikes a perfect balance between casual and formal, making it a versatile addition to any wardrobe.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kimberly",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG3SHVD2QMEFGSTD4UZWISMNSSQQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RSLOHHK7OSBBU?ASIN=B081BNNMC6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great quality, fair price",
+                "reviewText": "True to size. Great quality- purchased for my brother for his birthday and he loves it.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Martin Lares",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AELL77OJQF3DRLQVOVJEI5YHARSQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3Q86H6EOOUW7M?ASIN=B081BNNMC6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Excellent, Just as described",
+                "reviewText": "Excellent, Just as described",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Miguel",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGP6FAPXEWKQHGBBDIG4A2JTTYJA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R7S7XJPW7JX04?ASIN=B081BNNMC6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 31, 2023",
+                "reviewTitle": "5.0 out of 5 stars Fabulosa",
+                "reviewText": "Dise\u00f1o, suave al tacto, color excelente, muy agradable.Muy satisfecho con el producto.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Michael ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE3AS7BRXEABGJBSIA3LFCJMRMGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RSCSRB505MQRY?ASIN=B081BNNMC6",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 9, 2023",
+                "reviewTitle": "4.0 out of 5 stars Runs small",
+                "reviewText": "Purchased xxl fits more like a large",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": " Vitaliy ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFF52NYRSEPAGL5DKXIT54O3Q4NA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R22GC8WJCLUWQ4?ASIN=B081BNNMC6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 8, 2023",
+                "reviewTitle": "5.0 out of 5 stars Quality",
+                "reviewText": "Comfortable sweater.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Elle",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFNHYB5UO6NLR3GRVRWLKMWBMPMQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R28JW0WE312XPH?ASIN=B081BNNMC6",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 2, 2024",
+                "reviewTitle": "1.0 out of 5 stars Are these factory seconds? part 2",
+                "reviewText": "My gray sweater came with a line of different colored yarn on one cuff. My black one did also, but I didn't notice it until the sweater was worn and washed. I can't imagine these sweaters would have made it through an inspection process by Lacoste. I'm sending back the black, and am going to see if they'll take back the gray as well. I am requesting replacement and not reimbursement. I'll follow up after the replacements arrive.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bob Hiltz",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF4QKNBRSJRUNKY6EYGEDNES6ETQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3INVS1UUIICOV?ASIN=B081BNNMC6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 5, 2023",
+                "reviewTitle": "5.0 out of 5 stars Well made and looks great on.",
+                "reviewText": "I will buy more I am sure.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Paul",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 17, 2024",
+                "reviewTitle": "Lacoste",
+                "reviewText": "muy bonito su\u00e9ter color calidad y precio",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 8, 2023",
+                "reviewTitle": "Beautiful product",
+                "reviewText": "Good product,nice color,right price for its quality .",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alejandro Reyes Cuellar",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 16, 2024",
+                "reviewTitle": "Bien",
+                "reviewText": "Buena compra, calidad bien.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Creative momma",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 4, 2022",
+                "reviewTitle": "Nice quality and fits great.",
+                "reviewText": "Sized accurately. 5 European. Long enough in the arms.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 3, 2024",
+                "reviewTitle": "Bon choix",
+                "reviewText": "Belle qualit\u00e9 et vraie marque Lacoste",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

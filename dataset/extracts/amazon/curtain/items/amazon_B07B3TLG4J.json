@@ -1,0 +1,595 @@
+{
+    "remaining_requests": 32770,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/AmazonBasics-Room-Darkening-Blackout-Curtain-Grommets/dp/B07B3TLG4J",
+    "body": {
+        "name": "Amazon Basics Room Darkening Blackout Window Curtain with Grommets, 52 x 84 Inches, White - Set of 2",
+        "price": "$33.99",
+        "originalPrice": "$33.99",
+        "rawPrice": 33.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/AmazonBasics-Room-Darkening-Blackout-Curtain-Grommets/dp/B07B3TLG4J",
+        "soldBy": {
+            "sellerID": "",
+            "name": "Amazon.com",
+            "link": "https://www.amazon.com"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B07TT54KHB"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07B43GM79",
+                "variationName": "Color",
+                "variationValue": "Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01mLB+jB0xL._SS36_.jpg"
+            },
+            {
+                "asin": "B07V3SJCGT",
+                "variationName": "Color",
+                "variationValue": "Beige Herringbone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/418CAPW-+cL._SS36_.jpg"
+            },
+            {
+                "asin": "B07V6Z43PR",
+                "variationName": "Color",
+                "variationValue": "Beige Lattice",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41D-x9SqzrL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61hSHYyPWnL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Celadon Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31i7OB1nlHL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Charcoal Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413YkRrSQZL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Dark Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41P5NTX+bkL._SS36_.jpg"
+            },
+            {
+                "asin": "B07B3TL514",
+                "variationName": "Color",
+                "variationValue": "Dark Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/610AleKzidL._SS36_.jpg"
+            },
+            {
+                "asin": "B07V3SHSYW",
+                "variationName": "Color",
+                "variationValue": "Dark Gray Herringbone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51r52aCn+8L._SS36_.jpg"
+            },
+            {
+                "asin": "B07V6Z55DZ",
+                "variationName": "Color",
+                "variationValue": "Dark Gray Lattice",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/5190xvcW8qL._SS36_.jpg"
+            },
+            {
+                "asin": "B07V2NJTZK",
+                "variationName": "Color",
+                "variationValue": "Dark Gray/ Light Gray Stripe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41A9fDwY42L._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Gray, Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31F0m82OoGL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61p3Jxs26UL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Grey Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/616-gekIAfL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Ivory",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61SmYEP0D9L._SS36_.jpg"
+            },
+            {
+                "asin": "B07B3XJ7WQ",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61Uk3KUJq-L._SS36_.jpg"
+            },
+            {
+                "asin": "B07B3WP3QJ",
+                "variationName": "Color",
+                "variationValue": "Light Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61Jbux-QfXL._SS36_.jpg"
+            },
+            {
+                "asin": "B07V6Z4BWW",
+                "variationName": "Color",
+                "variationValue": "Light Gray Herringbone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jU4eOx4tL._SS36_.jpg"
+            },
+            {
+                "asin": "B07V3SJL4S",
+                "variationName": "Color",
+                "variationValue": "Light Gray Lattice",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ENZMD2rlL._SS36_.jpg"
+            },
+            {
+                "asin": "B07B43QYG3",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61aTZAznjeL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Navy Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41lzdoaQvnL._SS36_.jpg"
+            },
+            {
+                "asin": "B07V4SK9CY",
+                "variationName": "Color",
+                "variationValue": "Navy Herringbone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61vh9OMOZyL._SS36_.jpg"
+            },
+            {
+                "asin": "B07V8Y79BT",
+                "variationName": "Color",
+                "variationValue": "Navy Lattice",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51YHuilEcvL._SS36_.jpg"
+            },
+            {
+                "asin": "B07V8ZWCRM",
+                "variationName": "Color",
+                "variationValue": "Navy Stripe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EC51qiWKL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Navy+gray Stripe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EC51qiWKL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Oatmeal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61JrWxZAQXL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41vmNa0L25L._SS36_.jpg"
+            },
+            {
+                "asin": "B07B3TP4RM",
+                "variationName": "Color",
+                "variationValue": "Seafoam Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/6114pxUoFyL._SS36_.jpg"
+            },
+            {
+                "asin": "B07B3TLG4L",
+                "variationName": "Color",
+                "variationValue": "Taupe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/619TfPsRHcL._SS36_.jpg"
+            },
+            {
+                "asin": "B07V3SK58C",
+                "variationName": "Color",
+                "variationValue": "Taupe Stripe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XB8VRtreL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Terracotta",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41GFd64UuSL._SS36_.jpg"
+            },
+            {
+                "asin": "B07B3TLG4J",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61mPh2Zeu7L._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41uumjwEvwL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41BHrebBvQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/21MuS 4wXFL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/310PBTW6VDL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31Wq4spyNyL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/21aF3TLsORL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/319FezBrOgL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Amazon Basics Store",
+            "link": "https://www.amazon.com/stores/AmazonBasics/page/947C6949-CF8E-4BD3-914A-B411DD3E4433?ref_=ast_bln"
+        },
+        "brand": "AmazonBasics",
+        "merchantInfo": "Sold by Amazon Warehouse and Fulfilled by Amazon.",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 46540,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Monday, February 19 on orders shipped by Amazon over $35. Order within 28 mins",
+            "FREE delivery Wednesday, February 21 on orders shipped by Amazon over $35"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "100% Polyester",
+            "Imported",
+            "2-pack of 100% blackout curtain panels for blocking sunlight, UV rays, reducing outside noise, and ensuring total privacy in any room",
+            "Creates energy-saving insulating barrier against heat and cold, keeping room cooler in the summer and warmer in the winter",
+            "Rod pocket fit standard or decorative rods; includes 2 Velcro ties for pulling back the curtains",
+            "Constructed with innovative triple-weave fabric with thick blackout coating on the backside; machine washable",
+            "Made in OEKO-TEX Standard 100 factory, an independent certification system that ensures textiles meet high safety and environmental standards",
+            "Dimensions: 52 x 84 inches per panel (Note: wrinkles from packing will be mitigated after hanging or ironing)",
+            "NOTE : The white color should be with a little greyish due to backside coating"
+        ],
+        "description": "Product Description Amazon Basics Room Darkening Blackout Window Curtains with Grommets - 52\" x 84\", White, 2 Panels, 2 Panels From the Manufacturer Amazon Basics",
+        "breadCrumbs": [
+            {
+                "name": "Home & Kitchen",
+                "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b?ie=UTF8&node=1055398"
+            },
+            {
+                "name": "Home D\u00e9cor Products",
+                "link": "https://www.amazon.com/home-d%C3%83%C2%A9cor/b?ie=UTF8&node=1063278"
+            },
+            {
+                "name": "Window Treatments",
+                "link": "https://www.amazon.com/window-treatments/b?ie=UTF8&node=1063302"
+            },
+            {
+                "name": "Curtains & Drapes",
+                "link": "https://www.amazon.com/draperies-curtains/b?ie=UTF8&node=3736141"
+            },
+            {
+                "name": "Panels",
+                "link": "https://www.amazon.com/panels/b?ie=UTF8&node=3736151"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Opacity",
+                "value": "Blackout"
+            },
+            {
+                "name": "Special Feature",
+                "value": "blackout"
+            },
+            {
+                "name": "Room Type",
+                "value": "Living Room"
+            },
+            {
+                "name": "Curtain Form",
+                "value": "Drapes"
+            },
+            {
+                "name": "Recommended Uses For Product",
+                "value": "Indoor"
+            },
+            {
+                "name": "Specific instructions for use",
+                "value": "Room Darkening"
+            },
+            {
+                "name": "Material",
+                "value": "Polyester"
+            },
+            {
+                "name": "Care instructions",
+                "value": "Machine Wash"
+            },
+            {
+                "name": "Fabric Type",
+                "value": "100% Polyester"
+            },
+            {
+                "name": "Color",
+                "value": "White"
+            },
+            {
+                "name": "Style",
+                "value": "Grommets"
+            },
+            {
+                "name": "Pattern",
+                "value": "Solid"
+            },
+            {
+                "name": "Top Style",
+                "value": "Rod Pocket"
+            },
+            {
+                "name": "Seasons",
+                "value": "Winter"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 46,540 ratings 4.5 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,526 in Our Brands (See Top 100 in Our Brands) #124 in Window Curtain Panels"
+            },
+            {
+                "name": "Brand",
+                "value": "Amazon Basics"
+            },
+            {
+                "name": "Included Components",
+                "value": "Grommet"
+            },
+            {
+                "name": "Number of Items",
+                "value": "1"
+            },
+            {
+                "name": "Product Dimensions",
+                "value": "84\"L x 52\"W"
+            },
+            {
+                "name": "Size",
+                "value": "52 in x 84 in"
+            },
+            {
+                "name": "Item Weight",
+                "value": "2 Pounds"
+            },
+            {
+                "name": "Package Weight",
+                "value": "2.13 Kilograms"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Amazon Basics Blackout Curtains with Grommets, 2 Panel Set Room Darkening Curtains These curtains help keep bedrooms exceptionally dark, making them perfect for afternoon naps, night shift workers, and light-sensitive sleepers. Modern, Sturdy Materials Innovative triple-weave 240 GSM polyester fabric blocks light and also acts as an insulating barrier. Metal grommets slide easily and look modern. Added Noise Reduction In addition to promoting better sleep, blackout curtains ensure privacy and help reduce outside noise for a quieter indoor environment. Machine Washable Colors This Amazon Basics blackout curtain can go in the washing machine for convenient, hassle-free care. Available in multiple colors and lengths.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/69a0a57f-7ae4-465c-937d-3bc2f42d95c9.__CR29,0,855,641_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/c0e3d6ec-573d-4031-8b2c-d820ccd16b15.__CR0,35,1000,750_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/ca75a71e-6c6d-4cb5-87ef-7f7f6674a7df.__CR112,0,888,666_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/139b367b-e4ad-47da-af9c-c344a827e4db.__CR0,35,1000,750_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sota/69a0a57f-7ae4-465c-937d-3bc2f42d95c9.__CR29,0,855,641_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/c0e3d6ec-573d-4031-8b2c-d820ccd16b15.__CR0,35,1000,750_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/ca75a71e-6c6d-4cb5-87ef-7f7f6674a7df.__CR112,0,888,666_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/139b367b-e4ad-47da-af9c-c344a827e4db.__CR0,35,1000,750_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/a7e156e8-65b5-4cbb-a8b9-0ca59190db81.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/abe313e4-25c1-4536-9d51-003abacb9c14.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Jay",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFZ3YIONBHPTWBVHPUVTGZQ76ZBA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RUSFA19I2LQPH?ASIN=B07B3TLG4J",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice!!",
+                "reviewText": "Love them! The block all the light I wanted but still looks great on the wall. Fabric is solid and great quality. Worth buying! IMO",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nancy",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEPZEKA253GJMQM7T3KLIZTZJ46A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RDD9Y2QAHBAIQ?ASIN=B07B3TLG4J",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 11, 2022",
+                "reviewTitle": "5.0 out of 5 stars These are my go to curtains",
+                "reviewText": "I absolutely adore these curtains! They are the best value for blackout curtains Amazon has to offer, well in my opinion anyway. This spring I needed to update some rooms at our farmhouse to get ready for a memorial, we had about 20 people staying at our home, all from different areas of the world. It was important for me to make sure that good sleep was had by all, I purchased these curtains for four bedrooms, I ordered black and white. I will say, the black are perfect! they block all the light from the outside, I hung these specifically on the west side of the house as that is the side the sun goes down, our guests did not complain and woke up looking well rested. I will say the white curtains are not as room darkening as the black, for obvious reasons. Do they block like the black curtains, no, do they do an incredible job of keeping the bright sunlight out on the east side of the house, absolutely! These curtains are in no way sheer...they are heavy so make sure you have your curtain brackets mounted with heavy duty screws, I didn't and had to rehang them, they are heavy, but get the job done. The one con I have about this product would be that they are not wrinkle free...hello they come folded! However I have steamed them several times, and by about the third steam, they were not noticeable to the average person. I did not try to iron them, as I was nervous about ruining them.I would highly recommend these for anyone looking for an inexpensive blackout curtain.",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "AStarFan",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEQAADTSH4L3FORMMPSZDE7L3IWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2C7VB0GEMGCDL?ASIN=B07B3TLG4J",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 10, 2021",
+                "reviewTitle": "5.0 out of 5 stars Blocks out a lot of light and heat and material seems a nice quality. Pretty!",
+                "reviewText": "I was thinking these would be a bit more peachy in color as some described their curtains but these are definitely terracotta with absolutely no peach/pink Hughes in them. This color actually matches my room well and even though it is not one of my favorite colors it is pretty. I was thinking if it had a pick more pink/peach color or even a bit more orange when they arrived I would be ok with either as I said terracotta not one of may favorite colors, lol.Gosh darn it though the curtains somehow are still pretty, lol. More importantly they work well with the room and colors in it so how can I complain? I mean terracotta was what I figured would go well with the room anyways. Just saying that something about the material, even with the wrinkles as curtains were hung straight out of box(usually we wash everything first) its still pretty. Good quality. Did not smell anything and felt a bit better about hanging straight out of box with the Oeko tex certification and being sold by Amazon. VOC's = BAD. I suggest still washing if one has a easy place to hang to dry. We have a lot of cats and also there are a lot of strays hanging around our home that line drying is harder to do for us. The backing I think is the spray on type, the white coating, rather than the black weave material.It does help with sound as hubby is drilling right out front(adding catio) and the noise is not as loud as in years past with him doing something out side, lol. Curtains do well blocking out a lot of heat and light(darker curtains look like night in the room even in the day time. Summers in Florida(heck most of the world now, thanks Politicians for denying global warming Corporations cane save a buck.) BRUTAL for heat.We bought multiple colors of these curtains, good price, good quality, and safer than some of the curtains out there for off gassing is bad for health. Thank you Amazon for providing a healthier option at reasonable prices.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon CustomerAmazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFN6TVLL2SL272ZKPEWR6TEMVIVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3G4M0QDNE892S?ASIN=B07B3TLG4J",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 25, 2023",
+                "reviewTitle": "4.0 out of 5 stars Surprised",
+                "reviewText": "The ProsSo I bought these because the PB blackout ones I purchased a few years ago were tough to wash, heavy and needed excessive ironing or dry cleaning i tend to wash them 2x per year.The PB cotton/linen ones created a lot of fabric dust in the room, which was always covering my furniture and floors.What I did not expect is how superior Amazon ones would be at blocking the sun and they are \"Standard 100 Oeko-Tex\" so it was a win win. Nothing blocks out perfectly unless you use multiple layers of blackout shades and heavy black lined curtains. My rooms have sliding doors and I am not a fan of vertical shades or of black lining facing the outside.Purchased a set in beige and I really like the shade of beige. Not too creamy beige. Bought a set for another room in light gray and it is perfect since I prefer lighter curtains so they don't interfere with other decorations.A lot less expensive than PB blackout curtains. I mean a lot lot less.The ConsFabric is insanely wrinkled and I have a great steam iron that has always worked to perfection. I washed them first and steam ironed them at the highest setting and I could not get most of the hard ingrained wrinkles out.The fabric is mehhh. Very plain and canvas like.Not a deal breaker because they still look fine when hung up and they block out the sun. Found a comparable set at another store that does not have the cons listed above and uses the same \"Standard 100 Oeko-Tex standard. Will keep the Amazon ones for now.",
+                "reviewVotes": "19 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81xK-0sUzIL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Flor",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 2, 2024",
+                "reviewTitle": "Me encantaron",
+                "reviewText": "The media could not be loaded. No pasa la luz, el material es muy resistente, bloquea fr\u00edo y hasta el ruido disminuye.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": "https://m.media-amazon.com/images/I/C13BucEQ9bL.mp4"
+                }
+            },
+            {
+                "reviewerName": "AlchemicalMommaAlchemicalMomma",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 2, 2024",
+                "reviewTitle": "Decently room darkening",
+                "reviewText": "These have added a nice finished look to my bedroom, especially when paired with the simple gold tone curtain rod. They are elegant and a nice fabric. They were ++ wrinkled on arrival but tolerated a medium hot iron well. The rest of the creases will need to fall out. They are NOT rubberized on the back, which is a plus. The fabric is like a brushed cotton and the colour is as advertised. If you have pets these curtains will accumulate hair quickly. Keep a lint brush near by. Overall pleased with my purchase - doubly so because I purchased them \u201cused on excellent quality\u201d for less than 1/2 price. They had not been out of the package - likely returned due to colour, length or other. But no defects in the product.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71dZpewnswL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61BsJOTy-7L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bree Lopez",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 16, 2024",
+                "reviewTitle": "Muy bonitas",
+                "reviewText": "Me dio un poco de miedo al inicio porque vi gente que dec\u00eda que parecen cortinas de ba\u00f1o, pero igual me aventur\u00e9.Las ped\u00ed en beige y debo decir que las amo!Blackout: Excelente! Ten\u00eda unas de Home Depot mucho m\u00e1s caras (porque las compras por hoja) y no s\u00f3lo no estaban tan largas como estas sino que el Blackout no era tan bueno.El Blackout de estas cortinas es tal que opt\u00e9 por abrirlas un poco porque en la ma\u00f1ana estaba tan obscuro que no me levantaba a tiempo para el trabajo.Calidad: Hay mucha gente que veo que se queja, pero yo no entiendo porqu\u00e9. La calidad es muy buena, el color es como el de la imagen y no se ven baratas.Por otro lado, hay personas que se quejan de que vienen arrugadas y las planchan o lavan, NO HAGAS ESO, cu\u00e9lgalas y en menos de una semana s\u00f3litas se desarrugan.Por \u00faltimo, recuerda que son Blackout!!! Todas las cortinas Blackout tienen una cubierta como de pl\u00e1stico en la parte de atr\u00e1s, literal, eso es lo que ayuda al efecto. No s\u00e9 si por eso se quejan en otros reviews",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MIGUEL ARRANGOIZ J",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 8, 2024",
+                "reviewTitle": "Excelente Calidad",
+                "reviewText": "Cortinas de excelente calidad y acabado, totalmente blackout. Revisen las medidas con cuidado.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jessica Cisneros",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 3, 2023",
+                "reviewTitle": "Cortinas",
+                "reviewText": "Aunque pens\u00e9 que ser\u00edan en un tono m\u00e1s claro cumplen con su prop\u00f3sito de ser blackout aunque ya amaneci\u00f3 siguen sin permitir el paso de luz. Excelentes",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

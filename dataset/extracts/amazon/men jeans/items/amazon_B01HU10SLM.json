@@ -1,0 +1,580 @@
+{
+    "remaining_requests": 16017,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Urban-Star-Relaxed-Straight-Midnight/dp/B01HU10SLM",
+    "body": {
+        "name": "Urban Star Mens Jeans Relaxed Fit \u2013 Straight Leg Stretch Jeans for Men \u2013 Ultimate Comfort Superflex Pants",
+        "price": "$24.95 - $29.95",
+        "originalPrice": "",
+        "rawPrice": 24.95,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Urban-Star-Relaxed-Straight-Jeans/dp/B01HDK0X0G",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B01HDK0X0G"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B08WHBNDM2",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312APJXNPnL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01HU10SD0",
+                "variationName": "Color",
+                "variationValue": "Dark Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415grOTGZAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09HRJ786H",
+                "variationName": "Color",
+                "variationValue": "Medium Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HO1AgFo2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08XVS5YFT",
+                "variationName": "Color",
+                "variationValue": "2-pack Bundle Dark Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41v5yE8X2aL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09K3LZRSW",
+                "variationName": "Color",
+                "variationValue": "2-pack Bundle Dark Blue / Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41cJmuigRPL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08WHB8BD4",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31YlBJKk0yL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08DDH1L19",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08DDHQZQS",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01INZXJQ0",
+                "variationName": "Size",
+                "variationValue": "30W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01HU10SLM",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B074F217XR",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01LXO8YQT",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01HU10SHG",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01HU10SDK",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01NASPCEZ",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01HU10SFI",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01HU10SGC",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B074F1YMV7",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01NBRNXGR",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B074F2L4F7",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01HU10SD0",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01HU10SKI",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QP1J44M",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01INZXMJ4",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08DDHS8KY",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077H37D65",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08DDHD7H1",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01INZXNVG",
+                "variationName": "Size",
+                "variationValue": "44W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B010FZA03Q",
+                "variationName": "Size",
+                "variationValue": "44W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08HP8QWJ7",
+                "variationName": "Size",
+                "variationValue": "44W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08HPJVVV9",
+                "variationName": "Size",
+                "variationValue": "46W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08HPBBY8L",
+                "variationName": "Size",
+                "variationValue": "46W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08HP89LVL",
+                "variationName": "Size",
+                "variationValue": "46W x 34L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/415grOTGZAL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31RUwZU9JWL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31vBhh zpvL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51IR7LXyvqL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51zjXZhVGaL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51TzjI8RGCL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Brand: Urban Star",
+            "link": "https://www.amazon.com/Urban-Star/b/ref=bl_sl_s_ap_web_19514478011?ie=UTF8&node=19514478011&field-lbr_brands_browse-bin=Urban+Star"
+        },
+        "brand": "Urban Star",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 7940,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "Inseam 30 Inches",
+            "ULTIMATE COMFORT. Most comfortable pair of jeans you\u2019ll ever own. And thanks to the stretch fabric, you don\u2019t have to sacrifice shape or style to wear them. Guaranteed to become your favorite pants.",
+            "MOVE FREELY. The flexible cotton blend used in our jeans help maximize freedom of movement. Whether you\u2019re playing sports with your kids or manning the grill, enjoy sweat-pant freedom in the form of high-quality men\u2019s denim.",
+            "PREMIUM QUALITY. Deep pockets, reinforced stitching to ensure that belt loops and seams won\u2019t rip, and a fail-proof brass zipper that always runs smoothly. Machine washable.",
+            "ANY OCCASION. Sturdy enough for work or play, these stretch jeans feature the timeless five-pocket styling that makes them suitable for any occasion."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Is Discontinued By Manufacturer \u200f",
+                "value": "\u200e No"
+            },
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 12.44 x 10.51 x 2.83 inches; 1.68 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e BK30x30"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e February 12, 2021"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B08WHZQVTW"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,914 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #34 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 7,940 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Urban Star Premium Denim Urban Star is known for making premium, high comfort jeans. What differentiates us from the others? We use a stretch denim fabric blend designed to maximize comfort and freedom of movement. A relaxed fit at the waist, paired with a straight leg all the way down, provides that elusive flexibility in jeans without having to sacrifice style. The flexible cotton blend not only makes these jeans super easy to move in; it also allows for a superior fit. And the reinforced stitching and brass rivets ensure the durability of these pants for years to come. Renowned for their practicality, Urban Star jeans are suitable at work, at home, and on a casual night out. Wherever comfort is a prerequisite, these jeans are the answer.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/a140d88d-81e8-4f6d-ac1a-3e1daa58bd98.__CR0,90,600,600_PT0_SX300_V1___.png"
+                ]
+            },
+            {
+                "media_text": "Freedom & Flexibility Gone are the days when you would feel stiff and constrained in a pair of jeans. Urban Star denim is made from a cotton-spandex blend, which offers more freedom and flexibility than traditional jeans. This extra bit of stretch provides added comfort, while also ensuring a superior fit, whatever your body type. Premium Quality We\u2019ve all dealt with the frustration of zippers that don\u2019t close properly and belt loops that fall apart. That\u2019s why we\u2019ve designed a pair of high-quality men\u2019s jeans that will last for years to come. The reinforced stitching prevents tearing at the seams, and brass rivets help hold the fabric together for long-term durability. Perfect for Work or Play Whether you\u2019re going camping with the boys for a weekend of fun or heading out on a 10-hour work shift, these jeans are all you need. Stylish enough for the office and amazingly comfortable for everyday wear, Urban Star jeans are well known for their versatility. Sure to become your go-to pants for every occasion.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/7a1cf65d-e474-48c6-8934-10223d71662c.__CR0,107,924,924_PT0_SX300_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/697bdffb-125e-461f-b77e-3b80936cdde1.__CR125,0,500,500_PT0_SX300_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/4f9cb435-0ddd-4573-b26a-957867a2e6e0.__CR81,0,600,600_PT0_SX300_V1___.png"
+                ]
+            },
+            {
+                "media_text": "Urban Star Jeans - Relaxed Fit Urban Star Jeans - Slim Fit Color Dark Blue Dark Blue Fit Relaxed Fit Slim Fit Straight Leg \u2713 \u2713 Stretch Fabric \u2713 \u2713 Reinforced Stitching \u2713 \u2713 Premium Quality Denim \u2713 \u2713",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sc/fc799c08-340f-4774-b83e-982fcc2077e1.__CR0,0,970,600_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/a140d88d-81e8-4f6d-ac1a-3e1daa58bd98.__CR0,90,600,600_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/7a1cf65d-e474-48c6-8934-10223d71662c.__CR0,107,924,924_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/697bdffb-125e-461f-b77e-3b80936cdde1.__CR125,0,500,500_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/4f9cb435-0ddd-4573-b26a-957867a2e6e0.__CR81,0,600,600_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/526c575a-1e82-4684-8e2e-61c447e6fe98.__CR10,0,343,686_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0058fb2e-7cf4-4605-aacc-c3b71e5fdb5b.__CR4,0,688,1376_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/7c9900d6-244a-4aa7-921b-4ced24f6ee6d.__CR0,0,970,300_PT0_SX970_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "TonyTony",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH32BRKJJEZAGZ4DHKLPSXPURVWQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1UJHZJ9R5VBCT?ASIN=B01HDK0X0G",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 9, 2022",
+                "reviewTitle": "5.0 out of 5 stars My new favorite jeans!",
+                "reviewText": "I am extremely happy and very suprised at the way these jeans fit and feel. I'm an average build with a little bit of a stomach, not a pot belly. After wasting alot of money in search of comfort on levi 550'5, 559's, wrangler relaxed fit, comfort fits etc, they are all getting donated every last one of them I have never found a pair of jeans as well fitting, relaxed and comfortable as these! They are either too long, too short, too baggy, sag in the front or in the back or to restrictive when I sit down, not to mention heavy with really thick material. I loved the first pair so much in light blue before I even took them off as I was trying them on I immediately ordered the dark blue, black and gray pairs too. I wear between a 36 and a 38 waist, my length is about a 30-31.Because it has a stretchy waist I went with the 36x32\"s with these jeans and can wear them without a belt with zero restriction or discomfort and maximum comfort. The crotch and the rear fit so comfortably and perfect with absolutely no sag or bunching up. Thighs are relaxed just right, the don't hug my thighs and yet are not baggy and it seems as though they are tapered just a little down to my feet where they look clean with my boots, shoes, and sneaks without being baggy, like a straight leg or a boot cut meaning I can lift my leg and the jeans don't pull up and move around a whole lot.The length is also perfect. I have never had a pair of jeans that a 32 length would fit just right. They were always wayyy to long for me and would bunch up like parachute pants which I hated.The material is light, soft and flexible as needed with zero restriction . They feel great even in this hot florida weather. The gray is very nice as is the dark blue and the black. I could not be happier. I'm actually contemplating buying another set of all 4 colors as backup in case these wear out. I don't think I'll ever be going back to the other brands ever again. Prices are very worth it and shipping was fast and on time. Thank you!",
+                "reviewVotes": "34 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81CE6lS2-6L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81cHbHwUB4L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81hpPZFJgRL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81jr0uFERZL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81t79Vq8CsL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mark Nelson",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHM74KKA4AC5TVMLKLZ7JY3SRIZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1YM14Q1GXKX7D?ASIN=B01HDK0X0G",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 27, 2023",
+                "reviewTitle": "5.0 out of 5 stars Outstanding pants super comfortable",
+                "reviewText": "About 7 years ago I bought a pair of these pants from Costco. They're durable, comfy, stretch, and fit very well. They seem to not sell these at Costco and have him for a few years now so I've been buying them from Amazon. I use these pants for work and outside of work. They're honestly the only pants I like to wear and own like 12 pairs of them. You're picky about pants or have a job where you're bending over up and down climbing up ladders ETC I highly recommend wearing them. Jobs like mine and other labor intensive jobs are uncomfortable enough especially in the summer so having comfortable pants is a necessity for me. Definitely recommend buying them",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "A.C.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG4KOBJCHVPGN5K5Q3H3FYXCBG6A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14EUDCZHOXQ9N?ASIN=B01HDK0X0G",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "4.0 out of 5 stars Good, but sizing is off",
+                "reviewText": "Ordered the 2 pack of black and dark blue. The black were slightly bigger in the waist than the blue. Besides that, they\u2019re good quality and fit as expected.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Graphix",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFQ473JWZPFCLYRJ2KHIIGEKKYUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1HQPU3JA55DAS?ASIN=B01HDK0X0G",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Jeans",
+                "reviewText": "The Urban Star jeans are so comfortable because they stretch and move how you move. Good fit and style.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "DonnyBart",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGEVMOUSR374P4GBH5UVKZBZ6PEA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R36DHRBQ3BJG5V?ASIN=B01HDK0X0G",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Fit",
+                "reviewText": "I have been losing weight, so these jeans since they\u2019re stretch and comfortable are a great fit because I haven\u2019t worn jeans in a long time. I\u2019m going to get me another pair.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "David S",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHBFPOXX4YQAGCKVUG7VN4KKVUVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R232YL00NT04Q3?ASIN=B01HDK0X0G",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great pants",
+                "reviewText": "They fit great. They do have a little stretch in them which is what I like.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jill",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH33QNPSGOS4LAGGJYEYC6PFZMZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1C0FKDBSNSFOV?ASIN=B01HDK0X0G",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Quality, Comfortable Jeans!",
+                "reviewText": "Quality, comfortable jeans! Medium weight fabric, soft and comfortable. Roomy and nice for casual or pair with a nice shirt or jacket.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "mohamed elsayed",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFK44TRKDE5YQSYNZJON2WYMHNMQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RGIV2GR0CU8BC?ASIN=B01HDK0X0G",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable, good fit",
+                "reviewText": "ComfortableGood fit",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 26, 2023",
+                "reviewTitle": "great fit",
+                "reviewText": "did not like the price....twice as exspensive as costco but ok if not in stock at costco",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mario",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on June 17, 2023",
+                "reviewTitle": "C\u00f3modos",
+                "reviewText": "Tela un poco gruesa, la parte del tiro es algo reducida y super el\u00e1sticos",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cam",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on June 1, 2023",
+                "reviewTitle": "Fit",
+                "reviewText": "Good fit and good price",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jorge Avila ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on May 14, 2023",
+                "reviewTitle": "Excelente",
+                "reviewText": "Lo mejor",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Viridiana C.A",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 8, 2022",
+                "reviewTitle": "Jeans de primera calidad. Pueden competir con la mejor marca",
+                "reviewText": "Muy buenos pantalones",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,736 @@
+{
+    "remaining_requests": 15706,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Hey-Dude-Wally-Stretch-Meteorite/dp/B08XD9N9HW",
+    "body": {
+        "name": "Hey Dude Unisex-Adult Wally Stretch",
+        "price": "$49.95 - $59.99",
+        "originalPrice": "",
+        "rawPrice": 49.95,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Hey-Dude-Unisex-Adult-Wally-Stretch/dp/B0CBC98PDR",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CBC98PDR"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0B9NNS6WT",
+                "variationName": "Color",
+                "variationValue": "Iron",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31zJVGiOO4L._SS47_.jpg"
+            },
+            {
+                "asin": "B098R9CTTB",
+                "variationName": "Color",
+                "variationValue": "Opal Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41N0LR1rKcL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BZ5NM3Q8",
+                "variationName": "Color",
+                "variationValue": "Steel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41kCptSA1EL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B9W343T2",
+                "variationName": "Color",
+                "variationValue": "Yin Yang",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rVX-r+lmL._SS47_.jpg"
+            },
+            {
+                "asin": "B01N2L6I1K",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Gl9nk7v8L._SS47_.jpg"
+            },
+            {
+                "asin": "B0B9W13K9S",
+                "variationName": "Color",
+                "variationValue": "Granite",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41trOMQIJtL._SS47_.jpg"
+            },
+            {
+                "asin": "B08XDNK8L3",
+                "variationName": "Color",
+                "variationValue": "Meteorite",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wr4KDHZpL._SS47_.jpg"
+            },
+            {
+                "asin": "B06WVB7N31",
+                "variationName": "Color",
+                "variationValue": "Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wbUhfebTL._SS47_.jpg"
+            },
+            {
+                "asin": "B08XF3X3GG",
+                "variationName": "Color",
+                "variationValue": "Midnight Bunker",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41i3aSzVgAL._SS47_.jpg"
+            },
+            {
+                "asin": "B08XF9Z3H8",
+                "variationName": "Color",
+                "variationValue": "SandDune Camo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DZPUxvzoL._SS47_.jpg"
+            },
+            {
+                "asin": "B06W9HX6H8",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312aisW2FwL._SS47_.jpg"
+            },
+            {
+                "asin": "B08KSJL1R5",
+                "variationName": "Color",
+                "variationValue": "Limestone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DBwwHEYFL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B9VY2K63",
+                "variationName": "Color",
+                "variationValue": "Platinum Mix",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/412wM2CNLWL._SS47_.jpg"
+            },
+            {
+                "asin": "B07HHF2ZFC",
+                "variationName": "Color",
+                "variationValue": "Stretch Iron",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41O02CAqVgL._SS47_.jpg"
+            },
+            {
+                "asin": "B09NZPCD87",
+                "variationName": "Color",
+                "variationValue": "Total Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31aqosFjoCL._SS47_.jpg"
+            },
+            {
+                "asin": "B08KSKKPTC",
+                "variationName": "Color",
+                "variationValue": "Granite Fleece",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41M9rmlm56L._SS47_.jpg"
+            },
+            {
+                "asin": "B09M974Y1L",
+                "variationName": "Color",
+                "variationValue": "Gray and White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LhuKv26sL._SS47_.jpg"
+            },
+            {
+                "asin": "B084RVPHLH",
+                "variationName": "Color",
+                "variationValue": "Stone White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414wVvHX1qL._SS47_.jpg"
+            },
+            {
+                "asin": "B085D8FVYD",
+                "variationName": "Color",
+                "variationValue": "Stretch Carbon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41goRnMr-mS._SS47_.jpg"
+            },
+            {
+                "asin": "B098R9FG79",
+                "variationName": "Color",
+                "variationValue": "Clay",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414up4bLz-L._SS47_.jpg"
+            },
+            {
+                "asin": "B01M27C441",
+                "variationName": "Color",
+                "variationValue": "Fleece Grey (Fgry/110533000)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ImwjrSpqL._SS47_.jpg"
+            },
+            {
+                "asin": "B08XDGLDH9",
+                "variationName": "Color",
+                "variationValue": "Platinum Mix Fleece",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41z0hVc7-oL._SS47_.jpg"
+            },
+            {
+                "asin": "B08XD9P5NK",
+                "variationName": "Color",
+                "variationValue": "Street Digi Camo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41B9Ed3q9YL._SS47_.jpg"
+            },
+            {
+                "asin": "B088ML6LNV",
+                "variationName": "Color",
+                "variationValue": "Red Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41bAxvsiWYL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B9W35MWH",
+                "variationName": "Color",
+                "variationValue": "Sand Dune Camo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41OaSQgDLQL._SS47_.jpg"
+            },
+            {
+                "asin": "B07NPSHTTR",
+                "variationName": "Color",
+                "variationValue": "Stretch Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41UbM7ndMZL._SS47_.jpg"
+            },
+            {
+                "asin": "B06W9HWTSJ",
+                "variationName": "Color",
+                "variationValue": "Stretch Steel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41u3JcVSVhL._SS47_.jpg"
+            },
+            {
+                "asin": "B09HVFTYBF",
+                "variationName": "Color",
+                "variationValue": "Dark Web",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41M08OcUTkL._SS47_.jpg"
+            },
+            {
+                "asin": "B076MG2J33",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ImwjrSpqL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B9WR26BD",
+                "variationName": "Color",
+                "variationValue": "Ivory",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41UpcIRt3yL._SS47_.jpg"
+            },
+            {
+                "asin": "B08XD5YZS1",
+                "variationName": "Color",
+                "variationValue": "Ozone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41JaG4ScMkL._SS47_.jpg"
+            },
+            {
+                "asin": "B098R94581",
+                "variationName": "Color",
+                "variationValue": "Aqua",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41h-K7OHH-L._SS47_.jpg"
+            },
+            {
+                "asin": "B0B9WTKMM4",
+                "variationName": "Color",
+                "variationValue": "Canvas Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wbUhfebTL._SS47_.jpg"
+            },
+            {
+                "asin": "B01MA6N4R7",
+                "variationName": "Color",
+                "variationValue": "Grey (110533000)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ImwjrSpqL._SS47_.jpg"
+            },
+            {
+                "asin": "B098R9GRV9",
+                "variationName": "Color",
+                "variationValue": "Pride",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31IBs09J0aL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B9R3HTGM",
+                "variationName": "Color",
+                "variationValue": "Tofu",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41BRfJN5+HL._SS47_.jpg"
+            },
+            {
+                "asin": "B09N8S136D",
+                "variationName": "Color",
+                "variationValue": "Yin and Yang",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LhuKv26sL._SS47_.jpg"
+            },
+            {
+                "asin": "B07NPSHTTR",
+                "variationName": "Size",
+                "variationValue": "7 Women/8 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B085DLZBB1",
+                "variationName": "Size",
+                "variationValue": "8 Women/9 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B085DH75F1",
+                "variationName": "Size",
+                "variationValue": "9 Women/10 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B085DR56HR",
+                "variationName": "Size",
+                "variationValue": "10 Women/11 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B085D8FVYD",
+                "variationName": "Size",
+                "variationValue": "11 Women/12 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HHCY48X",
+                "variationName": "Size",
+                "variationValue": "12 Women/10 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B085DYR5BJ",
+                "variationName": "Size",
+                "variationValue": "12 Women/13 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08FF1ZSD8",
+                "variationName": "Size",
+                "variationValue": "13 Women/14 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9WM1KTB",
+                "variationName": "Size",
+                "variationValue": "4",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9WRN22W",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9NNS6WT",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08XD7Y3XB",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08XDHBX2Q",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08XD9L55T",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08XDLKXY5",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08XD82TQZ",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08XD9N9HW",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08XDNK8L3",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9NW69DC",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9NPXXQ1",
+                "variationName": "Size",
+                "variationValue": "15",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41wr4KDHZpL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/418z0rljtUL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51BTjmOCDZL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/419yM6fPg L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41mwWHLVaJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51O92MqMU8L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51VDhw3AR1L.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Hey Dude Store",
+            "link": "https://www.amazon.com/stores/HEYDUDESHOES/page/5FD6619D-918F-4405-B793-E326D8C34C69?ref_=ast_bln"
+        },
+        "brand": "HEYDUDESHOES",
+        "merchantInfo": "",
+        "customerReview": "4.7 out of 5 stars",
+        "customerReviewCount": 61551,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Care instructions Machine Wash",
+            "Origin Made in the USA or Imported",
+            "Sole material Rubber",
+            "Outer material Fabric",
+            "Rounded Toe Design and Flex & Fold: This supports healthy feet with its unique shape giving complete freedom of movement. The Hey Dude Wally Slip on Loafers Comfortable & Light-Weight will be an instant favorite in your modern-casual shoe collection and are the ideal shoes.",
+            "Lightweight with Elastic Laces: Manufactured using an elastic material that allows them to flex with the foot, resulting in a shoe that fits more uniformly. Each shoe weighs 6 ounces or less making it one of the lightest pairs of shoes around. The ideal Hey Dude Shoes that you will surely love.",
+            "Comfortable Durable High-Quality Material: Designed with you in mind. This Wally shoe boasts the comfort of walking on clouds. Featuring an insole that reduces odors, lightweight outsole, and breathable fabric that makes the Wally one of the most comfortable shoes on the market.",
+            "Great For Travel & On The Go: The removable memory foam cushioned insole provides maximum comfort and reduces sweating and odors. Machine Washable Friendly (Cold). Sizing Tip: If you usually wear half sizes, we suggest choosing the next size up for the best overall fit.",
+            "Shop with Confidence: Hey Dude products are backed by our 90-day manufacturer's warranty for high quality and authenticity. Terms and conditions apply"
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Flats",
+                "link": "https://www.amazon.com/Womens-Flats/b/ref=dp_bc_aui_C_4?ie=UTF8&node=679399011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.74 x 7.48 x 5.08 inches; 1.1 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 40022-1HO"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e August 15, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Hey Dude"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0B9NS4X8B"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,027 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #3 in Men's Loafers & Slip-Ons"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.7 4.7 out of 5 stars 61,551 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Do HEYDUDE shoes run true to size? Some of the HEYDUDE Shoes styles may run smaller or larger than others in our collections. It is recommended to read the suggested sizing tips on each product page. Do HEYDUDE shoes come in half sizes? Currently all HEYDUDE shoes are only offered in full sizes. It is recommended for tighter fit, go one size down. For a more generous fit, go one size up. How much do HEYDUDE shoes weigh? HEYDUDE shoes weight start at only 5oz (150 grams), so about the same as a couple of pairs of socks! How do I clean my shoes? Scroll down for the HEYDUDE 4-Step Care Guide",
+                "media_link": []
+            },
+            {
+                "media_text": "Previous page Step 1 Remove Laces & Insoles Laces may get tangled and memory foam insoles will ruin in the wash. Step 2 Use Liquid Detergent Use a tiny amount of liquid detergent because powdered detergent can cause irritation. Step 3 Wash on Delicate/Light Set the washer on delicate using only cold water to help prevent shrinking. Step 4 Air Dry Do not machine dry. Air Dry them outside or indoors, but keep them out of direct sunlight. Next page 1 Step 1 2 Step 2 3 Step 3 4 Step 4",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/35b04ff7-96ca-480a-818d-a7a9785faa4d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d796b1e4-34bd-42c8-898e-e880119ffc0c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4aa6e438-efb5-45ce-8581-dc1f85d4b3e5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/94fc0670-1e30-4e54-94cc-ce95bf549209.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/51b2a7e4-0fd4-4aac-ab61-369d669b6904.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/08d36b1d-4716-42aa-82a2-14754a2f903e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6a15b873-4e2a-4593-8dd3-b050e2201822.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c97d63bb-45a8-4b83-8353-b53444148e13.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "ClearlyLiving",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEIEMXAJD7QC5JX6RAPBXPDEJWQA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R37OLABOTLGEIO?ASIN=B0CBC98PDR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Get them in LOTS of Colors!",
+                "reviewText": "This was my second pair of Hey Dude shoes. I love them! Comfort, design, presentation! I have had MANY people ask about them. I have also purchased them for friends as gifts and they love them.Plus side: Super stylish; great comfort; great value! Wash up great; easy to pack.Cons: slightly larger than expected. (Wash them and they for perfectly!)Discontinued the pair (design)) I like best.Cons are not enough to keep me away.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Emmalyn M.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHNLI55DSI2XAMOAOVHNPM2XJWYA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RE0Z0N83FYA1L?ASIN=B0CBC98PDR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 23, 2023",
+                "reviewTitle": "5.0 out of 5 stars So comfy",
+                "reviewText": "My husband loves these shoes. They're his go-to for work because they look nice, go well with all his business casual outfits, slip off easily so he can sit in his chair cross-legged (his favorite position \u00af\u2060\\\u2060_\u2060(\u2060\u30c4\u2060)\u2060_\u2060/\u2060\u00af ) and they're breathable so his feet don't smell when he takes them off. His coworkers are appreciative of that. They're very lightweight, and just great shoes overall. He wants more.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nikki D",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEWUE3UF2P4OX2TGWIXRX7D2IEYQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2XQIILHB8PBYT?ASIN=B0CBC98PDR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Bought as a Christmas gift and they are perfect!",
+                "reviewText": "I bought these as a Christmas present for my boyfriend. He's never had the brand name of Hey Dudes, so these are a first for him. I was glad to provide him with these comfortable shoes to enjoy. The steel grey is a perfect neutral shade, so he can wear them with anything, anywhere. The sizing was perfect and true to size fit. He says they are very perfect and he loves them! I highly recommend them!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Punxphil",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFHQCN4X66PJAGCMZM7WLRY6JS7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1O34CNIH3N24X?ASIN=B0CBC98PDR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great shoes",
+                "reviewText": "These shoes have a comfortable fit, but lack arch support. Still, they are good for walking and I am happy with my purchase, so I decided to buy a couple more pairs.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "VADadx4",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFHIOV75KUKOJ4GG4GAGFT2S667Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RAI3VJAPAPIC7?ASIN=B0CBC98PDR",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2024",
+                "reviewTitle": "4.0 out of 5 stars Yep, I'm a dad, and yep I love these shows",
+                "reviewText": "These shoes are very very comfortable with one minor drawback. The good on these is that they are just comfortable to wear. They are light, they keep your feet relatively warm in the cold months but they can breathe in the hotter months. The lightness of these shoes surprised me but it's one of the best features. Really has a different feel to a boat shoe which is what I used to wear all the time. The style is similar but I feel like these stay more comfortable over the course of the day. Walking long-ish distances is very doable in these shoes as well. The support is good for the type of shoe it is and I would say it provides a little more than boat shoes. They also stay on your foot better than boat shoes.A couple things to watch out for. Watch out for the rain or really wet pavement/grassy areas. I haven't found them to be very waterproof on the sole, this can seep into the shoe and the bottom of your foot, not a comfortable place to be. Also, the fabric seems to hold stains (like grease stains) more than other shoes. I cook in these and I've got a couple marks, haven't tried washing yet (or Dawning ;) ) but probably will soon.Overall, they could made an awesome house shoe (a concept I learned of recently) and I definitely wear these around the house and out to run errands on non-raining days.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "paulswagelock",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEP3DFXDVK6RZDENZD7NZ6AU5SIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RWB1ZT2SLFAQG?ASIN=B0CBC98PDR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 26, 2024",
+                "reviewTitle": "5.0 out of 5 stars Hey Dudes are terrific",
+                "reviewText": "Have several pair and gifted several. Comfortable, light, stylish and reasonably priced. They found a new market and serve it well.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Papoo Tech",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGXW2O67Y73HXF4EPKH4LFC6Y3MQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3SW38BHZJEOSM?ASIN=B0CBC98PDR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 23, 2023",
+                "reviewTitle": "5.0 out of 5 stars Super Comfortable!",
+                "reviewText": "Wearing regularly for several months. Very comfortable. Good size - I have wide foot and fits (stretches) well. Very comfortable to walk on, almost like a sliper. Sole is wearing a little due to a lot of concrete walking. For the price, excellent.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sheri White",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHX5JARCS6N23FWGHNKNQ7UZQGFA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2JIAID3CTNQZO?ASIN=B0CBC98PDR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 4, 2024",
+                "reviewTitle": "5.0 out of 5 stars Stylish",
+                "reviewText": "My husband gets compliments on these every where we go. Super comfortable and stylish with jeans and shorts. He like that they are light weight and no laces to tie.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ricardo",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 24, 2023",
+                "reviewTitle": "Me encantaron",
+                "reviewText": "Super c\u00f3modos, ligeros y de buena calidad",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mr. & Mrs. Boissonneau",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 10, 2023",
+                "reviewTitle": "Get a pair!",
+                "reviewText": "Best indoor slipper I own. Super quick and easy to slip on and comfortable to strut around in",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 7, 2023",
+                "reviewTitle": "Comfortable",
+                "reviewText": "The most comfortable footwear I own, easy to put on, light weight, durable, stylish. Great for outings, work, lounging.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Slawrence",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 2, 2023",
+                "reviewTitle": "Best shoes EVER!!",
+                "reviewText": "Perfect size fit, super comfy!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Marty Toogood",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 14, 2023",
+                "reviewTitle": "Dude\u2019s",
+                "reviewText": "Great shoes, comfy & light\u2026 wore them right away with no issues",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

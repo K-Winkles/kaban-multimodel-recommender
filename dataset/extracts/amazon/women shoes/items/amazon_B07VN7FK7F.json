@@ -1,0 +1,539 @@
+{
+    "remaining_requests": 16944,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Womens-Laguna-Fusion-Sport-Rosewater-Puma/dp/B07VN7FK7F",
+    "body": {
+        "name": "PUMA Women's Laguna Fusion Sport Golf Shoe",
+        "price": "$33.25 - $50.42",
+        "originalPrice": "",
+        "rawPrice": 33.25,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/PUMA-Womens-Laguna-Fusion-Sport/dp/B07VKSNKHH",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B07VKSNKHH"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07VM9N4NZ",
+                "variationName": "Color",
+                "variationValue": "Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31K+dCDg-zL._SS47_.jpg"
+            },
+            {
+                "asin": "B095YW34X3",
+                "variationName": "Color",
+                "variationValue": "Corydalis Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31DXXLSZLlS._SS47_.jpg"
+            },
+            {
+                "asin": "B07VN63GHJ",
+                "variationName": "Color",
+                "variationValue": "High Rise-puma White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/417ifBL49IL._SS47_.jpg"
+            },
+            {
+                "asin": "B08R1MCFQW",
+                "variationName": "Color",
+                "variationValue": "Light Lavender-puma Silver-puma White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31QNdrB8YaL._SS47_.jpg"
+            },
+            {
+                "asin": "B085HLF9FG",
+                "variationName": "Color",
+                "variationValue": "Peacoat-puma Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gQwGXHqNL._SS47_.jpg"
+            },
+            {
+                "asin": "B07VN7F8KQ",
+                "variationName": "Color",
+                "variationValue": "Rosewater-puma White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31PzEGTv8PL._SS47_.jpg"
+            },
+            {
+                "asin": "B07VM9VHYR",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31etYfztFNL._SS47_.jpg"
+            },
+            {
+                "asin": "B07SG64SLN",
+                "variationName": "Color",
+                "variationValue": "High Rise Puma White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31QIx2YiI-L._SS47_.jpg"
+            },
+            {
+                "asin": "B07SKBD7Q6",
+                "variationName": "Color",
+                "variationValue": "Puma White Puma White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31gOtjn3poL._SS47_.jpg"
+            },
+            {
+                "asin": "B085HFHWDV",
+                "variationName": "Color",
+                "variationValue": "Milky Blue-metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/311pYKIFUGL._SS47_.jpg"
+            },
+            {
+                "asin": "B07SKB9MLK",
+                "variationName": "Color",
+                "variationValue": "Puma Black Puma White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31UKpXQrjsL._SS47_.jpg"
+            },
+            {
+                "asin": "B085HCVTN4",
+                "variationName": "Color",
+                "variationValue": "Dark Purple-metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XWHNG3BaL._SS47_.jpg"
+            },
+            {
+                "asin": "B085HKBDPW",
+                "variationName": "Color",
+                "variationValue": "Super Lemon-metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31aVgqAUSvL._SS47_.jpg"
+            },
+            {
+                "asin": "B07VKPJHN6",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VM9721X",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VL5FT5Q",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VN9HXYS",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VM9P87C",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VN7FK7F",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VKPKDRQ",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VM9WBCT",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VM9VXBN",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VL5DXKX",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VN7F8KQ",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VN8QD3F",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VM9N4NZ",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31PzEGTv8PL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41NLfm2v-tL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31STjeIZAiL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/21nNFkO9SKL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31uOGcG38iL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/312xlGKNNQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31Wdaqko1DL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the PUMA Store",
+            "link": "https://www.amazon.com/stores/PumaGolf/page/358DF109-FDAA-462D-97B6-4C289DA04467?ref_=ast_bln"
+        },
+        "brand": "PumaGolf",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 1070,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Synthetic",
+            "Origin Imported",
+            "Sole material Rubber",
+            "Shaft height Low-top",
+            "Performance Mesh +TPU",
+            "Fusion Foam",
+            "Soft Foam",
+            "Grip Zone Traction"
+        ],
+        "description": "The fusion of style and performance. From the course to the clubhouse the laguna fusion sport will keep your style on point and your feet feeling sporty and fabulous. The performance mesh upper presents a fashion-forward, athletic style whle the fusion foam midsole provides you will all day comfort. The crystal carbon rubber outsole has strategically placed traction lugs that grip throughout the swing, while large fusion foam windows in the heel and forefoot deliver ground feel and forgiving cushioning.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Womens-Athletic-Shoes/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127771011"
+            },
+            {
+                "name": "Golf",
+                "link": "https://www.amazon.com/Womens-Golf-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679353011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 16.5 x 5.25 x 10 inches; 2 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 192999"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 24, 2019"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e PUMA"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07VN9S33G"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#42,551 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #3 in Women's Golf Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 1,070 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "PUMA Women's Laguna Fusion Sport Golf Shoe From the course to the clubhouse the Laguna FUSION Sport will keep your style on point and your feet feeling sporty and fabulous.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/5c8fa65b-501a-4977-a4a1-9cbe5c5a8658.__CR0,0,1000,1000_PT0_SX300_V1___.png"
+                ]
+            },
+            {
+                "media_text": "Features & Benefits Women's Sport Sporty yet refined, this anatomical last shape provides excellent fit and ample forefoot volume for unrivaled comfort and stylish toe-down look. Inspired by a running last, the perfect amount of toe spring for on-off course versatility. Fusion Foam Mix of super soft EVA foam and ultra-responsize rubber combine to provide unrivaled energy return and cushioning to keep you comfortable all-day long. Performance Mesh +TPU Non-stretch waterproof and breathable mesh, premium TPU PWRCAGE and PWRFRAME combine for the ultimate spikeless performance shoe. Grip Zone Traction Strategically placed hexagons provide multi-directional traction while 24 chevron shaped lugs increase traction where it's needed most.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/1d60adc4-89c9-4307-a143-aa3fb662caab.__CR0,0,220,220_PT0_SX220_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/8b96a28d-bfc0-4fc1-8238-cadc6f218458.__CR0,0,220,220_PT0_SX220_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/a77ff70e-7b51-47da-b87c-51db160749f6.__CR0,0,1000,1000_PT0_SX220_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/9218b6e2-7332-488d-b576-ef9e08b0cd5f.__CR0,0,1000,1000_PT0_SX220_V1___.png"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/5c8fa65b-501a-4977-a4a1-9cbe5c5a8658.__CR0,0,1000,1000_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/1d60adc4-89c9-4307-a143-aa3fb662caab.__CR0,0,220,220_PT0_SX220_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/8b96a28d-bfc0-4fc1-8238-cadc6f218458.__CR0,0,220,220_PT0_SX220_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/a77ff70e-7b51-47da-b87c-51db160749f6.__CR0,0,1000,1000_PT0_SX220_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/9218b6e2-7332-488d-b576-ef9e08b0cd5f.__CR0,0,1000,1000_PT0_SX220_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Tiggerama",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFTSVJC47OKIJSJNZGYASDXHPMOQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3VKK6CUVQ2RQU?ASIN=B07VKSNKHH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 11, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great bargain on a golf shoe-cute and comfy too!",
+                "reviewText": "I needed a replacement for my beloved purple Nike golf shoes. I figured I'd take a chance on these since the price was right. They were SO comfortable, and a better fit than my old Nikes. There was more room in the toe box without the shoe being too wide overall. After a long, hot round of golf, my feet were still so comfortable and didn't feel hot, sweaty and squished like they usually do. I'm very happy with these!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Shane R.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFPK4LVTSVTDTA7KK7HTI2QXNTXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2443CFCYZEYZ?ASIN=B07VKSNKHH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 22, 2023",
+                "reviewTitle": "5.0 out of 5 stars Super comfortable",
+                "reviewText": "True to size- and so cute!! Not clunky like my other golf shoes",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Heather",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGPLWXBA4YGANRTLYKTCI2NMESEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3BKWC94ZI8IER?ASIN=B07VKSNKHH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 8, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfortable and lightweight",
+                "reviewText": "These shoes are true to size and very comfortable on the course. Traction is moderate, so I wouldn\u2019t wear on wet grass. I plan on buying another color. Will update review later in the season to see how they hold up to regular wear.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MGM",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH2PRPGM4DXTJRWJASKFIVTBFTZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R34H1W98JMSEVO?ASIN=B07VKSNKHH",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 6, 2023",
+                "reviewTitle": "4.0 out of 5 stars Runs a little small",
+                "reviewText": "Comfortable, light weight not a lot of support and I found it ran 1/2 size small.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "cheesecake lady",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFEUX5BVDBCCBHFUIE5OKIVEGG2Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RK4NZG4XIZWFO?ASIN=B07VKSNKHH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 26, 2023",
+                "reviewTitle": "5.0 out of 5 stars Good looking shoe",
+                "reviewText": "Very comfortable and pretty. The only thing that I would change is the opening for your foot to go into is a little bit small so when I slide my foot in I have to push it and it wrinkles my sock up because the opening is slightly tight. Once I get it on though it's perfect. (If my sock isn't still wrinkled up).",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Leah SilvaLeah Silva",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG7XUZCVBMTBGVJ6PIZGUV6HUQYA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1GULUU3Q2W6HP?ASIN=B07VKSNKHH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 23, 2023",
+                "reviewTitle": "5.0 out of 5 stars Very comfortable",
+                "reviewText": "They fit to size, and are incredibly comfortable to walk the golf course in.Not great for water resistance, but overall it's a great shoe for the price.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/91k1h26Xo+L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kris",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEQD57GFGC45H7VMGPBO4WA2RRVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3PLRR6S5X0E4N?ASIN=B07VKSNKHH",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 31, 2023",
+                "reviewTitle": "3.0 out of 5 stars No arch support",
+                "reviewText": "These are cute and lightweight but they have no support in the arch. I felt like my feet were turning inward.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "CC",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE5EMNGZNZJKAZWTN7MPKA2QBS5A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1XJ1KKPUNTXAC?ASIN=B07VKSNKHH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good shoe",
+                "reviewText": "Nice shoe, a little hard to get on.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bonito , aunque no cuenta con colchoneta ni pabell\u00f3n, se le batalla un poco para armar la \u00faltima pieza para que quede listo . Lo \u00fanico que paso es que en la app ya me hab\u00eda marcado como \"entregado el paquete\" y aun no llegaba hasta el d\u00eda siguiente me lo entregaron, ya lo hac\u00eda como perdido. Pero al final lleg\u00f3 todas las piezas completas y sin maltratar. Gracias!Bonito , aunque no cuenta con colchoneta ni pabell\u00f3n, se le batalla un poco para armar la \u00faltima pieza para que quede listo . Lo \u00fanico que paso es que en la app ya me hab\u00eda marcado como \"entregado el paquete\" y aun no llegaba hasta el d\u00eda siguiente me lo entregaron, ya lo hac\u00eda como perdido. Pero al final lleg\u00f3 todas las piezas completas y sin maltratar. Gracias!",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 27, 2023",
+                "reviewTitle": "Me gust\u00f3",
+                "reviewText": "Es c\u00f3modo y lleg\u00f3 en buen estado veremos la durabilidad . Lo recomiendo para pie delgado",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71Ijj5JbmlL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Julie Harvey",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 13, 2023",
+                "reviewTitle": "Nice golf shoe",
+                "reviewText": "Very light and comfortable golf sneaker. Not waterproof",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "cruzeiro do norte",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Brazil on March 10, 2023",
+                "reviewTitle": "estrela do norte",
+                "reviewText": "produto bom, s\u00f3 que n\u00e3o durou muito.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Guillaume",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on December 18, 2023",
+                "reviewTitle": "Sehr bequem",
+                "reviewText": "Die Schuhe angezogen und direkt Wohlgef\u00fchlt. Auf dem Golfplatz alle Erwartungen erf\u00fcllt!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Diane Armstrong",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on August 17, 2023",
+                "reviewTitle": "Puma golf shoes",
+                "reviewText": "Great shoes for summer",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

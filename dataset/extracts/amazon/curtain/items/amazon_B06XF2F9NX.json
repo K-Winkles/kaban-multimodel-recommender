@@ -1,0 +1,786 @@
+{
+    "remaining_requests": 32898,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Curtains-Bedroom-Textured-Darkening-Curtain/dp/B06XF2F9NX",
+    "body": {
+        "name": "jinchan Linen Textured Curtain for Living Room Darkening 84 Inch Long Bedroom Curtain Thermal Insulated Curtain Greyish Beige Curtains Grommet Top Window Curtain 1 Panel",
+        "price": "$16.99",
+        "originalPrice": "$24.27",
+        "rawPrice": 16.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Curtains-Bedroom-Textured-Darkening-Curtain/dp/B06XF2F9NX",
+        "soldBy": {
+            "sellerID": "A4IAF22BU8ZKC",
+            "name": "CKNY",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A4IAF22BU8ZKC&asin=B06XF2F9NX&ref_=dp_merchant_link&isAmazonFulfilled=1"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CLL973GJ"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0CHW3FVJK",
+                "variationName": "Color",
+                "variationValue": "100% Blackout Bone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41P50moXZQL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CHW1KJ78",
+                "variationName": "Color",
+                "variationValue": "100% Blackout Charcoal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51X9H4B9hpL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CHW3B3M6",
+                "variationName": "Color",
+                "variationValue": "100% Blackout Denim",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41fjOFRZgeL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CHW1WKK4",
+                "variationName": "Color",
+                "variationValue": "100% Blackout Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZLa2cBtCL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CHW19CR9",
+                "variationName": "Color",
+                "variationValue": "100% Blackout Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41iBLGZ6AUL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CHW2NLXH",
+                "variationName": "Color",
+                "variationValue": "100% Blackout Greige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41zJbaK7EcL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CHW3KMY2",
+                "variationName": "Color",
+                "variationValue": "100% Blackout Tan",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41h1ivwRIbL._SS36_.jpg"
+            },
+            {
+                "asin": "B07RJ3NYLG",
+                "variationName": "Color",
+                "variationValue": "Aqua Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/516qRmsAAlL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C9DBYXT2",
+                "variationName": "Color",
+                "variationValue": "Beryl Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Wq1vxWhXL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B2PDRSP7",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41dbxF7XrmL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C8T799SJ",
+                "variationName": "Color",
+                "variationValue": "Blackout White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51qIWUpU8pL._SS36_.jpg"
+            },
+            {
+                "asin": "B07549569N",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51kSDW1fotL._SS36_.jpg"
+            },
+            {
+                "asin": "B01EXZXX88",
+                "variationName": "Color",
+                "variationValue": "Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51slEkn3kiL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C5J9NTJM",
+                "variationName": "Color",
+                "variationValue": "Burgundy Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51tlLmaXY0L._SS36_.jpg"
+            },
+            {
+                "asin": "B09WYGDMC9",
+                "variationName": "Color",
+                "variationValue": "Dark Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51zQPffYzJL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZPRGKCQ",
+                "variationName": "Color",
+                "variationValue": "Denim Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51r+VrOwAUL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C5BTLLLX",
+                "variationName": "Color",
+                "variationValue": "Dusty Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51lv3EJZbcL._SS36_.jpg"
+            },
+            {
+                "asin": "B01EXZXX6K",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51qnPo9ZASL._SS36_.jpg"
+            },
+            {
+                "asin": "B06XF2F9NX",
+                "variationName": "Color",
+                "variationValue": "Greyish Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Nay+DvJlL._SS36_.jpg"
+            },
+            {
+                "asin": "B07JZNDBKQ",
+                "variationName": "Color",
+                "variationValue": "Indigo Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51GtAm+ClDL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C5J9PLF1",
+                "variationName": "Color",
+                "variationValue": "Lilac",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51NT6-ckpgL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C5C3H2DF",
+                "variationName": "Color",
+                "variationValue": "Mustard Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51N3QzRNfDL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C5C2ZF1J",
+                "variationName": "Color",
+                "variationValue": "Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51pXHJBpx+L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CKVNR5FP",
+                "variationName": "Color",
+                "variationValue": "Pleated Greyish Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41N2TMe9F8L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CKVP3BVQ",
+                "variationName": "Color",
+                "variationValue": "Pleated Stone White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41V3MpVqQOL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CKVP29D8",
+                "variationName": "Color",
+                "variationValue": "Pleated Taupe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41fALVrd8PL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CKVR2LRF",
+                "variationName": "Color",
+                "variationValue": "Pleated White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31KG2NLuYcL._SS36_.jpg"
+            },
+            {
+                "asin": "B0989Z23GS",
+                "variationName": "Color",
+                "variationValue": "Sage",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51xHTRCm5NL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZPPW5JP",
+                "variationName": "Color",
+                "variationValue": "Sage Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51S+KOt5C-L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BW3F1MC5",
+                "variationName": "Color",
+                "variationValue": "Stone White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Bo6jltuEL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B4NBVFVX",
+                "variationName": "Color",
+                "variationValue": "Taupe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51mi8aM109L._SS36_.jpg"
+            },
+            {
+                "asin": "B0C5J9Q9J6",
+                "variationName": "Color",
+                "variationValue": "Teal Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51cvJ4ZprTL._SS36_.jpg"
+            },
+            {
+                "asin": "B07S4BPX74",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ae-xHu7fL._SS36_.jpg"
+            },
+            {
+                "asin": "B07XY1LVGS",
+                "variationName": "Size",
+                "variationValue": "W38 x L54",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07WG71Y62",
+                "variationName": "Size",
+                "variationValue": "W38 x L63",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XY2QVHB",
+                "variationName": "Size",
+                "variationValue": "W38 x L72",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07W9KQB2F",
+                "variationName": "Size",
+                "variationValue": "W38 x L84",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07WF6P52V",
+                "variationName": "Size",
+                "variationValue": "W38 x L96",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B4W89ZZ",
+                "variationName": "Size",
+                "variationValue": "W52 x L45",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B4WHLBT",
+                "variationName": "Size",
+                "variationValue": "W52 x L54",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XFHJRSY",
+                "variationName": "Size",
+                "variationValue": "W52 x L63",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B4WZ3BB",
+                "variationName": "Size",
+                "variationValue": "W52 x L72",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XF2F9NX",
+                "variationName": "Size",
+                "variationValue": "W52 x L84",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B088NX58QL",
+                "variationName": "Size",
+                "variationValue": "W52 x L90",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XFC4PJZ",
+                "variationName": "Size",
+                "variationValue": "W52 x L96",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B4XXSL2",
+                "variationName": "Size",
+                "variationValue": "W52 x L108",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CKVPNKX8",
+                "variationName": "Size",
+                "variationValue": "W72 x L63",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CKVNSXQ2",
+                "variationName": "Size",
+                "variationValue": "W72 x L84",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CKVPB8J2",
+                "variationName": "Size",
+                "variationValue": "W72 x L96",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0827FMKLL",
+                "variationName": "Size",
+                "variationValue": "W100 x L84",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VDS426B",
+                "variationName": "Size",
+                "variationValue": "W100 x L96",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "Apply 10% coupon",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41Qn1LnYkcL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/519Ty-Ke5UL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/5163dkK dQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51RrpYZ-nlL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41rJHTJ2tvL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/514S41brl1L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81mq-BVw2GL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the jinchan Store",
+            "link": "https://www.amazon.com/stores/JINCHAN/page/10C0A298-9E63-42AB-B2FE-37E13854E2B8?ref_=ast_bln"
+        },
+        "brand": "JINCHAN",
+        "merchantInfo": "Sold by Amazon Warehouse and Fulfilled by Amazon.",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 13856,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Monday, February 19 on orders shipped by Amazon over $35. Order within 45 mins",
+            "FREE delivery Tuesday, February 20 on orders shipped by Amazon over $35"
+        ],
+        "climatePledgeFriendly": {
+            "present": true,
+            "details": "Global Recycled Standard products are made with at least 50% recycled content and meet social, environmental, and chemical requirements."
+        },
+        "features": [
+            "Simple Design: 1-panel curtain per package. Each curtain panel measures 52 inch wide by 84 inch long.",
+            "Light Control: With these room darkening Greyish Beige panels you get 75% sunlight out for bedtime, 0 TV glare for your favorite game and absolute privacy with all your indoor activity.",
+            "Energy Smart: These thermal insulated curtains will make a budget noticeable difference, lower your heating & cooling cost by preventing sunlight & draft from getting in.",
+            "Good Choice: Perfect drapery option for anyone seeking to block daylight, take a nap, or keep sun glare off your TV. Besides, you can choose blackout valance and sheer curtains in the JINCHAN store to match. Such curtain sets provide a more permanent harmonious window dressing.",
+            "Easy Care: Machine washable in cold water, tumble dry. Quick ironing or steam clean as needed."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Home & Kitchen",
+                "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b?ie=UTF8&node=1055398"
+            },
+            {
+                "name": "Home D\u00e9cor Products",
+                "link": "https://www.amazon.com/home-d%C3%83%C2%A9cor/b?ie=UTF8&node=1063278"
+            },
+            {
+                "name": "Window Treatments",
+                "link": "https://www.amazon.com/window-treatments/b?ie=UTF8&node=1063302"
+            },
+            {
+                "name": "Curtains & Drapes",
+                "link": "https://www.amazon.com/draperies-curtains/b?ie=UTF8&node=3736141"
+            },
+            {
+                "name": "Panels",
+                "link": "https://www.amazon.com/panels/b?ie=UTF8&node=3736151"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Opacity",
+                "value": "Blackout Inches"
+            },
+            {
+                "name": "Special Feature",
+                "value": "Thermal Insulated, Energy Saving, Noise Reduction, Washable"
+            },
+            {
+                "name": "Room Type",
+                "value": "Living Room"
+            },
+            {
+                "name": "Curtain Form",
+                "value": "Drapes"
+            },
+            {
+                "name": "Recommended Uses For Product",
+                "value": "Indoor"
+            },
+            {
+                "name": "Specific Uses For Product",
+                "value": "Room Darkening, Privacy"
+            },
+            {
+                "name": "Closure Type",
+                "value": "Grommet"
+            },
+            {
+                "name": "Product Dimensions",
+                "value": "84\"L x 52\"W"
+            },
+            {
+                "name": "Size",
+                "value": "W52 x L84"
+            },
+            {
+                "name": "Item Weight",
+                "value": "16 Ounces"
+            },
+            {
+                "name": "Package Weight",
+                "value": "1.01 Kilograms"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 13,856 ratings 4.5 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#3,141 in Home & Kitchen (See Top 100 in Home & Kitchen) #40 in Window Curtain Panels"
+            },
+            {
+                "name": "Brand",
+                "value": "jinchan"
+            },
+            {
+                "name": "Number of Items",
+                "value": "1"
+            },
+            {
+                "name": "Material",
+                "value": "Faux Linen"
+            },
+            {
+                "name": "Product Care Instructions",
+                "value": "Machine washable in cold water, tumble dry. Quick ironing or steam clean as needed."
+            },
+            {
+                "name": "Fabric Type",
+                "value": "Linen"
+            },
+            {
+                "name": "Color",
+                "value": "Greyish Beige"
+            },
+            {
+                "name": "Style",
+                "value": "Blackout"
+            },
+            {
+                "name": "Pattern",
+                "value": "Solid"
+            },
+            {
+                "name": "Theme",
+                "value": "Simple"
+            },
+            {
+                "name": "Top Style",
+                "value": "Grommet"
+            },
+            {
+                "name": "Seasons",
+                "value": "All Season"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/76a772b2-6592-4a98-8f9c-c341f5dbbf64.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0392d800-ec8a-4bec-ad38-ad50b0fbb4c8.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/97d929e4-536f-4b3b-9370-8d7ffe04ea2e.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a2d7537-c778-4d0d-9433-0c271158af44.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b9841a49-a81c-4c8a-96db-e2f13a84196a.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/686d157e-6741-45cd-97e1-2d943a876852.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e00def07-46ed-4e5b-b30d-deb3face7d6e.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Sharon Joseph",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE6J3ACZQYWT7KNBKZTR7UZBO77A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R4EB6DI39WHKK?ASIN=B06XF2F9NX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very nice, great price",
+                "reviewText": "The color is true to the picture, a soft aqua. Also the weight is really nice. It\u2019s not at all flimsy, seriously room darkening. I have these up with some sheer, pastel printed panels and they look amazing!! I will be getting another set for my bedroom too. Worth it!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tracy ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFSIVWNREBUO2MCM3XRVE3IBNZXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RYHN24KUOQC0E?ASIN=B06XF2F9NX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 14, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great price plus great quality.",
+                "reviewText": "I was a little worried that the material would be scratchy or flimsy but I was pleasantly surprised to see how nice these were. Nice looking, heavy weight ,room darkening and keeps the drafts out. I would highly recommend these curtains.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ellen",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFVNBYRZ7WUQJ4QVQ32T5ZJKLFEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3H6KRSQ8INGPP?ASIN=B06XF2F9NX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 11, 2023",
+                "reviewTitle": "5.0 out of 5 stars I'm pleased with these and \"greige\" is lovely",
+                "reviewText": "I bought 4 panels and the price seemed right. Delivered immediately so I won't complain there. They are heavy and hang well! The greyish beige \"greige\" is a beautiful neutral color. Of course they're wrinkled but was happy to discover how well they iron out. Overall, I am pleased with the purchase. Definitely darken the room when closed. Substantial material - they will help keep heat in for the winter and block cold from coming in.",
+                "reviewVotes": "19 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gr8OKcooksGr8OKcooks",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AERFRNJXY6BGOWTMMGHXUK3BUYKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R13N8SLKNJEA1V?ASIN=B06XF2F9NX",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2022",
+                "reviewTitle": "4.0 out of 5 stars Very good product; Great value.",
+                "reviewText": "Detailed impression of the beige/gray in 108\u201d long. I am a former home-dec seamstress/installer, so there\u2019s a little experience here. I ordered 1 panel as a sample & it\u2019s a nice product, especially for the price. As with most ready-made window treatments, they do require some TLC to attain a quality appearance. This COLOR is a very light neutral, not too cool/warm. The FABRIC face has a good appearance/feel of a woven linen-like fabric; w/different tones. No little irregular nubbies/threads like true linen; but neither is there the high maintenance/cost. As one reviewer mentioned, there are thin, evenly spaced, horizontal, \u201cshadow\u201d lines (4-5 per inch) only visible only when backlit by the sun (but so do my existing silk curtains) They are not visible when inspecting the face or back fabric. They\u2019re consistent, and not necessarily a deal breaker. The BACK of this panel is white, medium weight, slick/smooth, dense polyester that is fused somehow perfectly to woven face fabric. Sturdy fabric WEIGHT, hangs generally well, w/o hem weights (see training drapes later) Smaller bottom hem is adequate since the fabric is sturdy weight (I often hide a doubled up a pipe cleaner in the outer end of the hems to keep them curved toward the wall). SIZE: Mine measured true to description. (It is not uncommon to get crazy discrepancies in length, cut or evenness. I order extra and return flawed product.) Your rod should project from the wall 3\u201d inches to fully accommodate the back folds. WIDTH CALCULATION Each panel, when \u201cclosed,\u201d hangs w/soft folds/waves to cover 24\u201d of window/wall/rod. Calculate more for a lush look. The panel pulls closed, surprisingly flat enough on the rod, to fan out to cover nearly it\u2019s full width (but it\u2019s not a very pleasing look.) Each panel \u201cSTACKS back\u201d (when fully opened) attractively to about 12\u201d without a smashed up look, can be smushed tighter. I usually order and hang my rods/curtains a size higher, and 12-20\u201d wider than the window so the curtains can open to reveal most of the window. (I recommend 2 panels for a 30-36\u201d window/48-54\u201d rod.) There\u2019s 1&1/2\u201d of grommet/fabric above the rod (if you\u2019re looking for a ceiling to floor look.) I have not addressed the wrinkle conundrum; but they will need pressed/steamed for sharper edges & wrinkles. As with most panels, they want to fan out at the bottom; so to \u201ctrain\u201d your curtains to sway/fold/hang well: hang them; mist them lightly w/water back&front, open them on the window; arrange folds exactly as you want them. Band/\u201cbelt\u201d them w/2\u201d wide, white paper strips, using pins to hold them in place; position paper bands at the hem, top and middle. Not too tight/no pinched fabric. Let sit for a couple of days. The hems are pretty stubborn ;-)",
+                "reviewVotes": "238 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71gflN51XgL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71q9bje16KL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71xuFZ2J+NL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81BGT2ZGjRL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81bauBSi8JL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81iU7bV6D7L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cary M.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG4T4AG3QA23IKMNT6ODO34RMQNQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R10RIHFMUODGFS?ASIN=B06XF2F9NX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice material",
+                "reviewText": "Gray beige is a nice neutral color, nice thickness, block the light very well. Certainly need ironing on the pinched top version so they will hang correctly. Very nice for the price",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "L. Corey",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG33ANGCIM2Z672YA2SZXHEP2MXA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/ROZP3YM369QXR?ASIN=B06XF2F9NX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 4, 2024",
+                "reviewTitle": "5.0 out of 5 stars Best insulated curtains ever!",
+                "reviewText": "I've been enjoying a set of these curtains in my bedroom. They are beautiful, have a nice heavy weight, they keep in warmth, and block out noise. I'd say they're a bargain.I need to replace curtains in my rental house and ordered 5 sets of these. They look great. They seem to be very durable too.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alexis Eifert",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJLRIH5KYJR4DOCM7EGTCJEX4HA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1IF85NYHR66GJ?ASIN=B06XF2F9NX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great!",
+                "reviewText": "these are thick and nice curtains for a great price!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "van7182000",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGQXPL2KR6GTCCKEYNQ6JNQB4URA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RK46PWM3YZC0F?ASIN=B06XF2F9NX",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 3, 2023",
+                "reviewTitle": "3.0 out of 5 stars Great Quality, but 1 Panel Only",
+                "reviewText": "Really nice Quality and Great Color. However, this purchase only included one panel, and I did not end up using.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Eve Dion-PoudrierEve Dion-Poudrier",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 17, 2023",
+                "reviewTitle": "Parfait je recommande!!",
+                "reviewText": "",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61ssyagkKTL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "@Ninafruta@Ninafruta",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on May 6, 2022",
+                "reviewTitle": "Excelente producto",
+                "reviewText": "Me convencieron m\u00e1s de lo que esperaba, sos gruesas y oscurecen pero no demasiado, adem\u00e1s est\u00e1n muy bien hechas",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71ixSoIBo2L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "P. Joy",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 6, 2022",
+                "reviewTitle": "Blackout Curtains",
+                "reviewText": "These curtains are more beige in colour than gray. It's great for me because I wanted beige. The curtains are well made and substantial in feeling though you'll need to steam out the wrinkles before hanging. I'm waiting to see how they will keep out winter drafts.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Roseanne JacksonRoseanne Jackson",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 30, 2021",
+                "reviewTitle": "Exactly what I expected",
+                "reviewText": "These drapes were exactly what I was looking for. They are not blackout drapes but I was looking for drapes that provided privacy while allowing light to filter through. These look like linen. I had to use the steamer to get the wrinkles out. Would highly recommend.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/8137T5XOJfL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "aury floresaury flores",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on July 19, 2021",
+                "reviewTitle": "Excelente calidad de la tela",
+                "reviewText": "Est\u00e1n muy bonitas y el precio esta compensado con lo bien que est\u00e1n, la tela es elegante y aunque no bloquean totalmente la luz para mi estn perfectas pprque las dej\u00e9 en la sala de estar. Combinan bien con todo. Lo malo q las compre en $299 y ahora esta en $634 pesos mexicanos cada panel lo cual para una ventana se requieren 2. Dude en pedirlas todas pprque no sabia la calidad y ya ahora quiero pedir m\u00e1s pero est\u00e1n demasiado caras el precio subio en 3 d\u00edas.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/B13pYWTMTxS.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/B12-VmKJmQS.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/B1E9pVdVHKS.jpg"
+                    ],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

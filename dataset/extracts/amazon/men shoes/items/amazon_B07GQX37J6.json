@@ -1,0 +1,658 @@
+{
+    "remaining_requests": 15484,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Rockport-Garett-Plain-Oxford-Cognac/dp/B07GQX37J6",
+    "body": {
+        "name": "Rockport Men's Garett Plain Toe Oxford",
+        "price": "$66.27 - $89.95",
+        "originalPrice": "",
+        "rawPrice": 66.27,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Rockport-Mens-Garett-Plain-Oxford/dp/B09JLG9RSR",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09JLG9RSR"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07GR2GZN4",
+                "variationName": "Color",
+                "variationValue": "Cognac",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31axnVu7rLL._SS47_.jpg"
+            },
+            {
+                "asin": "B08KHC513W",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31-MyYh4elL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BDNLNZNB",
+                "variationName": "Color",
+                "variationValue": "Caramel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41RkOsnG9cL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BV89T1H3",
+                "variationName": "Color",
+                "variationValue": "Forest Night",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41eCQQhQ6oL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BV8DM9S6",
+                "variationName": "Color",
+                "variationValue": "New Dress Blues",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41YbLWatGqL._SS47_.jpg"
+            },
+            {
+                "asin": "B07PSN2WLT",
+                "variationName": "Color",
+                "variationValue": "Castlerock Grey Gradient",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XV848ikAL._SS47_.jpg"
+            },
+            {
+                "asin": "B07PSNH9XN",
+                "variationName": "Color",
+                "variationValue": "Java Gradient",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31dvdz0N9KL._SS47_.jpg"
+            },
+            {
+                "asin": "B0CTR1BC7P",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTR2H85F",
+                "variationName": "Size",
+                "variationValue": "5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTR3CNN7",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTR35FQK",
+                "variationName": "Size",
+                "variationValue": "5.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTR3S1LY",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTR312N9",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTR3MVCW",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07KWV5DTS",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GS5Z8QM",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07KWVDNLB",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR4V8SX",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR6LHV5",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR4RR2X",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR19KLM",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR2GZN4",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR5J9YB",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR4VC7K",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQY3QWP",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQX37J6",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GRV1VT6",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR99RFV",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR7T8RY",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR89JCB",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GS5Z8QV",
+                "variationName": "Size",
+                "variationValue": "10.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR2BSS3",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR8WMMX",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR1NNVK",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR2QZVJ",
+                "variationName": "Size",
+                "variationValue": "11.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR7FHBR",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR6M9N6",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTR1BRNT",
+                "variationName": "Size",
+                "variationValue": "12.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTR3DJQ7",
+                "variationName": "Size",
+                "variationValue": "12.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR5W6W1",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GRJJTCB",
+                "variationName": "Size",
+                "variationValue": "13 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR3C3PM",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQX9PMZ",
+                "variationName": "Size",
+                "variationValue": "14 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GRGPH42",
+                "variationName": "Size",
+                "variationValue": "15",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GS35D7S",
+                "variationName": "Size",
+                "variationValue": "15 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR7R1ZD",
+                "variationName": "Size",
+                "variationValue": "16",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR5TJKP",
+                "variationName": "Size",
+                "variationValue": "16 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTR3RBLJ",
+                "variationName": "Size",
+                "variationValue": "17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTR2BP24",
+                "variationName": "Size",
+                "variationValue": "17 Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31axnVu7rLL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31LJjKxMFRL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31XYFTrcC7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31pd8UTayLL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31y5jhfWLoL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/411Vv4b1gwL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f9b93c59-5c32-4efc-bdfb-8a5ab371b25e/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Rockport Store",
+            "link": "https://www.amazon.com/stores/Rockport/page/B4A8EE6E-27BA-43CE-8AAA-CCAA7FFA4685?ref_=ast_bln"
+        },
+        "brand": "Rockport",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 2111,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Leather",
+            "Origin Imported",
+            "Sole material Ethylene Vinyl Acetate",
+            "Outer material Leather",
+            "GENUINE LEATHER: Leather upper is easy to clean and maintain, helping to extend the life of these mens casual shoes",
+            "SHOCK ABSORPTION: truTECH is Rockport's lightweight comfort feature that absorbs shock and provides long-lasting cushioning in the heel",
+            "FLEXIBLE OUTSOLE: EVA outsole provides flexible impact absorption, while mimicking your foot's natural movement for optimal comfort",
+            "STABLE CONSTRUCTION: Cement construction offers added stability throughout these casual shoes for men"
+        ],
+        "description": "The Garett collection supports the modern man who knows how to own every room he walks into. These styles are equipped with leather welts to provides classic styling and EVA outsole provides flexible lightweight impact absorption.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/Mens-Shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679255011"
+            },
+            {
+                "name": "Oxfords",
+                "link": "https://www.amazon.com/Mens-Oxfords/b/ref=dp_bc_aui_C_4?ie=UTF8&node=679319011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 10 x 15 x 6 inches; 12 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e CH4295"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e October 29, 2018"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Rockport"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07GS5Z8QM"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#12,262 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #25 in Men's Oxfords"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 2,111 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "DEVELOPED FOR COMFORT. DESIGNED FOR STYLE. POWERING YOUR EVERY DAY. Rockport has been powering your busy days since 1971 when we made dress shoes truly comfortable, by adding sport technology into the design \u2013 the very first company to do so. Today we continue to push boundaries to give you the best combination of comfort and style. We know life can keep you changing gears, even in the span of one day. With our shoes\u2019 tech-based engineering, you\u2019ll keep the pace \u2013 and then some. Because a life on the go doesn\u2019t power itself. Explore our wide selection of dress casual shoes that look as good at the pub as they do at the office.",
+                "media_link": []
+            },
+            {
+                "media_text": "NEW EDITION OF TRADITION We create classic styles reinterpreted for today\u2019s life in motion. It\u2019s a fresh perspective on a classic wardrobe, so you can be confident no matter where your day takes you. SPIRIT OF INGENUITY Life is unpredictable and demands a full range of motion. We design footwear with innovation and technology to keep pace with people who are always-on and don\u2019t slow down. WORN WELL & WELL WORN Our footwear is made to last and made to perform. Rockport feels perfectly worn in, from day one, so you can put your best foot forward every day.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/1077998e-65b3-412f-a1c3-1e0e14134837.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/740ebb52-e4c4-43c6-96cf-b14290d666a3.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/0ee921a7-1a5a-4064-ac26-35e4efdef5d7.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1a6fceae-a06e-4c22-bf50-23cc400e6c3e.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/1077998e-65b3-412f-a1c3-1e0e14134837.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/740ebb52-e4c4-43c6-96cf-b14290d666a3.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/0ee921a7-1a5a-4064-ac26-35e4efdef5d7.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "1Cp",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG4PMBJVYAACDQ5A5L6JMQQKBRBA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1FTPLD285EJDG?ASIN=B09JLG9RSR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable/look great",
+                "reviewText": "I bought the shoes in size 8. But I had to return them as they run a little big other than that the material looks high-quality. They are very comfortable and could be worn on any occasion.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "DofZ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AENLBZIYMGR44CQVECFH3V34KEUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3LUJ7N4X3N1XH?ASIN=B09JLG9RSR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 10, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfort. Style. Airport friendly.",
+                "reviewText": "I've spend thousands on finding the right business-casual shoe. I thought I had found it, then I started to travel more. Then I started having to take my go-to business shoe off every single time I walked through TSA.I needed something better. I needed something comfortable, stylish, lightweight, and most importantly- airport friendly. I found all those things in this shoe. I've walked for miles on end wearing these suckers and with every step you're reminded of the comfort. After a few thousand of those shoe-hugging comfortable steps, they also prove to be incredibly durable. The best part of all? No more taking my shoes off at TSA. Sounds like something you're looking for? You can stop looking- you've found it.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JB",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFNXIY25WR2HQ6TF2TW7KTXBNRRA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R16Q0TYMHJXD2B?ASIN=B09JLG9RSR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 17, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great shoes",
+                "reviewText": "Very comfortable. Perfect fit.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Pedro",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGPVEFGBMZE37L27RALUMGYHZZ3Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RAUQ3PC8BNG9O?ASIN=B09JLG9RSR",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 6, 2023",
+                "reviewTitle": "4.0 out of 5 stars Comfortable shoe",
+                "reviewText": "Fit nicely. Nice look for both casual and formal.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "SherryPFerguson",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHJL3UPLYQIFNUJQAFMM336HYEBQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2IB7P7WC6IVUC?ASIN=B09JLG9RSR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very Nice",
+                "reviewText": "My husband loves these shoes, the comfort and quality",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "J Stark",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFMVZWTNLRRTB4OJ74QWFMWLSZ3A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2D58OAGV7WN9L?ASIN=B09JLG9RSR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable high quality leather",
+                "reviewText": "I got wide since it\u2019s a narrow cut sole shape, it fit great. The leather is high quality I was impressed! Can wear these casual out to dinner Orin the office.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "non disclosure",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHF633K5LHPYRIPECHF5BJGR6LWQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1IOQAAO8DK1QJ?ASIN=B09JLG9RSR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars For wide feet with STYLE",
+                "reviewText": "Although they looked long for a 12 w, the fit is perfect. And they look very slim lined! Very stylish shoes for the hard to find stylish wide sizing for men. My husband even loves them. Very stylish with comfort! without looking like old man shoes.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Glenn T. Davis",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG2KVMUB264D336N7V6HPUJWIMMQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3EEJ6PFGTRE6O?ASIN=B09JLG9RSR",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 23, 2023",
+                "reviewTitle": "3.0 out of 5 stars Comfortable",
+                "reviewText": "But it seems like everyone has them. The fine faded quickly and lost its luster",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Norm Katzman",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 15, 2023",
+                "reviewTitle": "nice pir of shoes.",
+                "reviewText": "i like them",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cliente de Amazon",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 21, 2023",
+                "reviewTitle": "Muy c\u00f3modos",
+                "reviewText": "Bonito dise\u00f1o, no se deforman, se ven bastante bien, muy buena calidad. Los recomiendo.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cliente de Amazon",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 21, 2023",
+                "reviewTitle": "Muy buena calidad",
+                "reviewText": "Bonito dise\u00f1o, s\u00faper c\u00f3modos y no se deforman, los recomiendo.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Erin",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 25, 2023",
+                "reviewTitle": "Comfortable. Color lighter than pictured",
+                "reviewText": "Well made and comfortable. Color is much lighter brown than pictured but still nice.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Saidi Espinosa",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on March 28, 2023",
+                "reviewTitle": "Excelente calidad de zapato y confort",
+                "reviewText": "Color precioso. Excelente precio",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

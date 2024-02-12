@@ -1,0 +1,577 @@
+{
+    "remaining_requests": 16585,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Kenneth-Cole-Unlisted-Regular-Sleeve/dp/B07DPLWWZD",
+    "body": {
+        "name": "Kenneth Cole Men's Dress Shirt Regular Fit Solid",
+        "price": "$24.35",
+        "originalPrice": "",
+        "rawPrice": 24.35,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Kenneth-Cole-Dress-Shirt-Regular/dp/B0BT1H8D2G",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BT1H8D2G"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07DPF6ZJ9",
+                "variationName": "Color",
+                "variationValue": "Aqua",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31S4FMvaTWL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07DPLWWZD",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21o-n7U4EIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07KB4VDLB",
+                "variationName": "Color",
+                "variationValue": "Black/Graphite",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31cndNPsFTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07S63PHPQ",
+                "variationName": "Color",
+                "variationValue": "Cadet Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31e82aQDHaL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07DPM5VNR",
+                "variationName": "Color",
+                "variationValue": "Graphite",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31q4DyQO3jL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07DPF4NFC",
+                "variationName": "Color",
+                "variationValue": "Hazy Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410ggjhtwTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07DPM9LD8",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31-Enl2q7-L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07DPHNWRH",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ze8mOgs0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07DPF4YB3",
+                "variationName": "Color",
+                "variationValue": "Raspberry",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31glv-4P38L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07SDHK3G1",
+                "variationName": "Color",
+                "variationValue": "Sundew",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21h9ArzebiL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07DPF4YQ2",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21-eveVeo8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07KB5QXFV",
+                "variationName": "Color",
+                "variationValue": "White/Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/319key5n09L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07DPHNQ4Z",
+                "variationName": "Color",
+                "variationValue": "Almond",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31kccLhEkTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07DPHV7FY",
+                "variationName": "Color",
+                "variationValue": "Lilac",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31NNNJqA44L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07DPF4PFG",
+                "variationName": "Color",
+                "variationValue": "Medium Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ieX+9xhHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07SB9X9T5",
+                "variationName": "Color",
+                "variationValue": "Coral",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/315Y3qmOBcL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07S84RXQP",
+                "variationName": "Color",
+                "variationValue": "Brick",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41n8zGTDKwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07DPHNWSD",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DPHNPYY",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DPF4TC3",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DPSDSLT",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DPLQJR9",
+                "variationName": "Size",
+                "variationValue": "14\"-14.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DPM9LF1",
+                "variationName": "Size",
+                "variationValue": "15\"-15.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DPM5SY9",
+                "variationName": "Size",
+                "variationValue": "15\"-15.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DPLMS8T",
+                "variationName": "Size",
+                "variationValue": "16\"-16.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DPHNKPW",
+                "variationName": "Size",
+                "variationValue": "16\"-16.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DPF4FCC",
+                "variationName": "Size",
+                "variationValue": "16\"-16.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DPM9L7R",
+                "variationName": "Size",
+                "variationValue": "17\"-17.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DPM9LDH",
+                "variationName": "Size",
+                "variationValue": "17\"-17.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DPM6QP3",
+                "variationName": "Size",
+                "variationValue": "17\"-17.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DPM5SZ9",
+                "variationName": "Size",
+                "variationValue": "18\"-18.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DPLWWZD",
+                "variationName": "Size",
+                "variationValue": "18\"-18.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31d7kTgAATL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31CJHxnFe9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/21o-n7U4EIL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51t1zK9DCBL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/313dmhIKeJL.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Kenneth Cole Store",
+            "link": "https://www.amazon.com/stores/KennethColeFragrances/page/C0331455-F234-4C1D-82FC-8FF124A0B897?ref_=ast_bln"
+        },
+        "brand": "KennethColeFragrances",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 8174,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 60% Cotton, 40% Polyester",
+            "Care instructions Machine Wash",
+            "Closure type Button",
+            "Neck style Collared Neck",
+            "Worry-free spread collar includes sewn-in collar stays for a crisp look even without a tie",
+            "Easy Care: machine washable, lightweight, breathable fabric provides all-day comfort",
+            "Pocket-less design ensures a sleek, modern look. 2-button adjustable cuffs",
+            "Versatile, button-up dress shirt",
+            "Regular fit dress shirts have fuller sleeves, relaxed arm holes, and a generous cut through the chest and waist. This fit is similar to a classic or full cut fit."
+        ],
+        "description": "Keep it professional with the solid performance of this Kenneth Cole Unlisted dress shirt. Designed for easy wear and care, this machine-washable style is cut from a breathable, lightweight cotton-blend fabric for all-day comfort in and out of the office. Sewn-in collar stays ensure a crisp, neat look, that works from day to night. Available in Slim, Regular, and Big & Tall to fit every body.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Shirts",
+                "link": "https://www.amazon.com/Mens-Shirts/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2476517011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.82 x 8.82 x 2.2 inches; 10.86 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 32LG050"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e February 9, 2024"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Kenneth Cole"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07DPSDSLT"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#3,325 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #101 in Men's Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 8,174 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Kenneth Cole Unlisted Men's Dress Shirts",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed170ada-91e7-4498-94c1-c7637ca0c010.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Wrinkle Free Dress Shirt Keep it professional with our Kenneth Cole Unlisted dress shirt. Designed for easy wear and care, this machine-washable style is cut from a breathable cotton-blend fabric with wrinkle free properties. Sewn-in collar stays ensure a crisp, neat look from day to evening. Available in Slim, Regular, Big, and Tall fits to compliment every body.",
+                "media_link": []
+            },
+            {
+                "media_text": "Features & Benefits Wrinkle Free Fabric features enhanced wrinkle resistance for easy care at home. Machine Wash & Dry Easy care at home. Just wash and dry in your machines and wear.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2a050cff-c9b8-496e-aba7-23bbecc6e5e9.__CR0,0,1300,700_PT0_SX650_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/22e2424e-b791-4dea-923f-4bf92b5ad5ea.__CR0,0,1300,700_PT0_SX650_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Discover More From Kenneth Cole Unlisted Wrinkle Free See Details Unlisted Wrinkle Free See Details Unlisted Wrinkle Free See Details Stretch Collar See Details Stretch Collar See Details Customer Reviews 4.4 out of 5 stars 8,174 4.3 out of 5 stars 12,585 4.4 out of 5 stars 7,725 4.3 out of 5 stars 69 4.2 out of 5 stars 67 FIT(S) Regular Fit Slim Fit Big and Tall Regular Slim COLLAR Spread Collar Spread Collar Spread Collar Spread Collar Spread Collar FABRIC 60% Cotton, 40% Polyester 60% Cotton, 40% Polyester 60% Cotton, 40% Polyester 98% Cotton, 2% Spandex 100% Cotton POCKET \u2718 \u2718 \u2718 \u2718 \u2718 WRINKLE FREE \u2714 \u2714 \u2714 \u2714 \u2718 STRETCH FABRIC \u2714 \u2714 \u2714 \u2714 \u2714 MULTIPLE COLORS \u2714 \u2714 \u2714 \u2714 \u2714",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed170ada-91e7-4498-94c1-c7637ca0c010.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2a050cff-c9b8-496e-aba7-23bbecc6e5e9.__CR0,0,1300,700_PT0_SX650_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/22e2424e-b791-4dea-923f-4bf92b5ad5ea.__CR0,0,1300,700_PT0_SX650_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e4767164-1e10-4bd6-a0f2-82a7e723029d.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aacebeb4-f915-47d3-a503-4bee72b2baca.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1ed044d4-c503-44d5-bd7c-a96ac04e175f.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/49a53c7d-601f-4c50-aef4-89176ec5c177.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ecaef909-92ca-4dc9-8398-72c9cfbc5b94.__CR0,0,200,225_PT0_SX200_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "david downes",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFD2IESKYV7GXPKAWDLZ4IWIMAGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RCEI6GGTSX9ZW?ASIN=B0BT1H8D2G",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 26, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very nice",
+                "reviewText": "Good fit, feel good and looks good.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "RAM_",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFXOZIDDJCROOSEGRS7AF5O5WHVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R13BY8F7HE6VCU?ASIN=B0BT1H8D2G",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good purchase",
+                "reviewText": "Kenneth Cole has not disappointed me.. fits great and looks great",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kim G",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFEYGRVYKLDDDLVPVIFAOYFFPN6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2UO7B7BWOCA00?ASIN=B0BT1H8D2G",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 21, 2023",
+                "reviewTitle": "4.0 out of 5 stars Nice shirt",
+                "reviewText": "Great color, material, and price. Fit is great except the neck. The only reason we are returning it is because we need to be able to button the top button to wear a tie and it is just too small at that one place.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "GalaxyGirl1",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEI3ADC5OFCLPFTBOOK4XTUJZ4EA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R10R7FUF2RXN9X?ASIN=B0BT1H8D2G",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Designer at a good price",
+                "reviewText": "Bought this for my boyfriend and we both absolutely love the quality, sizing and price. Like that they offered other colors not necessarily in the same size as my boyfriend wears but hopefully they will have some again.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH6RJHKJS7YZMRQMVALP756UB73Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2TSYST6BCL52Y?ASIN=B0BT1H8D2G",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 26, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great shirts",
+                "reviewText": "Been buying these dress shirts for yrmears they fit well and wash and iron up nicely.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "k woodchick",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEVWWOFN2D55KC446O23BCOXW4VA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RBFB5CW5H9DM0?ASIN=B0BT1H8D2G",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 3, 2023",
+                "reviewTitle": "3.0 out of 5 stars Might not have been \u201cregular\u201d fit",
+                "reviewText": "Returning. First off it came in clear plastic, not really folded, more stuffed in a clear plastic bag with a shipping label slapped on. Secondly it fits like a fitted shirt. On an 82 yr old it doesn\u2019t really work.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Misterjr3",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFFOAFUOL6LMLP73HD76K4FVCKLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3Q0QJ024C45AI?ASIN=B0BT1H8D2G",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 17, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice fit",
+                "reviewText": "Fits as described",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ahmad Khan",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHTHJIU3OGZA454AF4UPMYICJDZQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3K2BDD0RDP27C?ASIN=B0BT1H8D2G",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great dress shirt",
+                "reviewText": "I really like this shirt. Looks really nice specially with tie or if you want to wear it on a suit.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rafael Salguero Agruel",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on March 25, 2023",
+                "reviewTitle": "Me qued\u00f3 muy bien",
+                "reviewText": "La camisa me qued\u00f3 perfecto, la tela es un poco delgada, pero cumpli\u00f3 con mi expectativa por el precio",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Marvin Lim",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 8, 2022",
+                "reviewTitle": "Good price, good fit and good durability",
+                "reviewText": "I wish more people would wait at least 4 or more months to submit a product review. For me, how item holds up over time is very important to know before I make purchase. I have worn this shirt for four months now twice a week every week. The collar and cuffs still look not bad (wearable in office setting). Shirt is comfortable and good quality and put together nicely. Price is also very good.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rowlands",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on January 12, 2020",
+                "reviewTitle": "Very good shirt I will purchase more 5",
+                "reviewText": "Great shirt made very well good material fits well",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gabriel",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Australia on October 1, 2023",
+                "reviewTitle": "Bad quality",
+                "reviewText": "I discovered COSCO sells the same shirts for half the price they advertise here",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Murray MacDonald ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 22, 2023",
+                "reviewTitle": "Pleased with my purchase.",
+                "reviewText": "Purchased a dress shirt in beige, was placed with it, the fit is perfect. The only thing that is missing there is no pocket which is very important for me being a business man.Thanks for the quick service.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

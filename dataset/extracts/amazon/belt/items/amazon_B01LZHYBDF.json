@@ -1,0 +1,534 @@
+{
+    "remaining_requests": 14801,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Gelante-Canvas-Belt-Color-2043-Black-2XL/dp/B01LZHYBDF",
+    "body": {
+        "name": "Gelante Canvas Double Grommet Hole Belt 12 Colors",
+        "price": "$8.79",
+        "originalPrice": "",
+        "rawPrice": 8.79,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Canvas-Double-Grommet-Hole-Colors/dp/B01CN94IM6",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B01CN94IM6"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0C6JJWMS4",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41YCLr0SxlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C6LB3YGG",
+                "variationName": "Color",
+                "variationValue": "Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41efLnEZxDL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C6JK298G",
+                "variationName": "Color",
+                "variationValue": "Camo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51iuOWUsBxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C6JHNZ6C",
+                "variationName": "Color",
+                "variationValue": "Coffee",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41p4Vf0FwpL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C6JJ6M83",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41M63WzVD+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C6JK88HM",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HcgpNGkOL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C6JK27Y3",
+                "variationName": "Color",
+                "variationValue": "Olive",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LJIENduhL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C6JHNQ5W",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ALAQDlTlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C6JKXPMJ",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41atzhAoJ8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CF7JJ6KV",
+                "variationName": "Color",
+                "variationValue": "Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51O0eMPlsSL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01D923R64",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413NyaO5TGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01CN94LG4",
+                "variationName": "Color",
+                "variationValue": "Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51MxikrXgJL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01D923GE2",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51vkbGiTL6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CF6WTMLW",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51JPnAoG3mL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01D923SXQ",
+                "variationName": "Color",
+                "variationValue": "Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51NbfLpXvfL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01D923JHQ",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/5184+v5W1BL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01D923LL0",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51y7m2Bsj5L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01LZHYBDF",
+                "variationName": "Size",
+                "variationValue": "2X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C6JJWMS4",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01CN94J0M",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01CN94JHK",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01MG3EAI2",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01LWW8AX4",
+                "variationName": "Size",
+                "variationValue": "XXX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01LZHY7JP",
+                "variationName": "Size",
+                "variationValue": "XXXX-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41YCLr0SxlL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/312IkIEJwPL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41ZcdzE2m2L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41FfFfNlBGL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/4160Gle0LSL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51 LssHSgEL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Brand: Gelante",
+            "link": "https://www.amazon.com/Gelante/b/ref=bl_sl_s_ap_web_14177946011?ie=UTF8&node=14177946011&field-lbr_brands_browse-bin=Gelante"
+        },
+        "brand": "Gelante",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 5142,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Dry Clean Only",
+            "Origin Imported",
+            "Canvas Web Belt /Black Double Grommet Holes / Metal Buckle",
+            "Belt Strap is Made Form Soft but Durable Fabric / A great belt for work",
+            "Available in Size: Medium 34-36, Large 38-40 & X-Large 42-44",
+            "15 Colors Selection / Rich and Vibrant Fashion Colors to match with almost any outfit / Great Casual Mens Belts for Jean",
+            "The images we provided are very close to the actual product. Colors of the actual product may vary when viewing from different devices, such as computer screens (resolution issues), cellphones, tablets, or many others"
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Novelty & More",
+                "link": "https://www.amazon.com/Novelty-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147445011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Novelty-Clothing-and-More/b/ref=dp_bc_aui_C_3?ie=UTF8&node=12035955011"
+            },
+            {
+                "name": "Novelty",
+                "link": "https://www.amazon.com/Novelty-Clothing/b/ref=dp_bc_aui_C_4?ie=UTF8&node=9103696011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Novelty-Clothing/b/ref=dp_bc_aui_C_5?ie=UTF8&node=9056985011"
+            },
+            {
+                "name": "Accessories",
+                "link": "https://www.amazon.com/Mens-Novelty-Accessories/b/ref=dp_bc_aui_C_6?ie=UTF8&node=9057012011"
+            },
+            {
+                "name": "Belts",
+                "link": "https://www.amazon.com/Mens-Novelty-Belts/b/ref=dp_bc_aui_C_7?ie=UTF8&node=9057013011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 5.75 x 2.72 x 2.05 inches; 4.96 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 43235-45196"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e March 5, 2016"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B01LZHYBDF"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#6,491 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #97 in Men's Belts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 5,142 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Superior Metal Buckle Superior metal buckle, smooth texture, and durable coating. Durable Canvas Webbing Soft but durable canvas webbing that will last years of wearing. Solid Double Grommet Solid double grommets throughout the entire belts. Simple Rounded End Tip Streamlined end tip will not fray.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f41606cd-c6f4-40ff-a505-e19a0c67cc38.__CR0,0,629,629_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/842a0b07-596d-457e-b074-9b330505b68e.__CR0,0,625,625_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/46839bf0-b806-483f-aef6-60fea6ce43b5.__CR0,0,629,629_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9e6a08b4-6790-435a-9fd4-d844c88e3736.__CR0,0,629,629_PT0_SX220_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "12 Colors for you to choose.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/94b23dae-fea3-46ff-a363-6457564aec8d.__CR0,4,970,600_PT0_SX970_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f41606cd-c6f4-40ff-a505-e19a0c67cc38.__CR0,0,629,629_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/842a0b07-596d-457e-b074-9b330505b68e.__CR0,0,625,625_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/46839bf0-b806-483f-aef6-60fea6ce43b5.__CR0,0,629,629_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9e6a08b4-6790-435a-9fd4-d844c88e3736.__CR0,0,629,629_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/94b23dae-fea3-46ff-a363-6457564aec8d.__CR0,4,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7337d2e0-04e3-42d7-97f6-81b791a0c499.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "kendra",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGTJMRKT3IEITSCGB2ZQLA2C5GIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2KSDSER4KA5LC?ASIN=B01CN94IM6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good quality for price",
+                "reviewText": "Nice and sturdy material. Purchased for teen child and they said it was comfortable and durable! Planning to review on my social media accounts as well. Oh._.momma [t.tok] @khatz25 [ig]",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nate",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF33PJAUDBAMEVWAXQKHF5JBPKFQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14Q1X0PDISWOZ?ASIN=B01CN94IM6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 16, 2024",
+                "reviewTitle": "5.0 out of 5 stars Easily the best belt I've owned",
+                "reviewText": "If you're anything like me, you're going through some pretty rough patches in life. Rough enough to lose you a good bit of weight. I'd worn a seatbelt buckle-style belt for the past decade, but despised how unwieldy it was to tighten. In a matter of a couple months, I dropped two jeans sizes and found the belt had gone from unwieldy to downright unwearable.Dear reader, that's when I stumbled upon this belt. It met all of my criteria - not leather, all black, easy to latch and unlatch - and then some. It's lightweight, not intrusive when bending over, and matches my humble \"jeans and a black T-shirt\" aesthetic. I have worn plenty of prior to the one you're reading this review for, but I will be sticking with this brand/style for the years to come.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "YRDOKA",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFQQTM4GPOU4QQD3QXLA2KNRTVAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1ASXW52W91EW?ASIN=B01CN94IM6",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 23, 2024",
+                "reviewTitle": "4.0 out of 5 stars Nice one.",
+                "reviewText": "Good belt",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dani :D",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG7DULUGJ3QZMRYQOPQEZTQUHAEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2F8G1GMIUQXGE?ASIN=B01CN94IM6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars It\u2019s definitely a belt.",
+                "reviewText": "What can I say? It\u2019s a well functioning belt. I wear it almost everyday and I definitely recommend it. And personally, I like my belts really long so I was pretty happy to see that they have bigger sizes.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jeff Bozz",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGYYX35WW7LXAN3QVIV3DWBHIT4A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R39H9B8CGP6XQN?ASIN=B01CN94IM6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great belt for the price",
+                "reviewText": "Quick shipment. Very good quality. It's a nice belt. Excellent value!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Michael S.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEFRCTV7UWXMMLS42WWGLOYMNVRQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1044EIW8OMD8G?ASIN=B01CN94IM6",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 8, 2024",
+                "reviewTitle": "3.0 out of 5 stars Buy at least one size up if you measure per the sizing diagram!",
+                "reviewText": "I carefully measured my old belt, which was way too big nowadays, compared to the size diagram, and based on that, I bought the size L. Which should have left several inches extra to go through the belt loops and leave some room to adjust it a little bigger occasionally if needed. When I got it, and put it around my waist, the end of the belt could not even reach the buckle. I wear size 38/40. It was WAY too small. So I returned it, which I have almost never done on Amazon, and I almost picked XL but then decided to go with 2XL for safety, and this one fits, but there's seriously only maybe 3 or 4 inches of extra length, it just barely goes through the 2 loops on the belt behind the buckle, I don't think it will even reach to the first belt loop on most pants. I recommend going big or going home!!! It seems OK other than that but I only got it at my door 20 minutes ago, no idea how it will hold up.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Richard Delaquis",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEDX6ROW6BMFGLNCBULCH2CREMTA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R6TF888TY69N4?ASIN=B01CN94IM6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Belt",
+                "reviewText": "I love the way it is very sturdy and durable with the 2 hole grommets. Doesn't wear out like a leather one hole belt that stretches out. Thanks for a great product.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Julie DidyoungJulie Didyoung",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHO3N2BYIYDCH6V7OK3X3243GLYA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2DM8WC38T4BC6?ASIN=B01CN94IM6",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 15, 2023",
+                "reviewTitle": "4.0 out of 5 stars Pleasantly surprised",
+                "reviewText": "I bought this for a cosplay not expecting much because of the price, but figured it would be good enough. I\u2019ve actually worn it to work every day since then for months and it\u2019s still held up. Now it\u2019s a little worn, there\u2019s some wear in the paint and holes I use the most, but nothing has come apart and it\u2019s hidden under my shirts anyway. I\u2019m glad it fits with extra room because I have such a hard time with belts as a curvy girl. I think it\u2019s a good option on a budget.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/714zSycrRWL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71Oe8Tg+53L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "A caring person",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 19, 2024",
+                "reviewTitle": "HIGH QUALITY, VIBRANT COLORS. A MUST!!",
+                "reviewText": "High quality!!! Very well made and the colors are vibrant and beautiful. The fit is very well measured. Well priced and I will be buying more. So far I have blue, pink and purple. Fast delivery as well.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Isabel",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 7, 2024",
+                "reviewTitle": "Buen servicio",
+                "reviewText": "Que llegara antes del tiempo prometido.Muy buen producto",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Steven-Levi",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 29, 2023",
+                "reviewTitle": "arrived within a week or so from ordering the belt",
+                "reviewText": "hey i really like the belt its a perfect size for me the medium belt since i have a 30inch waist i'm ordering two more of these belts",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "CHAITHANYA GOUD DONTHI",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in India on July 1, 2023",
+                "reviewTitle": "EXCELLENT QUALITY BELT",
+                "reviewText": "QUALITY IS GOODHEAVY BELT MAY MAKE YOU UNCOMFORTABLE",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "chris tompkins",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on April 5, 2021",
+                "reviewTitle": "Great fit well made",
+                "reviewText": "My partner likes it so that is all that make me happy",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,538 @@
+{
+    "remaining_requests": 16293,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Columbia-Great-Mountain-Heather-Medium/dp/B0BKTXZG84",
+    "body": {
+        "name": "Columbia Men's Great Hart Mountain III Half Zip",
+        "price": "$27.50",
+        "originalPrice": "",
+        "rawPrice": 27.5,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Columbia-Mens-Great-Hart-Mountain/dp/B0CQ8HCHZV",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CQ8HCHZV"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B019805NK4",
+                "variationName": "Color",
+                "variationValue": "Black Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41scoUu2evL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B019805Q5Q",
+                "variationName": "Color",
+                "variationValue": "Boulder Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31eHWqN7TuL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09KP3XRJ2",
+                "variationName": "Color",
+                "variationValue": "Collegiate Navy Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41E-AZD96zL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BKTKSK55",
+                "variationName": "Color",
+                "variationValue": "Dark Stone Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41edUwvxfPL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B076VXZZ8W",
+                "variationName": "Color",
+                "variationValue": "Delta Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DgWLEEvsL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BKTN86YF",
+                "variationName": "Color",
+                "variationValue": "Dark Mountain Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Cz2vMSu8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BKTND96J",
+                "variationName": "Color",
+                "variationValue": "Night Wave Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/515wtOYdvlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07KFG1RB7",
+                "variationName": "Color",
+                "variationValue": "Red Jasper Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Enon3JzVL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B076W3J5ST",
+                "variationName": "Color",
+                "variationValue": "Collegiate Navy Solid",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Ggj-zYUvL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BKTLYNW6",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTXZG84",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTMN9WX",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTJQD2V",
+                "variationName": "Size",
+                "variationValue": "Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTQKYRT",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTN5CQN",
+                "variationName": "Size",
+                "variationValue": "X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTN2KYP",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B019805NKY",
+                "variationName": "Size",
+                "variationValue": "3X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTN7RKF",
+                "variationName": "Size",
+                "variationValue": "3X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTMN58X",
+                "variationName": "Size",
+                "variationValue": "6X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTNTCVS",
+                "variationName": "Size",
+                "variationValue": "3X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTPQSKH",
+                "variationName": "Size",
+                "variationValue": "2X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTNZ5CT",
+                "variationName": "Size",
+                "variationValue": "4X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTP7MBT",
+                "variationName": "Size",
+                "variationValue": "2X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTKSK55",
+                "variationName": "Size",
+                "variationValue": "4X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTRNFCM",
+                "variationName": "Size",
+                "variationValue": "5X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTQQ5P4",
+                "variationName": "Size",
+                "variationValue": "1X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKTNVB6C",
+                "variationName": "Size",
+                "variationValue": "5X Tall",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41edUwvxfPL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31pzn8rgdeL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31ypywZ6kAL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41hBl39tvnL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41VWH8WZLqL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51ppAgXG8fL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41H9LnWODEL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Columbia Store",
+            "link": "https://www.amazon.com/stores/Columbia/page/E21F2281-2F97-4BDA-B5DC-8F83EA77C1F0?ref_=ast_bln"
+        },
+        "brand": "Columbia",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 347,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "SOFT FABRIC: The Columbia Men\u2019s Great Hart Mountain III Half Zip Pullover is crafted for comfortable layering and everyday living \u2013 in any season.",
+            "ULTIMATE COMFORT: With a short zip collar that's flexible enough to wear up or down for extra warmth as needed, this pull-over provides a great mid layer protection against cold weather chill.",
+            "REGULAR FIT: A modern design with fit for active wear, combined with soft and lightweight fleece, will make this jacket a staple for many comfortable outdoor events.",
+            "COTTON BLEND: Soft and warm, the cotton polyester blend material is the perfect outer or mid layer, a natural for any winter activity.",
+            "BUILT TO LAST: Columbia\u2019s attention to detail is what sets our apparel apart. Specifying only the highest quality materials, expert stitching and craftsmanship. This is a long-lasting garment you will enjoy for seasons to come."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Sweaters",
+                "link": "https://www.amazon.com/Mens-Sweaters/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1044442"
+            },
+            {
+                "name": "Pullovers",
+                "link": "https://www.amazon.com/Mens-Pullover-Sweaters/b/ref=dp_bc_aui_C_5?ie=UTF8&node=2476516011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Is Discontinued By Manufacturer \u200f",
+                "value": "\u200e No"
+            },
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 20.5 x 14.25 x 1.5 inches; 15.84 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 1625231"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e December 7, 2015"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Columbia Men's Sportswear"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B00QB4OGOK"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#128,198 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #4,543 in Men's Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 347 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "When the temps are on the cool side this sueded fleece layer is great for everyday use, its zippered collar allows for adjustable warmth, while the easy fit provides great range of motion. The Columbia Men\u2019s Hart Mountain II Half Zip pullover design is a classic cut, with comfortable cuffs and hem line, available in a wide range of sizes. Made with a soft suede fleece construction, it's the perfect companion for a cool-weather hike, post workout warmth, or a cozy recovery day indoors. Columbia\u2019s attention to detail is what sets our apparel apart from others. We use only the highest quality materials, expert craftsmanship, and durable stitching. This is a reliable garment you will enjoy for seasons to come.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/98de2c1a-74c4-4a4d-ae54-e2fc11baab91.__CR0,0,459,459_PT0_SX220_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/f987b2a3-3aa7-4991-8edd-021d4aa5c683.__CR0,0,459,459_PT0_SX220_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/d517037c-d170-4751-999b-7e6b20875f13.__CR0,0,459,459_PT0_SX220_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/8b81c880-573a-456c-b54c-40a40a048e82.__CR0,0,459,459_PT0_SX220_V1___.png"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/fdb9317f-52aa-43e0-8a1d-94cabce7a0a4.__CR0,0,2021,625_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/98de2c1a-74c4-4a4d-ae54-e2fc11baab91.__CR0,0,459,459_PT0_SX220_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/f987b2a3-3aa7-4991-8edd-021d4aa5c683.__CR0,0,459,459_PT0_SX220_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/d517037c-d170-4751-999b-7e6b20875f13.__CR0,0,459,459_PT0_SX220_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/8b81c880-573a-456c-b54c-40a40a048e82.__CR0,0,459,459_PT0_SX220_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/40273b05-5a1b-4197-a9a3-2d6b26ca4292.__CR0,0,2258,698_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/f49d7354-3a9a-401e-abcb-c8eb82d9510b.__CR0,0,2258,698_PT0_SX970_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Scott Miller",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFS4EQ3QDLMY74ANT5OHPMOU3YNQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3N1BXPK8BSME5?ASIN=B0CQ8HCHZV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 9, 2021",
+                "reviewTitle": "5.0 out of 5 stars Perfect fall weather sweater",
+                "reviewText": "Being a big guy in a foreign country it\u2019s very hard to find clothes my size. Thankfully I was able to order this Columbia Pullover sweater via Amazon. It looks great and it fits perfectly. It is a decent thickness of material so it will keep me warm when the cooler weather comes. Perfect for outdoors or indoors. The best part is they estimated about 16 days for it to arrive and it got here and cleared customs in about 6 days which was a great surprise.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "GBC",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEOTIVDPILFEOGDW6MP6QQBCEM6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3F98TRY5VBLE?ASIN=B0CQ8HCHZV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 24, 2024",
+                "reviewTitle": "5.0 out of 5 stars pricey but nice",
+                "reviewText": "$50 is steep for a quarter-zip sweatshirt - but I paid it for this one because its so warm and comfortable. Actually has 2 layers - one of which is not 100% cotton - but the material is really nice, and it looks great.Other colors are selling for $80 - would not go there.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Huysmommy",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGKKUZU6VJRYJOE5DCUH3J6XX6EQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1C38SUYNWDAMN?ASIN=B0CQ8HCHZV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 20, 2024",
+                "reviewTitle": "5.0 out of 5 stars Hubby loves it!",
+                "reviewText": "very soft inside. so warm that hubby had me put it on to feel the instant warmth and softness. ordered size 6xl and quite satisfied with fit and comfort. ordered 2more",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG3VOZHR43P4VGSBCYVTHXM63NXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1O8WS3L22DPFA?ASIN=B0CQ8HCHZV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great fit and looks sharp!",
+                "reviewText": "I bought this for my husband and son and was a hit. The fit is great and is very comfortable!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mom175",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHEV3SC2EYJRDBU3ZZ4NICSBPACA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2PUHEBSRB8EKQ?ASIN=B0CQ8HCHZV",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 23, 2018",
+                "reviewTitle": "4.0 out of 5 stars Nice/little big",
+                "reviewText": "Very nice! Just a little on the big side and not enough to shrink out either. Think about ordering size smaller.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ashgrimm",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGL3CFRUBBP2M56XHQD3YJL5B5YA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2PWICNLOBHTT2?ASIN=B0CQ8HCHZV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfort style and warmth",
+                "reviewText": "Love these pull overs have several, they are good quality heavy material but breath well and have held up to abuse",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tim CookeTim Cooke",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJWQELQ2AXEHPPDXYE2AJ2QS6CQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1SHHXXMGQAXK?ASIN=B0CQ8HCHZV",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 30, 2023",
+                "reviewTitle": "3.0 out of 5 stars defective",
+                "reviewText": "This was a gift. I really like the shirt, material, color and style. After wearing once and before washing, the shirt is already ripping at the seams. I called customer support and was told to contact the warranty department on a week day, because the tags had been removed and the item had been worn. I\u2019m disappointed that the shirt already has a tear after a single wear and I now it will be a headache to get a replacement.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71ulwMOzWcL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Penny Lover",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFT2GPVEUNIQFHIOZUAADR2CWDEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RN0CZAQAD0TSV?ASIN=B0CQ8HCHZV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Christmas gift for my grandson",
+                "reviewText": "He loves it so much that every time I have seen him since, he's wearing it. Very flattering!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jos\u00e9 G.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on March 3, 2022",
+                "reviewTitle": "Muy buena compra",
+                "reviewText": "Me gust\u00f3 el art\u00edculo y me queda muy bien, de buena calidad y buen precio",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "l\u00fa",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on July 25, 2021",
+                "reviewTitle": "Una prenda calientita para lugares fr\u00edos.",
+                "reviewText": "Le gust\u00f3 mucho a mi esposo, es afelpadito, calientito, no est\u00e1 ni muy grueso ni muy delgado, el color muy bonito, excelente!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Matt",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 27, 2019",
+                "reviewTitle": "Great sweater",
+                "reviewText": "Good well made sweater like you'd expect from Columbia. The sizes seem a bit big though, I'm between an XL and XXL and the XL usually fits me pretty slim and in this case the xl was pretty large. My brother is a bit smaller but normally a straight XL wearer and this doesn't fit very well, seems baggy on him.But it worked out great for me so I'm happy!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Exzacklee",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 26, 2019",
+                "reviewTitle": "Great shirt.",
+                "reviewText": "Fits as expected. Great feel. Good quality. Really like color and fit. Would buy again.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amie Hamelin",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 25, 2019",
+                "reviewTitle": "Good",
+                "reviewText": "Good",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,555 @@
+{
+    "remaining_requests": 15939,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Tommy-Hilfiger-Denim-Jeans-Medium/dp/B06XSFXQZK",
+    "body": {
+        "name": "Men's Slim Fit Stretch Jeans",
+        "price": "$39.97 - $79.50",
+        "originalPrice": "",
+        "rawPrice": 39.97,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Tommy-Hilfiger-Mens-Stretch-Jeans/dp/B0C6267MJ3",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0C6267MJ3"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07Q8BB9W8",
+                "variationName": "Color",
+                "variationValue": "Dark Rinse",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413ZtkD5dfL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09RRZMT83",
+                "variationName": "Color",
+                "variationValue": "Light Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21ft6bPp1LL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B06XS15QT8",
+                "variationName": "Color",
+                "variationValue": "Medium Rinse",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41h7-5ktN7L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09RRPZY4H",
+                "variationName": "Color",
+                "variationValue": "Medium",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31-Z6JNvKAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09RRXZ2F1",
+                "variationName": "Color",
+                "variationValue": "Black Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31xLPyeNxKL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B06XSKGFY4",
+                "variationName": "Size",
+                "variationValue": "29W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XS88FPN",
+                "variationName": "Size",
+                "variationValue": "29W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSGBX2G",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSHPF9S",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSJ7LCR",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B073486PPY",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XS77NMT",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSBRWGD",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSH8WPZ",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSHMR46",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSKGN3P",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07348F244",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSFXQZK",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XS8C6B9",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XS15QT8",
+                "variationName": "Size",
+                "variationValue": "35W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSKDPY5",
+                "variationName": "Size",
+                "variationValue": "35W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSGBWBH",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSH5M66",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSHWW56",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XS79FVC",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XRYFV6Z",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSGF9X2",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSHPF97",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XS18C8L",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07Q9FDSCW",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XSGBHWB",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XS88CRK",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31PeXaEhf7L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41O3y3V K7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41ZzsQgkyLL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31K4s7NcPML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31Z0HD15C4L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41Dzj9g5xhL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Tommy Hilfiger Store",
+            "link": "https://www.amazon.com/stores/TommyHilfiger/page/56C071CE-0DD0-420A-920B-BD5EBE1C7EA8?ref_=ast_bln"
+        },
+        "brand": "TommyHilfiger",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 1279,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 99% Cotton, 1% Spandex",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zip Fly with Button",
+            "Tommy Hilfiger\u2019s fan-favorite men\u2019s jeans are made in a slim fit with a hint of stretch for supreme comfort. Put simply, they feel like you've been wearing them for years.",
+            "ALL DAY COMFORT: Tommy Hilfiger\u2019s slim-fit stretch jeans for men are spun with 99% cotton and 1% Elastane so you can keep moving and stay comfortable day and night.",
+            "SLIM FIT: Narrower through the seat and thigh, Tommy Hilfiger\u2019s go-to pair is cut slim from hip to hem.",
+            "CLASSIC CONSTRUCTION: From the five-pocket styling to the belt loops, these slim fit jeans for men feature all of Tommy Hilfiger\u2019s signature denim design details. Think timeless cool, epitomized.",
+            "EASY CARE: These bestselling men\u2019s jeans are made to weather heavy wear with ease and stay crisp & classic, wash after wash.",
+            "A WARDROBE STAPLE: Discover the quintessential go-to men\u2019s jeans, perfected by the denim experts at Tommy Hilfiger\u2014purveyors of classic, American cool style since 1985."
+        ],
+        "description": "Men's jeans with mid-rise waist. Classic five pocket design. Slim Fit. Classic Tommy Hilfiger branding. Tommy Hilfiger jeans featuring a fit for comfort and style.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 14.76 x 10.94 x 1.97 inches; 1 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 78A0604-933"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e March 24, 2017"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Tommy Hilfiger"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B06XS8C7TQ"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#44,635 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #226 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 1,279 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Previous page Next page",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1015d2a6-d4be-4c6f-96ca-9a8e2b3432a2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef3f9167-46c3-4641-8f5b-c27d3654a8ec.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea79d4f7-5c0f-44a7-a5f4-61ad6b776361.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/79cd644d-75ee-4556-9d9e-5f2756d6237a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ea13bff-e0e4-45eb-9484-be6a0abc002e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/514ab3bd-a874-4f7c-9d2a-39f940245f7c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ad65a5d4-3dd1-452c-91d4-e58f516260f2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Cheryl Gardner",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFPX42DHZMW2LJV5JG5MIDUCN6EQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2UC6ZRRAJMMQS?ASIN=B0C6267MJ3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 7, 2020",
+                "reviewTitle": "5.0 out of 5 stars Good jeans",
+                "reviewText": "I bought these for my grandson and he's very happy with them.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "david t janasiak",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG56HKK3Z3F7UHUXTIIU4TF36LRA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RYEV3X60Y984H?ASIN=B0C6267MJ3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "5.0 out of 5 stars Fits great",
+                "reviewText": "Not stiff very comfortable my husband\u2019s new favorite!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "SwimBoy",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF46M5CII5UMMEQ7UDBIX2A7V3EQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RACBLPVGA0BVQ?ASIN=B0C6267MJ3",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 1, 2019",
+                "reviewTitle": "4.0 out of 5 stars Nice Jeans",
+                "reviewText": "Nice jeans. However the fit is a little looser than I expected.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "M. Ratliff",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHN5KK4LYRY6EAAFVI2ARQKJQHJQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3PJ2IQFR47F7F?ASIN=B0C6267MJ3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 15, 2021",
+                "reviewTitle": "5.0 out of 5 stars Great fit",
+                "reviewText": "These were a gift and he likes the way they fit, very comfortable. Shipping was great as well. Thank you.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jonathan L. Connor",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGDSPDGVBTOIAPFLKCDL7F4IPPSA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2MFJ4AJLSIMHO?ASIN=B0C6267MJ3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 20, 2023",
+                "reviewTitle": "5.0 out of 5 stars Love these jeans!",
+                "reviewText": "I absolutely love these jeans! It's a nice, soft materials. The dark wash looks really sharp. I ordered 32x34 and got 32x32. I was going to send them back, but the length of the 32x32 actually turned out fine. Usually 32x32 is too short for me, so these pants must fit a little larger than expected, but I absolutely love them!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "M. CordobaM. Cordoba",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEL44WHEDEFNR3LR65SSDZWB4G3Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RS2D0PISYAH92?ASIN=B0C6267MJ3",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 4, 2020",
+                "reviewTitle": "4.0 out of 5 stars Great stitching, heavy duty with some stretch",
+                "reviewText": "Pretty happy with these jeans.Attached is a photo of the color and stitching up close.Pros:- high quality- slim (not skinny!) and it has some stretch to it, so you move freely with them and bending knees and movement in general is smooth.Notes:The color as very dark blue, the default amazon pictures look almost black but it\u2019s just a dark navy blue as you can see from the up close shot.Overall I am happy with these and can recommend them.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": false,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/81OOPPhcM0L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "NJD & DMD",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGU7EFYIZKKQAIVXSKVD5SHMPGOA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2C1N8LR7I5ZVN?ASIN=B0C6267MJ3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 11, 2019",
+                "reviewTitle": "5.0 out of 5 stars The coolest pair of white jeans I've seen",
+                "reviewText": "I love these white jeans by Tommy Hilfiger. The branding on them, and the logo, and subtle details make it very unique, so that if you tuck your shirt in, it stands out and says \"I'm a Tommy Hilfiger pair of Jeans\".They fit perfectly. The fabric is amazingly soft and durable. They are not super white, and have almost a very slight ivory to them.I didn't think I'd picture myself wearing white jeans, but I can't wait to pair these up with the right shirt and shoes and get a new look I haven't seen myself in.I definitely recommend these and think they are very good if you're looking for a great value, with form, fit, function and a lot of fashion.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": false,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "samiamsamiam",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG3HKK7MIKRQ7DOTNDOE63X2WJGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1HX17L92FW9JW?ASIN=B0C6267MJ3",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 20, 2019",
+                "reviewTitle": "3.0 out of 5 stars Slim fit really means it is for people with skinny legs",
+                "reviewText": "I was really excited when I ordered this Tomy Hilfiger jeans but when it arrived I was disappointed. The waist and length fit great but the rest did not. Apparently slim fit really means it is for people with skinny legs. For me, the trunk of the pants over the calf portions of my leg was way too tight. For men with larger calves, this is not for you. On the other hand, if you have skinny calves, then this is a good pair of jeans. I like the look and style of the jeans, just wished it wasn't slim fit at the calves.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": false,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/617vbO0OA4L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Robert Carlson",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 4, 2021",
+                "reviewTitle": "Excellent quality",
+                "reviewText": "True to fit, stylish and excellent quality",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Carole Perreault",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on April 20, 2021",
+                "reviewTitle": "Jeans",
+                "reviewText": "Jeans avec \u00e9lasthanne sauf pour la ceinture. Dommage car souvent c'est \u00e0 cet endroit que nous avons besoin d'\u00e9lasticit\u00e9.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Hatem Ramadan",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on July 30, 2022",
+                "reviewTitle": "Great quality",
+                "reviewText": "Deserves the money. Excellent quality and fabric.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kevin Fujioka",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 9, 2023",
+                "reviewTitle": "Great pair of jeans",
+                "reviewText": "Great fit and excellent wearing jeans.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "jayh ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 30, 2023",
+                "reviewTitle": "Great slacks",
+                "reviewText": "As title says",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

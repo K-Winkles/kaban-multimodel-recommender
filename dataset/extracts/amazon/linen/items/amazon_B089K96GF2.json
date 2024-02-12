@@ -1,0 +1,564 @@
+{
+    "remaining_requests": 29660,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/LNX-Womens-Casual-Elastic-Trouser/dp/B089K96GF2",
+    "body": {
+        "name": "LNX Womens Linen Pants High Waisted Wide Leg Drawstring Casual Loose Trousers with Pockets",
+        "price": null,
+        "originalPrice": "",
+        "rawPrice": null,
+        "currency": null,
+        "canonicalUrl": "https://www.amazon.com/LNX-Womens-Elastic-Drawstring-Trouser/dp/B082KLXTBN",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B082KLXTBN"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0CPP5BDMH",
+                "variationName": "Color",
+                "variationValue": "Army Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31mF+fCcSXL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07V3QNVY8",
+                "variationName": "Color",
+                "variationValue": "Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3164oLsFHOL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07V6TKDXK",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31yiGK1mXEL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C4KGZBTC",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31RQLJSt6sL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08CV36N95",
+                "variationName": "Color",
+                "variationValue": "Caramel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31+4cRlGTBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09532ZLCQ",
+                "variationName": "Color",
+                "variationValue": "Coffee",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31WkT4lMkPL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B089K64D3H",
+                "variationName": "Color",
+                "variationValue": "Dark Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Q5N42NeZL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08CV3VZ4F",
+                "variationName": "Color",
+                "variationValue": "Fluorescent Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3110NHtW8EL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07V6TX1WP",
+                "variationName": "Color",
+                "variationValue": "Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31nObCPmXfL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07V2LNY2X",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31-xHHT32HL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08FC2W3MD",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31qHSsE6+4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09535F37M",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31A2AgU5OvL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B093CWDXT4",
+                "variationName": "Color",
+                "variationValue": "Striped-beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31vBFBbXocS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096NG1QLQ",
+                "variationName": "Color",
+                "variationValue": "Striped-black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413xmUe9ixS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096NG7SRL",
+                "variationName": "Color",
+                "variationValue": "Striped-coffee",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NVOAV5X3S._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B093CXG6KW",
+                "variationName": "Color",
+                "variationValue": "Striped-dark Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Z2X8eqatS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08XQMTWDN",
+                "variationName": "Color",
+                "variationValue": "Striped-navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410TQIxuq7L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08XQMQ9JZ",
+                "variationName": "Color",
+                "variationValue": "Striped-white",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41eRuI05oTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B089K9PCQJ",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Fci-b78KL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B089K8YF76",
+                "variationName": "Color",
+                "variationValue": "Wine Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31fAeRXt+6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08FC1Z7R9",
+                "variationName": "Color",
+                "variationValue": "Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31zcAXi4CvL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C4KLLT4T",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/319bOExiX9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B089KC8MP8",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B089K96GF2",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B089KBNFJR",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B089K746PW",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B089K9PCQJ",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B095SJ1X2W",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B095SJNVDG",
+                "variationName": "Size",
+                "variationValue": "4X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B095SKVBJN",
+                "variationName": "Size",
+                "variationValue": "5X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31Fci-b78KL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/21ZY KBBzJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31MO9GfNKcL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41IYuFqvk7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41kwwkuryoL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51SLQpeNWPL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81nDrqSbVyL.png"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/79553936-3a8c-470d-ba7c-5d9a3fb3ceab/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f1cda2c7-64d4-4e04-baae-f4dc0ada3389/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 2,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the LNX Store",
+            "link": "https://www.amazon.com/stores/LNX/page/8D6A511E-5D58-4BD0-875A-21D5DCD13044?ref_=ast_bln"
+        },
+        "brand": "LNX",
+        "merchantInfo": "",
+        "customerReview": "4.1 out of 5 stars",
+        "customerReviewCount": 5840,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 50% Linen, 50% Cotton",
+            "Care instructions Hand Wash or Machine Wash",
+            "Origin Imported",
+            "Closure type Drawstring",
+            "\u2764 Material: Linen and Cotton. Breathable, Lightweight, Suitable for the Skin. Feel Good to Wear for Day-to-Night Hangouts.",
+            "\u2764 Features: Casual Linen Pants, High Waisted, Wide Leg, Elastic Waistband, Drawstring, Tie Knot Front, Two Side Pockets, Easy to Pull On, Solid Color, Loose Fitting, Soft Linen Cotton Yoga Pajama Crop Pants. Easy to Wear and Suitable for Most People.",
+            "\u2764 Occasion: Suitable to Wear in Many Occasions, Such as Daily Life, Home, Outing, Vacation, Work, Weekend, Holiday, Casual, Dating, Walk after Supper, Picnic and Any Time in Spring, Summer, Fall and Early Winter. You can Wear them as Pajamas or Sport Workout Yoga Pants.",
+            "\u2764 Match: You can Easily Dress It Down with A Black Crop Tee and Boots, Lace-Up Sandals, or Dress It Up with An Elegant Blouse and Heels. When You Go Out or Work, It will Make You Graceful and Feminine.",
+            "\u2764 LNX Focus on Creating Affordable, High Quality and Long Lasting Everyday Clothing for Women or Men. Our Design is Romantic, Natural, Not Blindly Following the Popular, But Always Fashionable."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1/000-0000000-8675309?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2/000-0000000-8675309?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3/000-0000000-8675309?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Pants",
+                "link": "https://www.amazon.com/Womens-Pants/b/ref=dp_bc_aui_C_4/000-0000000-8675309?ie=UTF8&node=1048184"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 8.43 x 3.23 x 2.6 inches; 9.14 Ounces"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e May 1, 2020"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B089JZFPMX"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#9,628 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #77 in Women's Pants"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.1 4.1 out of 5 stars 5,840 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Brand: LNX Material: 50% Linen, 50% Cotton Design: High Waisted, Wide Leg, Drawstring Season: Spring, Summer, Fall, Winter Occasion: Work, Beach, Birthday Gift, Street, Meeting, Dating, Shopping, Office, Party or Any Special Occasions Package Content: 1 x Women Linen Pants",
+                "media_link": []
+            },
+            {
+                "media_text": "LNX Womens Linen Wide Leg Pants - SIZE CHART There is 2-3% Difference According to Manual Measurement.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f416ac7b-22f2-4b55-be10-5257fe13c68c.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+                ]
+            },
+            {
+                "media_text": "More LNX Womens Linen Shirts (S-3XL) Go Shopping More LNX Womens Linen Pants (S-5XL) Go Shoppong More LNX Womens Linen Pants (S-3XL) Go Shopping More LNX Womens Linen Shorts (S-3XL) Go Shopping",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3165a344-6e6a-45f5-9583-dcd54e28f831.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f416ac7b-22f2-4b55-be10-5257fe13c68c.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5b596d13-b027-4f92-b3e8-deb41c6476e1.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eba6e189-57ed-48e7-b2a2-5f38723c7055.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b06f2008-6e3b-487c-87d7-79af8bdbce53.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a219a50-0dd1-43f1-8f26-7263f539e259.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cf381dd1-8e7a-410f-908c-43ec3b9cd850.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "ivybuggsey",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJZC6SFUXJJDCVOZJ7FIFB7C7FA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1PPYD6O5K7JJR?ASIN=B082KLXTBN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars Pleasantly Surprised!",
+                "reviewText": "Was skeptical at first based on some of the reviews but these pants are GREAT for the price. They were well packaged with no damage (came rolled in a sturdy plastic case). Material is comfortable and durable. I am short with big hips and thighs. These pants fit comfortably and perfectly for my hard to fit shape. They WILL shrink after a wash, but this actually helped make them the PERFECT length. They look great with a warm weather casual or more dressy outfit. These were my go-to vacation pants.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "LizLiz",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFOR4QKBCFF4HVV7RN7XPEDJSZZQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RU37FDZWOD4DJ?ASIN=B082KLXTBN",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 4, 2023",
+                "reviewTitle": "4.0 out of 5 stars A bit long, but overall comfy fit and soft fabric",
+                "reviewText": "I am 5'7\" and about 170 lbs and found these pants to be a bit long - not exactly capris as advertised. They hit just above the ankle and I am taller than the average American woman. However, they are comfy and flattering straight out of the box and seem pretty wrinkle resistant so far (waz suprised they arrived rolled up umbrella fashion). The navy color is as advertised; maybe a little richer in person. The ruched fringe at the top is thankfully not as large as the pictures show. The pockets are large and the material is breathable and pretty sturdy. Good value for the price.",
+                "reviewVotes": "19 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/711v5QopDZL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71hyENBjmjL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFVZAGWG5QBS4T3NRYSGBJNSMJGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RUKBI4HS2IS3B?ASIN=B082KLXTBN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "5.0 out of 5 stars Many compliments given!",
+                "reviewText": "Great color. Great length! So comfortable. Definitely buying more",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cheryl W",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH5T3BLYGLYLFH44SL67R6DDDYAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2VZ6YSSO7UN0X?ASIN=B082KLXTBN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Perfect but small for me",
+                "reviewText": "these are the best pants I\u2019ve ever owned for casual.My legs tend to be just a little short I think I\u2019m a size 30 length between 30 and 32 length and sometimes it\u2019ll be just a little long and touch the floor. These come up above the angles, a little bit the light and airy, although I\u2019m wearing them right now and it\u2019s chilly out and I\u2019m not too cold, the bottom of my legs will get cold.Perfect except I know these were made overseas and so I ordered a size big one size bigger and they just fit perfect if they shrink it all and I\u2019m sure they will, then they\u2019re gonna be a little tight on me so I\u2019m gonna order a second size bigger and I\u2019m gonna order a couple more pair. I love them so much.I have never done that before this the first time I\u2019m gonna re-order and get another pair of somethingI will tell you I put on weight and I\u2019ve got a stomach gummy now not huge but it\u2019s poor pooches out you know from my ribs down and that is why they\u2019re a little tight they\u2019re OK. The legs completely fit me perfectly in the legs, but my waist and tummy if they shrink when I wash them they will be a little tight right there in my hips and tummy probably not my hips as much as my tummy but I do not like them tied around my hips or waist.I have multiple sclerosis it\u2019s hard for me to pull pats on our dresses on, etc. etc.So these are for my hands I don\u2019t have to bend my legs like I do with other pants are twisted turn I work my fingers to get buttons done, and I usually do not like tie pants, but these are not bulky around them waste like some areI will say I really like the material.So to recap:If you have a tummy be aware of that when you order the sizeI\u2019m a shorter person and they fit right on my legs they\u2019re not too long.Wonderful material.If you\u2019re handicapped, these are perfect for you to use if you\u2019re mainly in a chair all the time and can\u2019t stand up a lot, I would order an size biggerOrdered one size bigger and they fit perfect if they shrink in the wash, but they probably will need to order a second size bigger be awareYou can\u2019t go wrong.I ordered the color you know the light ecru and they are beautiful",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lisa Jasionowski",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGJULPLDC7WR6BJIXJO63NMRNMUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2BJAY6XRCJ0DF?ASIN=B082KLXTBN",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 10, 2023",
+                "reviewTitle": "3.0 out of 5 stars Don't hold up",
+                "reviewText": "I bought 2 pair of thr black. By the 2nd month both pair had ripped at the butt seam and holes. I bought these to wear to work and rotate them. So I bought another pair and with in 1 month the third pair butt came apart. These are very loose pants not tight at all and the did not last. I ABSOLUTLEY love the fabric and they felt so good. But OMG they do not hold up at all. So disappointed.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lisa E.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEDF2JDB22VZJJIEDD6H63VQDKIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2K31OMYB8H237?ASIN=B082KLXTBN",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "4.0 out of 5 stars Very comfortable and cute",
+                "reviewText": "Comfortable and cute. Very voluminous.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE3OOHCFTLFXOTYDACTGJ6HD5MEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R18B8S94EG4LVD?ASIN=B082KLXTBN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 10, 2023",
+                "reviewTitle": "5.0 out of 5 stars Light and comfy",
+                "reviewText": "The pants are very comfortable, good fit, true to size. They washed up well, I didn\u2019t put them in the dryer, hang dry! They were tight when I first put them on and as the day progressed they got a bit baggy. I will be getting them in different colors, great for summer!",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Glimfeather",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE3VHQAVZ7HSR33FD4SMISODH37A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3BTJ6YVUNS40G?ASIN=B082KLXTBN",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 6, 2023",
+                "reviewTitle": "4.0 out of 5 stars Just repurchased!",
+                "reviewText": "I had purchased two pairs of these pants last summer and I\u2019ve been wearing them regularly. They are a cotton/linen blend, but they rather stiff, not soft like cotton or linen can be, so not sure what that\u2019s about. Given that, they are still rather light feeling and mostly breathable, even on a warm day.I wear an XL in these pants and that\u2019s the size I wear in other brands. I find they run true to size. Just know that this material really (really!) stretches out as the day goes on, so keep that in mind and go with the smaller size if in-between. Also, I find the cropped length flattering on my 5\u2019-5\u201d plus sized frame, which is tough to find in a cropped pant.I just repurchased more colors since the two pants I got only 1 year ago are giving out. One pair had a hole at the crotch seam, while the other pair has a tear near the ties and the white elastic band is showing at the waist band. They are NOT high quality pants, but they fit the other parameters of what I wanted in a late spring/summer/early fall, cropped pant. So I don\u2019t mind replacing them yearly...until I can find something better I suppose! Good enough for now.",
+                "reviewVotes": "8 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Carlos E.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on July 11, 2023",
+                "reviewTitle": "Ya compr\u00e9 uno m\u00e1s.",
+                "reviewText": "Excelente para este verano s\u00faper caluroso.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Leya",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 30, 2022",
+                "reviewTitle": "Great Pant",
+                "reviewText": "These are very comfy, light and airy. They are tight out of the dryer but loosen as you wear them. Great summer pants, can dress up or lounge around.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "c of m",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on July 12, 2021",
+                "reviewTitle": "Cheap material",
+                "reviewText": "I can't wear it, just waste my money.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Emma",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on July 9, 2021",
+                "reviewTitle": "d\u00e9cousu. faible qualit\u00e9.",
+                "reviewText": "Lav\u00e9 au programme d\u00e9licat et la couture int\u00e9rieure \u00e9tait toute d\u00e9faite ! un des bords \u00e9tait comme d\u00e9chir\u00e9. Tr\u00e8s d\u00e9\u00e7ue de la qualit\u00e9 pour le prix. En plus, je ne peux pas le retourner sans frais. La taille \u00e9tait ok par contre, un peu ample comme j'aime et le tissu est assez \u00e9pais et pas trop transparent. Mais si la couture se d\u00e9fait ou d\u00e9chire avant m\u00eame de le porter 1h... c'est pas un bon produit.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lourdes B.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on June 19, 2023",
+                "reviewTitle": "pantalon",
+                "reviewText": "practico y util, conveniente para playa",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

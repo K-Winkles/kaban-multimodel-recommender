@@ -1,0 +1,585 @@
+{
+    "remaining_requests": 11833,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/FRIGG-Natural-Pacifier-Denmark-BPA-Free/dp/B09M2PS5ZH",
+    "body": {
+        "name": "FRIGG Daisy Natural Rubber Baby Pacifier | Made in Denmark | BPA-Free (Baby Pink/Soft Lilac, 6-18 Months) 2-Pack",
+        "price": "$14.99",
+        "originalPrice": "",
+        "rawPrice": 14.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/FRIGG-Natural-Pacifier-Denmark-BPA-Free/dp/B09M2PS5ZH",
+        "soldBy": {
+            "sellerID": "A1CJPE2GAYF44M",
+            "name": "mushie USA",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1CJPE2GAYF44M&asin=B09M2PS5ZH&ref_=dp_merchant_link&isAmazonFulfilled=1"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09RP9M6K4"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09H1XBJ8B",
+                "variationName": "Color",
+                "variationValue": "Aurora/Bright White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31pX7G9ed6L._SS36_.jpg"
+            },
+            {
+                "asin": "B09M2PS5ZH",
+                "variationName": "Color",
+                "variationValue": "Baby Pink/Soft Lilac",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31-KCatJojL._SS36_.jpg"
+            },
+            {
+                "asin": "B09H2BKTGG",
+                "variationName": "Color",
+                "variationValue": "Biscuit/Lily Pad",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31qCy52BieL._SS36_.jpg"
+            },
+            {
+                "asin": "B09M2YK3RR",
+                "variationName": "Color",
+                "variationValue": "Blush/Sage",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31MvLXT-8EL._SS36_.jpg"
+            },
+            {
+                "asin": "B09M336GWX",
+                "variationName": "Color",
+                "variationValue": "Cappucino/Cream",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31hLtPBI7-L._SS36_.jpg"
+            },
+            {
+                "asin": "B09H22F7Z2",
+                "variationName": "Color",
+                "variationValue": "Chamomile/Peach Bronze",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31g+V2eGYoL._SS36_.jpg"
+            },
+            {
+                "asin": "B09H1ZQMMM",
+                "variationName": "Color",
+                "variationValue": "Cotton Candy/Sandstone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31e1WO9g6zL._SS36_.jpg"
+            },
+            {
+                "asin": "B09LPG8PRP",
+                "variationName": "Color",
+                "variationValue": "Cream/Blush - Night",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31GVQFTN4zL._SS36_.jpg"
+            },
+            {
+                "asin": "B09LPV4FLJ",
+                "variationName": "Color",
+                "variationValue": "Croissant/Cream - Night",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31sijB9gFyL._SS36_.jpg"
+            },
+            {
+                "asin": "B09M33BL8R",
+                "variationName": "Color",
+                "variationValue": "Dark Navy/Sandstone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3116YrMOfkL._SS36_.jpg"
+            },
+            {
+                "asin": "B09LPSF994",
+                "variationName": "Color",
+                "variationValue": "French Gray/Croissant - Night",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31yFVcy408L._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Jet Black/Cream",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31jtj6ZgzAS._SS36_.jpg"
+            },
+            {
+                "asin": "B09LPPJZC6",
+                "variationName": "Color",
+                "variationValue": "Portobello/Croissant - Night",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31uev6eCEWL._SS36_.jpg"
+            },
+            {
+                "asin": "B09M2KWWH3",
+                "variationName": "Color",
+                "variationValue": "Powder Blue/Sage",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31J1MOMxtoL._SS36_.jpg"
+            },
+            {
+                "asin": "B09M31MHTJ",
+                "variationName": "Color",
+                "variationValue": "Seafoam/Cream",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310LKqZWF9L._SS36_.jpg"
+            },
+            {
+                "asin": "B09H2GFKXQ",
+                "variationName": "Color",
+                "variationValue": "Willow/Croissant",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31QDNa3plaL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Baked Clay/Cream",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31GWzwL90GS._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Blush/Cream",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31H9neQ4DSL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Croissant/Portobello",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31I9Hhr6nqS._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Dusty Rose/Lily Pad",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/319FSl+ulZS._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Powder Blush/Cream",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31UB2ExN-WS._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Rose Gold/Honey Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31cdTizENJS._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Woodchuck/French Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31TDIPPQwlS._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31-KCatJojL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31BPKzufksL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41wNwqFVNLL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/3158K5xGsoL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/513bdVSJhZL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41mPFMk3z8L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/518nwrTv8yL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the FRIGG Store",
+            "link": "https://www.amazon.com/stores/mushie/page/070DB5F6-42E2-4760-B462-6E75D8022A7E?ref_=ast_bln"
+        },
+        "brand": "mushie",
+        "merchantInfo": "mushie USA",
+        "customerReview": "4.7 out of 5 stars",
+        "customerReviewCount": 3252,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Wednesday, February 21 on orders shipped by Amazon over $35",
+            "Or fastest delivery Monday, February 19. Order within 21 hrs 14 mins",
+            "FREE pickup Wednesday, February 21 on orders shipped by Amazon over $35",
+            "Or fastest pickup Tomorrow, February 17. Order within 14 hrs 44 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "With scalloped edges that mimic flower petals, the FRIGG Daisy natural rubber pacifier takes the thoughtful design of our Classic pacifier and adds in a whimsical, charming design. Designed for your baby's comfort, the outward curve keeps the pacifier off their delicate skin, while features like air holes and a security handle ensure your baby stays safe.",
+            "Pack of two pacifiers. Suitable for ages 6-18 months.",
+            "100% free from BPA, PVC and phthalates.",
+            "Designed and manufactured in Denmark.",
+            "Care Instructions: Sterilize each pacifier before use. Do not use a pacifier that shows changes in color or irregularities, though the nipple size may naturally expand with use."
+        ],
+        "description": "A beautiful addition to your collection of baby essentials. Pacifiers available in a range of soft colors FRIGG pacifiers has been thoughtfully designed for your baby's comfort. The outward curve keeps the pacifier off their delicate skin, while features like air holes and a security handle ensure your baby stays safe. Available in a range of soft colors, FRIGG pacifiers make a beautiful addition to your collection of baby essentials. For optimal safety and hygiene, we recommend discarding your pacifier after 1-2 months of consistent use. Always check your pacifier before use, and discard at first signs of damage or wear. Natural rubber pacifiers may experience texture changes over time from exposure to extreme temperatures, humidity or direct sunlight. Replace the pacifier if the rubber material weakens.",
+        "breadCrumbs": [
+            {
+                "name": "Baby Products",
+                "link": "https://www.amazon.com/baby-car-seats-strollers-bedding/b/ref=dp_bc_aui_C_1?ie=UTF8&node=165796011"
+            },
+            {
+                "name": "Baby Care",
+                "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_2?ie=UTF8&node=17720255011"
+            },
+            {
+                "name": "Pacifiers, Teethers & Teething Relief",
+                "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_3?ie=UTF8&node=17720259011"
+            },
+            {
+                "name": "Pacifiers",
+                "link": "https://www.amazon.com/Baby-Pacifiers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2237476011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions",
+                "value": "\u200e6.54 x 4.65 x 1.69 inches"
+            },
+            {
+                "name": "Item model number",
+                "value": "\u200eYK-ke-43"
+            },
+            {
+                "name": "Material Type",
+                "value": "\u200ePolyvinyl Chloride"
+            },
+            {
+                "name": "Material Composition",
+                "value": "\u200eRubber"
+            },
+            {
+                "name": "Material free",
+                "value": "\u200eBPA Free"
+            },
+            {
+                "name": "Number Of Items",
+                "value": "\u200e2"
+            },
+            {
+                "name": "Batteries required",
+                "value": "\u200eNo"
+            },
+            {
+                "name": "Item Weight",
+                "value": "\u200e0.317 ounces"
+            },
+            {
+                "name": "ASIN",
+                "value": "B09M2PS5ZH"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.7 4.7 out of 5 stars 3,252 ratings 4.7 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#604 in Baby (See Top 100 in Baby) #19 in Baby Pacifiers"
+            },
+            {
+                "name": "Brand",
+                "value": "FRIGG"
+            },
+            {
+                "name": "Color",
+                "value": "Baby Pink/Soft Lilac"
+            },
+            {
+                "name": "Material",
+                "value": "Polyvinyl Chloride"
+            },
+            {
+                "name": "Material Type Free",
+                "value": "BPA Free"
+            },
+            {
+                "name": "Pattern",
+                "value": "Floral"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Frigg Pacifiers Danish-made pacifiers thoughtfully designed for your baby's comfort",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5e9fe684-47a8-4ca2-b21c-fc7671bdfef4.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "100% Designed and Made in Denmark Available in a range of soft colors, FRIGG pacifiers make a beautiful addition to your collection of baby essentials.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/22a17eeb-a862-4903-923c-aa80be84d29f.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Whimsical Styles For Your Baby's Comfort Frigg Daisy Pacifiers Frigg Andersen Pacifiers Frigg Rope Pacifiers Frigg Rope Pacifiers",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1bb20603-610e-4d80-9bd7-27e98dc6dac0.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/20d21061-5892-4208-ad07-90ad271a4e96.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/842b77a6-275c-4d27-b8db-94ad6071c866.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/12ae5f6f-67e9-4c7c-b5d7-966856f6d749.__CR0,0,220,220_PT0_SX220_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Care Instructions Thoughtfully Designed for Your Baby's Comfort Place the pacifier in a bowl, and pour boiling water overtop. Let sit for 3-5 minutes. Do not submerge for longer than 5 minutes. Remove and place on a flat surface to air dry. Do not use sterilizers, microwaves or dishwashers. A beautiful addition to your collection of baby essentials. Pacifiers available in a range of soft colors FRIGG pacifiers has been thoughtfully designed for your baby's comfort. The outward curve keeps the pacifier off their delicate skin, while features like air holes and a security handle ensure your baby stays safe. Available in a range of soft colors, FRIGG pacifiers make a beautiful addition to your collection of baby essentials. For optimal safety and hygiene, we recommend discarding your pacifier after 1-2 months of consistent use. Always check your pacifier before use, and discard at first signs of damage or wear. Natural rubber pacifiers may experience texture changes over time from exposure to extreme temperatures, humidity or direct sunlight. Replace the pacifier if the rubber material weakens.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/521fe9ee-b7c7-4679-8fde-1773be8e2f54.__CR0,0,300,400_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/38c5f2ff-a0b8-4d22-8d92-22bbed3e3f91.__CR0,0,350,175_PT0_SX350_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Daisy Pacifier Daisy Night Pacifier Rope Pacifier Moon Pacifier Silicone Pacifier Clips Andersen Fairytale Pacifier BPA/Phthalate Free \u2713 \u2713 \u2713 \u2713 \u2713 \u2713 100% Natural Rubber \u2713 \u2713 \u2713 \u2713 \u2713 CPSIA Certified \u2713 \u2713 \u2713 \u2713 \u2713 \u2713 Food-Grade Silicone \u2713 Styles Available 48+ 16+ 6+ 10+ 13+ 14+",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5e9fe684-47a8-4ca2-b21c-fc7671bdfef4.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/22a17eeb-a862-4903-923c-aa80be84d29f.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1bb20603-610e-4d80-9bd7-27e98dc6dac0.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/20d21061-5892-4208-ad07-90ad271a4e96.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/842b77a6-275c-4d27-b8db-94ad6071c866.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/12ae5f6f-67e9-4c7c-b5d7-966856f6d749.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/521fe9ee-b7c7-4679-8fde-1773be8e2f54.__CR0,0,300,400_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/38c5f2ff-a0b8-4d22-8d92-22bbed3e3f91.__CR0,0,350,175_PT0_SX350_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/762039df-5a63-47a4-9a8a-b28e5e9192d7.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f0969ff0-41df-4dc6-b424-6fba70afe742.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/28939e22-2e15-45c0-966c-25942b7edff4.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b5be7976-9cdd-4cde-9039-a2dfc2cb5d5f.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/92101ad8-e44e-4379-9765-31d3175bf5fd.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed60cd5e-8b7a-4374-a775-7edf997db392.__CR0,0,150,300_PT0_SX150_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Dan Tapia",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGDRQT5XYSIFBXUDGQXHYPGY7QVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RHRY119FSBXPR?ASIN=B09M2PS5ZH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars We love these!!",
+                "reviewText": "Both my little boy and I love this brand! Yes it\u2019s a little pricey but I have not regret purchasing it. It\u2019s cute and super durable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sara in Baltimore",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGDUGVBS6ERQPAZNMVYRURU7YS5A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3BGCD2M0VSOHD?ASIN=B09M2PS5ZH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 20, 2024",
+                "reviewTitle": "5.0 out of 5 stars He loves them, we love them.",
+                "reviewText": "They get the job done, and look cute!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Caitlin Forell",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEEVEG74ACPOVXFMZYVSDV2GFGFQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1AO88XB6ATRJP?ASIN=B09M2PS5ZH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 7, 2023",
+                "reviewTitle": "5.0 out of 5 stars Love the glow in the dark!",
+                "reviewText": "I have forever been a mom that purchases Bibs pacifiers for my girls, but I constantly lose them in the middle of the night. After doing a little bit of research, I found the Frigg pacifiers! They have similar high quality materials, look super cute and minimalistic, and this particular model has glow in the dark features. I also appreciate that these are a dollar or two cheaper than the bibs product. So far, I am really impressed with the Frigg brand. It's held up well, even with a teething infant. They are easy to clean or sanitize, and my babies have no issues switching between the frigg and the bibs binkies! I also am a happier mama when I come into their bedroom in the middle of the night and can spot the soft glow of the pacifier on the floor!",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Michelle Taylor",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEJB2VB5ONLE2JUPIF2LFIT2KDHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3CLY5CQYAWQMO?ASIN=B09M2PS5ZH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Favorite pacifiers",
+                "reviewText": "The sweet detail of the scalloped edge is a nice touch to our already favorite pacifiers.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alexandra Chelaru",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGU3EOTC4YMOCSGNMOABO4CQNGSQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1YJJP4UKV7ZOT?ASIN=B09M2PS5ZH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars The only binky my baby loves",
+                "reviewText": "We tried so many different pacifiers but my baby loves these ones. Every baby is different so get a couple, but these are by far the cutest. A little more pricy than other brands, but I like them well enough",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Hannah Francis Tittle",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH54YMJHA33ATFNCTWWVIPDP52RQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1HORJL3HG16Z6?ASIN=B09M2PS5ZH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "5.0 out of 5 stars The best!",
+                "reviewText": "I have a 2 year old & this is the only binky she\u2019s ever taken! She\u2019s used these binkies since she was born & I\u2019m not sure how well ever take them away \ud83d\ude05",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sarina",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHHQTAOKKOKQYRZ4SMTJM54XYYFA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3U1JCXWT87DOY?ASIN=B09M2PS5ZH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars Exactly what we needed",
+                "reviewText": "We already used FRIGG pacis and these are perfect for bedtime. Babies can find them in the dark so they aren\u2019t screaming for someone to come help in the night. Win win!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "hailey",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEOZQ3JXXYICV35DSPCHY5HLIKXA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R26G33EUJZBTFL?ASIN=B09M2PS5ZH",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 2, 2024",
+                "reviewTitle": "4.0 out of 5 stars Glow in the Dark",
+                "reviewText": "This pacifier has me wondering why they don\u2019t all glow in the dark. It\u2019s amazing. No more fumbling around blindly in the night wondering where the heck the pack is while your baby screams. I would have given it 5 stars except that you are supposed to soak in boiling water daily and the nipple fills with water which makes me worried about mold growth. It never seems to dry out.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Hannah",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on August 20, 2023",
+                "reviewTitle": "Good quality",
+                "reviewText": "Only dummy my little one uses!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "sev",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on August 11, 2023",
+                "reviewTitle": "Perfect dummies",
+                "reviewText": "Quick delivery, perfect condition dummies",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Camilla Mary-Rose",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on May 17, 2023",
+                "reviewTitle": "Our go to dummies!",
+                "reviewText": "Stylish & durable",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Karla D",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on March 21, 2023",
+                "reviewTitle": "Good",
+                "reviewText": "I have bought these many times. Good quality and my daughter loves them",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "manier",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in France on March 4, 2023",
+                "reviewTitle": "Parfait",
+                "reviewText": "Parfaite, plusieurs commande et jamais de\u00e7u de ces t\u00e9tines. Souple et bien prise par mon fils. Choix de couleur et de forme super ! Rien a redir",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

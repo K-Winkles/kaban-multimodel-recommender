@@ -1,0 +1,645 @@
+{
+    "remaining_requests": 15834,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Wrangler-Mens-Silver-Black-32x32/dp/B005DIMXOA",
+    "body": {
+        "name": "Wrangler Men's Cowboy Cut Silver Edition Slim Fit Boot Cut Jean",
+        "price": "$35.99 - $69.71",
+        "originalPrice": "",
+        "rawPrice": 35.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Wrangler-Mens-Cowboy-Silver-Slim/dp/B09QT2PT5B",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09QT2PT5B"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B005DIMATI",
+                "variationName": "Color",
+                "variationValue": "Dark Denim",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31JFFwsue1L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B005DIMXOA",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31letySSbAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B009AFIZZS",
+                "variationName": "Color",
+                "variationValue": "Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41YofW1NfcL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B005DIMPXY",
+                "variationName": "Size",
+                "variationValue": "28W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMVJC",
+                "variationName": "Size",
+                "variationValue": "28W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIN1BE",
+                "variationName": "Size",
+                "variationValue": "28W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMQBU",
+                "variationName": "Size",
+                "variationValue": "29W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMW3C",
+                "variationName": "Size",
+                "variationValue": "29W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIN1UU",
+                "variationName": "Size",
+                "variationValue": "29W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B087STFQTQ",
+                "variationName": "Size",
+                "variationValue": "30W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00527XUBM",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00527ZFT2",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIN24A",
+                "variationName": "Size",
+                "variationValue": "30W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B087SVLBSD",
+                "variationName": "Size",
+                "variationValue": "31W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMRC8",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMXBS",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIN2CW",
+                "variationName": "Size",
+                "variationValue": "31W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B087SHHHVY",
+                "variationName": "Size",
+                "variationValue": "32W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMRUU",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMXOA",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIN2MC",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DINDEE",
+                "variationName": "Size",
+                "variationValue": "32W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B087SXJLK1",
+                "variationName": "Size",
+                "variationValue": "33W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMSB8",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMY1C",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIN30I",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DINDN0",
+                "variationName": "Size",
+                "variationValue": "33W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B087SCN6WK",
+                "variationName": "Size",
+                "variationValue": "34W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMSPE",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMYD0",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIN3R6",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DINDWQ",
+                "variationName": "Size",
+                "variationValue": "34W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMT8A",
+                "variationName": "Size",
+                "variationValue": "35W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMYQC",
+                "variationName": "Size",
+                "variationValue": "35W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIN452",
+                "variationName": "Size",
+                "variationValue": "35W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B087SD9KZM",
+                "variationName": "Size",
+                "variationValue": "36W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMTOO",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMZ48",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIN4Z2",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B008PS22NM",
+                "variationName": "Size",
+                "variationValue": "36W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B087SY5WKF",
+                "variationName": "Size",
+                "variationValue": "38W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMU02",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMZIY",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIN5C4",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMUDO",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMZVQ",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIMUPM",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIN0FG",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31letySSbAL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/3137-6zJacL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31 Uw5BTaML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31 My6VKE9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/21LTD7t4tLL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41EsZoh0mhL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41INt1IQneL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d65cc512-7336-46b4-8e5a-6133085b719e/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/03fdcdf1-6e45-59a2-ab3a-dea908f2d25b/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4"
+        ],
+        "videosCount": 2,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Wrangler Store",
+            "link": "https://www.amazon.com/stores/Wrangler%C2%AE/page/447486A1-7264-4DFF-9C66-7F69EB4AA55B?ref_=ast_bln"
+        },
+        "brand": "Wrangler\u00ae",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 684,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Snap",
+            "Slim-fit jean featuring contrast stitching and classic five-pocket styling",
+            "Signature \"W\" embroidery and logo patch on back pockets",
+            "Belt-loop waistband"
+        ],
+        "description": "Since 1947, Wrangler has maintained a relentless commitment to quality apparel built to fit your life. Wrangler fills your closet with authentic snap shirts, tees, jackets and authentic western denim that keep you comfortable in true western style. Our shirts feature iconic details such as pearl snaps, pointed yokes, \u2018W\u2019 stitching on the pockets, and spread collars. Jeans come in 100% heavyweight denim or with a bit of stretch for extra comfort and feature a Wrangler patch, W stitching on pockets and classic 5 pocket styling. Crafted with care, our western line is made for men who start their day before the sun comes up and won\u2019t stop working until the job is done. This is Wrangler, made for you.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 14.17 x 13.54 x 2.28 inches; 1.23 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 933SEDD"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 20, 2011"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Wrangler - MEN'S"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B005DIM21E"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#81,888 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #339 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 684 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "About us Wrangler is the everyday performance denim brand. Since the dawn of our denim, our inspiration and guide has been real life experiences. We believe that clothing should be designed to fit the needs of the people wearing it. We have held this belief to our heart from the beginning \u2014 from 1947 , when we started up in Greensboro, North Carolina. We embarked on a platform of innovation and with an idea to create jeans, jackets and shirts for cowboys. We added special features. We added functionality. For instance, flat rivets that wouldn\u2019t scratch your saddle, watch pockets, seven belt loops (instead of the usual five), and yoke seam over panel for keeping your wallet in place. Functional design details still remain vital, adapting to modern looks and needs. Now, with jeans being worn by millions every day, we are totally committed to improving the everyday functionality of our jeans and to make a huge and positive difference to your life. Our ground-breaking innovative platform, Denim Performance, started with our understanding of what riders need from a pair of jeans: Tough Gear, Sun Shield, Cool Vantage and Water Repellent. We move with the times, often leading the way to providing more comfortable, more stylish and more innovative every day denim wear. A wear that is just as durable, authentic and stylish as you would expect from the denim brand.",
+                "media_link": []
+            },
+            {
+                "media_text": "About us Wrangler is the everyday performance denim brand. Since the dawn of our denim, our inspiration and guide has been real life experiences. We believe that clothing should be designed to fit the needs of the people wearing it. We have held this belief to our heart from the beginning \u2014 from 1947 , when we started up in Greensboro, North Carolina. We embarked on a platform of innovation and with an idea to create jeans, jackets and shirts for cowboys. We added special features. We added functionality. For instance, flat rivets that wouldn\u2019t scratch your saddle, watch pockets, seven belt loops (instead of the usual five), and yoke seam over panel for keeping your wallet in place. Functional design details still remain vital, adapting to modern looks and needs. Now, with jeans being worn by millions every day, we are totally committed to improving the everyday functionality of our jeans and to make a huge and positive difference to your life. Our ground-breaking innovative platform, Denim Performance, started with our understanding of what riders need from a pair of jeans: Tough Gear, Sun Shield, Cool Vantage and Water Repellent. We move with the times, often leading the way to providing more comfortable, more stylish and more innovative every day denim wear. A wear that is just as durable, authentic and stylish as you would expect from the denim brand.",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sota/e10c1745-e189-4de5-afe3-4642abd6bb4c.__CR0,0,600,180_PT0_SX600_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/4979bd4b-a37b-4b91-bbb0-16f42c3b6d30.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/18bb110e-5120-4546-a1df-f4c198503029.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/8a0623c2-2111-4007-b93e-2da58aeaec86.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Benjamin Africa III",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEN74OWYS6NB66SUSOTM4PWUA4SA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R35PAP7Y7KMQE3?ASIN=B09QT2PT5B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 9, 2023",
+                "reviewTitle": "5.0 out of 5 stars Cowboy up",
+                "reviewText": "Even us Coke-a-Cola cowboys love Wrangler for this product. A perfect fit and great look. These are they way jeans should be made. One can spend three four times as much for another brand but these are save money are durable and look sharp. Hurrah and a whoopie tie yie yeah to Wrangler.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kent Harrop Sr",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH4KWOATJH3Y44IMI4JH6H4KOLPA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R32VW5B2NLIKZ4?ASIN=B09QT2PT5B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 10, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great option for a dress pant",
+                "reviewText": "I purchased these as an alternative to the wrangler polyester dress pants. While these are not as thick as the cowboy cut regular denim, they are an excellent alternative for a dress pant option while still wanting to wear boots with. I have these in dark denim and black and they are some of the most comfortable wranglers I own. They are a bit smaller compared to the regular, thicker denim cowboy cut but not alarmingly tighter. That is why the these jeans make a great alternative for dress up events. Paired with a blazer or dress shirt, one can still remain cowboy/country without having to ditch the denim. High recommend, and stick to your regular wrangler size.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Michelle W.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGYXB7RHDT2SAKKYODSCSQEK5M2A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R292EZ8GP7OPPF?ASIN=B09QT2PT5B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 16, 2023",
+                "reviewTitle": "5.0 out of 5 stars These rock for slim and tall",
+                "reviewText": "These fit great. They are the Silver edition jeans. Not the other types. My guy really needed jeans, and the Try Before You Buy program is really amazing. So simple, too. It sure beats going to try clothes on at a store. These are a size 33\u00d734 mens slim silver edition Wrangler jeans bootcut. This is a size smaller than he usually wears. Fits great. Rrrow.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kindle Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGUZTYTLOUIGJU5WMECXTLDDDE2Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R5OPSV9LFZL4W?ASIN=B09QT2PT5B",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 18, 2023",
+                "reviewTitle": "4.0 out of 5 stars could not guess the right size",
+                "reviewText": "I'd suggest buy a larger size, these jeans are too tight",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rich Whitney",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHDTANGDBEX6ZQUKVKS2BJSSAHOQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R178LHIAW9J7RV?ASIN=B09QT2PT5B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 27, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great fit and boot cut",
+                "reviewText": "Best jeans I\u2019ve owned and comfortable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kris",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFDHH5AXTJASKPPAPUXO2I4DE4LA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R160A35B0ZKJWQ?ASIN=B09QT2PT5B",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "1.0 out of 5 stars Not worth it",
+                "reviewText": "do not buy not worth it",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jerry Barbour",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFWYIBMH3TORNRZVIOIOQBOSYRJA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2A60SB9PWE0PY?ASIN=B09QT2PT5B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 26, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great jeans just to small in the waist.",
+                "reviewText": "I like the fit ,to small in waist need a 35",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "John Werner",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG2V6UPI2RYXFSR5I7SJGWQBOU3A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3QNYJB83ID7HS?ASIN=B09QT2PT5B",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 13, 2023",
+                "reviewTitle": "3.0 out of 5 stars Ran Big & Sloppy Tailored",
+                "reviewText": "I wanted a jean that was khaki colored because I love denim shirts and denim shirts look stupid with jeans. You know like your trying to be all one fabric. Anyway, I thought these would be like the classic Pro Rodeo cut. I was wrong. It still has a higher waist but it is like a bag with little contour or fitted tailoring. Too big equals a bit of a sloppy look. Plus the denim is lighter weight than expected. Pretty much still looking for the right khaki pair of jeans.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Producto bueno, llego en excelente condici\u00f3n y es igual al que se promociona, asi mismo es confortable y se camina agusto, por lo que se recomienda a la tienda y a Amazon ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 2, 2024",
+                "reviewTitle": "Calidad, dise\u00f1o y ajuste",
+                "reviewText": "Se aprecia de buena calidad y es igual a como se promociona por lo que queda bien de acuerdo a la talla por lo que se recomienda a la tienda y Amazon por el env\u00edo r\u00e1pido",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Shannon",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 30, 2023",
+                "reviewTitle": "Nice jeans but sm in butt",
+                "reviewText": "Very nice jeans but really small in upper leg, crotch & butt. Product details say that but even with my long thin legs to fitted.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Zane Trow",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Australia on December 7, 2020",
+                "reviewTitle": "An excellent jean...",
+                "reviewText": "Good cotton, well produced, good fit. Design - classic - with a couple of extended features, well worth the effort. I bought, then I bought another.....",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Me agrada   Cumple con lo deseado",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 2, 2024",
+                "reviewTitle": "Excelente",
+                "reviewText": "Buen producto",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dale Goudreault",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 4, 2023",
+                "reviewTitle": "Jai demand\u00e9 un retour et ca na jamais fonctionn\u00e9",
+                "reviewText": "a",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

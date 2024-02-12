@@ -1,0 +1,672 @@
+{
+    "remaining_requests": 16431,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Levis-Classic-Western-Shirt-Sodalite/dp/B0BN6TDVQD",
+    "body": {
+        "name": "Levi's Men's Tall Size Classic Western Shirt (Also Available in Big & Tall)",
+        "price": "$22.35 - $41.70",
+        "originalPrice": "",
+        "rawPrice": 22.35,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Levis-Classic-Western-Shirt-Available/dp/B0C5ZR5817",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0C5ZR5817"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0B1K95F2Z",
+                "variationName": "Color",
+                "variationValue": "Franklin Stone Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41G1GGJ-mfL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5ZHBY8S",
+                "variationName": "Color",
+                "variationValue": "(New) Deshawn Plaid Rust",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41FzQQt9ixL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5Z2MQCR",
+                "variationName": "Color",
+                "variationValue": "(New) Angler Otter Overdye",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313ioH53KqL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5Z5ZZS9",
+                "variationName": "Color",
+                "variationValue": "(New) Calypso Grey Stonewash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4123LycSGdL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5ZDXZB7",
+                "variationName": "Color",
+                "variationValue": "(New) Deshawn Plaid Niagra Mist",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41p1bFvKHdL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5Z67Q2D",
+                "variationName": "Color",
+                "variationValue": "(New) Evergreen Lt Chambray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31+gXlqFWuL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5ZC5CYR",
+                "variationName": "Color",
+                "variationValue": "(New) Ivy Mid Chambray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410xxdo2tcL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09WGCPLTZ",
+                "variationName": "Color",
+                "variationValue": "(New) Quentin Plaid Evergreen",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41eL8JPyRYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BN529Z3H",
+                "variationName": "Color",
+                "variationValue": "Harvey Plaid Chocolate Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51mMYZXlADL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BN51TBV4",
+                "variationName": "Color",
+                "variationValue": "Hugo Plaid Sodalite Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51iSRSLcudL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BN6S56CC",
+                "variationName": "Color",
+                "variationValue": "Mccaren Mid Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4102WpnQGGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B1JSX87P",
+                "variationName": "Color",
+                "variationValue": "(New) Van Plaid Sea of Belize Plaid",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41r3dle8lvL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08BF1NW5M",
+                "variationName": "Color",
+                "variationValue": "Black Rinse",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41fG-IqvIsL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BN6RQRVK",
+                "variationName": "Color",
+                "variationValue": "Hunter Plaid Sporting Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LvE84nFVL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09N6WWDVP",
+                "variationName": "Color",
+                "variationValue": "Carter Port",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51782h-cCnL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096L6YDM8",
+                "variationName": "Color",
+                "variationValue": "Clean Washed Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41SGCau0LoL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BN6TJPNB",
+                "variationName": "Color",
+                "variationValue": "Mt Norman Grey Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wodKei+KL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08CK4YX4T",
+                "variationName": "Color",
+                "variationValue": "Red Cast Dark Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41STjS23aaL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08BF5HSCY",
+                "variationName": "Color",
+                "variationValue": "Rinse Takedown - Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41lpfgk3k0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08BFC5VCV",
+                "variationName": "Color",
+                "variationValue": "Stonewash Takedown - Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZaEGy8XCL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09WG6GTCY",
+                "variationName": "Color",
+                "variationValue": "(New) Robert Plaid Shaved Chocolate",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41k07tHTO-L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BN51GSL3",
+                "variationName": "Color",
+                "variationValue": "Hugo Plaid Silt",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41F20H4DdyL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09N6TJ4BW",
+                "variationName": "Color",
+                "variationValue": "Pewter",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Nx6W8NAUL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09N6F97DZ",
+                "variationName": "Color",
+                "variationValue": "Iced Coffee",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41OVF4fp+1L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09N6J3HH1",
+                "variationName": "Color",
+                "variationValue": "Romy Naval Academy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/416Gxa3fzRL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08BF82FBT",
+                "variationName": "Color",
+                "variationValue": "(New) Rinse Takedown - Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41lpfgk3k0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07S9BH854",
+                "variationName": "Color",
+                "variationValue": "Red Cast Stone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/5198Hvi2aAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BN535NL6",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BN53F34G",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BN51CYW1",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BN4ZL7BG",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KF3TBX",
+                "variationName": "Size",
+                "variationValue": "Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BN536WWD",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KQMN3W",
+                "variationName": "Size",
+                "variationValue": "X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BN6TDVQD",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KK6H81",
+                "variationName": "Size",
+                "variationValue": "XX-Large Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1JQGYXD",
+                "variationName": "Size",
+                "variationValue": "XX-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BN51TBV4",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5ZQC4X9",
+                "variationName": "Size",
+                "variationValue": "3X-Large Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KLWQPW",
+                "variationName": "Size",
+                "variationValue": "3X-Large Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1K61W4Y",
+                "variationName": "Size",
+                "variationValue": "3X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1K95F2Z",
+                "variationName": "Size",
+                "variationValue": "4X-Large Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KK6G7J",
+                "variationName": "Size",
+                "variationValue": "4X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5ZBYW4L",
+                "variationName": "Size",
+                "variationValue": "5X-Large Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1JVN4CV",
+                "variationName": "Size",
+                "variationValue": "5X-Large Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5ZC1T91",
+                "variationName": "Size",
+                "variationValue": "6X-Large Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KFZ73X",
+                "variationName": "Size",
+                "variationValue": "6X-Large Big Tall",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/51iSRSLcudL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51zWyo8bAzL.jpg"
+        ],
+        "imagesCount": 2,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Levi's Store",
+            "link": "https://www.amazon.com/stores/Levis/page/7B18FACC-DCB8-4735-B4AC-CDE16CD147DD?ref_=ast_bln"
+        },
+        "brand": "Levis",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 1460,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Button",
+            "Sits at waist",
+            "Loose through seat and thigh",
+            "Straight leg",
+            "The model in the image is 6' and is wearing Medium."
+        ],
+        "description": "Classic long-sleeve, twill Western Shirt. Original western details. Curved shirttail hem. Two snap-pockets at chest.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Shirts",
+                "link": "https://www.amazon.com/Mens-Shirts/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2476517011"
+            },
+            {
+                "name": "Button-Down Shirts",
+                "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_5?ie=UTF8&node=121177981011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.82 x 10.75 x 1.81 inches; 1.23 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 85745-0074"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e May 17, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Levi's"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0B1KBVFBZ"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#17,391 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #455 in Men's Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 1,460 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Compare Levi's Jeans Classic Western Standard See Details Relaxed Fit Tee Add to Cart Classic Pocket Tee See Details Graphic Crewneck Tee See Details Levi's Housemark Polo Add to Cart Customer Reviews 4.5 out of 5 stars 1,460 4.5 out of 5 stars 2,631 4.5 out of 5 stars 394 4.5 out of 5 stars 2,631 4.4 out of 5 stars 770 Price $49.99$49.99 $17.15$17.15 $20.65$20.65 $19.99$19.99 $27.65$27.65 Fit Standard Relaxed Standard Standard Standard Features Distinctive Snap Placket Everyday Tee Single Chest Pocket Bold Graphic Moisture Wicking Neckline Collar Crew Neck Crew Neck Crew Neck Collar Sleeve Long Sleeve Short Sleeve Short Sleeve Short Sleeve Short Sleeve Fabrication 100% Cotton 100% Cotton 100% Cotton 100% Cotton 100% Cotton",
+                "media_link": []
+            },
+            {
+                "media_text": "Previous page Next page",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/54bd3773-9c42-426a-b32c-5f8e9e502f1d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a0efdec6-f7c1-4bcf-ae5a-7a1d563924fd.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a83d1e3f-ada9-41eb-8bb9-0c289fa22499.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b4f2b33b-5db6-4187-9221-cfd6e395e06c.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bdf05071-b14b-45f5-8523-b77766a4793e.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0c165d8a-7bd4-49d3-8f6f-f2a2c5be7211.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f68f1da7-07fd-44dc-a714-42c8b3970464.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/48b3dfa0-2aa1-46cc-9e1c-e77714950611.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ddc33e0f-7764-4af7-b0a0-f19a7ceb83c4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Fancy pants. ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH6EY363BWASQBARHCLIACWZSERA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R19C0AFDDUFS9V?ASIN=B0C5ZR5817",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good quality",
+                "reviewText": "Nice fit and style the black is my favorite.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Consumer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEYHWCZWIPASOCMYWLD6MLI7WKVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2HJBS5S1N8EAF?ASIN=B0C5ZR5817",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great denim shirt",
+                "reviewText": "Been wanting to replace my old denim Levi's shirt for some time. As expected from Levi's, good overall quality & very soft. Color matched what I was expecting as well as the size.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Diana Sanchez",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHJ42GM2FWMOHPJLH2RPARQIML4Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1F1R97CAMF9TN?ASIN=B0C5ZR5817",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 15, 2023",
+                "reviewTitle": "5.0 out of 5 stars AWESOME SHIRT, RUNS SMALL",
+                "reviewText": "I have worn Levi shirts for over 4 decades now. This one is thicker denim, ya get what ya pay for. There are some that are thinner denim., but this is not one of the thin ones. I ordered a man's med.. & it was SMALL on me. So I sent it back & got a man's \"L\" & it fits like I want it to fit. I got the darker shade of denim & now I will order the lighter shade. Hope this review helps out a little bit",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "lynn fetz",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHV5FZQFEWG3TZ243NK27EBOUE2Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1Y5Q0X3R7MTTZ?ASIN=B0C5ZR5817",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 1, 2024",
+                "reviewTitle": "4.0 out of 5 stars Soft",
+                "reviewText": "The fit was good. Not sure about snaps instead of buttons, turned out great. Soft fabric",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Steven BaillieSteven Baillie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFOOG3DBGVAKGQ3XAOUE7OD36YTQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3KVTOBTMFVX7I?ASIN=B0C5ZR5817",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 19, 2024",
+                "reviewTitle": "5.0 out of 5 stars Pull off The perfect denim shirt look",
+                "reviewText": "This is exactly as advertised don\u2019t wait get it. Got me 3 colors - Franklin stone wash, dark wash, indigo stone wash. Indigo and Franklin are kinda close so I might send back the Franklin. I like the acid wash look of the indigo.So I wear a XL and this is perfectly measured at sleeves and torso. I have like 34-35 sleeve length.Besides fit the material is thick not too thick just right. Soft and flexible. It\u2019s just right guys. Get it you won\u2019t be wrong. Get a couple colors for light and dark pants.Thanks Levis I couldn\u2019t be happier.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/711UUkCEIuL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/717ch-4S7dL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71iqT4qb2iL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gina ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGHWTW2NSNMT6PGCU5MJQ26VJIVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R10WNE3M9L9ZPH?ASIN=B0C5ZR5817",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 2, 2024",
+                "reviewTitle": "5.0 out of 5 stars LEVI\u2019S is the BEST",
+                "reviewText": "Bought for my hubby for a Christmas gift.Didn\u2019t realize it was a western style with pearl snaps. I Intended to return it but gave it to him \u201ctemporarily \u201c till I could get a replacement.Well!!! What can I say. HE LOVED IT!Wears it over another shirt like a lightweight jacket.Looks great and is very comfortableThank you Mr Levi!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Evan G.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHYZPR3KAYWS776K7JYF7JWVBYVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3BCGLPRIB07UO?ASIN=B0C5ZR5817",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great (and hard to find) fit!",
+                "reviewText": "As a lean person, I often struggle to find shirts that fit me well. They are either too loose around the waist or too tight on the shoulders, or both. This shirt, however, is much more suitable for my body type.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Christina Torres",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFQFF4XWUSNZHMBSLPX5T5S6ZPCA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2ES99B75SZ1LW?ASIN=B0C5ZR5817",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Gift",
+                "reviewText": "This was a gift for husband he like the fit,color.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Andr\u00e9s Isidro Hern\u00e1ndez ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 6, 2024",
+                "reviewTitle": "Excelente producto",
+                "reviewText": "Talla exacta y calidad \ud83d\udc4c",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "David Lawson",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 4, 2024",
+                "reviewTitle": "Exactly What I Was Looking For",
+                "reviewText": "Bought two differently styled Wrangler brand shirts that fit very badly and I didn't care for. Returned them and tried this. It's perfect. Bought one size up and it fits comfortably loose. Soft feel and heavy for a shirt fabric. Pale blue true denim colour and texture goes well with darker Levi jeans and jacket. Canadian tuxedo! Pearl snap buttons and western front and back yoke. Pretty classic. I'm big and tall and they have the extended sizes. Good value for a top denim brand.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ouson2000",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 19, 2023",
+                "reviewTitle": "Levis shirt,,,just awesome quality",
+                "reviewText": "Would buy again",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Excelente calidad y buen precio.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 18, 2023",
+                "reviewTitle": "Excelente producto",
+                "reviewText": "Excelente camisa, muy acorde la talla, muy buena calidad de la tela, sin duda muy buena compra",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "BigJD",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 17, 2023",
+                "reviewTitle": "Love it! Cool shirt, cool seller.",
+                "reviewText": "Swapped for larger one though, seems to run a bit small I feel. Great shirt, the usual Levi's feel & quality, has been around forever and probably will be. If u dig denim shirts, get this. Great seller!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

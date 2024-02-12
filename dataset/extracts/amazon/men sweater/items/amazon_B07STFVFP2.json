@@ -1,0 +1,517 @@
+{
+    "remaining_requests": 16120,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Tommy-Hilfiger-Quarter-Pullover-Sweatshirt/dp/B0CTGC4L7B",
+    "body": {
+        "name": "Men's Long Sleeve Fleece Quarter Zip Pullover Sweatshirt",
+        "price": null,
+        "originalPrice": "",
+        "rawPrice": null,
+        "currency": null,
+        "canonicalUrl": "https://www.amazon.com/Tommy-Hilfiger-Quarter-Pullover-Sweatshirt/dp/B0CTGC4L7B",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CTGC4L7B"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07XV2XQ49",
+                "variationName": "Color",
+                "variationValue": "Classic Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XMxbppw2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07SWNXBLB",
+                "variationName": "Color",
+                "variationValue": "Fleet Blue Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HwzJc6puL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Grey Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wa7x3yp+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07STFVLCY",
+                "variationName": "Color",
+                "variationValue": "Charcoal Grey Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HytudVIgL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B098KYLSXY",
+                "variationName": "Color",
+                "variationValue": "Hilfiger Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Se1EDubHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07SWNXBL3",
+                "variationName": "Color",
+                "variationValue": "Jet Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/319-IQfHaDL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Haute Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41dmzPhV9AL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07SQ9RR5P",
+                "variationName": "Color",
+                "variationValue": "Hilfiger Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31IOvUVmkWL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07VRYHK75",
+                "variationName": "Color",
+                "variationValue": "Snow White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31kGw0+Le+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08DG87ZF9",
+                "variationName": "Color",
+                "variationValue": "Chili Pepper",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DJYfawGgL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Dark Sable",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41mpmZxsNKL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07XV2XQ49",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XV7P6VJ",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XV2BLWN",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XV2T5JV",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCQZBYRQ",
+                "variationName": "Size",
+                "variationValue": "Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XV5Y1PJ",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCR1WKZB",
+                "variationName": "Size",
+                "variationValue": "X-Large Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCR25GMD",
+                "variationName": "Size",
+                "variationValue": "X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XV9JHC3",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCR25PDX",
+                "variationName": "Size",
+                "variationValue": "XX-Large Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCR47M3N",
+                "variationName": "Size",
+                "variationValue": "XX-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCR1P6JG",
+                "variationName": "Size",
+                "variationValue": "3X-Large Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCR3T7JT",
+                "variationName": "Size",
+                "variationValue": "3X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCQZ61SC",
+                "variationName": "Size",
+                "variationValue": "4X-Large Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCR31MFR",
+                "variationName": "Size",
+                "variationValue": "4X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCR2WFY6",
+                "variationName": "Size",
+                "variationValue": "5X-Large Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCQY281K",
+                "variationName": "Size",
+                "variationValue": "6X-Large Big",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41XMxbppw2L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41KkpHPKs9L.jpg"
+        ],
+        "imagesCount": 2,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Tommy Hilfiger Store",
+            "link": "https://www.amazon.com/stores/TommyHilfiger/page/56C071CE-0DD0-420A-920B-BD5EBE1C7EA8?ref_=ast_bln"
+        },
+        "brand": "TommyHilfiger",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 1224,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "Fly your flag, the Tommy way. Tommy Hilfiger\u2019s seriously soft fleece sweatshirts for men keep you covered in classic Tommy style. Ultra-comfortable and endlessly layerable, they\u2019re your wardrobe go-to for hitting the gym or just kicking back.",
+            "FAMOUS FLEECE: 100% pure cotton yarn gives Tommy Hilfiger\u2019s men\u2019s sweatshirts their soft feel, lofty weight and natural breathability.",
+            "LAYER UP: A great outer layer on mild days, Tommy Hilfiger\u2019s logo sweatshirt for men is also perfect under parkas when the temperatures plummet.",
+            "SIMPLY ICONIC: From the quarter zip neckline and mock neck to the flag icon\u2014a signature of Tommy Hilfiger\u2019s graphic sweatshirts\u2014the details make all the difference.",
+            "A CLOSET ESSENTIAL: Discover the quintessential cotton sweatshirt, perfected by the team at Tommy Hilfiger\u2014purveyors of classic, American cool style since 1985."
+        ],
+        "description": "Tommy Hilfiger Men's Long Sleeve Fleece Quarter Zip Pullover Sweatshirt",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1/000-0000000-8675309?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2/000-0000000-8675309?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3/000-0000000-8675309?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Fashion Hoodies & Sweatshirts",
+                "link": "https://www.amazon.com/Mens-Fashion-Hoodies-Sweatshirts/b/ref=dp_bc_aui_C_4/000-0000000-8675309?ie=UTF8&node=1258644011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 18.42 x 13.78 x 2.17 inches; 15.2 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 78C6087-619"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e September 12, 2019"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Tommy Hilfiger"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07XV2XQ49"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#72,267 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #167 in Men's Fashion Hoodies & Sweatshirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 1,224 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/e1bb2000-f2ca-408c-8ce4-e497c6273b89.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f3ef5fb3-1ea1-486d-abda-70888c987720.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ec023efd-92d5-4be0-8c35-6927cc9608d8.__CR1,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "stellgar",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEDEESOBW6GYZNREPUUC6QKWNVUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R246OK76TUDEHH?ASIN=B0CTGC4L7B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 30, 2023",
+                "reviewTitle": "5.0 out of 5 stars Nice!",
+                "reviewText": "Very nice and good quality!\ud83d\udc4d\ud83c\udffc",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dools",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGBH33XXZMHZI73K6UY7DXFIACAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3E19EXTGKJC49?ASIN=B0CTGC4L7B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Fits good as it should!",
+                "reviewText": "Liked the color and the fit. Would definitely reorder.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Thrilled",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AES7GNBI4JRPH6PHJ3NXZUK5W57A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14HQOPZAW2DHU?ASIN=B0CTGC4L7B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice quality .",
+                "reviewText": "Quality shirt nice fit. Fast delivery.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "James C.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHTWUX34SKNH2CVXTXOB2H3OI6FQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3DY4E7IFS3GE?ASIN=B0CTGC4L7B",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 2, 2024",
+                "reviewTitle": "4.0 out of 5 stars Comfortable!",
+                "reviewText": "Warm and comfortable! I have one that I liked so much that I bought a 2nd. Amazon sent me a different color than what I ordered though.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jamie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFFFWOD22TNEZE3VJ2A22UCBSAAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RA1KTOT29TAO6?ASIN=B0CTGC4L7B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars Just buy it",
+                "reviewText": "Great gift. Boyfriend approved. Looks more expensive than it was! 10/10",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "DiDi",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEGZE2CDVM3R4LVB3EVGDWV77UOQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RD8N9RIMGS6SN?ASIN=B0CTGC4L7B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 9, 2023",
+                "reviewTitle": "5.0 out of 5 stars Not fleece",
+                "reviewText": "But I love it. I\u2019m sure my son in law will too. Nice material. Should be very comfortable! Not really warm by any stretch.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ruth Gonzalez",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHX32XIHO4CM2TKM2TUOH56LMVWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R17XAL3PP7IPJC?ASIN=B0CTGC4L7B",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 21, 2023",
+                "reviewTitle": "3.0 out of 5 stars sizing is off",
+                "reviewText": "upon receiving the sweater i was satisfied by its apperance however upon tryng it on i found it was large in the shoulders and slightly long in length ,the body and sleves were quite wide .",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "J C Thompson",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHVRKNTDHGUTE7PBCCI7PXQZKJVA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1DWXK5OQ94XDX?ASIN=B0CTGC4L7B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 10, 2023",
+                "reviewTitle": "5.0 out of 5 stars Quality",
+                "reviewText": "Great price and great quality",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ricardo",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 22, 2023",
+                "reviewTitle": "Calidad y precio",
+                "reviewText": "Excelente sueter muy bonito buen precio talla M mido 1.72 peso 80 kilos",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Evelio",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on August 9, 2023",
+                "reviewTitle": "Buena calidad",
+                "reviewText": "Es un buen producto y maneja la calidad hacia la marca q es; de pronto es hacer un poco m\u00e1s grande la prenda; para la talla q maneja",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "M.Malach",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on April 6, 2023",
+                "reviewTitle": "This is really worth the $",
+                "reviewText": "Fits amazing. Not too loose or tight. Washes well. Good quaily",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "elyse",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 3, 2022",
+                "reviewTitle": "Loves it!",
+                "reviewText": "I got this for my dad for Christmas and he made a point of calling me a week later to tell me he loves it and has lived in it.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Virgi",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 23, 2021",
+                "reviewTitle": "Fabulous jersey!",
+                "reviewText": "This is a really nice quality of jersey. My husband is a M/L and the M fit perfectly. It\u2019s a great colour and excellent fit.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

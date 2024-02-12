@@ -1,0 +1,702 @@
+{
+    "remaining_requests": 15804,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Lee-Legendary-Regular-Tapered-Overdye/dp/B098KXR5TR",
+    "body": {
+        "name": "Men's Legendary Regular Fit Tapered Leg Jean",
+        "price": "$31.58 - $46.00",
+        "originalPrice": "",
+        "rawPrice": 31.58,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Lee-Mens-Legendary-Regular-Tapered/dp/B09QT5ZTHH",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09QT5ZTHH"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B098KYG21P",
+                "variationName": "Color",
+                "variationValue": "Turnt Up",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313UlpPXOiL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B098KYWZFT",
+                "variationName": "Color",
+                "variationValue": "Aegean Sea",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41uq5iEIqtL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B098KXX9CW",
+                "variationName": "Color",
+                "variationValue": "Overdye Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31KjX3STd5L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B098KXZDP5",
+                "variationName": "Color",
+                "variationValue": "Union Fade",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31eNhbF0PWL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B098KWYHVZ",
+                "variationName": "Color",
+                "variationValue": "Good Time",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31H9hPZyXcL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B098KYQT6B",
+                "variationName": "Size",
+                "variationValue": "28W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYQT55",
+                "variationName": "Size",
+                "variationValue": "28W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXB2YD",
+                "variationName": "Size",
+                "variationValue": "29W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYHMXG",
+                "variationName": "Size",
+                "variationValue": "29W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KX8KWP",
+                "variationName": "Size",
+                "variationValue": "29W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXKRNR",
+                "variationName": "Size",
+                "variationValue": "30W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KZRVG1",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KZJZ32",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KWSDSG",
+                "variationName": "Size",
+                "variationValue": "30W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYK74W",
+                "variationName": "Size",
+                "variationValue": "30W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXR5TR",
+                "variationName": "Size",
+                "variationValue": "31W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXG8RN",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXLZ6P",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYRFNK",
+                "variationName": "Size",
+                "variationValue": "31W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXX9CW",
+                "variationName": "Size",
+                "variationValue": "32W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYB5DP",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KX8CBW",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYSFGS",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KY2KQT",
+                "variationName": "Size",
+                "variationValue": "32W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KY9GB8",
+                "variationName": "Size",
+                "variationValue": "33W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXVNR8",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KY4P2D",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXJPVX",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXV421",
+                "variationName": "Size",
+                "variationValue": "33W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXPK57",
+                "variationName": "Size",
+                "variationValue": "34W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYXJY5",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXJR5W",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KZLB4X",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYK7XV",
+                "variationName": "Size",
+                "variationValue": "34W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXY6LK",
+                "variationName": "Size",
+                "variationValue": "35W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYHFFZ",
+                "variationName": "Size",
+                "variationValue": "35W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KY9PHX",
+                "variationName": "Size",
+                "variationValue": "35W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYJ89B",
+                "variationName": "Size",
+                "variationValue": "36W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYVSTJ",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KX67QS",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYL61R",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KY9QYT",
+                "variationName": "Size",
+                "variationValue": "36W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXQ3N5",
+                "variationName": "Size",
+                "variationValue": "38W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXMQTL",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KY379Q",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KWMC24",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KWMC21",
+                "variationName": "Size",
+                "variationValue": "38W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYZC24",
+                "variationName": "Size",
+                "variationValue": "40W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXMLVP",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KW8JW1",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXDPVW",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KZDJ11",
+                "variationName": "Size",
+                "variationValue": "40W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXRRL9",
+                "variationName": "Size",
+                "variationValue": "42W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KXL519",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KZ214H",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYR4PW",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098KYF8D5",
+                "variationName": "Size",
+                "variationValue": "42W x 36L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31KjX3STd5L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31HVmg2H4fL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31JyxBEsOUL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31PlnJP2u L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31PnYwJV14L.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Lee Store",
+            "link": "https://www.amazon.com/stores/LEE%C2%AE/page/450C35B6-2305-427C-87D9-A5E75DDF379F?ref_=ast_bln"
+        },
+        "brand": "LEE\u00ae",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 686,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 99% Cotton, 1% Spandex",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "REGULAR FIT. These tapered jeans sit at the natural waist and feature a regular fit through the seat and thigh for a classic, laidback look that keeps you comfortable all day long.",
+            "STRETCH COMFORT. Made with comfort in mind, these jeans are constructed from a perfect blend of stretch-cotton fabric that moves with you for all-day comfort.",
+            "LEGENDARY DETAILS. Make a statement in pants constructed with our signature Legendary details that make Lee jeans unique.",
+            "A LIFETIME OF QUALITY. For over 100 years, Lee has produced quality apparel with durability and long-lasting construction in mind. Lee is committed to designing clothing that conforms to your body, allowing you to move through life freely.",
+            "SPECIFICATIONS. 5-pocket styling with (2) spade back pockets. Zipper fly with button closure. Leg opening: 14.75\"."
+        ],
+        "description": "Just like our founder, H.D. Lee, our passion is helping can-do people do more. We are committed to designing clothing that conforms to your body, allowing you to move through life freely. We help you chase the things that bring you joy and laughter. The things that make you fearless and hopeful because your passion is what makes you unique. And what moves you, moves us. Move your Lee.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.35 x 10.39 x 1.89 inches; 1.38 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 2024021"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 3, 2021"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Lee"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B098KXG5Z8"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#62,710 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #286 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 686 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2c7c0fda-7c8a-49ca-8223-19f5a86ec151.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/62db2109-cdcb-4247-849c-fb7b34757e78.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ab55c66b-f5d9-4f06-ab35-2102a4253acd.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "PabloPablo",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFZFKSWDNFLPCYAXJZQNCCXBRRGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R20PPFFFTTLW64?ASIN=B09QT5ZTHH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 1, 2023",
+                "reviewTitle": "5.0 out of 5 stars Amazing, I\u2019m impressed",
+                "reviewText": "These are very high quality jeans! the fabric is moderately dense but they are not hot at all, it feels like I can wear them for a long time and they will not look like a stretched rag. These are the first jeans that I ordered online without even trying them on and they fit me almost perfectly at the waist (just a little too small at the waist, but I\u2019m getting fat and I promise to lose weight, lol). By the way, it\u2019s very difficult for me to choose jeans because now all models are very narrow at the bottom of the legs, and I have large ones. I weigh 100 kg and height 184 cm, next time I would order them a little shorter as I had to take them to a tailor and remove the length.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71CGsVV0fcL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71KKmUflUvL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71bnbOQ5X-L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/812Vt3Yj02L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81y5QAkfhjL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Duane",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF6E2I3SAGKBDA5KWA55UPXHG7MQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R96U8FRFUL6W6?ASIN=B09QT5ZTHH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 6, 2023",
+                "reviewTitle": "5.0 out of 5 stars Pants fit great!",
+                "reviewText": "I bought these to replace a pair I had bought earlier, but the black die had faded after multiple washings. I had been happy with the previous pair, so bought them again.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEM2KV6FQMHLDIKLKPB2ND442JPQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RU0K22CQOPQTH?ASIN=B09QT5ZTHH",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 18, 2023",
+                "reviewTitle": "4.0 out of 5 stars How long will they last",
+                "reviewText": "I like the lighter color and fit of these Lee Union Fade jeans. I just got them so I don't know how long they will last. They are 99% Cotton, 1% Spandex so they stretch a bit for comfort. Other Lee Jeans that I bought previously (Lee Men's Premium Select) tore at the back pockets. May have been due to carrying cell phone there but they could have been made a little better.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "tonyblue",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGNEXPR7ZIABZJ7IRPFQ6S66TVQA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R33378QK54CVWD?ASIN=B09QT5ZTHH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 11, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfortable to wear",
+                "reviewText": "34 was a bit roomy so returned for a 33",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "DogFather",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHJL5ZTR4T2GCORLNFDOOKITVEEA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R37E41OKFM2BMW?ASIN=B09QT5ZTHH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 26, 2023",
+                "reviewTitle": "5.0 out of 5 stars Most comfortable",
+                "reviewText": "A little on the loose side BUT these are the most comfortable jeans ever purchased!!!!Bought three pairs and all three fit exactly the same; that is a first!!!!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Leroy Denslow",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHKLEWMQ7AENND3LPU5UGOXOJEHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R606CAL7LZWUR?ASIN=B09QT5ZTHH",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 14, 2023",
+                "reviewTitle": "3.0 out of 5 stars Not accurately billed",
+                "reviewText": "The description on these jeans when they arrived says they sit below the waist. Here is Amazon\u2019s description:REGULAR FIT. These tapered jeans sit at the natural waist and feature a regular fit through the seat and thigh for a classic, laidback look that keeps you comfortable all day long.I usually buy jeans in the $30 range but I thought I would splurge. But now I have to return these jeans because they are too low on my behind to wear comfortably. Not a happy jeans wearer.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "John C.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHMU2H3EPW7ZWF56O3PHWCZRKVEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3PAYGLUSOI28B?ASIN=B09QT5ZTHH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 20, 2023",
+                "reviewTitle": "5.0 out of 5 stars Pants",
+                "reviewText": "Fit great",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "karen hagblom",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF7TKHEZZ22S2KSJV66NZBGERVUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3B03HZ04VK3XC?ASIN=B09QT5ZTHH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 11, 2023",
+                "reviewTitle": "5.0 out of 5 stars Perfect",
+                "reviewText": "My son loves them. Very well made.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nancy",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 23, 2023",
+                "reviewTitle": "Black jean",
+                "reviewText": "Great quality and price.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ballsy",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 6, 2023",
+                "reviewTitle": "No more Levi jeans for me",
+                "reviewText": "I have worn Levi jeans for over 40 years, ever since they started making them over seas, they SUCK, the last time I bought any I bought 3 pairs, all the same size, all three fit different, a differencs of about 3 inches, one pair were 2 inches short, one pair I walked on( too long), the third pair werent bad, these Lees fit GREAT !!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon CustomerAmazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 24, 2022",
+                "reviewTitle": "Great quality jeans, but mine came with SKID MARKS.",
+                "reviewText": "The media could not be loaded. The Jeans are great quality, and fit very well (38x34 for 6'2 220lbs person), the only drawback in this specific case is that they arrived with skid marks.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/91wnRNr86pL.jpg"
+                    ],
+                    "video": "https://m.media-amazon.com/images/I/E1pff9YznUL.mp4"
+                }
+            },
+            {
+                "reviewerName": "Dave B",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on April 2, 2023",
+                "reviewTitle": "Lee jeans",
+                "reviewText": "jeans were a good fit and a good price.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on March 4, 2023",
+                "reviewTitle": "Great product",
+                "reviewText": "Great fit, comfortable quality item",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

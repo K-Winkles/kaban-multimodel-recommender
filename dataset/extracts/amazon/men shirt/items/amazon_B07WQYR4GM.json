@@ -1,0 +1,780 @@
+{
+    "remaining_requests": 16659,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Nautica-Short-Sleeve-T-Shirt-X-Large/dp/B07WQYR4GM",
+    "body": {
+        "name": "Nautica Men's Short Sleeve Solid Crew Neck T-Shirt",
+        "price": null,
+        "originalPrice": "",
+        "rawPrice": null,
+        "currency": null,
+        "canonicalUrl": "https://www.amazon.com/Nautica-Short-Sleeve-Solid-T-Shirt/dp/B01N6G73A5",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B01N6G73A5"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B01MSYG7UD",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07WVMWNV4",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07WNK9NT1",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07WTJTNLY",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07WQYR4GM",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07WWQ7JGT",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07WWQ2X1P",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01MSZ43RS",
+                "variationName": "Size",
+                "variationValue": "1X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01N9GYOK2",
+                "variationName": "Size",
+                "variationValue": "2X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01MSYG3KZ",
+                "variationName": "Size",
+                "variationValue": "3X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01NAIK02G",
+                "variationName": "Color",
+                "variationValue": "Bright White",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01MSZ43RS",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00K855CLO",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01MYZ4DFN",
+                "variationName": "Color",
+                "variationValue": "Nautica Red",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HRGTJL9",
+                "variationName": "Color",
+                "variationValue": "Harbor Mist",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00ETFK3QS",
+                "variationName": "Color",
+                "variationValue": "White",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07WWQLSMJ",
+                "variationName": "Color",
+                "variationValue": "Bright Cobalt Solid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07WWQ86QW",
+                "variationName": "Color",
+                "variationValue": "Estate Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07WRDYC99",
+                "variationName": "Color",
+                "variationValue": "Melon Berry",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07WQYRLGR",
+                "variationName": "Color",
+                "variationValue": "Rivieria Blue Solid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07WQYR4GM",
+                "variationName": "Color",
+                "variationValue": "Royal Burgundy",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BMD55CCM",
+                "variationName": "Color",
+                "variationValue": "Burgundy Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01CUQ96OC",
+                "variationName": "Color",
+                "variationValue": "True Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CF584GV9",
+                "variationName": "Color",
+                "variationValue": "Anchor Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HRHK1XX",
+                "variationName": "Color",
+                "variationValue": "Blue Indigo",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09L6HNFVK",
+                "variationName": "Color",
+                "variationValue": "Camel Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B071DZWCWF",
+                "variationName": "Color",
+                "variationValue": "Charcoal Grey",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HR8LSYC",
+                "variationName": "Color",
+                "variationValue": "Grey Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HRFJC51",
+                "variationName": "Color",
+                "variationValue": "Hawaiian Ocean",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BMDD8226",
+                "variationName": "Color",
+                "variationValue": "Oasis Pink",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07BN51SXS",
+                "variationName": "Color",
+                "variationValue": "Barolo Solid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07BN1VWDJ",
+                "variationName": "Color",
+                "variationValue": "Bay Blue Solid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07BRC2Z3P",
+                "variationName": "Color",
+                "variationValue": "Bright White Solid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CF535SZL",
+                "variationName": "Color",
+                "variationValue": "Cayenne",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCWZ98VT",
+                "variationName": "Color",
+                "variationValue": "Chalk Violet",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07BN1VWKB",
+                "variationName": "Color",
+                "variationValue": "Corn Solid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CHX6V4L2",
+                "variationName": "Color",
+                "variationValue": "Harbor Jade",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07BN4Z1TS",
+                "variationName": "Color",
+                "variationValue": "Mint Spring Solid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07BN52FQQ",
+                "variationName": "Color",
+                "variationValue": "Nautica Red Solid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07BN4KZ8J",
+                "variationName": "Color",
+                "variationValue": "Navy Solid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B76TMZ22",
+                "variationName": "Color",
+                "variationValue": "Ochre Beach",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07BN53K8S",
+                "variationName": "Color",
+                "variationValue": "Pale Coral Solid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07C8YCG47",
+                "variationName": "Color",
+                "variationValue": "Patina Green Solid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFX4J6Q",
+                "variationName": "Color",
+                "variationValue": "Scuba Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07BN49K8J",
+                "variationName": "Color",
+                "variationValue": "Sunbaked Red Solid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07BN1YC2G",
+                "variationName": "Color",
+                "variationValue": "Tidal Green Solid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07BR17PCZ",
+                "variationName": "Color",
+                "variationValue": "True Black Solid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CF592TPR",
+                "variationName": "Color",
+                "variationValue": "Violet Wave",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08LZNCL5Q",
+                "variationName": "Color",
+                "variationValue": "Old Gold",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09SJ4GLPF",
+                "variationName": "Color",
+                "variationValue": "Moon Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CNTVWJGR",
+                "variationName": "Color",
+                "variationValue": "Fairy Green",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BMG41T7R",
+                "variationName": "Color",
+                "variationValue": "Fleet Orange.",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCWW714W",
+                "variationName": "Color",
+                "variationValue": "Olive Cove Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCWQG11J",
+                "variationName": "Color",
+                "variationValue": "Pepper Green",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFTKSKL",
+                "variationName": "Color",
+                "variationValue": "Teaberry",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9FPJN8H",
+                "variationName": "Color",
+                "variationValue": "Tidal Green",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077JNCCMR",
+                "variationName": "Color",
+                "variationValue": "Emerald Coast",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFWKWT9",
+                "variationName": "Color",
+                "variationValue": "Melon Sugar",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CNTT28ZF",
+                "variationName": "Color",
+                "variationValue": "Sunrise Red",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01MXXKBH7",
+                "variationName": "Color",
+                "variationValue": "Calypso Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCWQB67W",
+                "variationName": "Color",
+                "variationValue": "Azure Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CNTT17TG",
+                "variationName": "Color",
+                "variationValue": "Bright Pink",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFWRD9Z",
+                "variationName": "Color",
+                "variationValue": "Deep Anchor Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096S333LN",
+                "variationName": "Color",
+                "variationValue": "Raspberry",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09SJ35N9Y",
+                "variationName": "Color",
+                "variationValue": "Baby Pink",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2SH1G1R",
+                "variationName": "Color",
+                "variationValue": "Blue Coral",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BMG2WT85",
+                "variationName": "Color",
+                "variationValue": "Delft.",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00ETGPN3A",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CNTWDHYB",
+                "variationName": "Color",
+                "variationValue": "Orange Sorbet",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09SJ3CH3G",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09DXN7HDG",
+                "variationName": "Color",
+                "variationValue": "Harbor Mist 2021",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CNTSF95K",
+                "variationName": "Color",
+                "variationValue": "Lime Ice",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00GHTSY9W",
+                "variationName": "Color",
+                "variationValue": "Strong Yellow",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41MRQ4TOoWL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/314F9aYOygL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41QPKNkomvL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41acZgfLJUL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41goK8nLE L.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9e41185d-0d76-412d-bffb-39fc080d9356/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Nautica Store",
+            "link": "https://www.amazon.com/stores/Nautica/page/AE6F8A7E-6EEF-4FB0-8A5D-0ACDEA2E0DE4?ref_=ast_bln"
+        },
+        "brand": "Nautica",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 17442,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Pull On",
+            "Slim fit t-shirt with a classic crew-neckline and comfortable cotton construction",
+            "J class on chest"
+        ],
+        "description": "A crew neck is a casual wardrobe staple-you know, the basics you love so much you've owned them for years this Nautica t-shirt is crafted in a soft cotton in a wide collection of colors so it'll fit effortlessly into your rotation.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1/000-0000000-8675309?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2/000-0000000-8675309?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3/000-0000000-8675309?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Shirts",
+                "link": "https://www.amazon.com/Mens-Shirts/b/ref=dp_bc_aui_C_4/000-0000000-8675309?ie=UTF8&node=2476517011"
+            },
+            {
+                "name": "T-Shirts",
+                "link": "https://www.amazon.com/Mens-T-Shirts/b/ref=dp_bc_aui_C_5/000-0000000-8675309?ie=UTF8&node=1045624"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 11.5 x 9 x 2.9 inches; 5.6 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e V61704"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e March 8, 2017"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Nautica"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B01MSYG7UD"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#4,962 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #50 in Men's T-Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 17,442 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/73c0bd79-f215-4c49-8e45-b9a1cdfb0d84.__CR0,0,1940,1200_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "MG",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AERZFB5QWOPXDUHUOZKJJRCUSTHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R144N2ORD48W0S?ASIN=B01N6G73A5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Color matches picture and great price",
+                "reviewText": "Lovely t-shirt, color as shown in picture, comfortable, and size large fits as expected. The price is good too.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Oren",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEC6HAHIJKEVLGVQOYHC2KMHUGSA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RXHTLDVNLFZ0Z?ASIN=B01N6G73A5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 15, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great shirt with nice material",
+                "reviewText": "Comfortable and soft material, great fit. Quality seems great.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Chicabidee ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFLFMBOEKWIGFSR2UNP3DJ7RUTGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2GATIIT9KREWZ?ASIN=B01N6G73A5",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 2, 2024",
+                "reviewTitle": "4.0 out of 5 stars Not bad",
+                "reviewText": "Order upsized a little tight and not very heavy material.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "FD",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFRCYVYRRG4TUT2C3AW6KOF4MNAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2HTC337W49VP6?ASIN=B01N6G73A5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 4, 2024",
+                "reviewTitle": "5.0 out of 5 stars Perfect",
+                "reviewText": "My teenage son loves this shirt! It washes really well and is good quality. Super soft aswell!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lee_Van_Cleef",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE2MZXV6MN7FGQAWXW3QRCVLTOEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R37BHW8KCNB6EH?ASIN=B01N6G73A5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 4, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very Nice.",
+                "reviewText": "I love these shirts. The size is true to the American sizing charts. The fabric is nice and comfortable. Very nice shirt.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rob V",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH7O7IY5AD55U2UMS66RHUHPSXMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R31TIQ4D5IQOYV?ASIN=B01N6G73A5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 2, 2024",
+                "reviewTitle": "5.0 out of 5 stars Embroidered name",
+                "reviewText": "Good quality tshirt. Great fit. Nautica name is embroidered. It\u2019s not an iron on which falls off with washing.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dr Nicholas  K",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFEEND4BYJHUEJ32P4ZWPCYN4G2A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1NMBPQZIAH945?ASIN=B01N6G73A5",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "3.0 out of 5 stars Thin and pricey",
+                "reviewText": "The color is niceToo thin cotton fabric. Needs good ironing.An average buy",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHM5IXVDFUU33STOVHB4IWG2LQPA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R333U0F87M1LY9?ASIN=B01N6G73A5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars 100% original",
+                "reviewText": "All good, nice design",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cara",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 25, 2024",
+                "reviewTitle": "Good product & nice quality",
+                "reviewText": "I bought this as a gift & the t shirt is very soft, nice colour true to what is shown.The quality is very nice as well.I would repurchase this.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Arath Cura",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 16, 2024",
+                "reviewTitle": "Excelente producto",
+                "reviewText": "Es ligera, comoda y super bonita, como es de esperar de Nautica y sus productos, la compre aproximadamente en 260 pesos, para ese precio es bastante buena, si llegase a subir arriba de 400 o 500, empezaria a dudar mas en comparla.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "YVR Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 26, 2024",
+                "reviewTitle": "Mens Nautica T-shirt...",
+                "reviewText": "Comfortable 100% cotton material. Purchased Grey Heather.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 19, 2023",
+                "reviewTitle": "Comfortable, looks well made.",
+                "reviewText": "I like the fit and look of this t shirt. Would buy more but only two colors in my size.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ana gomez",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on September 24, 2021",
+                "reviewTitle": "Bonita y c\u00f3moda",
+                "reviewText": "Ajusta bien, c\u00f3moda",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,559 @@
+{
+    "remaining_requests": 15974,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Dickies-Relaxed-Straight-Carpenter-Indigo/dp/B00305RXCK",
+    "body": {
+        "name": "Dickies Men's Relaxed Straight-fit Carpenter Jean",
+        "price": "$34.99",
+        "originalPrice": "",
+        "rawPrice": 34.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Dickies-Mens-Relaxed-Straight-fit-Carpenter/dp/B0CLYYSD5H",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CLYYSD5H"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B000922UAC",
+                "variationName": "Color",
+                "variationValue": "Indigo Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41dI1qzwjEL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00LE6T4D8",
+                "variationName": "Color",
+                "variationValue": "Tinted Heritage Khaki",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31iJbHEMRwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00091UM26",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091SQPQ",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091RCQA",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091RCQU",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091RCR4",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091SQQK",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091SQR4",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0043OCFIE",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091UM2Q",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091RCRO",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091SQRY",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091SQS8",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091UM3A",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00305RXCK",
+                "variationName": "Size",
+                "variationValue": "34W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091RCRY",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091RCS8",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000922UAC",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00305VCEK",
+                "variationName": "Size",
+                "variationValue": "36W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000922UAM",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091SQSS",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000922UAW",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00305ZGII",
+                "variationName": "Size",
+                "variationValue": "38W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B003SOJ2E0",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091UM3K",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000922UBG",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091SQTC",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000922UBQ",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000922UC0",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091UM4E",
+                "variationName": "Size",
+                "variationValue": "44W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00091UM4O",
+                "variationName": "Size",
+                "variationValue": "44W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B003SOKZGE",
+                "variationName": "Size",
+                "variationValue": "44W x 34L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41dI1qzwjEL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41cRJNqj rL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51PQpkKy2dL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41M0VVXH0NL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31JJ36gLqGL.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Brand: Dickies",
+            "link": "https://www.amazon.com/s/ref=bl_sl_s_ap_web_7141123011?ie=UTF8&node=7141123011&field-brandtextbin=Dickies"
+        },
+        "brand": "Dickies",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 3723,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "Straight-fit carpenter jean with hammer loop and utility pockets featuring triple-stitched reinforced seams",
+            "Zip fly with button"
+        ],
+        "description": "11.75 ounce fine weave denim carpenter jean is washed for comfort. Sits slightly below the waist",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Uniforms, Work & Safety",
+                "link": "https://www.amazon.com/Mens-Uniforms-Work-Safety/b/ref=dp_bc_aui_C_3?ie=UTF8&node=7581682011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Mens-Work-Safety-Clothing/b/ref=dp_bc_aui_C_4?ie=UTF8&node=7606661011"
+            },
+            {
+                "name": "Work Utility & Safety",
+                "link": "https://www.amazon.com/Mens-Work-Utility-Safety-Apparel/b/ref=dp_bc_aui_C_5?ie=UTF8&node=6572900011"
+            },
+            {
+                "name": "Pants",
+                "link": "https://www.amazon.com/Mens-Work-Utility-Safety-Pants/b/ref=dp_bc_aui_C_6?ie=UTF8&node=6572904011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 23.5 x 15.5 x 6.5 inches; 1.53 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 19294SNB 30 30"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e October 4, 2003"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Dickies Men's Sportswear"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B00091UM26"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#10,277 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #98 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 3,723 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Since 1922 Through its dedication to innovation and continual customer contact, Williamson-Dickie Mfg. Co. has transformed itself from a small bib overall company to the largest workwear manufacturer in the world. Sold in every state in the U.S., Dickies now offers a broad spectrum of work garments ranging from work pants and work shirts to denim jeans and women's workwear. Since its beginnings in 1922, every piece of Dickies workwear has stood for the quality, toughness, and pride that embodies the spirit of the American worker. C.N. Williamson and E.E. 'Colonel' Dickie began their business careers in the 'vehicle and harness' business in Bryan, Texas. In 1918, they made what turned out to be a momentous decision when they and a few friends established the U.S. Overall Company. Then, in 1922, C. Don Williamson joined with his father and cousin to buy 100% of the overall company on a one-third-each basis and renamed it Williamson-Dickie Manufacturing Company. From its early years, Williamson-Dickie enjoyed steady growth, slowed only by the Great Depression, and during World War II, the company was sequestered to produce millions of uniforms for the nation's armed forces. In converting to civilian production after the war, C. Don Williamson began a strategy of geographical expansion and established new production facilities, warehouses, and sales territories throughout the United States. In the late 1950's, Williamson-Dickie became an international company by expanding into the European market and the Middle Eastern market - where Texas oilmen introduced the Dickies brand to Middle Eastern oil fields. While Williamson-Dickie began as a bib overall company, today it has grown to be the number one manufacturer of work apparel worldwide. By continually expanding and updating its selection, Williamson-Dickie now offers garments ranging from its staple work pants and work shirts to items such as women's workwear, chore coats, and denim jeans. Dickies workwear is currently sold in all 50 states and throughout the world in countries such as South Africa, Australia, Russia, Chile, Japan, Iceland, Canada, Europe and Mexico.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/c6558239-2769-4768-a352-5a8ef9300c8b._SR300,300_.jpg"
+                ]
+            },
+            {
+                "media_text": "Satisfaction Guaranteed Since 1922, Dickies quality has been built into every product. We will gladly replace a Dickies garment or refund your money if you are not satisfied for any reason. Please feel free to call our special customer service line with any comments at 1-800-DICKIES.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/64e87971-3664-46e3-85dc-6e00941c5c6a._SR300,300_.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/de27707b-a3e9-4884-a5b3-8bb27fe55b5d._SR970,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/c6558239-2769-4768-a352-5a8ef9300c8b._SR300,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/64e87971-3664-46e3-85dc-6e00941c5c6a._SR300,300_.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "CV3MOM ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHPII63KNPV6VEH2N5CGVCRWPRXA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2V0V7X7Q8EZRL?ASIN=B0CLYYSD5H",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 2, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great value and comfort",
+                "reviewText": "Loose fit, comfort and quality material",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF6B7CR2TBV5HLQ6QOWCHEJSCZ2A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3NIZYM3QLG21O?ASIN=B0CLYYSD5H",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 26, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great buy",
+                "reviewText": "These fit perfectly on my teenager. The color and length are great. Great fit. Would recommend",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sofia V",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHVRGUA3P6AA5J24TB2Q3HQOYRXA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R202UY3YNKGU73?ASIN=B0CLYYSD5H",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 28, 2023",
+                "reviewTitle": "4.0 out of 5 stars No Bueno",
+                "reviewText": "Snug fit, they seem to run a tad small. The pockets are shallow. Still, the material is thick well stitched .I was at first disappointed but after wearing them they get the job done.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Thomas J Knorr",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFHFWRPC2P2R4FISMWNGX5E4A7TA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RT2NMU8TWVK47?ASIN=B0CLYYSD5H",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars Durable and comfortable",
+                "reviewText": "These are my retirement GO TO uniform. Triple stitched seams, rivets at stress points, cell phone pocket and comfortable. I buy a new pair when the last pair I bought gets stained or damaged to a point that's embarrassing to the wife when we go out because I wear them ALL the time.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFD37C6IZCLM7EIWATY7EBMY7PTQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R20RC858AER5JY?ASIN=B0CLYYSD5H",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 31, 2023",
+                "reviewTitle": "5.0 out of 5 stars Good jeans",
+                "reviewText": "These are a good pair of basic jeans. They have been holding up well so far, and fit comfortably. Great for works, or just normal day clothes. The additional pockets are great for carrying.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dorinda Brownie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEWBTSMMMS7FRO2E6ZCDO4X74MUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2EFSQZPFZV8VP?ASIN=B0CLYYSD5H",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 24, 2024",
+                "reviewTitle": "5.0 out of 5 stars Dickies carpenter jeans",
+                "reviewText": "True to size and comfortable",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ed",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEJNXM6E5OKNLJ3OLP5UMGHIR6AA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3QO1N0AS4TXCE?ASIN=B0CLYYSD5H",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "3.0 out of 5 stars Ripped",
+                "reviewText": "I sat down with my phone in my back pocket, and the seem came apart on the side of my leg.And no, they don\u2019t fit tight. It is a loose fit and no it didn\u2019t get so tight that it bit my phone. It didn\u2019t take much pressure at all to rip it. Sure it was just a defective pair. Other than that they fit great they feel good, for the most part seem to be made good",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ScottLS",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGKKEIQNUDEBZIMBO4ACQRXL2PHQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2GGAU9MC1H3F9?ASIN=B0CLYYSD5H",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 4, 2023",
+                "reviewTitle": "5.0 out of 5 stars As expected",
+                "reviewText": "Fit and feel as expected! Good value and great quality.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "annie",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 23, 2024",
+                "reviewTitle": "Parfait !",
+                "reviewText": "Bon produit et bonne grandeur",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tom TC",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 26, 2023",
+                "reviewTitle": "Excelente",
+                "reviewText": "Muy bien! Soy talla 34 normalmente pero esta marca siempre viene reducida, asi q pedi talla 36x32 y ajusto perfectamente. Buen materia y muy c\u00f3modo.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Franjo Brzac",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on December 22, 2023",
+                "reviewTitle": "Super Hose",
+                "reviewText": "Super Qualit\u00e4t 100% Baumwolle gro\u00dfe passt gut.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "p morris",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on October 31, 2023",
+                "reviewTitle": "my second pair",
+                "reviewText": "Iliked my first pair so much I bought a second pair.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "FLAVIO BASSIATO",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Italy on October 18, 2023",
+                "reviewTitle": "Top",
+                "reviewText": "Un bel jeans molto comodo",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

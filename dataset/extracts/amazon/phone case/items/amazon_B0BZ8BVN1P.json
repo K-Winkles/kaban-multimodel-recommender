@@ -1,0 +1,654 @@
+{
+    "remaining_requests": 9989,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/GONEZ-Anti-Scratch-Microfiber-Shockproof-Protective/dp/B0BZ8BVN1P",
+    "body": {
+        "name": "GONEZ for iPhone 14 Pro Case, with 2 Pack Screen Protector + 2 Pack Camera Lens Protector, Soft Anti-Scratch Microfiber Lining, Shockproof Protective Liquid Silicone Phone Cover 6.1'', Stone",
+        "price": "$9.99",
+        "originalPrice": "",
+        "rawPrice": 9.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/GONEZ-Anti-Scratch-Microfiber-Shockproof-Protective/dp/B0BZ8BVN1P",
+        "soldBy": {
+            "sellerID": "A1DFMGTG6IYNXN",
+            "name": "GONEZ",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1DFMGTG6IYNXN&asin=B0BZ8BVN1P&ref_=dp_merchant_link&isAmazonFulfilled=1"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CDPVCC1M"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0BZ8BVN1P",
+                "variationName": "Color",
+                "variationValue": "A-Stone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/316tgRCn4sL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZ8F815P",
+                "variationName": "Color",
+                "variationValue": "B-Deep Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41YFsSRhV+L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZ8DMXVM",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41nCBRo7HeL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CBTGGXTW",
+                "variationName": "Color",
+                "variationValue": "Blackcurrant",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Dd47O7h0L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZ8BRQDM",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Ezc3+Af1L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CBTGZJ1H",
+                "variationName": "Color",
+                "variationValue": "Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41x3x9P+ipL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CN35464M",
+                "variationName": "Color",
+                "variationValue": "Calke Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4135VzzLRVL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLGSV483",
+                "variationName": "Color",
+                "variationValue": "Cedar Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41JpM2iG9SL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLGRRKPV",
+                "variationName": "Color",
+                "variationValue": "Cobalt Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PmTUvtfCL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLGV8PK5",
+                "variationName": "Color",
+                "variationValue": "Crimson Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41AY04jcVsL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZ8CH1PM",
+                "variationName": "Color",
+                "variationValue": "Dark Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gkDvob9BL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CBTFNYGV",
+                "variationName": "Color",
+                "variationValue": "Dark Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41SRzJs2g3L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZ89QY5B",
+                "variationName": "Color",
+                "variationValue": "Dark Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41pql5pvUDL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZ8BNNJJ",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/417R0qkb1ML._SS36_.jpg"
+            },
+            {
+                "asin": "B0CBTDD9BK",
+                "variationName": "Color",
+                "variationValue": "Hot Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31RHbRI31yL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CN36337X",
+                "variationName": "Color",
+                "variationValue": "Klein Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41+wyl-s1IL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CG8W3GXF",
+                "variationName": "Color",
+                "variationValue": "Lake Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41dSNXeluFL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CBTF7DZ8",
+                "variationName": "Color",
+                "variationValue": "Lavender Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41UNhuMvj1L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLGRXVGQ",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41KqeqZ1axL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLGTXRYK",
+                "variationName": "Color",
+                "variationValue": "Light Lilac",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4160leJ3OJL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZ89WWC4",
+                "variationName": "Color",
+                "variationValue": "Lilac",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Hn+9PP+kL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZ86XND1",
+                "variationName": "Color",
+                "variationValue": "Midnight Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41vOIqZN8JL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZ8B8Y5C",
+                "variationName": "Color",
+                "variationValue": "Mint Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313xmb2EmUL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CKT5LH2M",
+                "variationName": "Color",
+                "variationValue": "Navy Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41UX0C1iRHL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CN36RS93",
+                "variationName": "Color",
+                "variationValue": "Neon Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jJhjGXf2L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZ88DF7X",
+                "variationName": "Color",
+                "variationValue": "Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413HTZzQqDL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLGQHJXK",
+                "variationName": "Color",
+                "variationValue": "Peach Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414rhI69r6L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZ8B93XT",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3186pC-3l-L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CN357RWQ",
+                "variationName": "Color",
+                "variationValue": "Pink Pomelo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/416GTAq0eUL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLP1V6GL",
+                "variationName": "Color",
+                "variationValue": "Purplish Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410ePAB+LCL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZ8BK6S6",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qDJSTfvRL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CN36XNYT",
+                "variationName": "Color",
+                "variationValue": "Shocking Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41FgadiXkbL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CN33P7MT",
+                "variationName": "Color",
+                "variationValue": "Sprout Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41xFnfqZL5L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CBTH32HV",
+                "variationName": "Color",
+                "variationValue": "Teal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41cqnCYb6XL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZ8C6KLG",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31n4iKLk1uL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZ8BTCQL",
+                "variationName": "Color",
+                "variationValue": "Wine Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Bfwpewh6L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CBTDMBW3",
+                "variationName": "Color",
+                "variationValue": "Z-Midnight Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Wysb+Ew5L._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "5",
+        "stockDetail": "In Stock",
+        "couponInfo": "Apply 30% coupon",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41LtnMIBaqL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41Xel77L53L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41ic HuxKhL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41BCwfLaHuL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41CTyXi-1cL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41MU6z8GuoL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/415RzcDikdL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/35d21057-f610-456e-a93e-b1f2e81624ad/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1cee5a85-3f2b-43f3-b4b6-a8579e371623/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ea8137b7-9d34-4db2-b4c1-31e6f9221065/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/46889419-a2af-47a9-9b8a-e62139775fb7/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/42d2e8c1-184e-4f48-9a7c-ef1e8f7e8ecf/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 5,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the GONEZ Store",
+            "link": "https://www.amazon.com/stores/GONEZ/page/D669DAE4-B13E-4092-AB15-A3E6AF0A5DB2?ref_=ast_bln"
+        },
+        "brand": "GONEZ",
+        "merchantInfo": "GONEZ",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 714,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Wednesday, February 21 on orders shipped by Amazon over $35",
+            "Or fastest delivery Tomorrow, February 17. Order within 2 hrs 12 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "[Premium Silicone Case]: Only compatible with iPhone 14 Pro 6.1 inch 2022 Released. Our iPhone 14 Pro case offers a baby skin-like smooth touch. It features an upgraded Nano Oleophobic Coating that resists fingerprints and scratches. And support wireless charging.",
+            "[Full-body Protection]: The iPhone 14 Pro phone case is made with soft feeling coating, premium liquid silicone, shockproof hard polycarbonate back cover, and soft microfiber lining, providing good shockproof and anti-drop damage protection 1.5mm screen bezels and 2.0mm camera lips provide scratch protection for your 14 Pro.",
+            "[Precise Cutouts]: The slim iPhone 14 Pro silicone case seamlessly wraps around your phone. Precise cutouts accommodate the volume buttons, side buttons, and curves of the device without adding bulk. The speaker's dust-proof net prevents the accumulation of dust and debris, keeping it clean.",
+            "[2X Screen Protectors & 2X Camera Lens Protectors]: It includes 2 Pcs screen protectors that are easy to install and bubble-free, which can protect your screen against scratch and shock. We also provide 2 Pcs camera lens protectors to safeguard your camera lens and prevent dust buildup.",
+            "[Lifetime Warranty]: We offer a lifetime warranty and 24H customer service for defective products, such as the wrong size case or any non-expectations. Please feel free to contact us and you'll get an effective solution."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Cell Phones & Accessories",
+                "link": "https://www.amazon.com/cell-phones-service-plans-accessories/b/ref=dp_bc_aui_C_1?ie=UTF8&node=2335752011"
+            },
+            {
+                "name": "Cases, Holsters & Sleeves",
+                "link": "https://www.amazon.com/cell-phone-cases-screen-protectors/b/ref=dp_bc_aui_C_2?ie=UTF8&node=2407760011"
+            },
+            {
+                "name": "Basic Cases",
+                "link": "https://www.amazon.com/Cell-Phone-Cases/b/ref=dp_bc_aui_C_3?ie=UTF8&node=3081461011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions",
+                "value": "7.36 x 4.06 x 0.75 inches"
+            },
+            {
+                "name": "Item Weight",
+                "value": "3.84 ounces"
+            },
+            {
+                "name": "ASIN",
+                "value": "B0BZ8BVN1P"
+            },
+            {
+                "name": "Item model number",
+                "value": "SIL14P-2"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 714 ratings 4.5 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#660 in Cell Phones & Accessories (See Top 100 in Cell Phones & Accessories) #149 in Cell Phone Basic Cases"
+            },
+            {
+                "name": "Special features",
+                "value": "2 Pack Screen Protectors, 2 Pack Camera Protectors, Precise Cutouts, Premium Silicone Material, Soft Microfiber Lining, Raised Lips, Smooth"
+            },
+            {
+                "name": "Other display features",
+                "value": "Wireless"
+            },
+            {
+                "name": "Form Factor",
+                "value": "Basic Case"
+            },
+            {
+                "name": "Color",
+                "value": "A-Stone"
+            },
+            {
+                "name": "Whats in the box",
+                "value": "2X Screen Protectors, 2X Camera Lens Protectors, 2X Installation Accessories, 1X iPhone 14 Pro Case"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "GONEZ"
+            },
+            {
+                "name": "Date First Available",
+                "value": "March 22, 2023"
+            },
+            {
+                "name": "Brand",
+                "value": "GONEZ"
+            },
+            {
+                "name": "Compatible Phone Models",
+                "value": "iPhone 14 Pro"
+            },
+            {
+                "name": "Material",
+                "value": "Silicone"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Previous page Next page 1 Soft Microfiber Lining 2 Wireless Charging 3 Precise Dust-proof Net",
+                "media_link": []
+            },
+            {
+                "media_text": "Previous page Next page",
+                "media_link": []
+            },
+            {
+                "media_text": "Product Comparison Table Click to view Add to Cart Click to view Add to Cart Click to view Add to Cart Click to view Add to Cart Click to view Add to Cart Click to view Add to Cart Customer Reviews 4.5 out of 5 stars 714 4.5 out of 5 stars 714 4.5 out of 5 stars 714 4.5 out of 5 stars 714 4.5 out of 5 stars 714 4.5 out of 5 stars 714 Price $9.99$9.99 $10.99$10.99 $10.99$10.99 $10.99$10.99 $11.99$11.99 $10.99$10.99 Compatible Model For iPhone 14 Pro Case For iPhone 14 Pro Case For iPhone 14 Pro Case For iPhone 14 Pro Case For iPhone 14 Pro Case For iPhone 14 Pro Case Color Stone Black Deep Purple Brown Hot Pink Blue Products Material Silicone Silicone Silicone Silicone Silicone Silicone Drop Protection \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 Support Wireless Charging \u2714 \u2714 \u2714 \u2714 \u2714 \u2714",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/af82d5cd-38a0-416b-98f3-b36d9ce349ea.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f095ec41-fb32-4e0e-9c0d-232d16c15e1f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8085015f-9178-4002-9a09-4eaf3263a1ae.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/05f90e67-0ab6-491a-8f0b-d9481740a5bf.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bd1f910f-b68c-4a7c-8bc0-74bbd5907adb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4bbe4330-b899-4ae5-8c26-75eb4fa69d5b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1677738b-00c5-4727-8c02-bcb297c2541e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/755b07f1-e683-4ff3-bce5-f7f6c33dd8c4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/47c11d0b-d271-49c6-b351-2e328c2533f6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/78d38bc2-bed3-4ca6-9b6e-7091cd7bcdc6.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bdc64507-7ffd-4da7-9d49-ea1daeaf254b.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a9675d77-c9a7-45f5-b8a6-5a57fb406353.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d5535fd-7474-4401-9cd2-2f12f6a9ec04.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d570d95a-10aa-4ee9-aaf8-c6c60f210826.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8f7464b9-5b67-4535-8d8a-e7618c833441.__CR0,0,200,225_PT0_SX200_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Amazon CustomerAmazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFDBAUK5ZRCNBCI2ZPAINWVGOD4Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R25URDZZMN26DO?ASIN=B0BZ8BVN1P",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 5, 2023",
+                "reviewTitle": "5.0 out of 5 stars Amazing phone case & protection at an amazing price!",
+                "reviewText": "I needed a good, simple phone case and screen protector for my iPhone 14 Pro. I'm pretty easy on phones, but still like the extra protection. I saw the Gonez phone case, camera protector and screen protector on Amazon for a great price (under $13) and I loved the assortment of colors.This case is terrific! It has a smooth, almost silky feel, and is super-sturdy. The color is gorgeous: a really dark, lush green. The screen protector and camera lens protector went on so easily, and the kit included wet and dry wipes to fully clean the surfaces first. There were also some cute, fun stickers included with my order!I LOVE this case. The quality of everything is absolutely excellent: I'll recommend Gonez to anyone who needs a great case, and will definitely be buying them in the future. A++!!!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71s+twmp+bL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Leslie DugganLeslie Duggan",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHE4TNU7GQVJQXSFNTU6GLWVAKKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RCT5QZ5SSASCJ?ASIN=B0BZ8BVN1P",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 2, 2024",
+                "reviewTitle": "5.0 out of 5 stars Yes, yes, yes!!",
+                "reviewText": "For the most part, I like having phone cases that match the color of my phone, and this one nailed it! I came across this phone case, noticed it came with a camera and screen protector, and decided to buy it. I haven\u2019t had it for very long, but I love it! The case is a soft silicone material, but doesn\u2019t feel flimsy. The quality of everything (including the packaging) is exceptional. I can tell you right now that every time I upgrade my iPhone, I will be ordering through this company. Highly recommend this product and company to those looking for a great product at a great price!!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61XqzoDlQOL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEOL3RDFODU5K6DNWWVPZGYFETXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R17D6KX2Q9KJU6?ASIN=B0BZ8BVN1P",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 16, 2024",
+                "reviewTitle": "5.0 out of 5 stars So far, so good!",
+                "reviewText": "I am a habitual phone dropper, but don\u2019t like the bulkiness of some other cases. I ordered this because it came with the screen and camera covers. The color is great. I\u2019ve already dropped my phone countless times in the two months I\u2019ve had this case. The camera protector did break, but the camera itself was not damaged. Screen protector has held up and I\u2019ve dropped my phone face down on concrete. It does what it\u2019s supposed too!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Anonymous ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHKNWGEA2AAGIO6ZIVQXWNPR7PXA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1J9Y5O2NZ828O?ASIN=B0BZ8BVN1P",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 28, 2023",
+                "reviewTitle": "4.0 out of 5 stars Great screen protectors, a little weak on the phone case",
+                "reviewText": "I love the screen protectors and they\u2019ve been super durable for a while. At first I liked the case itself but after about a month the case started to tear easily. I\u2019m super careful with my phone and after only 2.5 months of using it the case is peeling and ripping in several places. Overall I like the screen covers as they work really well but not so much on the case",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ame",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGH5PUEMAREKSUWM4RQ7APSGEIGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1BQAIMNNGITFN?ASIN=B0BZ8BVN1P",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Value for money.",
+                "reviewText": "I love sellers that put in little details to make their buyers happy with their purchase and I know this is just a phone case but this is a purchase I was happy with. I got it in 2023 but I said I must leave a review even if it\u2019s in 2059. it soft, it\u2019s easy to clean and easy to hold, it\u2019s not too fancy but it works. also, the seller included lots of stickers and extra items like camera covers and screen guards. i was impressed.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nick",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGFWKFRYPJBG2ZD6ZG4LC7VDDPOA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3S38NBEGSNU84?ASIN=B0BZ8BVN1P",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Case is good, screens are decent",
+                "reviewText": "Case is really nice. I love that it does not have apple logo!Casting mark is very small compared to other cheap cases.Protective glass is 7 out of 10. It does not have an ear speaker protection. Fingerprint friendly - that means it easily gets soiled with the fingertip sweat. edges are not rounded. Everything else about it is good.Wet paper sux, should be more wet. I had to use special cloth for glasses to wipe the screen. Anti dust stickes is good burt sometimes it leaves its marks that you have to clean with that sticker after \ud83d\ude02I think it's a good deal for the case, two protective screens and 2 sets of camera filters.But i stopped using them and its been almost a year, still got not a single scratch.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "azalea",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFYCWGSGZRLFDRKNLVSOPHVJXHBQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2PYHZDN5ILUB8?ASIN=B0BZ8BVN1P",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 3, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great value and nice case!",
+                "reviewText": "I love that this case is lightweight, slim, fits perfectly, and the texture is grippy and it doesn\u2019t slip out of my hands. Also a great value because it came with two screen and camera protectors. I had an issue with missing some of the things inside and the seller\u2019s customer service was terrific in resolving it quickly. I am more impressed with this case than I was expecting.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "SteLe",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHM252AEKSNZA2SBW7HTXC5KKCAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3VFNYEALOFQE?ASIN=B0BZ8BVN1P",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars I'm actually obessed",
+                "reviewText": "I'm so pleased that this came with the case, 2 sets of camera covers, 2 screen protectors, 2 sets of cleaning wipes to use before putting on the screen protector. Definitely glad I found this! The case is very soft so a little on the slippery side, but nonetheless I am a fan.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sandra",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 3, 2024",
+                "reviewTitle": "Colour",
+                "reviewText": "Love the colour. Had purchased one in the deep purple and now this one in the light blue.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sukhwinder",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 27, 2024",
+                "reviewTitle": "Great Fit",
+                "reviewText": "Value for money. Customer service. Will refer and buy it again. Thanks",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jay",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 28, 2024",
+                "reviewTitle": "Have camera protection and screen as well",
+                "reviewText": "Cost effective product!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mutasim ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 20, 2024",
+                "reviewTitle": "\ud83d\ude0d",
+                "reviewText": "It amazing and good price definitely buying again",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

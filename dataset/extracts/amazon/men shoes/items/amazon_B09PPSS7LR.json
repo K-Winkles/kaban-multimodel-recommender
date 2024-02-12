@@ -1,0 +1,642 @@
+{
+    "remaining_requests": 15547,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Under-Armour-Unisex-Lockdown-Basketball/dp/B09PPSS7LR",
+    "body": {
+        "name": "Under Armour Unisex-Adult Lockdown 6 Basketball Shoe",
+        "price": "$53.83 - $70.00",
+        "originalPrice": "",
+        "rawPrice": 53.83,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Under-Armour-Unisex-Adult-Lockdown-Basketball/dp/B0C62Q82C9",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0C62Q82C9"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09PPYB855",
+                "variationName": "Color",
+                "variationValue": "(001) Black/White/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/315j6RH2ygL._SS47_.jpg"
+            },
+            {
+                "asin": "B09PPYBXYN",
+                "variationName": "Color",
+                "variationValue": "(002) Black/Pitch Gray/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31xgckIJL6L._SS47_.jpg"
+            },
+            {
+                "asin": "B09PPY2RZ3",
+                "variationName": "Color",
+                "variationValue": "(003) Black/Black/Metallic Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sJpnJNiIL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBWWHP1",
+                "variationName": "Color",
+                "variationValue": "(004) Black/Gray Mist/Lime Surge",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41uQ2PvmZmL._SS47_.jpg"
+            },
+            {
+                "asin": "B09PPQ37PT",
+                "variationName": "Color",
+                "variationValue": "(100) Mod Gray/Royal/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41kA5m0bSVL._SS47_.jpg"
+            },
+            {
+                "asin": "B09PQ48YG6",
+                "variationName": "Color",
+                "variationValue": "(101) White/Jet Gray/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31hNmYm68lL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQPC27X",
+                "variationName": "Color",
+                "variationValue": "(102) White/Bubble Peach/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410If1fMeGL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BZXNKM1J",
+                "variationName": "Color",
+                "variationValue": "(103) White/Silt/Metallic Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Ny8MjqO0L._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQKQBX3",
+                "variationName": "Color",
+                "variationValue": "(300) Colorado Sage/Grove Green/Colorado Sage",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/411Pb+el0mL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBXPVCZ",
+                "variationName": "Color",
+                "variationValue": "(400) Downpour Gray/Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41mD3bTg2ML._SS47_.jpg"
+            },
+            {
+                "asin": "B0BZXGTPFY",
+                "variationName": "Color",
+                "variationValue": "(401) Capri/Black/Sky Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HnfPQ4jtL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBWY3CS",
+                "variationName": "Color",
+                "variationValue": "(500) Nebula Purple/Sonar Blue/Orange Blast",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41hY14QT+iL._SS47_.jpg"
+            },
+            {
+                "asin": "B09PQ19D5B",
+                "variationName": "Color",
+                "variationValue": "(600) Red/Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41MgLCCdK8L._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBVS7XP",
+                "variationName": "Size",
+                "variationValue": "7 Women/7 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWVYD1",
+                "variationName": "Size",
+                "variationValue": "7.5 Women/7.5 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVJ77T",
+                "variationName": "Size",
+                "variationValue": "8 Women/8 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPF97HQ",
+                "variationName": "Size",
+                "variationValue": "8.5 Women/7 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWGV1D",
+                "variationName": "Size",
+                "variationValue": "8.5 Women/8.5 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPHGP35",
+                "variationName": "Size",
+                "variationValue": "9 Women/7.5 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBT8YNR",
+                "variationName": "Size",
+                "variationValue": "9 Women/9 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPNLCCD",
+                "variationName": "Size",
+                "variationValue": "9.5 Women/8 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBW77X5",
+                "variationName": "Size",
+                "variationValue": "9.5 Women/9.5 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPSVJMB",
+                "variationName": "Size",
+                "variationValue": "10 Women/8.5 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWWHP1",
+                "variationName": "Size",
+                "variationValue": "10 Women/10 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPHT6MK",
+                "variationName": "Size",
+                "variationValue": "10.5 Women/9 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBXKLV8",
+                "variationName": "Size",
+                "variationValue": "10.5 Women/10.5 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPHNR61",
+                "variationName": "Size",
+                "variationValue": "11 Women/9.5 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBXZXDJ",
+                "variationName": "Size",
+                "variationValue": "11 Women/11 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPK28XW",
+                "variationName": "Size",
+                "variationValue": "11.5 Women/10 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBW5BJ1",
+                "variationName": "Size",
+                "variationValue": "11.5 Women/11.5 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPCXN7S",
+                "variationName": "Size",
+                "variationValue": "12 Women/10.5 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBX9VGV",
+                "variationName": "Size",
+                "variationValue": "12 Women/12 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGQPNCV8",
+                "variationName": "Size",
+                "variationValue": "12.5 Women/10.5 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPSS7LR",
+                "variationName": "Size",
+                "variationValue": "12.5 Women/11 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBTJ2TS",
+                "variationName": "Size",
+                "variationValue": "12.5 Women/12.5 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPF74L3",
+                "variationName": "Size",
+                "variationValue": "13 Women/11.5 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBX677M",
+                "variationName": "Size",
+                "variationValue": "13 Women/13 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPLM47L",
+                "variationName": "Size",
+                "variationValue": "13.5 Women/12 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPQWFPB",
+                "variationName": "Size",
+                "variationValue": "14 Women/12.5 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBXDZ6H",
+                "variationName": "Size",
+                "variationValue": "14 Women/14 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPTN4N5",
+                "variationName": "Size",
+                "variationValue": "14.5 Women/13 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBYBFD4",
+                "variationName": "Size",
+                "variationValue": "15 Women/15 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PQ48YG6",
+                "variationName": "Size",
+                "variationValue": "15.5 Women/14 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBX6MG9",
+                "variationName": "Size",
+                "variationValue": "16 Women/16 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPHSZMD",
+                "variationName": "Size",
+                "variationValue": "16.5 Women/15 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PPRRP42",
+                "variationName": "Size",
+                "variationValue": "17.5 Women/16 Men",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31hNmYm68lL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/413npPEXQZL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41MyJJJjLkL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41Y6dvUcBzL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41feKb1x2EL.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Under Armour Store",
+            "link": "https://www.amazon.com/stores/UnderArmour/page/4750579C-0CF4-4BF9-B7E8-F782E52D7683?ref_=ast_bln"
+        },
+        "brand": "UnderArmour",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 2022,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Care instructions Machine Wash",
+            "Origin Made in the USA or Imported",
+            "Sole material Rubber",
+            "Outer material Leather",
+            "Durable leather upper with mesh panels for added breathability & comfort",
+            "Plush foam sockliner for increased underfoot comfort",
+            "EVA midsole delivers a lightweight & responsive ride",
+            "Durable solid rubber outsole with herringbone traction pattern for ultimate on-court movement & control",
+            "Lace type: Standard tie",
+            "Warning: This product can expose you to chemicals including chromium (hexavalent compounds), which is known in the State of California to cause cancer and birth defects or other reproductive harm."
+        ],
+        "description": "Durable leather upper with mesh panels for added breathability & comfort. Plush foam sockliner for increased underfoot comfort. EVA midsole delivers a lightweight & responsive ride. Durable solid rubber outsole with herringbone traction pattern for ultimate on-court movement & control. Lace type: Standard tie. .",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Womens-Athletic-Shoes/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127771011"
+            },
+            {
+                "name": "Team Sports",
+                "link": "https://www.amazon.com/Sport-Shoes-for-Women/b/ref=dp_bc_aui_C_5?ie=UTF8&node=10294505011"
+            },
+            {
+                "name": "Basketball",
+                "link": "https://www.amazon.com/Womens-Basketball-Shoes/b/ref=dp_bc_aui_C_6?ie=UTF8&node=679341011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 3025616"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e unisex-adult"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e January 4, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Under Armour"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09PPRZH5P"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#7,383 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #5 in Men's Basketball Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 2,022 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Unisex UA Lockdown 6 Basketball Shoes These are light, comfortable, and tough enough to last all season\u2014making them a go-to court shoe year after year. Durable leather upper with mesh panels for added breathability & comfortPlush foam sockliner for increased underfoot comfortEVA midsole delivers a lightweight & responsive rideDurable solid rubber outsole with herringbone traction pattern for ultimate on-court movement & controlWeight: 13.8 oz.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/db348548-855a-4a0f-ab56-1398ad158f19.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/db348548-855a-4a0f-ab56-1398ad158f19.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a9014e14-7022-4b2e-af7a-d5cb952bca3c.__CR0,0,970,600_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/29ce4c38-664b-4422-ae45-f1864abd2d56.__CR530,0,1940,600_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Charles Bartleson",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHM7TCW2L2GSNAKXYSBDZD5MZIKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1C2D79CWA5OBR?ASIN=B0C62Q82C9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "5.0 out of 5 stars Excellent Buy",
+                "reviewText": "Great Sneaker and Great Price! Very comfortable and stylish",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG34VN6FCUI2XHXU3F3WSLMIJLDA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R11RRQVK510PIT?ASIN=B0C62Q82C9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 26, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great shoes",
+                "reviewText": "I waited a year to write the review. These are so comfortable and fit great I still wear them all the time . Definitely a great buy for the money",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Oney Pastran",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHGMUQN2LQXKH2JOEX3MY7IROWZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R4M9E92PKUFFY?ASIN=B0C62Q82C9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Under Armour",
+                "reviewText": "Confort, great price, nice shoes!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "chas",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGK4ZNS53D2V33KVQ6WM55VWUNUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R162WBF37DSJP2?ASIN=B0C62Q82C9",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 30, 2024",
+                "reviewTitle": "4.0 out of 5 stars Good fit",
+                "reviewText": "Good fit and good styling",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "keith decker",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFSMQCBQ5ZXGONSTQWMSW3ZWRC4A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1Q1EYT5S9EWT7?ASIN=B0C62Q82C9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great value for great shoe",
+                "reviewText": "Very comfortable and good grip on the basketball court",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Carolyn Jeffries",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEA7I6WNVYTP6M3BAY33L5Z6O5KQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3A4XP991BEBG9?ASIN=B0C62Q82C9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great shoe",
+                "reviewText": "Durable and good looking, has lasted well.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Trina F",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEDJWTBWCXJWQUQN2MPT6JV2A7GQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2Z4HAJR3PTMSC?ASIN=B0C62Q82C9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars Satisfied customer",
+                "reviewText": "I\u2019m pleased with the speed of delivery, style and comfort of the shoe as well as the stellar price!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Frank",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFTPZ7MX6JI3ZZUL4URD3VJOX3ZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3NCITD5AES4I3?ASIN=B0C62Q82C9",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 7, 2023",
+                "reviewTitle": "3.0 out of 5 stars Very very narrow in arch",
+                "reviewText": "Shoes are gorgeous but very very narrow and a pain in the arch! :). Never had UA sneakers so now I know. Unfortunately I can not wear them again. So bummed",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sethstir",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 8, 2024",
+                "reviewTitle": "Awesome",
+                "reviewText": "Made strong to uphold hard wear and tear. Great looks, comfy, keeps my feet dry at the same time feet are vented and no wet feet smell",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nani Mtz",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 20, 2023",
+                "reviewTitle": "Dise\u00f1o y comodidad",
+                "reviewText": "Exelente y muy c\u00f3modos tardaron un poco pero vali\u00f3 la pena",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rub\u00e9n Cruz",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 7, 2023",
+                "reviewTitle": "Buena relaci\u00f3n precio calidad",
+                "reviewText": "Es un buen producto, como unos materiales y muy c\u00f3modo",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "PheeL TeLaM ProJecT ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in France on January 17, 2024",
+                "reviewTitle": "Maintien et confort.",
+                "reviewText": "Excellente chaussure de sport avec un tr\u00e8s bon maintien du pied alli\u00e9 \u00e0 un tr\u00e8s bon confort.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MBerjaoui",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on January 14, 2024",
+                "reviewTitle": "Der beste UA Schuh, den ich habe",
+                "reviewText": "Einfach n geiler Schuh. Bequem trotz Plattf\u00fc\u00dfe",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,476 @@
+{
+    "remaining_requests": 15970,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Silver-Jeans-Denim-Relaxed-Straight/dp/B08Y5XZM93",
+    "body": {
+        "name": "Authentic by Silver Jeans Men's The Relaxed Fit Straight Leg Jeans",
+        "price": "$31.49 - $55.27",
+        "originalPrice": "",
+        "rawPrice": 31.49,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Authentic-Silver-Jeans-Relaxed-Straight/dp/B0B8ZYHZQY",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0B8ZYHZQY"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B08Y62R7DG",
+                "variationName": "Color",
+                "variationValue": "Light Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41zg6NMvXiL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B91Z5N4F",
+                "variationName": "Color",
+                "variationValue": "Dark Wash Aji397",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ORP9jNppL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08Y62XQT5",
+                "variationName": "Color",
+                "variationValue": "Dark Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41MslbymxtL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08Y5ZXNLK",
+                "variationName": "Size",
+                "variationValue": "28W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y63YWQK",
+                "variationName": "Size",
+                "variationValue": "29W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y616F62",
+                "variationName": "Size",
+                "variationValue": "29W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5WW3Q8",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y61XDQT",
+                "variationName": "Size",
+                "variationValue": "30W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5YMMBT",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5YHK93",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y62WPLN",
+                "variationName": "Size",
+                "variationValue": "31W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y62P1MR",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y62XTJ1",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y62S3YR",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5ZXCL6",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5ZWS2C",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5WN8VR",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5XZRG2",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B922GWYS",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y62R7DG",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5XZM93",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5YJB4C",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5WN2CV",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y6572R2",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5ZYQ92",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y65MWQJ",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5YFT8Q",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y63KRT4",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5ZJ4XL",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5Y5FJG",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5Y5CCG",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Y5N1V8C",
+                "variationName": "Size",
+                "variationValue": "44W x 32L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41zg6NMvXiL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31wOkCUmqYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41SGcRWnLiL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61o3GSho7CL.jpg"
+        ],
+        "imagesCount": 4,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bca5019a-2f1a-4d4a-9ac4-6572b77491cb/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Authentic by Silver Jeans Store",
+            "link": "https://www.amazon.com/stores/SILVERJEANSCO/page/991B3F29-9556-4105-989F-D7B980C9AB8C?ref_=ast_bln"
+        },
+        "brand": "SILVERJEANSCO",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 273,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 98% Cotton, 2% Elastane",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Button",
+            "Straight leg jeans with a light indigo wash",
+            "Sits just below the waist with a relaxed hip and thigh",
+            "Comfort stretch denim with an authentic look that's great for everyday",
+            "5-pocket styling with zip fly",
+            "17\" leg opening"
+        ],
+        "description": "Looking for an essential, easygoing fit? The Relaxed from Authentic by Silver Jeans\u00ae is just that, sitting just below the waist and featuring a relaxed fit through the hip and thigh for laid-back appeal. It's built tough to wear with handcrafted details that last and comfort stretch denim that has an authentic look but comfortable feel, making it great for everyday. Finished with a light indigo wash and classic straight leg that fits just right over boots.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 16.06 x 11.89 x 1.89 inches; 1.34 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e M93408AUM158"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e March 5, 2021"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Authentic by Silver Jeans"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B08Y5ZXNLK"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#53,033 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #258 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 273 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "MEET THE RELAXED A roomy jean that\u2019s comfortable and durable \u00b7 Sits at the waist \u00b7 Relaxed fit \u00b7 Straight leg fits over boots",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bcd13d4f-e7ba-40e2-a8c4-0fbe7cb64b30.__CR0,0,562,562_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "AUTHENTICITY FOR EVERY BODY As the leading fit innovators, Silver Jeans Co. now brings our best-selling denim the masses with a new, more affordable collection, Authentic by Silver Jeans. Featuring our most iconic fits with basic fabrics, finishes and details, Authentic by Silver Jeans delivers the expert craftsmanship and fit benefits\u2014because every body deserves a perfect fit.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/deacac6d-7bec-4246-974c-517b1bbe1d27.__CR0,0,562,562_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "QUALITY NEVER FADES Family founded and owned since 1991, Silver Jeans Co. has set the standard for high-quality denim. For decades, each collection has been designed with expert craftsmanship, unrivaled comfort, sustainable innovations and perfect fits. With jeans for every shape, size and style, in a variety rises, leg openings and washes, Silver Jeans Co. is the ultimate denim destination for every body.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/da3726c4-b784-48b7-9cf2-70cb9c761893.__CR0,0,562,562_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bcd13d4f-e7ba-40e2-a8c4-0fbe7cb64b30.__CR0,0,562,562_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/deacac6d-7bec-4246-974c-517b1bbe1d27.__CR0,0,562,562_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/da3726c4-b784-48b7-9cf2-70cb9c761893.__CR0,0,562,562_PT0_SX300_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Dr Tim",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH36E2J7IXYVCPY7H2ZM5LHY3C6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3AKEKMXDS915O?ASIN=B0B8ZYHZQY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 14, 2024",
+                "reviewTitle": "5.0 out of 5 stars Better than expected",
+                "reviewText": "I purchase Silver jeans online from different vendors from time to time, including the main company. I was seeking a lower price point so I could keep one and gift one to a family member. I ordered these the first time, then canceled the order based on some feedback about possible fakes due to the price being under $19. However, I decided to order it again and, although it took about 10 days to get here, it turned out to be great. They are name-brand, fit and stretch well, and look really good. I'm very glad I decided to purchase these.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alan Maxwell",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHL2NJQF4SWQQZ5JYBMS2XNAUVGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1XGGPE88YXU7H?ASIN=B0B8ZYHZQY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 6, 2023",
+                "reviewTitle": "5.0 out of 5 stars Quality is great for the price",
+                "reviewText": "I've had a hard time finding jeans that fit. I'm too pudgy in the stomach for skinny jeans to fit right, and if they do, they have no crotch room. Some relaxed fit jeans like Wranglers can be comfortable, but the quality has gone to hell. I had one pair rip along the front of the crotch just while trying them on, right after I bought it, and another pair that was supposed to be the same size but was way too small. These Silver jeans have been amazing. Very comfortable, and I ordered two pair of the darker jeans which fit true to size, but the lighter wash jeans were a little more snug. Still comfortable, just slightly tighter. The quality is great, they feel a lot like some Levis 505s that I had. Best jeans I've seen anywhere at that price, Id recommend to anyone looking for cheaper jeans that fit non skinny guys.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dan Trudeau",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGI57DGRAXA3CFSKN2WKWVHIUTUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1N9USUON5X2ZH?ASIN=B0B8ZYHZQY",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "4.0 out of 5 stars Great fit and not stiff denim.",
+                "reviewText": "Second pair of silver jeans I\u2019ve bought. I like the style and my regular size is accurate to fit. They have a bit of stretch to them which make them more comfortable and not stiff. Will buy again.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Christina W",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFXXZ7JKO5JPFTDJYZUVZEWFNLVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3VB2YMY1UGWE3?ASIN=B0B8ZYHZQY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 16, 2024",
+                "reviewTitle": "5.0 out of 5 stars Well made",
+                "reviewText": "Very good price and excellent quality. Will definitely order again.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFDITK2XTJ3EMQKCRTL2BPE2LSIA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3W2K8VGXXX1QN?ASIN=B0B8ZYHZQY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable fit",
+                "reviewText": "Fits great, looks great, feels comfortable",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cyndi",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE7ICVC3BVK6J7G4UICQPV5XCJ3A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1VS8NVC3GFOGB?ASIN=B0B8ZYHZQY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 16, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good quality and fit",
+                "reviewText": "Good quality, fit perfect, husband loved it as a gift.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dan Cownie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFASA2GW32THAA77WD44IEJ23G2A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1XFYLL1BYBNZG?ASIN=B0B8ZYHZQY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 30, 2023",
+                "reviewTitle": "5.0 out of 5 stars Silver",
+                "reviewText": "Awesome price, great product",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "T. L. Bolden",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFMDALBWWQGN4T36OCZAMLMCI65Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2J03Y9GVHGKA8?ASIN=B0B8ZYHZQY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 7, 2023",
+                "reviewTitle": "5.0 out of 5 stars Silver Brand Mens Jeans Review",
+                "reviewText": "The media could not be loaded. Well made, quality denim, soft on the skin, minimal stretch, minor slim, not baggy and not skin tight.Room for air to flow over skin. A+ quality!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b9bb4ce1-9b97-472e-acd4-2853c122bb1b/default.vertical.jobtemplate.mp4.480.mp4"
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

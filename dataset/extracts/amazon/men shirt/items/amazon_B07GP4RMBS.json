@@ -1,0 +1,259 @@
+{
+    "remaining_requests": 16590,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Nike-Dri-FIT-Short-Sleeve-X-Large/dp/B07GP4RMBS",
+    "body": {
+        "name": "Nike Mens Dri-FIT Short Sleeve Polo Shirt",
+        "price": "$39.99 - $44.04",
+        "originalPrice": "",
+        "rawPrice": 39.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Nike-Dri-FIT-Short-Sleeve-Shirt/dp/B0BRGL5G86",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BRGL5G86"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07JQ6CF44",
+                "variationName": "Color",
+                "variationValue": "Maroon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31IZNK4tCAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B089P2FLRH",
+                "variationName": "Color",
+                "variationValue": "Royal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31cqwfB0HnL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07JYKB35S",
+                "variationName": "Color",
+                "variationValue": "Sky Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31YgVZOUGaL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07QP38VLR",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21CeCn+-vOL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07RMK7NYR",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31hnBD6iEgL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07GP4Q8Z5",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31QzRJ0gk6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07GP3H1CT",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31stg8IePhL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08HM9YWMX",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31nM-dRPOxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07MZD6K5X",
+                "variationName": "Color",
+                "variationValue": "Sundown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Q2OJxqeVL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07GP68ZCB",
+                "variationName": "Color",
+                "variationValue": "Anthracite",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31QzRJ0gk6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07GP5QGCJ",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31pEzb+BRbL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07JQ98D6R",
+                "variationName": "Color",
+                "variationValue": "Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31f34wgNYeL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07GP4QPC8",
+                "variationName": "Color",
+                "variationValue": "Apple Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31rHrC5MrCL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07JQ4LTQ2",
+                "variationName": "Color",
+                "variationValue": "Desert Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31CheL5qOqL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B089P2FLRH",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GP4D6V6",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GP6PWBS",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GP4RMBS",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GP5LPCK",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07JPKYHNQ",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31cqwfB0HnL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31sefVK9UsL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51nQMxN0wLL.jpg"
+        ],
+        "imagesCount": 3,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Brand: Nike",
+            "link": "https://www.amazon.com/Nike/b/ref=bl_sl_s_ap_web_119088564011?ie=UTF8&node=119088564011&field-lbr_brands_browse-bin=Nike"
+        },
+        "brand": "Nike",
+        "merchantInfo": "",
+        "customerReview": "3.9 out of 5 stars",
+        "customerReviewCount": 27,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type Mesh,Polyester",
+            "Care instructions Machine Wash",
+            "Closure type Button",
+            "Neck style Collared Neck",
+            "Double knit flat back mesh body fabric with a self collar",
+            "Three-button front placket",
+            "ATTENTION BUYER: Embroidered Swoosh design trademark at the \"RIGHT SIDE\" of the chest",
+            "ATTENTION BUYER: Embroidered Swoosh design trademark at the \"RIGHT SIDE\" of the chest"
+        ],
+        "description": "The Nike Dri-FIT Polo features sweat-wicking fabric for lasting comfort on the sideline A fold-over collar and 3 button placket give you a classic look Standard fit for a relaxed, easy feel Durable taping at upper back, smooth elastic tape at back neck Embroidered Swoosh design trademark at right chest",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Shirts",
+                "link": "https://www.amazon.com/Mens-Shirts/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2476517011"
+            },
+            {
+                "name": "Polos",
+                "link": "https://www.amazon.com/Mens-Polo-Shirts/b/ref=dp_bc_aui_C_5?ie=UTF8&node=1045640"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Is Discontinued By Manufacturer \u200f",
+                "value": "\u200e No"
+            },
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.9 x 10.3 x 2.7 inches; 6.4 Ounces"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e August 16, 2018"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07JQ6CF44"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#5,860 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #8 in Men's Activewear Polos #18 in Men's Polo Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "3.9 3.9 out of 5 stars 27 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [],
+        "otherSellers": []
+    }
+}

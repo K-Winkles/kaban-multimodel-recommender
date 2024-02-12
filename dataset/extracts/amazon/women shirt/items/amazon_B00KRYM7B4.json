@@ -1,0 +1,543 @@
+{
+    "remaining_requests": 18018,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Hanes-Womens-Nano-T-Shirt-Small/dp/B00KRYM7B4",
+    "body": {
+        "name": "Hanes Women's Perfect-T Short Sleeve Cotton Crewneck T-Shirt",
+        "price": "$7.99 - $10.00",
+        "originalPrice": "",
+        "rawPrice": 7.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Hanes-Womens-Perfect-T-Crewneck-T-Shirt/dp/B0CMJR5PZB",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CMJR5PZB"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0C5QKL24R",
+                "variationName": "Color",
+                "variationValue": "Carolina Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41SzYXheh7L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00KRYM6YW",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31N1-4LrnkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00KRYLG4I",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11H+7zs38uL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CH1HF8MQ",
+                "variationName": "Color",
+                "variationValue": "Deep Forest",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41yM-z-eZ+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00KRYMBEC",
+                "variationName": "Color",
+                "variationValue": "Deep Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qZrUxdc2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00KRYMG5Q",
+                "variationName": "Color",
+                "variationValue": "Deep Royal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41-KicjIg8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00KRYLOGS",
+                "variationName": "Color",
+                "variationValue": "Light Steel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51zQrnbBN-L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00KRYLT0E",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Hy4zobXUL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00KRYM2JG",
+                "variationName": "Color",
+                "variationValue": "Pale Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31WE67aqOmL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07VFF5G74",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31KbFi1iF9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00KRYLKJO",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41owEn7UIRL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B082MSCDDT",
+                "variationName": "Color",
+                "variationValue": "Heather Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01qWTPiz6EL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00KRYLY40",
+                "variationName": "Color",
+                "variationValue": "Wow Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41YwlUEZmeL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07Q5C78GX",
+                "variationName": "Color",
+                "variationValue": "Athletic Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31d2A6X6SPL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07Q5BVH27",
+                "variationName": "Color",
+                "variationValue": "Blue Bell Breeze",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31sNx16nHIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09S1FYS3T",
+                "variationName": "Color",
+                "variationValue": "Ash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11+EtJibe+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BMPC6WKF",
+                "variationName": "Color",
+                "variationValue": "Charcoal Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31gTQjXbJYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B082MT9ZNW",
+                "variationName": "Color",
+                "variationValue": "Heather Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/118qFWr4e4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B013PHBW60",
+                "variationName": "Color",
+                "variationValue": "Deep Royal Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41FhvJsFDVL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B094VNFCX8",
+                "variationName": "Color",
+                "variationValue": "Lavender",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11adRrZWzSL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01IPN6S8Q",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31WE67aqOmL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00KRYM7B4",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00KRYM714",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00KRYMB88",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00KRYMBEC",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06XHC8FF5",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C1TDK5GY",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B094VJQTJY",
+                "variationName": "Size",
+                "variationValue": "4X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09M779J7Z",
+                "variationName": "Size",
+                "variationValue": "5X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41Cv1fNXayL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41ZlwaqNkbL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41KIA2VB0IL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31g4doS57cL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31NGCAIjpdL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41kckQSBkEL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51Ky3RMrtvL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Hanes Store",
+            "link": "https://www.amazon.com/stores/Hanes/page/F83022EC-A709-4B2F-BCB7-7BBFA1896AB0?ref_=ast_bln"
+        },
+        "brand": "Hanes",
+        "merchantInfo": "",
+        "customerReview": "4.2 out of 5 stars",
+        "customerReviewCount": 46248,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Pull On",
+            "QUALITY FABRIC - Hanes Perfect-T long-sleeve T-shirt is crafted from lightweight, high-quality ringspun cotton. (Ash and light steel are cotton blends.)",
+            "AMERICAN COTTON - Cotton is sourced from U.S. farms.",
+            "VERSATILE CREWNECK - Hanes cotton t-shirt features a classic crew neckline for a flattering fit.",
+            "TAGLESS OR TEARAWAY TAGS - Either way, you won't have to worry about itchy tags.",
+            "MULTIPLE OPTIONS - The options you want, the style you need. This long-sleeve cotton tee is available in a variety of colors.",
+            "COLD WATER WASH - Hanes recommends machine washing this women's t-shirt in cold water to help reduce energy consumption."
+        ],
+        "description": "Enjoy the feel of 100% U.S. grown cotton with Hanes\u00ae lightweight long-sleeve tee. The interior provides a smooth design you\u2019re sure to appreciate. Wear this classic crewneck tee again and again, thanks to its preshrunk cotton fabric. Hanes\u00ae updated Perfect-T offers the comfort you want and more. The flattering women\u2019s long-sleeve tee is available in an assortment of colors, for even more options.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Tops, Tees & Blouses",
+                "link": "https://www.amazon.com/Womens-Tops-Tees/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2368343011"
+            },
+            {
+                "name": "T-Shirts",
+                "link": "https://www.amazon.com/Womens-Knits-Tees/b/ref=dp_bc_aui_C_5?ie=UTF8&node=1044544"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 11.26 x 10.75 x 1.14 inches; 3.9 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e OSL04"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 31, 2023"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Hanes"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0CD85PHTF"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#520 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #15 in Women's T-Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.2 4.2 out of 5 stars 46,248 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2def8fac-64d7-4841-a7b7-d4e7c3934ccc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2def8fac-64d7-4841-a7b7-d4e7c3934ccc.__CR0,601,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e2c93dd5-e08d-4fac-88a4-2062fea5dbd8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Lisa",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF642AKSINTI7LMUJAUN4WTX65UA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2PWIEQTLGPV9W?ASIN=B0CMJR5PZB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 2, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Quality, Great Price!",
+                "reviewText": "I bought two of these t-shirts for the summer to relax in. I consistenly wear a size medium 8-10 in shirts and these are true to size for me. The fit is comfortable and does have some stretch. The sleeves hit just below my upper arm so they are not too long. The fabric is light weight but durable. The crew neck is not too high and sits just below my collar bone which is good for a summer shirt.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "vvv",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHAKWLRNIMC365OKEGSE6JMYY3CA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R12CM6DB7JUZNS?ASIN=B0CMJR5PZB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 23, 2023",
+                "reviewTitle": "5.0 out of 5 stars Runs large",
+                "reviewText": "The only downside: this t-shirt runs large, so I would suggest that you order it in a size smaller than you normally wear.Does it shrink? No. It doesn't shrink - I tried to shrink it. That's a good thing if you order the right size.Is it soft: Absolutely. It's soft and feels great.Is it sheer? Yes. It's almost too sheer for me, but some people might like the sheerness.Construction: Very well made.Does it hold its shape? So far so good. Many inexpensive T-shirts lose their shape after being washed a few times.I recommend this t-shirt",
+                "reviewVotes": "14 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Paula Sanjines",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH72U47VW246ZJU6S4JSMBBKLGWQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1J0R6GARQSWTC?ASIN=B0CMJR5PZB",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "4.0 out of 5 stars Very nice shirt but it shrinks after washing",
+                "reviewText": "Things I liked about this shirt: Good fit for a curvy woman with a little bit of a menopausal belly. Neckline is good (not too tight to the neck). Good material, thick and a nice deep black color, pretty soft for 100% cotton. I personally really like the feel of 100% cotton as synthetic fabrics make me sweaty and itchy.Things I didn\u2019t like: Well, it is 100% cotton so \u2026. It will shrink. One of the things I had liked about it initially is that it was a little longer, hit below the hips so won\u2019t ride up my belly as I am moving around. But once I washed and dried it it shrunk and became much shorter. I have since been stretching it out and hanging it up to dry but that just takes extra effort in my laundry routine.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Blocki",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG3JQBBMTHC6CB4C274SA7LY5GOQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R29M0AFW0NWGOV?ASIN=B0CMJR5PZB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great for work or layering!",
+                "reviewText": "These shirts are my go-to for work and simple outfits! They have a nice straight-form look and the sleeves are roomy! The fabric is soft with good weight and doesn't trigger my sensitive eczema-prone skin. It's really hard to find GOOD straight t-shirts for women, but I love these and will continue purchasing!",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jenny Glazebrook",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEV434NJIL64EBNFYHC5PRLVFK3Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R40N2OVH8AAHN?ASIN=B0CMJR5PZB",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 3, 2023",
+                "reviewTitle": "3.0 out of 5 stars It\u2019s a short shrinker",
+                "reviewText": "This shirt was fine when it first came and fit pretty nicely, I like the softness and weight of the material, but after wearing it a couple times it started to shrink. It didn\u2019t shrink to where it necessarily got tighter and that part of it still fits fine but now it\u2019s on the shorter side. I can still wear it and do every now and then but I don\u2019t love the way it fits now because it feels weirdly wide and short. I have a fairly long torso so it may not be as bad on everyone and I\u2019m sure a lot of people wouldn\u2019t care that\u2019s it\u2019s a little shorter; but be aware that it\u2019s going to end up shrinking shorter.",
+                "reviewVotes": "14 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "gkanerva",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHT2R7KSH5AAOGPPU2QFN7IJKBGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RQ15XQD3GTPDC?ASIN=B0CMJR5PZB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 3, 2023",
+                "reviewTitle": "5.0 out of 5 stars Affordable and Classic",
+                "reviewText": "This Hanes Crewneck T-Shirt proved to be an exceptional find, especially considering its budget-friendly price of around $5 which during my college years was a saving grace. It is simple and versatile, this is an excellent choice for various purposes, with a few considerations regarding its texture.Budget-Friendly Excellence:The standout feature of this t-shirt is its remarkable value for money. Priced at approximately $5, it offers an unbeatable combination of affordability and quality. I bought 5 of these t-shirts that lasted me through my college years and looked great paired with anything! I had to get rid of a few of them over time due to deodorant built up (not the t-shirt's fault, it took me a while to realize that the culprit was a stick deodorant that ruined most of my clothes before I switches to spray) that I was not able to get rid of. PRO TIP: a mixture of dish washer soap, baking soda and hydrogen peroxide takes care of this issue (and odor) within a few hours with no exception! Anyway, I ended up repurchasing these shirts a few times because of their price, comfort and versatility.Crafting Potential:The t-shirt's plain design lends itself well to creative projects. Whether you're into crafting or looking for a canvas for appliques, the Hanes Crewneck T-Shirt serves as a blank slate, allowing for personalized touches and artistic expressions. I personally never tried using this t-shirt for crafting opportunities but I figured for the price it might be a great option for crafts enthusiasts!Texture Consideration:While the t-shirt boasts various merits, one consideration is its texture. It may not be the softest option available, which could be a potential downside for those who prioritize a plush feel. However, it's well worth the money and I believe that the lack of softness and stretch helped extend the longevity of this shirt as it never got stretched out and the crewneck remained intact after many rounds of going through the washer and dryer and less than gentle handling!",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGL52UQKF5XMAHO2ORIB247MZN3Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R8HUYYX0CHEEF?ASIN=B0CMJR5PZB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 26, 2023",
+                "reviewTitle": "5.0 out of 5 stars Runs a bit small.",
+                "reviewText": "Great, affordable basic T Shirt. It's definitely not oversized or baggy, so size up if that's the look you're going for!",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHXJXLUHVXZRNAJFSL22PFHP7ORQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2U67RO4F6WATT?ASIN=B0CMJR5PZB",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 28, 2023",
+                "reviewTitle": "4.0 out of 5 stars Good quality t-shirt",
+                "reviewText": "I bought it as a workout shirt but you can wear it for casual wear. Fits good and nice color.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kindle Customer  barbara",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 23, 2023",
+                "reviewTitle": "good quality",
+                "reviewText": "Fits just right. Good quality fabric, soft but not thin. Washed well.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on June 1, 2022",
+                "reviewTitle": "Great buy",
+                "reviewText": "Colour as shownWell madeGreat addition to summer wardrobeWash very well",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Angela",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 20, 2022",
+                "reviewTitle": "Soft and Comfy",
+                "reviewText": "This shirt is very soft and comfortable. It fits perfect and is a great quality. I will definitely buy again.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "SD",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 7, 2021",
+                "reviewTitle": "A good everyday and travel shirt",
+                "reviewText": "This shirt fits well and is comfortable to wear. While the fabric is lightweight it is smooth and good quality for the price. The tag at the back of the neck does not scratch or irritate. Neckline and sleeve seams are even and well stitched.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gaby",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on August 11, 2020",
+                "reviewTitle": "Excelente calidad",
+                "reviewText": "Esta playera de manga larga es muy c\u00f3moda por la calidad de la tela (100% algod\u00f3n) y por su dise\u00f1o. La talla L (large) viene a la medida correcta, ligeramente amplia, lo que a mi me gusta ya que es una ropa casual. La uso para andar en la casa, a veces para dormir (me encanta que sea de algodon) con un lindo pantal\u00f3n de pijama.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

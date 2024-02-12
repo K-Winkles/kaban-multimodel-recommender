@@ -1,0 +1,687 @@
+{
+    "remaining_requests": 33203,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/LuxClub-Friendly-Hypoallergenic-Anti-Bacteria-Washable/dp/B072BK7W4L",
+    "body": {
+        "name": "LuxClub 6 PC King Sheet Set, Rayon Made from Bamboo Bed Sheets, Deep Pockets 18\" Wrinkle Free Cooling Bed Sheets Machine Washable Hotel Bedding Silky Soft - Autumn Orange King",
+        "price": "$37.95",
+        "originalPrice": "$61.99",
+        "rawPrice": 37.95,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/LuxClub-Friendly-Hypoallergenic-Anti-Bacteria-Washable/dp/B072BK7W4L",
+        "soldBy": {
+            "sellerID": "A3LECP42SEXVOB",
+            "name": "123Install",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3LECP42SEXVOB&asin=B072BK7W4L&ref_=dp_merchant_link&isAmazonFulfilled=1"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CBX2ZKFK"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0722S61KC",
+                "variationName": "Color",
+                "variationValue": "01 - White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21eyMkTurRL._SS36_.jpg"
+            },
+            {
+                "asin": "B0716M1BNL",
+                "variationName": "Color",
+                "variationValue": "02 - Light Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11tdZcMeEIL._SS36_.jpg"
+            },
+            {
+                "asin": "B0716M151K",
+                "variationName": "Color",
+                "variationValue": "03 - Cream",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11Nq2fbQwJL._SS36_.jpg"
+            },
+            {
+                "asin": "B072F4TMRW",
+                "variationName": "Color",
+                "variationValue": "04 - Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11-b1igCwQL._SS36_.jpg"
+            },
+            {
+                "asin": "B072BK7W4L",
+                "variationName": "Color",
+                "variationValue": "05 - Autumn Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21RI9JH3UoL._SS36_.jpg"
+            },
+            {
+                "asin": "B072F4MST9",
+                "variationName": "Color",
+                "variationValue": "06 - Dark Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/117fuMEiy7L._SS36_.jpg"
+            },
+            {
+                "asin": "B072BJQR52",
+                "variationName": "Color",
+                "variationValue": "07 - Light Teal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21Un2BRCELL._SS36_.jpg"
+            },
+            {
+                "asin": "B07SFHFBGL",
+                "variationName": "Color",
+                "variationValue": "08 - Aqua",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21YT1leMr3L._SS36_.jpg"
+            },
+            {
+                "asin": "B072BJSL9N",
+                "variationName": "Color",
+                "variationValue": "09 - Lavender",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21xzkuKgftL._SS36_.jpg"
+            },
+            {
+                "asin": "B07SFWFHB4",
+                "variationName": "Color",
+                "variationValue": "10 - Emerald",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11y+Ob7qoXL._SS36_.jpg"
+            },
+            {
+                "asin": "B071NPSLTC",
+                "variationName": "Color",
+                "variationValue": "11 - Tree Moss Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11D69DNvBxL._SS36_.jpg"
+            },
+            {
+                "asin": "B071NPS19Q",
+                "variationName": "Color",
+                "variationValue": "12 - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11lQ3GmguAL._SS36_.jpg"
+            },
+            {
+                "asin": "B0722S62D9",
+                "variationName": "Color",
+                "variationValue": "13 - Teal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21kygOV2RGL._SS36_.jpg"
+            },
+            {
+                "asin": "B0727YMK92",
+                "variationName": "Color",
+                "variationValue": "14 - Oxford",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/111AqilcUKL._SS36_.jpg"
+            },
+            {
+                "asin": "B0727YNTHM",
+                "variationName": "Color",
+                "variationValue": "15 - Eggplant",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11L9K5m2kiL._SS36_.jpg"
+            },
+            {
+                "asin": "B0727YMS4M",
+                "variationName": "Color",
+                "variationValue": "16 - Light Khaki",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11Gr2b-QyCL._SS36_.jpg"
+            },
+            {
+                "asin": "B071HJ7CM5",
+                "variationName": "Color",
+                "variationValue": "17 - Medallion Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11hWWGoR3EL._SS36_.jpg"
+            },
+            {
+                "asin": "B071NPJZTT",
+                "variationName": "Color",
+                "variationValue": "18 - Sky",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21DibzjnWXL._SS36_.jpg"
+            },
+            {
+                "asin": "B071NPSJM8",
+                "variationName": "Color",
+                "variationValue": "19 - Light Taupe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11rO4QLol6L._SS36_.jpg"
+            },
+            {
+                "asin": "B071412GM4",
+                "variationName": "Color",
+                "variationValue": "20 - Dark Khaki",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11ztLS8sEeL._SS36_.jpg"
+            },
+            {
+                "asin": "B072F48MTT",
+                "variationName": "Color",
+                "variationValue": "21 - Burgundy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/111i6JdaZHL._SS36_.jpg"
+            },
+            {
+                "asin": "B071NPSNN5",
+                "variationName": "Color",
+                "variationValue": "22 - Pearl Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/213oJ2rh-TL._SS36_.jpg"
+            },
+            {
+                "asin": "B072BKDT8B",
+                "variationName": "Color",
+                "variationValue": "23 - Light Plum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11FyK7BjxPL._SS36_.jpg"
+            },
+            {
+                "asin": "B072BKFF3K",
+                "variationName": "Color",
+                "variationValue": "24 - Olive",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11yd8XAHTBL._SS36_.jpg"
+            },
+            {
+                "asin": "B0725CVG19",
+                "variationName": "Color",
+                "variationValue": "25 - Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11f4Uzl9N0L._SS36_.jpg"
+            },
+            {
+                "asin": "B072BKG7GJ",
+                "variationName": "Color",
+                "variationValue": "26 - Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/213iBerQLTL._SS36_.jpg"
+            },
+            {
+                "asin": "B071RVBPYD",
+                "variationName": "Color",
+                "variationValue": "27 - Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11JG0tiz80L._SS36_.jpg"
+            },
+            {
+                "asin": "B071NPP2M8",
+                "variationName": "Color",
+                "variationValue": "28 - Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11cKbbDlj3L._SS36_.jpg"
+            },
+            {
+                "asin": "B071RVWNNQ",
+                "variationName": "Color",
+                "variationValue": "29 - Violet Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21vI+WEdA7L._SS36_.jpg"
+            },
+            {
+                "asin": "B073DN37WL",
+                "variationName": "Color",
+                "variationValue": "30 - Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21thKUP4EzL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B48RMQMC",
+                "variationName": "Color",
+                "variationValue": "31 - Striped - White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11vBBZ+jKoL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B47L6P9F",
+                "variationName": "Color",
+                "variationValue": "32 - Striped - Light Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21mL9JEmzOL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BBPHF2CP",
+                "variationName": "Color",
+                "variationValue": "33 - Striped - Cream",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21itf12-t4L._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "34 - Striped - Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21LGznU31ML._SS36_.jpg"
+            },
+            {
+                "asin": "B0BBPJ1LHS",
+                "variationName": "Color",
+                "variationValue": "35 - Striped - Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21fy7bQyBSL._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "36",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41zXQgDhu3L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41BjezXXp6L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41 TnapiTyL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41zmh zsYPL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41ShmpcsajL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41FoJLJUeLL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41nxzfbZBQL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the LuxClub Store",
+            "link": "https://www.amazon.com/stores/LuxClub/page/38EA9E39-AA1F-42EA-A199-C5F5A97235BA?ref_=ast_bln"
+        },
+        "brand": "LuxClub",
+        "merchantInfo": "123Install",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 180950,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Sunday, February 18",
+            "Or fastest delivery Thursday, February 15. Order within 28 mins",
+            "FREE delivery Sunday, February 18 on orders shipped by Amazon over $35. Order within 28 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": true,
+            "details": "OEKO-TEX STANDARD 100 requires textiles-based products to be tested against a list of 1,000+ chemicals, to limit those which may be harmful to human health. Certification focus: #ProductSafety and #ChemicalsUsed."
+        },
+        "features": [
+            "LUXURY BEDDING: Includes: 1 fitted Sheet, 1 flat Sheet and 4 pillowcases. Our LuxClub 6 pc king size sheets set are crafted from a blend of 80% microfiber and 20% rayon made from bamboo, offer a more luxurious and comfortable bedding experience than even the finest Egyptian cotton sheets and pillowcases. With double-brushed polyester microfiber, these king sheets outperform 100% cotton for softness and breathability.",
+            "UNMATCHED COMFORT: Say hello to Oeko-Tex Standard 100 certified & environmentally friendly king sheet set that rival hotel and high thread count luxury sheets. Our bedding sets offer the best cooling sheets with superior breathability. Plus, the 18 inch deep pocket sheets are wrinkle-free and silky soft, providing you with unparalleled comfort.",
+            "EXCEPTIONAL QUALITY: Our king fitted sheets are made with a blend of microfiber and elastic all around, providing them with superior strength and elasticity. The deep pockets are perfect for memory foam or mattress toppers, while the sheets are softer than jersey sheets and fade-resistant, anti-pill, and temperature controlled.",
+            "PERFECT GIFT: LuxClub 6 pc deep pocket king sheet set make the perfect gift for anyone. They are great for people of all ages, including parents, spouses, and kids, and are suitable for any time of year. It's also an adorable gift that can decorate your room!",
+            "LIFETIME SATISFACTION: Our total confidence guarantee will provide you with peace of mind. We are confident that you'll love our LuxClub 6 pc king size sheets set. However, if you're not thrilled with them for any reason, simply let us know and we will take them back, no questions asked. Add them to your cart and enjoy the comfort of LuxClub sheets with total confidence."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Home & Kitchen",
+                "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_aui_C_1?ie=UTF8&node=1055398"
+            },
+            {
+                "name": "Bedding",
+                "link": "https://www.amazon.com/bedding/b/ref=dp_bc_aui_C_2?ie=UTF8&node=1063252"
+            },
+            {
+                "name": "Sheets & Pillowcases",
+                "link": "https://www.amazon.com/sheets-pillowcases/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1063274"
+            },
+            {
+                "name": "Sheet & Pillowcase Sets",
+                "link": "https://www.amazon.com/sheet-pillowcase-sets/b/ref=dp_bc_aui_C_4?ie=UTF8&node=3732781"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Size",
+                "value": "King"
+            },
+            {
+                "name": "Material",
+                "value": "80% Microfiber, 20% Rayon Made from Bamboo"
+            },
+            {
+                "name": "Color",
+                "value": "05 - Autumn Orange"
+            },
+            {
+                "name": "Pattern",
+                "value": "Solid"
+            },
+            {
+                "name": "Brand",
+                "value": "LuxClub"
+            },
+            {
+                "name": "Number of Pieces",
+                "value": "6"
+            },
+            {
+                "name": "Special Feature",
+                "value": "Wrinkle Free, Fade Resistant, Moisture Wicking"
+            },
+            {
+                "name": "Style",
+                "value": "Bedding Sheet Set"
+            },
+            {
+                "name": "Included Components",
+                "value": "1 Flat Sheet, 1 Fitted Sheets, 4 Pillowcases"
+            },
+            {
+                "name": "Closure Type",
+                "value": "Envelope, Elastic"
+            },
+            {
+                "name": "Product Care Instructions",
+                "value": "Machine Wash"
+            },
+            {
+                "name": "Theme",
+                "value": "Autumn"
+            },
+            {
+                "name": "Seasons",
+                "value": "All"
+            },
+            {
+                "name": "Item Dimensions LxWxH",
+                "value": "51.18 x 35.43 inches"
+            },
+            {
+                "name": "Unit Count",
+                "value": "1 Count"
+            },
+            {
+                "name": "Item Display Dimensions",
+                "value": "10 x 11 x 4 inches"
+            },
+            {
+                "name": "Item Weight",
+                "value": "4.24 pounds"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "LuxClub"
+            },
+            {
+                "name": "ASIN",
+                "value": "B072BK7W4L"
+            },
+            {
+                "name": "Country of Origin",
+                "value": "China"
+            },
+            {
+                "name": "Item model number",
+                "value": "LUXBAMBOO-6PC-ATJ-AUTUMNORANGE-KG-FL"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 180,950 ratings 4.4 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#71 in Home & Kitchen (See Top 100 in Home & Kitchen) #5 in Sheet & Pillowcase Sets"
+            },
+            {
+                "name": "Is Discontinued By Manufacturer",
+                "value": "No"
+            },
+            {
+                "name": "Date First Available",
+                "value": "May 5, 2017"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Hypoallergenic The Fabric blend used in LuxClub sheets gives them a natural defense against allergens. We're all careful about the things we put into our bodies and our skin, so shouldn't we be just as diligent with our sheets? After-all we immerse our faces and bodies in them in every night! Wrinkle Free No harmful chemicals that will wash out over time leaving you with wrinkled sheets down the road. Our sheets are naturally wrinkle free thanks to the nature of our fabric blend and the weaving process. - Super easy care, just wash and tumble dry on low. Soft Some of the softest sheets you'll ever feel even when comparing to the softest cottons. It's not just the fabric we use or the weave, but also factors like thickness, twist, density etc.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c6a1cbb9-33d5-4364-b1fa-2bd7e286fb7a.__CR0,0,600,600_PT0_SX300_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d8112295-dec7-41b3-b4d5-380f11bf59af.__CR0,0,600,600_PT0_SX300_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/90892391-7f42-42d4-9bef-ff15d3dd4ea6.__CR0,0,600,600_PT0_SX300_V1___.png"
+                ]
+            },
+            {
+                "media_text": "Moisture Wicking Any moisture is pulled and dispersed similar to your favorite activewear, but with a much more comfortable feel. Quality Quality, Quality, Quality! From the fabrics we use to the instruments to the factory workers. LuxClub sheets are made to last a lifetime. Cooling Like us, sheets need to breathe. Our sheets do their part helping to regulate body temperature with their breathable cooling feature.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a95f83c8-bbcf-4a62-b718-afd94257a339.__CR0,0,600,600_PT0_SX300_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ad076c70-50f4-409c-8427-bd68055690c1.__CR2418,0,3240,3240_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6881dfd6-b0c2-4418-9b90-b51912138a6f.__CR0,0,600,600_PT0_SX300_V1___.png"
+                ]
+            },
+            {
+                "media_text": "6pc Luxury Sheet Set 6pc Striped Luxury Sheet Set 6pc Deep Pocket Luxury Sheet Set 2 pc 20\" x 30\" Luxury pillowcase 2 pc 20\" x 36\" Luxury pillowcase Size Available Twin/Twin XL/Full/Queen/King/Cal King/Split King Twin/Twin XL/Full/Queen/King/Cal King/Split King Twin/Twin XL/Full/Queen/King/Cal King/Split King Queen/King Queen/King Available Color 35+ Colors 35+ Colors 35+ Colors 35+ Colors 35+ Colors Material 80% Microfiber, 20% Rayon Made from Bamboo 80% Microfiber, 20% Rayon Made from Bamboo 80% Microfiber, 20% Rayon Made from Bamboo 80% Microfiber, 20% Rayon Made from Bamboo 80% Microfiber, 20% Rayon Made from Bamboo Ultra Soft \u2713 \u2713 \u2713 \u2713 \u2713 Wrinkle Free \u2713 \u2713 \u2713 \u2713 \u2713 Machine Washable \u2713 \u2713 \u2713 \u2713 \u2713 Extra Deep Measurements \u2713",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c7b405fd-49d4-45a1-8330-86e069f74228.__CR0,0,970,600_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b538c28c-4a6e-47ae-8bd0-c42cb160f90c.__CR0,0,1940,1200_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c6a1cbb9-33d5-4364-b1fa-2bd7e286fb7a.__CR0,0,600,600_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d8112295-dec7-41b3-b4d5-380f11bf59af.__CR0,0,600,600_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/90892391-7f42-42d4-9bef-ff15d3dd4ea6.__CR0,0,600,600_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1cd9e70f-b363-4ce6-9768-257af69a8a2b.__CR0,0,1940,600_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a95f83c8-bbcf-4a62-b718-afd94257a339.__CR0,0,600,600_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ad076c70-50f4-409c-8427-bd68055690c1.__CR2418,0,3240,3240_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6881dfd6-b0c2-4418-9b90-b51912138a6f.__CR0,0,600,600_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4ee2c04d-f0b7-44c5-9dd4-0f267c2e741f.__CR0,0,1941,600_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9c8ae05f-5613-4d49-a639-4837737c01be.__CR0,0,300,600_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7821d2fb-4730-4a6b-a289-712cd37b3d84.__CR0,0,300,600_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6182a9f2-4b07-48bf-bbb3-e2e22f3791ba.__CR0,0,300,600_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/265eece2-2bb8-48ad-9f7d-6933ecc3d412.__CR0,0,300,600_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b66abd83-37de-4f3d-9026-3c2c074bf854.__CR0,0,300,600_PT0_SX150_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Jessica Lauritsen",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFDD4UXDRSJE75DRQKIBJ6BBB6RA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R33HAJ21TKQGK5?ASIN=B072BK7W4L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 15, 2023",
+                "reviewTitle": "5.0 out of 5 stars Indulge in luxury with the silky soft, cooling bamboo bed sheets!",
+                "reviewText": "I recently upgraded my sleep sanctuary with the LuxClub 6 PC King Sheet Set, and the experience has been nothing short of luxurious. Here's my detailed review of these rayon-made bamboo bed sheets:Material and Comfort (5/5):The rayon made from bamboo material is a game-changer. The sheets are incredibly soft, providing a luxurious feel against the skin. The silky-smooth texture enhances the overall comfort, making bedtime a truly indulgent experience.Cooling Properties (5/5):One of the standout features is the cooling effect of these sheets. Even on warmer nights, they wick away moisture and keep me comfortably cool. The breathability of the bamboo fabric ensures a restful night's sleep without overheating.Deep Pockets and Wrinkle-Free (5/5):The deep pockets (18\") are a godsend for those with thicker mattresses. The fitted sheet stays securely in place without constant readjustment. Additionally, the wrinkle-free design maintains a crisp and tidy appearance, contributing to the overall aesthetic of my bed.Machine Washable and Durability (5/5):The convenience of machine-washable sheets cannot be overstated. These sheets have withstood multiple washes, and their color and quality remain as impeccable as day one. The durability of the fabric is impressive, showcasing the high-quality construction.Versatility and Style (5/5):The classic white color of the LuxClub sheets adds an elegant touch to my bedroom decor. The simplicity of the design allows for versatile pairing with various duvet covers and pillowcases, making it easy to refresh the look of my bedding.Hotel-Like Luxury (5/5):The feel of these sheets is truly reminiscent of high-end hotel bedding. The combination of the silky texture, cooling properties, and deep pockets contributes to a sleep experience that rivals the comfort of a luxury hotel stay.Overall Satisfaction (5/5):The LuxClub 6 PC King Sheet Set has exceeded my expectations in every aspect. From the unparalleled comfort of the bamboo material to the practicality of deep pockets and wrinkle-free design, these sheets offer a sleep experience that feels like a nightly getaway to a five-star hotel.In conclusion, if you're in search of sheets that combine supreme comfort, cooling properties, and a touch of luxury, the LuxClub 6 PC King Sheet Set is a must-have. Treat yourself to the indulgence of bamboo bedding, and elevate your sleep sanctuary to new heights of comfort and style. Highly recommended!",
+                "reviewVotes": "128 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Matthew Dahl",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGHMOY34H6OK2ANU2C47DUEC7RKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2YQH7NS14GBVS?ASIN=B072BK7W4L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Sheets you can't Beats",
+                "reviewText": "I am a bed sheet snob. If they don't feel right against my skin they get donated or returned.This set is pretty nice. Bamboo linen is my new thing during the cold weather months.Cotton Linen is for Summer and only Cotton Linen.The fitted sheet fit with no hassleThe top sheet is a good size for a queen, even with a 2 inch foam topper on it.The pillow cases did need to be ironed but for the price....Forgetaboutit!I will be buying more of these when I see them on sale again.Comfy, not hot, not sticky and didn't shrink after wash and dry.Nice set for the sale price...Thanks",
+                "reviewVotes": "27 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "The Pro 47",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHB6CCW7YM7AADV5X42WU44OX7QQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R4OEW9DPBKA6I?ASIN=B072BK7W4L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "5.0 out of 5 stars Excellent sheets",
+                "reviewText": "These sheets are great. I\u2019m fairly particular and the low price had me questioning the quality. I received them washed them on cold, dried them on low heat, and put them on the bed. Very soft, color is beautiful, and I\u2019m extremely pleased with them. I ordered Queen and have a 16\u201d mattress and they fit with extra to spare yet stay tight. Good purchase.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "speedy909",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFN3UJYTYGT44ZPRQTU4K577E3KA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1K2HKOUG91SI7?ASIN=B072BK7W4L",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 10, 2024",
+                "reviewTitle": "4.0 out of 5 stars good for the price",
+                "reviewText": "The 6 PC California King Sheet Set made from Rayon Bamboo has redefined my sleep experience, offering a luxurious feel and a host of benefits that go beyond just comfort.What immediately stands out is the material \u2013 rayon made from bamboo. The sheets have a silky-smooth texture that feels incredibly soft against the skin. It's a game-changer for those who appreciate the finer things in bedding. The sheets also have a natural sheen that adds a touch of elegance to the bed.Beyond the luxurious feel, the sheets boast impressive moisture-wicking properties. They keep me cool and comfortable throughout the night, making them ideal for warm evenings. This breathability has significantly improved the quality of my sleep, allowing me to wake up feeling refreshed.The California King size provides ample coverage, ensuring the sheets fit perfectly on the bed without any tugging or slipping. The deep pockets and elasticized edges contribute to a snug fit, even on thicker mattresses.One remarkable experience was during a particularly hot summer night. The sheets' moisture-wicking ability kept me cool, creating a comfortable sleeping environment that made a noticeable difference in the quality of my rest.",
+                "reviewVotes": "15 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "WendyJo Wolever",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFL5PIMZTOUCQQGBORRJVO7DRPKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2B1QO6YOM81KI?ASIN=B072BK7W4L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "5.0 out of 5 stars Most comfortable cooling sheets on the market",
+                "reviewText": "I love the color and feel of these sheets...keep you cool without the over priced sheex or whatever the name is that are $300.00 for twin sized sheets. I have a pillow top queen size bed..the bottom sheet goes deep enough and stays on the top mattress like a glove and doesn't slip and slide everywhere...if you get night sweats or sleep hot these are perfect and at a very low price compared to other name brand sheets that didn't fit my budget or expectations...",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Praise The Lord",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHYQ2O3NISWUHF6JFSPFVQUGMLFA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RA14IBSVSFMN3?ASIN=B072BK7W4L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice",
+                "reviewText": "These are really nice sheets. They have a beautiful sheen and feels like silk but not as cold. They feel heavenly. They fit my bed perfectly and does not pull up or comes loose from my deep mattress. I bought the Ivory and I find it is more like a pale gold than Ivory. I still love them and would buy again in different color if available. It is always hard to judge the correct color when ordering on line. I always prefer how my sheets feel then how they fit over the exact color match... Yes I would definitely recommend these sheets and be sure to measure your pockets to ensure a great fit.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amelia MaresAmelia Mares",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG3YC7NEEEPWKH2PKEMAV6PKLOHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3SJ90CML9L25F?ASIN=B072BK7W4L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Best Type of Sheets for Those with Eczema!!",
+                "reviewText": "I ordered these for my boyfriend who has severe eczema and his skin is very sensitive to many types of sheets. Bamboo sheets are the second best type of sheets for those with eczema and let me tell you, they do not disappoint. Super soft even after washing and drying. None of the threads came out when washing and drying. The color is as described and the pillow cases has the perfect fold over! Very good price for the amazing quality!",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71Ln2VrqjEL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81Xx0RAAbKL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "M&R",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 25, 2024",
+                "reviewTitle": "These sheets are so soft",
+                "reviewText": "I am really suprised and impressed with these sheets. Thay are really soft, have a nice weight to them and just feel like a great quality product for the price. I will definetly be buying more when I need them again. THe onyl thing is that I ordered them in a navy colour, but the colour is really not navy. Its a mid-tone bluish-purplish colour. But the sheets are such god quality that I am very happy with them anyways.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "kathey mitchellkathey mitchell",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 14, 2023",
+                "reviewTitle": "Sheets not as described",
+                "reviewText": "Pkg only states the brand name and that they are king size, made in China. Nothing on pkg describes what material they are made of, no thread count. Nothing that says they are deep pocket, or wrinkle free, For that reason I returned them. Not as described",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71prExtHdFL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61hpkKOQr8L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 26, 2023",
+                "reviewTitle": "Tr\u00e8s satisfait confortable",
+                "reviewText": "Pour un lit simple je le recommande",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Me encantaron , ya las ped\u00ed en otro color . ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 24, 2023",
+                "reviewTitle": "Me encantaron",
+                "reviewText": "S\u00faper amplias , frescas , ya ped\u00ed otros colores",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Picotin",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 30, 2022",
+                "reviewTitle": "Grande qualit\u00e9",
+                "reviewText": "Draps en bambou d\u2019une grande qualit\u00e9. Au del\u00e0 de mes attentes",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

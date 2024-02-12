@@ -1,0 +1,609 @@
+{
+    "remaining_requests": 17045,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/adidas-Womens-Cloudfoam-Running-Cloud/dp/B08N5G9KR4",
+    "body": {
+        "name": "adidas Women's Cloudfoam Pure 2.0 Shoe Running",
+        "price": "$38.03 - $68.10",
+        "originalPrice": "",
+        "rawPrice": 38.03,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/adidas-Womens-Cloudfoam-Pure-Running/dp/B0CP9X9RQT",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CP9X9RQT"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B08CZ4JVGZ",
+                "variationName": "Color",
+                "variationValue": "Black/Black/White 1",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ipmesSKlS._SS47_.jpg"
+            },
+            {
+                "asin": "B08CZ7KWQR",
+                "variationName": "Color",
+                "variationValue": "Core Black/Core Black/Grey Five",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Tc8v+zKyL._SS47_.jpg"
+            },
+            {
+                "asin": "B09Q4QBT27",
+                "variationName": "Color",
+                "variationValue": "Chalk White/Magic Mauve/Alumina",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31DpJVmR8-L._SS47_.jpg"
+            },
+            {
+                "asin": "B08N5G9KR4",
+                "variationName": "Color",
+                "variationValue": "Cloud White/Cloud White/Core Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41t2YTirfXS._SS47_.jpg"
+            },
+            {
+                "asin": "B08CZ5B9KJ",
+                "variationName": "Color",
+                "variationValue": "Cloud White/Cloud White/Grey Two",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XoYWBaJdL._SS47_.jpg"
+            },
+            {
+                "asin": "B098SPH2HB",
+                "variationName": "Color",
+                "variationValue": "Wonder White/Black/Golden Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413uMf1MBUL._SS47_.jpg"
+            },
+            {
+                "asin": "B098RHRM7B",
+                "variationName": "Color",
+                "variationValue": "Black/Black/Sandy Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3199gPB+EyL._SS47_.jpg"
+            },
+            {
+                "asin": "B09Y8GHFKC",
+                "variationName": "Color",
+                "variationValue": "Grey/Silver Metallic/Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41RI1ChxP1L._SS47_.jpg"
+            },
+            {
+                "asin": "B09Q4D9QD1",
+                "variationName": "Color",
+                "variationValue": "Ink/Gold Metallic/Wonder Steel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ahB7Lm0IL._SS47_.jpg"
+            },
+            {
+                "asin": "B09VCMHNQ3",
+                "variationName": "Color",
+                "variationValue": "Silver Green/Silver Pebble/Wonder White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EuDU7TkCL._SS47_.jpg"
+            },
+            {
+                "asin": "B08JMGH35M",
+                "variationName": "Color",
+                "variationValue": "White/Vapour Pink/Wonder White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31j+6doKDLS._SS47_.jpg"
+            },
+            {
+                "asin": "B091M9GVBW",
+                "variationName": "Color",
+                "variationValue": "White/White/Clear Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31d5rp0pm8L._SS47_.jpg"
+            },
+            {
+                "asin": "B09DXVWWDN",
+                "variationName": "Color",
+                "variationValue": "Linen Green/Silver Metallic/Almost Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313NyXwfVOL._SS47_.jpg"
+            },
+            {
+                "asin": "B09Y89H5HG",
+                "variationName": "Color",
+                "variationValue": "White/Black/Pulse Mint",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31pOruZCkNL._SS47_.jpg"
+            },
+            {
+                "asin": "B09DXWBKW8",
+                "variationName": "Color",
+                "variationValue": "Ftwr White/Bold Green/Vivid Berry",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wGTFDiSRL._SS47_.jpg"
+            },
+            {
+                "asin": "B09Y7KVCJP",
+                "variationName": "Color",
+                "variationValue": "White/Blue Fusion Metallic/Coral Fusion",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31S9U06SyZL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BB71MRP9",
+                "variationName": "Color",
+                "variationValue": "Wonder White/Bliss Orange/Magic Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31tRFMLr+ML._SS47_.jpg"
+            },
+            {
+                "asin": "B09DXWW8CL",
+                "variationName": "Color",
+                "variationValue": "Bliss Orange/Zero Metallic/Grey One",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41hIEi8TvYL._SS47_.jpg"
+            },
+            {
+                "asin": "B08N5BRH45",
+                "variationName": "Color",
+                "variationValue": "Crew Navy/Iron Metallic/Halo Blush",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31bLR59SoYS._SS47_.jpg"
+            },
+            {
+                "asin": "B08JNBXW2R",
+                "variationName": "Color",
+                "variationValue": "Black/Iron Metallic/Team Real Magenta",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31+1NnVIYAS._SS47_.jpg"
+            },
+            {
+                "asin": "B091MNMHZQ",
+                "variationName": "Color",
+                "variationValue": "Core Black/Core Black/Acid Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31MgkIVcoIL._SS47_.jpg"
+            },
+            {
+                "asin": "B091MQDSF1",
+                "variationName": "Color",
+                "variationValue": "Off White/Orbit Green/Sandy Beige Metallic",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31SGIB+NQwL._SS47_.jpg"
+            },
+            {
+                "asin": "B09Y88BRMG",
+                "variationName": "Color",
+                "variationValue": "Black/Gold Metallic/Bronze Strata",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qZVttcw5L._SS47_.jpg"
+            },
+            {
+                "asin": "B09KP2K5RY",
+                "variationName": "Color",
+                "variationValue": "Black/Matte Purple Metallic/Almost Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31JzY+XiLSL._SS47_.jpg"
+            },
+            {
+                "asin": "B091MKXG77",
+                "variationName": "Color",
+                "variationValue": "Blue Tint/White/Sky Rush",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31k4lzZXvVL._SS47_.jpg"
+            },
+            {
+                "asin": "B08JMFGTZZ",
+                "variationName": "Color",
+                "variationValue": "Chalk White/Iron Metallic/Halo Blush",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Od6IK4JaS._SS47_.jpg"
+            },
+            {
+                "asin": "B09KP2NX8Q",
+                "variationName": "Color",
+                "variationValue": "Shadow Maroon/Gold Metallic/Wonder Oxide",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31xfcYI41pL._SS47_.jpg"
+            },
+            {
+                "asin": "B098RH7TZY",
+                "variationName": "Color",
+                "variationValue": "White/Acid Red/Acid Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313QFxnfR4L._SS47_.jpg"
+            },
+            {
+                "asin": "B08JMGH5M9",
+                "variationName": "Color",
+                "variationValue": "White/Halo Mint/Purple Tint",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21d-MneCovS._SS47_.jpg"
+            },
+            {
+                "asin": "B0BNYPWVPR",
+                "variationName": "Color",
+                "variationValue": "Wonder Quartz/Wonder Quartz/Almost P",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31fbknLD+VL._SS47_.jpg"
+            },
+            {
+                "asin": "B091ML33F6",
+                "variationName": "Color",
+                "variationValue": "Magic Mauve/White/Acid Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4198jjK+MSL._SS47_.jpg"
+            },
+            {
+                "asin": "B08N5FVF2Q",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5BSRZ4",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5FKKD4",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N65MKCY",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5H8YRV",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5FLCZX",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5H832D",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08CZ19336",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08CZ5BYQN",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5GS2RL",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5G9KR4",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5FB722",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41t2YTirfXS.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51oI7QWQn9S.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41 KG1ylIUS.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/21tsRddTrdS.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41-w6fUsThS.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41yIrIGl 1S.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41nxmWtChnL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the adidas Store",
+            "link": "https://www.amazon.com/stores/adidas/page/5E398A61-45C7-46F9-A6C6-5B4797CC5063?ref_=ast_bln"
+        },
+        "brand": "adidas",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 22753,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Textile",
+            "Origin Imported",
+            "Sole material Rubber",
+            "Closure type Lace-Up",
+            "Women's athletic shoes with super soft Cloudfoam cushioning",
+            "Regular fit; Lace closure for a secure feel",
+            "Textile upper is durable; Synthetic outsole is lightweight and flexible",
+            "This product is made with Primegreen, a series of high-performance recycled materials. 50% of upper is recycled content. No virgin polyester."
+        ],
+        "description": "Athletic shoes with crisp and clean style. These women's running shoes feature Cloudfoam in the midsole for elevated comfort. A synthetic outsole is flexible for running on any surface.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Womens-Athletic-Shoes/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127771011"
+            },
+            {
+                "name": "Running",
+                "link": "https://www.amazon.com/Womens-Running-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679360011"
+            },
+            {
+                "name": "Road Running",
+                "link": "https://www.amazon.com/Womens-Road-Running-Shoes/b/ref=dp_bc_aui_C_6?ie=UTF8&node=14210388011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 11.38 x 7.68 x 4.21 inches; 2.45 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e LSM34"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e June 1, 2021"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e adidas"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B08CZ4J36P"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,533 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #15 in Women's Road Running Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 22,753 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Previous page Next page",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6bb72471-025d-4c94-acd4-1dec9e439181.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b2864a2f-6ab5-493c-b580-64fa59e759d9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/29e88b17-3d4a-4ce5-8f62-227ac40b8f21.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/076e3365-d70f-403e-bfad-5e77ae70dc17.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f83778df-e47f-4cfa-a8b1-94856b39392f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e13cce78-fb82-44c3-bc2e-7812099a3dde.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bf37d016-91ea-43da-a06d-bb78d91e7442.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1a5a5f0e-1ea3-4378-8197-802d249dfbb4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Love 2 Shop",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFZQGAQJSTGMO4SPJ5DNBJQYC6CQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3BOV64DL2ZUCG?ASIN=B0CP9X9RQT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 10, 2023",
+                "reviewTitle": "5.0 out of 5 stars BRILLIANT FASHIONABLE DESIGN AND COMFORT",
+                "reviewText": "I bought these in the white and silver/green (gorgeous color by the way). I first decided to buy the white to take on my three week trip to Croatia, Paris, Amsterdam. I wasn't sure how the white would hold up without getting really dirty. But non-the-less, I decided they felt so VERY comfortable, it was worth taking them.First, they were absolutely fantastic to walk in ALL day (7-12 miles of walking per day, as you do on European vacations). I did NOT have to break them in, in any way whatsoever. They were comfortable from the start (and let me add I have a small bunion, from my years of high heels, that apparently loved them too). Oh, and occasionally I'd add a comfort pad if I knew it'd be a long day on my feet; but quite honestly, they're cushy soft anyway and found it was not necessary. My feet were never sore at any time or even by the end of a long walking day; amazing!Second. They did get a little dirty, and even more so at home from constant wear (love them so much). I have thrown them in a snug garment bag multiple different times, tossed them in the washing machine on a cold water wash and they wash up beautifully without any damage or breakdown to the shoes - but air dry them.Third. They are so fashionable. They not only feel great but they look fantastic with everything you wear. I've had so many unexpected compliments on them. As I mentioned before, I also bought the silver/green pair. They're gorgeous. What a great color!So overall, I am SUPER happy with the style, fit, durability and comfort of these shoes. I'd give them 100 stars if I could.",
+                "reviewVotes": "25 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Aubrey",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFAUCKQHOCHKZTLEX42DYMBALMPA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RZ3V1QFMP3RTX?ASIN=B0CP9X9RQT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Most comfortable tennis shoe you can wear",
+                "reviewText": "These are so comfortable and lightweight to wear and bonus - they're true to size. Adidas is the only shoe brand that I can buy any style of shoe in my normal size and it will fit. With other athletic brands, the sizing is so inconsistent and I have to go up or down in size - I've never had to do that with Adidas. These shoes in particular are so comfortable if you walk a lot, go to the gym and are just on your feet all day. I wear these almost every day of the week and my feet never hurt at the end of the day. I was worried about getting white, but honestly, I've just wiped dirt and mud off with a lysol wipe and it's come right out, so that's a bonus too - easy to keep clean and easy to wear.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mildly Amused",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFIS7SZNMK67P6M6YPWV5Z6CRKLQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R38D7HT2O0ARPM?ASIN=B0CP9X9RQT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 22, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfortable and cute",
+                "reviewText": "I love this shoe. I have owned several pairs over the past few years and will continue to buy more as long as it remains available. As someone who would prefer to be barefooted most of the time, these shoes protect my feet without being too confining. I love the slim profile and basic design. More importantly it is super comfy and fit perfectly. Thanks to the breathable fabric and flexible sole, they fit your feet in the same way yoga pants fit your body.On the downside, the interior cushioning wears down pretty quickly and the overall lifespan of the shoe is shorter than most other shoes I have owned. And I wouldn't choose them for more intense activites. But for everyday wear they are an ideal shoe for people that don't like shoes. I sincerely hope that they never discontinue this model.",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "RomaricRomaric",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE2LXAALKDPKXZO72A56KYDWW5MA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2M14F06I95C1E?ASIN=B0CP9X9RQT",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 19, 2023",
+                "reviewTitle": "4.0 out of 5 stars Like walking on clouds!",
+                "reviewText": "I recently purchased a pair of pink running shoes, and I must say, they have exceeded my expectations in more ways than one. As an avid runner, I prioritize both style and performance, and these shoes have managed to strike the perfect balance.First and foremost, the color is simply stunning. The vibrant shade of pink not only adds a pop of color to my running attire but also makes me feel confident and energized whenever I hit the track or the pavement. The design is modern and sleek, catching the attention of fellow runners and passersby alike.Beyond their aesthetic appeal, these pink running shoes have proven to be incredibly comfortable and supportive during my workouts. The cushioning in the midsole provides ample shock absorption, reducing the impact on my joints and minimizing any discomfort during longer runs. I particularly appreciate the arch support, as it helps maintain proper foot alignment and reduces the risk of injuries.Breathability is another area where these shoes shine. Thanks to the engineered mesh upper, my feet stay cool and dry even during intense workouts. This feature is especially important for me, as I often run in warm weather conditions.Traction is excellent, ensuring a steady grip on various surfaces. Whether I'm running on wet sidewalks or uneven trails, I feel confident in the shoes' ability to keep me stable and prevent slips.Durability has also proven to be a strong suit for these pink running shoes. After several months of regular use, they show minimal signs of wear and tear, which is impressive given the miles they've accompanied me.If I were to offer one minor critique, it would be the sizing. I had to go half a size up to get the perfect fit, so I recommend trying them on in-store or closely following the size chart when purchasing online.In conclusion, these pink running shoes have not only become a stylish addition to my running gear but also a reliable and supportive partner during my training sessions. Their comfort, breathability, and durability make them an excellent choice for any level of runner. Whether you're a casual jogger or a seasoned marathoner, these pink",
+                "reviewVotes": "53 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81bQXwYS16L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81x1nvgcN6L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dana sheppard",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHN7RGN3UPZE47DWMYJPDDMVX6CQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1MRTNQGDDQCNW?ASIN=B0CP9X9RQT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars My favorite shoe!",
+                "reviewText": "These are my favorite everyday tennis shoe. They are so light weight and comfortable. I ordered my normal size 10 and they fit perfectly. One thing I really love is how easy I can wash and dry them. I am obsessed with clean shoes and I can wash these in the washer with no bag and other laundry and they are fine. They are so light weight that I just throw them in the dryer with everything else and they dry perfectly. They come out looking brand new every time.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bradley Malton",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 25, 2023",
+                "reviewTitle": "Super comfy",
+                "reviewText": "Replaced a 10 year old pair. For some reason Addias just fit me perfectly and I love that they are pull on that look like lace up. No break in period needed. Comfy right out of the box",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ColeennBrian",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 11, 2023",
+                "reviewTitle": "Great shoe",
+                "reviewText": "Great shoe",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sr Issa",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on September 3, 2023",
+                "reviewTitle": "Excelentes para ejercicio",
+                "reviewText": "Fue un regalo para mi esposaSon sus preferidos para bailoterapia, muy c\u00f3modos, ligeros y est\u00e9ticamente muy bonitos.Las tallas corresponden y son correctas",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Giovana Cristina Ferreira do Carmo",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Brazil on August 11, 2023",
+                "reviewTitle": "Excelente",
+                "reviewText": "\u00d3tima compra",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ShibyShiby",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on April 11, 2023",
+                "reviewTitle": "Poor quality",
+                "reviewText": "No worth paying 95dollars, it is poor quality ...wasted my money .",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81z2T7Ao2ZL.jpg"
+                    ],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,696 @@
+{
+    "remaining_requests": 17337,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Signature-Levi-Strauss-Gold-Label/dp/B081G9YS8W",
+    "body": {
+        "name": "Signature by Levi Strauss & Co. Gold Women's Curvy Totally Shaping Straight Jeans (Available in Plus Size)",
+        "price": "$20.00 - $27.99",
+        "originalPrice": "",
+        "rawPrice": 20.0,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Signature-Levi-Strauss-Co-Gold/dp/B0CF1BSDGL",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CF1BSDGL"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B081GCNK5G",
+                "variationName": "Color",
+                "variationValue": "Blue Ice -Waterless",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Jz9D6pQ+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B081GH8VN6",
+                "variationName": "Color",
+                "variationValue": "Night Sky-waterless",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31V958dtltL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09K1B1MN9",
+                "variationName": "Color",
+                "variationValue": "Jackson Square",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31wTdTNO-uL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B081GJZX7H",
+                "variationName": "Color",
+                "variationValue": "Awaken -Waterless",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31-IF-+viKL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07FCT97NW",
+                "variationName": "Color",
+                "variationValue": "Splendor",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31KbORr6CJL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B081G6W2CF",
+                "variationName": "Size",
+                "variationValue": "12 Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GGHCTS",
+                "variationName": "Size",
+                "variationValue": "24",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GCDR7P",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G5TSWP",
+                "variationName": "Size",
+                "variationValue": "26",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G9YS8Y",
+                "variationName": "Size",
+                "variationValue": "16",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GH8VNT",
+                "variationName": "Size",
+                "variationValue": "28 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G5GTNM",
+                "variationName": "Size",
+                "variationValue": "10 Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G9YS98",
+                "variationName": "Size",
+                "variationValue": "8 Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G8XDTB",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G9YS8W",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GBLRXS",
+                "variationName": "Size",
+                "variationValue": "22 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GCNK6Z",
+                "variationName": "Size",
+                "variationValue": "20",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GJH2K2",
+                "variationName": "Size",
+                "variationValue": "4",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G8JY9S",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GH8VN6",
+                "variationName": "Size",
+                "variationValue": "18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GBLRXX",
+                "variationName": "Size",
+                "variationValue": "26 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G8WCZG",
+                "variationName": "Size",
+                "variationValue": "4 Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GCF2TT",
+                "variationName": "Size",
+                "variationValue": "28 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GC17F1",
+                "variationName": "Size",
+                "variationValue": "2 Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G97GKX",
+                "variationName": "Size",
+                "variationValue": "18 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GFFMW8",
+                "variationName": "Size",
+                "variationValue": "22 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G6W2G6",
+                "variationName": "Size",
+                "variationValue": "18 Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GFDVTH",
+                "variationName": "Size",
+                "variationValue": "4 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GG5FQ9",
+                "variationName": "Size",
+                "variationValue": "12 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GG5FQF",
+                "variationName": "Size",
+                "variationValue": "6 Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G6W2GB",
+                "variationName": "Size",
+                "variationValue": "20 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G7L18Y",
+                "variationName": "Size",
+                "variationValue": "2",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GFDVTJ",
+                "variationName": "Size",
+                "variationValue": "8 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GFFMVZ",
+                "variationName": "Size",
+                "variationValue": "14 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GCF2TZ",
+                "variationName": "Size",
+                "variationValue": "20 Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G7L197",
+                "variationName": "Size",
+                "variationValue": "16 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GH8VNV",
+                "variationName": "Size",
+                "variationValue": "28",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GHR23V",
+                "variationName": "Size",
+                "variationValue": "10 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G5TSWR",
+                "variationName": "Size",
+                "variationValue": "22 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GJY1JZ",
+                "variationName": "Size",
+                "variationValue": "2 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G5S546",
+                "variationName": "Size",
+                "variationValue": "6 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G97GKK",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GJ6BXK",
+                "variationName": "Size",
+                "variationValue": "12 Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G8JMML",
+                "variationName": "Size",
+                "variationValue": "16 Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GFFMW9",
+                "variationName": "Size",
+                "variationValue": "24 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GBLRXV",
+                "variationName": "Size",
+                "variationValue": "26 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GG5FQT",
+                "variationName": "Size",
+                "variationValue": "24 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GLHR3W",
+                "variationName": "Size",
+                "variationValue": "26 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GJFGPS",
+                "variationName": "Size",
+                "variationValue": "14 Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GHR23C",
+                "variationName": "Size",
+                "variationValue": "24 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081GJKWJJ",
+                "variationName": "Size",
+                "variationValue": "28 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G5S52Q",
+                "variationName": "Size",
+                "variationValue": "12 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081G6WDC6",
+                "variationName": "Size",
+                "variationValue": "20 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09K1HJD8J",
+                "variationName": "Size",
+                "variationValue": "10 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09K19YV7D",
+                "variationName": "Size",
+                "variationValue": "8 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JZXG8HQ",
+                "variationName": "Size",
+                "variationValue": "14 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09K1Q9M51",
+                "variationName": "Size",
+                "variationValue": "2 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09K1B1MN9",
+                "variationName": "Size",
+                "variationValue": "4 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JZYL79K",
+                "variationName": "Size",
+                "variationValue": "6 Long",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31V958dtltL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31bY5igokIL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31gmjvRrilL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51OoB-ux2cL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/5163kmSEJ9L.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Signature by Levi Strauss & Co. Gold Store",
+            "link": "https://www.amazon.com/stores/SignaturebyLeviStraussCoGoldBrandStore/page/E58B094F-5451-4355-B9B1-E22093E8DFAE?ref_=ast_bln"
+        },
+        "brand": "SignaturebyLeviStraussCoGoldBrandStore",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 25121,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 81% Cotton, 17% Polyester, 2% Elastane",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "Premium quality, super stretchy denim",
+            "Hugs your curves and keeps its shape all day",
+            "New Brand Logo and Packaging.",
+            "Quality is our Signature",
+            "INSEAM S=30 , M=32 , L=34"
+        ],
+        "description": "Signature by Levi Strauss & Co. Gold Label women's totally shaping straight jeans offer quality craftsmanship and authentic style backed by over 160 years of denim heritage and expertise. Crafted from premium, super stretchy simply stretch denim that won\u2019t bag out and keeps its shape all day, our women's totally shaping straight jeans hug your curves for a perfect fit and feature a built-in tummy smoothing panel that secretly and comfortably shapes, and are cut slim through the leg with a straight leg opening for a long, lean look. Look and feel simply amazing in stylish and versatile simply stretch women's totally shaping straight jeans. Quality you trust from Levi's strauss & co., established 1853. Please note that product packaging color may vary.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Womens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1048188"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.98 x 11.73 x 2.99 inches; 1.1 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 94525-0013"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e November 13, 2019"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Signature by Levi Strauss & Co. Women's Apparel"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B081G6W2CF"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,081 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #22 in Women's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 25,121 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "elizabeth curry",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHCXEFLRFQ3Z2OYYKUDYEFTHAANA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R21HRM1CUAKI0X?ASIN=B0CF1BSDGL",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 13, 2023",
+                "reviewTitle": "5.0 out of 5 stars Yes, mama's! Awesome tummy control!",
+                "reviewText": "I have had 5 kids. 8 months ago I was a surrogate of twins for my brother and his family. With my other pregnancies I was able to bounce back fairly quickly, but I'm older now and I had twins. I've been so frustrated trying to find jeans that will fit my new body shape. Well, I have found them! These jeans aren't so high rise that they touch my bra (lol), but not too low either. I love the cut, not skinny, but hugs all the right curves. Plus, they are stretchy but still hold me together! I work as a Rural US Mail Carrier and needed jeans that I could work in while still feeling cute. These jeans are perfect.",
+                "reviewVotes": "13 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "SBC",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEBIHUOXZSL37B6RMKYB6HU4FSAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1QDZUPUKYNZGY?ASIN=B0CF1BSDGL",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 23, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfy",
+                "reviewText": "These jeans are soft, stretchy and comfortable. They fit great, not too much of a gap at the back of the waist. They gently hug but are not constricting at all. I'm almost 5'2\" and got the short and they are still long enough to roll up even after washing and drying for me. I love the color and I just bought another pair in a different color because I like them so much.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "paige",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AECDBQQD7VIH3NZAM4HZN7MB5KIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R289XEXFXKK14H?ASIN=B0CF1BSDGL",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 2, 2024",
+                "reviewTitle": "4.0 out of 5 stars Didn\u2019t expect so much stretch",
+                "reviewText": "Fits true to size. I\u2019m 5\u20193 and they were perfect length for me, so might not work if you are much taller! Very stretchy and comfy while still being pretty flattering",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amber C.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG6BLR3WAX7XVXPAUTHAFIZW6ZTQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3CJ21E1OB82R9?ASIN=B0CF1BSDGL",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 10, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great every day jeans",
+                "reviewText": "This was my first \"regular\" pair of jeans (not baggy or leggings) since entering my mom-bod phase, so I was a little nervous, and had my doubts about the shaping capabilities. However, they somehow manage to flatten out my lower belly and yet don't leave me with a muffin top. They are tight without quite reaching skinny jean territory. I'm probably on the bigger side of size 12 (thighs, hips, butt, and belly) but I almost sized down due to some reviews saying they stretched during the day. I'm very glad I didn't size up or down. I do need to wear a belt with these, as they do kind of start to sag a little if I don't. However, I feel if I sized down, they'd have been too tight on my butt or hips, and a size bigger would have been too big at the waist. Every body is different, so you may have to try a different size if you're normally a perfect 12, but these did the trick for me. They also don't have the obvious whiskering that the picture shows, which I'm happy about.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bee Gee",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHW2EZ26447CKCJB37GFXI6CGRFQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R182FXSNDB6SKP?ASIN=B0CF1BSDGL",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Wow. buy them",
+                "reviewText": "I have been looking for a pair of straight leg jeans with stretch, but not skinny jeans. Hard to find the right fit for me. Found them here. Great stretch in them, flattering on the booty side, light tummy control up front, straight leg without being baggy nor too tight. I ordered a tall and they were finally just the right length. I normally wear a 6 in jeans but had to size down to a 4 so they fit well. For reference, I am 5 feet 8 inches tall with a longer than average inseam. The 4 talls were perfection! They hit below my ankle so I can wear as is with flats, or I can give a small cuff, or there is enough length if I wanted to wear a short heeled boot or something. No more high waters!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "PA female",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHHSCMLADMMQDKP5YADVH76UWGGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RA2151DFPYH35?ASIN=B0CF1BSDGL",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 26, 2023",
+                "reviewTitle": "3.0 out of 5 stars Levi\u2019s Signature Shaping Straight",
+                "reviewText": "These Levi\u2019s are so comfortable. They are forgiving if I gain some weight; they still fit. One thing I do not like at all, though, is that they must be line dried. I forgot and only twice put them in the dryer with my Lee jeans (that still maintain their size wash after wash), and the Levi\u2019s shrunk in length so much they have become high water jeans. I can\u2019t wear them anymore because they look ridiculous. What a waste. And this happened to three pair of Levi\u2019s.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cedez McNamara",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEYLNJDEECOZBC2PVRN2DADLABWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1P810MV9COOIN?ASIN=B0CF1BSDGL",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Finally after ordering 3 pairs!",
+                "reviewText": "It took me 3 times ordering to get my right size. I followed reviews and the size chart. For reference I am 5\u20193 136lbs. I usually wear a 2-4. I have a small waist, bigger hips and a slightly bigger butt so it\u2019s hard to find pants that fit right. I ended up with size 2 short (Waist 26 Length 30). And they are a perfect fit!! They hit right at the ankle so not to long that they drag on the floor and not to short like ankle pants. They have a good stretch to them so that\u2019s why the 4s were a little to big. They washed and dried great still holding shape.Hope this review helps!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Caterina",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AED4OJWS4GYVCLYEB7SMUTOCNCCQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R28EHIV2UAB6M9?ASIN=B0CF1BSDGL",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Perfect jeans.",
+                "reviewText": "Comfortable, well fitting jeans that I love.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "A Copeland",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 8, 2024",
+                "reviewTitle": "Great fit and length",
+                "reviewText": "Love my Levi\u2019s but can be hard to get them in a 32/34 length but they had them here! Very comfortable, love the stretch!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 29, 2023",
+                "reviewTitle": "Buy these jeans!",
+                "reviewText": "They run big, I followed the advice I saw on here and sized down, they are perfect. I am 152cm and got the \u2018short\u2019 jean, it is the perfect length for my height.These jeans are not jegging material, they are denim, but have some stretch to them and fit nicely. The waist is at my belly button, and the back of the jeans fully cover everything. The jeans have structure, but are still comfortable.They look nice, and feel good.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sherri B",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 13, 2023",
+                "reviewTitle": "Very comfortable",
+                "reviewText": "The pants are very comfortable but really long. I\u2019m a little worried about how long they will last as the material is quite thin.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sissy",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on May 9, 2023",
+                "reviewTitle": "Buen largo",
+                "reviewText": "Mido 6 pies, con la mayor longitud en piernas. Me quedaron bien de largo.Tienen m\u00e1s Licra de la necesaria, ya que al tercer uso, pude subirlos sin bajar el cierre, como si fuesen jeaggins.Lo bueno es que son ce\u00f1idos al muslo y rectos despu\u00e9s de la rodilla, as\u00ed que lucen bien.Es una l\u00e1stima que no los hubiese en mi medida en un tono azul oscuro, lo comprar\u00eda sin duda, de nuevo.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "G J",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on April 11, 2022",
+                "reviewTitle": "The fit was beyond my expectations!!!!!!!!!!",
+                "reviewText": "First off I had forgotten about Levi's. I grew up with them but they became very expensive and their sizes were limited. So how me over when I saw that they were on Amazon.ca and that they carried my size! The FIT WAS EXQUISITE! Amazing comfy and I look gooooooood in them!!!!Am I gonna order more? HELLS YES!!Thank you Levi Straus and cudos to Amazon I am happy as a bee Ina spring flower!!!!",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

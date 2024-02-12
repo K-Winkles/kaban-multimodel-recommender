@@ -1,0 +1,624 @@
+{
+    "remaining_requests": 13467,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/PRETTYGARDEN-Womens-Sleeve-Outwear-Pockets/dp/B07H312Z29",
+    "body": {
+        "name": "PRETTYGARDEN Women's Fashion Winter Coat Long Sleeve Lapel Zip Up Faux Shearling Shaggy Oversized Shacket Jacket",
+        "price": "$48.99",
+        "originalPrice": "",
+        "rawPrice": 48.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/PRETTYGARDEN-Fashion-Shearling-Oversized-Pockets/dp/B08NT3LX6Z",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B08NT3LX6Z"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07FDYF6ZT",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41GcneUNN9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZT9GVT8",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51CPpVGam4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07FF7BZ1D",
+                "variationName": "Color",
+                "variationValue": "Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41TPwaDPHkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07GWLN4V2",
+                "variationName": "Color",
+                "variationValue": "Coffee",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Osn91uc5L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08FMB7GJ5",
+                "variationName": "Color",
+                "variationValue": "Dark Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51i9hOLOZSL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08MSZSX3Z",
+                "variationName": "Color",
+                "variationValue": "Dark Coffee",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/411tk-k2C4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08FLYDFXB",
+                "variationName": "Color",
+                "variationValue": "Dark Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51aJL2WrvRL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08FLYBBRF",
+                "variationName": "Color",
+                "variationValue": "Golden",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51sT64yKdsL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07FDZSQS6",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51VE+CBHx-L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08FM9N5MX",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/519KQ7dgTBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09J8MFMVQ",
+                "variationName": "Color",
+                "variationValue": "Grey Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41cRWNrvSmL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07FF2BYZZ",
+                "variationName": "Color",
+                "variationValue": "Khaki",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ymXjalJbL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZTBHXG8",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41-GTzpDcrL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07FDZBLX1",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41h1CLn63JL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08FM55ZT3",
+                "variationName": "Color",
+                "variationValue": "Style One Apricot",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51BBWBpRs0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07H31WGH3",
+                "variationName": "Color",
+                "variationValue": "Style Two Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/417GB180sOL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07XY126QW",
+                "variationName": "Color",
+                "variationValue": "Style Two Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Lntz9C7mL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07H31R3KN",
+                "variationName": "Color",
+                "variationValue": "Style Two Camel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/514c3lHU6NL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07XXZW46G",
+                "variationName": "Color",
+                "variationValue": "Style Two Coffee",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51rwOp32m9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07XXYRRY6",
+                "variationName": "Color",
+                "variationValue": "Style Two Dark Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51jFiYRLLDL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07XXZ6DF6",
+                "variationName": "Color",
+                "variationValue": "Style Two Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51DMhfaIrxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07XY12XLT",
+                "variationName": "Color",
+                "variationValue": "Style Two Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51H3l3gWvpL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07XY1G1RR",
+                "variationName": "Color",
+                "variationValue": "Style Two White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41KBIAbx1ML._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07GWH7F6K",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41j8iNtjEYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08FLDDR3X",
+                "variationName": "Color",
+                "variationValue": "Wine Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wCddSoxTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B8QVWQJ1",
+                "variationName": "Color",
+                "variationValue": "Dark Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51lPi1vr11L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08FFGX3X1",
+                "variationName": "Color",
+                "variationValue": "Style One Khaki",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414LJ9X-7XL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07H2ZJYTT",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H312Z29",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H2Z7RC4",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H315SFQ",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XXWPGJW",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XY1G1RR",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41KBIAbx1ML.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41vYrzMenvL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41NrYhD8dzL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41 fuHHET L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/413TZHE3UvL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41dDfTFV59L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51AZnGx25mL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/290e15be-fb68-497d-a804-da697d26ba85/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9ce53d29-dd7c-4ccb-98aa-3e65f3bf74c9/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d912ecf7-9584-435d-9c62-b7eb6cc0d42d/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/28be1a10-8cc4-5cd0-b3c1-a18c66a3cc58/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4"
+        ],
+        "videosCount": 4,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the PRETTYGARDEN Store",
+            "link": "https://www.amazon.com/stores/PRETTYGARDEN/page/2A60D2F3-2F7C-4434-BA5F-394D3BAA8533?ref_=ast_bln"
+        },
+        "brand": "PRETTYGARDEN",
+        "merchantInfo": "",
+        "customerReview": "4.1 out of 5 stars",
+        "customerReviewCount": 27422,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type Soft,Warm,Double-Fleeced.",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "MATERIAL: This Sherpa Jacket Is Made Of Super-Soft And Double-Fleeced Fabric, Bringing You Ultimate Cozy Wearing Experience, Perfect Choice For Fall Or Winter",
+            "FEATURES DESIGN: Long Sleeve Sherpa Jackets/ Lapel Zipper Winter Coats/ Double-Side Faux Fur Coat/ Two Side Pockets Jacktes/ Womens Fall Fashion/ Boyfriend Style Oversized Jackets/ Fuzzy Fleece Shearling Coats/ Fluffy And Shaggy Sherpa Jacket/ Collared Teddy Bear Coat/ Winter Clothes For Women/ Shacket Jacket Women",
+            "MATCH TIPS And OCCASIONS: This Faux Shearling Coat Is Easy To Match, You Can Match With T-Shirt, Jeans, Leggings, Dress For Graceful Looks. The Fuzzy Faux Fur Teddy Jacket Suits For Any Outdoor And Indoor Activities",
+            "UNIQUE HIGHLIGHT: The Fuzzy Teddy Bear Fall Jackets Keep You Away From Cold While Looks More Chic. The Faux Fur Winter Coat Has Stand Collar, Cool And Stylish. The Womens Shacket Jacket Always Trendy, The Fashion Outfit In This Fall And Winter",
+            "FASHION STYLE: This Baggy Sherpa Shacket Jacket Has Two Side Pockets, Enough To Carry Phone Or More. The Fleeced Material Let You Enjoy Comfy Touch, Friendly To Skin. The Classic Lapel Zipper Design Make You Easily Put On And Take Off. The Shearling Fluffy Winter Shacket Jacket Looks More Gorgeous"
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Coats, Jackets & Vests",
+                "link": "https://www.amazon.com/Womens-Coats/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1044646"
+            },
+            {
+                "name": "Fur & Faux Fur",
+                "link": "https://www.amazon.com/Womens-Fur-Faux-Fur-Jackets-Coats/b/ref=dp_bc_aui_C_5?ie=UTF8&node=2348896011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Is Discontinued By Manufacturer \u200f",
+                "value": "\u200e No"
+            },
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 12.64 x 9.29 x 4.76 inches; 7.05 Ounces"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 11, 2018"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07FDYF6ZT"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#8,990 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #3 in Women's Fur & Faux Fur Jackets & Coats"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.1 4.1 out of 5 stars 27,422 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "PRETTYGARDEN Sherpa Fleece Long Coat PRETTYGARDEN Fuzzy Fleece Long Hooded Coat PRETTYGARDEN Open Front Cardigan Sweaters PRETTYGARDEN Lapel Sherpa Fleece Jacket PRETTYGARDEN Lapel Button Down Peacoat PRETTYGARDEN Wool Blend Tartan Trench Coat",
+                "media_link": []
+            },
+            {
+                "media_text": "Elegant Faux Fur Coat Women Autumn Winter Warm Soft Zipper Sherpa Jacket Fuzzy Shearling Overcoat Casual Teddy Fleece Outerwear PRETTYGARDEN Women's Chunky Lapel Long Sleeve Faux Shearling Coat Winter Boyfriend Teddy Bear Sherpa Jacket Design: The warm oversized faux fur jacket have many colors for choice, fit from S to XXXL. No matter what shape or height you are, you definitely choose your best size!The Shearling fleece coats made of chunky soft and comfy material, giving you amazing an wearing experience.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/637389dd-d4eb-4d8b-9225-1227c3c66924.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "PRETTYGARDEN Women's Fashion Long Sleeve Lapel Oversized Teddy Bear Fleece Sherpa Jacket Women Zip Up Fuzzy Shearling Coats Brand Name:PRETTYGARDENItem Type: Long Sleeve Sherpa JacketGender: Women, Ladies, Girls,TeensItem Sleeve: Long SleeveNeckline: LapelItem Style:Sweet/Cute/Casual/Stylish Long Sleeve Jacket For Women Item Fit:Loose FitMaterial: Sherpa FleeceItem Pattern:Solid ColorItem Season:Winter,Autumn And Early SpringItem Size:S/M/L/XL/2XL/3XLItem Length: Tunic LengthClosure: Pull On Closure Teddy Fleece Sherpa Jacket Women Occasion: Daily Wear / Casual Wear / Gym / Sport / Jogging / Outdoor / Work / Office / School / Home / Lounge / Shopping / Vacation / Holiday / Travel /Christmas / New Year / Gifts / Fashion PhotoshootElasticity: RegularGarment Include: 1 X Women Solid Color Fleece Jacket",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ecc85814-2e20-4b1d-99b0-b7284160889e.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5008102c-7abe-42b5-bf43-45ea2a1691d2.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ca36e689-4054-45dc-8630-4ba703d7ec07.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "PRETTYGARDEN Women's Warm Long Sleeve Lapel Fuzzy Fleece Faux Fur Coat Fall Cute Teddy Bear Shaggy Jackets PRETTYGARDEN Ladies Winter Long Sleeve Zipper Double-Fleeced Sherpa Jackets with Pockets Occasion: This fashion zipper sherpa jacket is suitable for autumn and winter and all warm days. Perfect for daily wear, dating, school, work, shopping, travel, party and any indoor or outdoor activities.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9cdad557-163b-44e3-9464-e4b615ab9bd1.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "PRETTYGARDEN Relaxed Warm Fleece Faux Fur Coat Winter Fleece Baggy Teddy Bear Jacket For Women with zipper PRETTYGARDEN Female Casual Long Sleeve Zipper Sherpa Shaggy Jacket Boyfriend Style Fuzzy Coat Outwear(S-3XL) Women's Winter Fleece Teddy Bear Jacket by PRETTYGARDENTwo versions for choice. Made of super soft fabrics,it makes you feel warm and comfortable in winter.This is a good choice for giving gifts to family and friends on Christmas, birthday or Thanksgiving.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bb38e6ea-e711-485d-94d7-3bf38454b891.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "PRETTYGARDEN Women's Winter Warm Solid Color Long Sleeve Lapel Loose Fuzzy Fleece Teddy Bear Sherpa Jacket Coat Women\u2019s Casual Fuzzy Fleece Double Breasted Open Front Button Faux Fur Shearling Cardigan Jacket Coat Outwear Design: Simple but fashion style is also a good choice as a gift to your friends and familiesOccasion: Perfect for Causal out, Streetwear, Home, Shopping, Party, Dating, Vocation, also great for office or outgoing for a fantastic lookPlus size fleece trench coat. Warm and chunky, suitable for cold weather.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/284b4239-2ee2-4bae-a07b-4556bfb9a7ff.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1e84ba7b-0483-4e58-86cb-c2a5e0b6f454.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1b6454cc-5aaf-4f9d-a3d9-09695f3ecf91.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d708b9e6-059a-49a7-9992-b76b48bb7f15.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9aedfae8-7994-4fca-be95-3fc8029b189a.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/db1512d6-1f3a-44c6-bf87-1cb67f38f20d.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/13bf30f0-e1df-4efa-b031-4934f2d16aa3.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/637389dd-d4eb-4d8b-9225-1227c3c66924.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ecc85814-2e20-4b1d-99b0-b7284160889e.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5008102c-7abe-42b5-bf43-45ea2a1691d2.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ca36e689-4054-45dc-8630-4ba703d7ec07.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9cdad557-163b-44e3-9464-e4b615ab9bd1.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bb38e6ea-e711-485d-94d7-3bf38454b891.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/284b4239-2ee2-4bae-a07b-4556bfb9a7ff.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Valeria",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHPH3ZU7RG2RZO4S74Y54AMZF7ZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RYGHEMLBG3F62?ASIN=B08NT3LX6Z",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love the color",
+                "reviewText": "Color is gorgeous and the material is so so soft, it\u2019s also very warm and light material, I really like it, fit is oversized so if you want to be more snugged size down",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Marissa Sama",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFXME5LUMRKE3TKT4SEMALP3JSJA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3QAXDOUC3UEXJ?ASIN=B08NT3LX6Z",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars This jacket is so soft and cute",
+                "reviewText": "This jacket is perfect for cool weather and is so comfortable! It looks exactly like the picture and fits true to size if you like the jacket bigger. My size is a XXL and I\u2019m 210 lbs and the jacket is oversized on me! :)",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jennifer Sanchez",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHOWP3GMZUI7F7FUD2SPRPEWCKFQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1KFSIFF3MQ3YP?ASIN=B08NT3LX6Z",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 3, 2023",
+                "reviewTitle": "4.0 out of 5 stars Cozy jacket",
+                "reviewText": "Really cute and cozy jacket! I didn't have any weird smells after opening and it's very soft and warm. Not particularly the end of the world, but the zipper tends to get stuck on the inside fur zipping up or down so you have to pick it out. May help to trim that down a bit purely for function and sanity.I'm a medium/large and I ordered a large for an oversized fit. You could definitely get away with your normal size for that relaxed/baggy fit because I'd compare the large to an XL",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "stephanie asselin",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE5FY2RHYHWR3BZ5E3BA5E4O5L4Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1QO9LXR33T7BX?ASIN=B08NT3LX6Z",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Fluffy and warm",
+                "reviewText": "100% AMAZING sweater.Fits right and look amazing.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Susan Mehler",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEQAJL3XVZUFL4PHCWMSQYNNZGLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R19E3PQS8VGF0D?ASIN=B08NT3LX6Z",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 9, 2023",
+                "reviewTitle": "3.0 out of 5 stars Must size up",
+                "reviewText": "I did not size up based on other reviews and the size chart. I got a L and this is a mistake. It's not long, like the pictures show. It hits at the top of my hips. The sleeves have generous space and it fits, but it does not have the slouchy oversized look I was going for. It is lined and is super comfy and warm, so it's a good jacket, just not what I wanted. Returning, and debating if it's worth it to try again.",
+                "reviewVotes": "16 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "RCro",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEJ7INDIIDYBWIBZ4B65P2K6Y3QA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3DLAXIR55QEQB?ASIN=B08NT3LX6Z",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 15, 2023",
+                "reviewTitle": "5.0 out of 5 stars I can live in this!!!",
+                "reviewText": "This jacket is so cozy! I have worn it every day since I got it! It\u2019s so warm and comfortable inside and out. I have been layering because of the cold jersey weather so it gets hot and haven\u2019t zippered often. Thats maybe the only flaw, the zipper sometimes gets stuck but not a big deal as it does work and hasn\u2019t been an issue since it looks cute with it open. Got compliments already too!",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Beverly ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGBDBBRXHFFEQGCRZUABXB7OCVLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R8X2KKL5JM7AD?ASIN=B08NT3LX6Z",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "5.0 out of 5 stars SOOOO comfy !",
+                "reviewText": "I love this jacket! And it keeps me warm when it was 20 degrees out! Light and warm and I want to sleep in it, it is so soft! Very happy with this purchase, enough that I may just order more colors!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jaime Schainholtz",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH6W655OUHNOTXN547MMNOOK6HJQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2H3PVO9LX6VIR?ASIN=B08NT3LX6Z",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 18, 2023",
+                "reviewTitle": "4.0 out of 5 stars Love the Jacket",
+                "reviewText": "I love the jacket. It\u2019s very cozy and comfy. Only thing is pockets are really small and kinda too far to the back. Still love it Even though pockets are basically useless",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "PattiJ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 2, 2023",
+                "reviewTitle": "Very comfortable and pretty",
+                "reviewText": "Great coat for coolish days. Just warm enough. Really pretty and comfortable. Love it.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "SH",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on February 17, 2020",
+                "reviewTitle": "F\u00fcr die Gartenarbeit",
+                "reviewText": "Leider ein Reinfall, sieht absolut billig aus",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tata",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "2.0 out of 5 stars",
+                "reviewDate": "Reviewed in Australia on August 14, 2020",
+                "reviewTitle": "Product",
+                "reviewText": "I don't like the zipper, it's annoying.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Trine",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 21, 2023",
+                "reviewTitle": "Short",
+                "reviewText": "Too short in the back and long in the front",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amber LakustaAmber Lakusta",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 29, 2023",
+                "reviewTitle": "Super thin material, not meant for winter climate",
+                "reviewText": "The media could not be loaded. Bought this on black Friday, it was supposed to be my new winter coat! But now I either return it for half of what I would have paid for a quality winter coat, or have a comfy big sweater lol. The picture is very misleading.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/717DGBm-UlL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61qX3CqyKXL.jpg"
+                    ],
+                    "video": "https://m.media-amazon.com/images/I/G1nA6h7BHZL.mp4"
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

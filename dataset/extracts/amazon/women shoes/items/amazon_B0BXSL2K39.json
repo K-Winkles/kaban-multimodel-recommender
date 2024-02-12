@@ -1,0 +1,661 @@
+{
+    "remaining_requests": 17029,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Skechers-Womens-Slip-Ins-Flex-Relish-Sneaker/dp/B0BXSL2K39",
+    "body": {
+        "name": "Skechers Women's Go Walk Flex Slip-ins-Relish Sneaker",
+        "price": "$52.81 - $60.00",
+        "originalPrice": "",
+        "rawPrice": 52.81,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Skechers-Womens-Walk-Slip-ins-Relish-Sneaker/dp/B0BXWT4SX2",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BXWT4SX2"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0B9BM1P6Q",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31+MM2vcG9L._SS47_.jpg"
+            },
+            {
+                "asin": "B0B3MJ597P",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41h28pLC1VL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BTD8643N",
+                "variationName": "Color",
+                "variationValue": "Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31SsGoypVmL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BXWLKWTV",
+                "variationName": "Color",
+                "variationValue": "Charcoal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sfaoytTrL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B9BJ7FZ8",
+                "variationName": "Color",
+                "variationValue": "Off-white",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/216GCFHHfxL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BSLCCYGB",
+                "variationName": "Color",
+                "variationValue": "Taupe/Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jU7j24DqL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B9BL4CVX",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCT84QCH",
+                "variationName": "Size",
+                "variationValue": "5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXWLKSS4",
+                "variationName": "Size",
+                "variationValue": "5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9BKS9V3",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCT8KNMK",
+                "variationName": "Size",
+                "variationValue": "5.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXWL9Y98",
+                "variationName": "Size",
+                "variationValue": "5.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9BKBFQM",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCT7PBYQ",
+                "variationName": "Size",
+                "variationValue": "6 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXSMYHNH",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9BHLDLM",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCTB5D7P",
+                "variationName": "Size",
+                "variationValue": "6.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXSPD16M",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9BMLNGL",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCT91JZ7",
+                "variationName": "Size",
+                "variationValue": "7 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXSKQ86C",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9BKPJ31",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCTB9HDK",
+                "variationName": "Size",
+                "variationValue": "7.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXSLWZCN",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9BKJCG5",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCTC56WR",
+                "variationName": "Size",
+                "variationValue": "8 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXSNCVVX",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9BLN61B",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCT8GF54",
+                "variationName": "Size",
+                "variationValue": "8.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXSL9HRL",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9BM5GLQ",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCT8X6K1",
+                "variationName": "Size",
+                "variationValue": "9 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXSMCFN1",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9BN1X6Z",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCTCD92C",
+                "variationName": "Size",
+                "variationValue": "9.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXSL2K39",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9BMDW64",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCTB95DT",
+                "variationName": "Size",
+                "variationValue": "10 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXSN6D72",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9BJ7FZ8",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCT82RQN",
+                "variationName": "Size",
+                "variationValue": "10.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXWJRGD2",
+                "variationName": "Size",
+                "variationValue": "10.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9BNP9HJ",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCTB1MWH",
+                "variationName": "Size",
+                "variationValue": "11 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXSMRPX8",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9BKKNBH",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCTBGS83",
+                "variationName": "Size",
+                "variationValue": "12 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXWP5249",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9BJYVBP",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CCT9PL4V",
+                "variationName": "Size",
+                "variationValue": "13 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BXWPXCLP",
+                "variationName": "Size",
+                "variationValue": "13 Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/216GCFHHfxL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31eI4ujDqlL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31KOn5WQP2L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/310Zlh1MXdL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/2138BxXmxxL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/21LEvdAheTL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Skechers Store",
+            "link": "https://www.amazon.com/stores/Skechers/page/4B1ECBE0-2659-48D2-A5C3-A8252218356A?ref_=ast_bln"
+        },
+        "brand": "Skechers",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 2451,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Care instructions Machine Wash",
+            "Origin Made in the USA or Imported",
+            "Sole material Ethylene Vinyl Acetate",
+            "Outer material Mesh",
+            "Skechers Hands Free Slip-ins for an easy fit",
+            "Lightweight, responsive ULTRA GO cushioning",
+            "Exclusive Heel Pillow holds your foot securely in place",
+            "Skechers Air-Cooled Memory Foam cushioned comfort insole",
+            "Machine washable, air dry"
+        ],
+        "description": "Step-in to convenient walking comfort and cushioning wearing Skechers Hands Free Slip-ins\u2122 GO WALK\u00ae Flex - Relish. This laceless design features a breathable athletic mesh upper, our exclusive Heel Pillow\u2122, a Skechers Air-Cooled Memory Foam\u00ae insole, lightweight ULTRA GO\u00ae cushioning and Flex Pillars\u2122 for added support.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Womens-Athletic-Shoes/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127771011"
+            },
+            {
+                "name": "Walking",
+                "link": "https://www.amazon.com/Womens-Athletic-Walking-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679377011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 10 x 15 x 6 inches; 1.17 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 124963"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e October 18, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Skechers"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0B9BM37T5"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,950 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #5 in Women's Walking Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 2,451 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a89e1e27-4e4b-46f9-8411-7f3b444fb656.__CR0,86,1464,453_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8584017f-c2e6-4023-a2a9-f1ef2b94a740.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/923f6ae9-47e4-4128-a41a-bc92ca3e347a.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "MGSMGS",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHDVSZYX3ZUTNVGUACFOQ7BOBJ7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RHLT99XXFSFVM?ASIN=B0BXWT4SX2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars Best Shoes for walking comfort...ever...",
+                "reviewText": "I LOVE MY SKECHERS. I bought one pair locally, but they did not stock WIDE, so I bought the regular. They fit but not like wide. I wanted wide, so went to AMAZON and was not disappointed!! For a lower price, I got better fitting Skechers. The pink ones are Go Walk Joy, and the other two are these Go Walk Flex Relish. The Flex Relish are really slip in - no hassle - no bending. I have worn only Birkenstock for a few decades, but as I age my knees and feet really cannot do the harder surfaces for any length of time. I had some walking to do so I bought a pair of these locally. WOW.....fit and comfy from the first minute. The wide are a better fit for me, but I wear the regular ones sometimes too - best idea is to have several pairs of shoes and rotate them. Oddly they last longer that way. I know I will buy more of these too. All I can say is BUY a pair of the Flex Relish and enjoy the comfort. I have had these now for two months so thought it was a good time for a review!",
+                "reviewVotes": "25 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71KK6PLMQWL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "GZ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AERRNNSTNLD2DWPGNLUXDGGSX5ZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1OXJD054SDM2D?ASIN=B0BXWT4SX2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 16, 2024",
+                "reviewTitle": "5.0 out of 5 stars GREAT SUPPORT & REALLY EASY TO SLIP ON",
+                "reviewText": "Purchased a black pair and grey pair of these shoes. Really LOVE the slip on feature especially since I'm experiencing some issues with one of my knees and it's hard to bend over and put on regular sneakers and tie the shoelaces. The shoes fit as expected and are very comfortable shoes. Thinking about purchasing another color!",
+                "reviewVotes": "8 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG4JH7XQM6DJI25SERTYBFA4TWEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3AFKHAOZLKGW5?ASIN=B0BXWT4SX2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfy and Durable",
+                "reviewText": "Love all my Skechers! Always a perfect fit and look good. I walk a lot and they are so comfortable.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "cynthia",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH7ESA5WREUED5PORBKX5ZST2C7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R247D8GQBOKH3L?ASIN=B0BXWT4SX2",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "4.0 out of 5 stars Good fit",
+                "reviewText": "Easy to step into, nice support",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tiki",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEOT7XPEXDUV5WZY3V4Q2FN7I3QQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RKW1C2VF5QYC7?ASIN=B0BXWT4SX2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "5.0 out of 5 stars Best Skechers ever.",
+                "reviewText": "My family are fans of Skechers comfort/casual shoes for two decades, always shopping for the best prices. We remove our shoes upon entering our homes so a slip-in feature is a huge bonus. When these Go-Walk Slip-ins became available, we found THE best price with Amazon. I wear a women's size 7-1/2 to 8 -- based on Amazon's viewership recommendation, I bought an 8 wide, black -- perfectly sized, comfortable, adequate padding, style-neutral to wear with dress-up or -down pants, great for all-day wear. My 90-year old Mom who's had foot problems tried on my 8s and was convinced enough to order a 7-1/12 wide, black. They arrived yesterday and she's been wearing them constantly as a house shoe -- we may have to order a second pair as an 'outside' shoe. My sister tried on my 8s and she, too, ordered an 8-1/2 wide, black and is awaiting delivery. Yup, happy customers with both Skechers and Amazon but most especially Amazon Prime as we got these great shoes at THE best price. THANK YOU!",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ForeverYOUNG",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFZUK3MTBIBEDQOPAK3OATUOUKLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RGM48ZA197SAL?ASIN=B0BXWT4SX2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 31, 2023",
+                "reviewTitle": "5.0 out of 5 stars skechers slip on slides",
+                "reviewText": "skechers slip ons - I have to purchase two sizes due to my feet - and so I purchased the usual size 8 and size 9. I've never tired the new 'slip ons' before and so I figured that would work. They are a bit snug/tight. Not as loose as others I have tried. I do not have wide feet. But think because you're supposed to slide these on - maybe they stretch a bit in wear? Not sure. They are not uncomfortable tight, but thought I should mention it in case that matters. I just got them so I will update if there is anything substantial to note. Having said all of this, I never hesitate to update my reviews should new info seem useful. All of my reviews reflect my honest, personal experience with the reviewed item - your experience may be different. I am not influenced by any outside source. I receive/accept NO free products or discounts that are not available to all shoppers- ever. As a top 30 reviewer, I've been doing reviews for over 25 years with Amazon - over 6,200 reviews posted, those reviews have been viewed well over 50,000 times, including well over 28,000 likes. BOTTOM LINE: I pay for all my stuff, just like you do - with hard earned dollars.",
+                "reviewVotes": "59 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "sfrier73",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGBJ4ZC2Q45ZLMALWTPMLHOEA7VA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3AYSXBNRJAI7I?ASIN=B0BXWT4SX2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Favorite on and go casual shoes",
+                "reviewText": "So easy to step into and go. They are holding up well ands came out of the wash in great shape. They stay on without a thought and come off easily.****I bought a pair for my mom for Christmas. She's 81 and has nerve damage to her leg and cannot feel anything below one knee. This means she can't easily insert her foot into a regular shoe AND due to flexibility issues, she cannot bend down to tie tennis shoes. If my dad isn't home or I'm not visiting, she can only slip into shoes without a back. Due to no feeling in her foot, if her foot becomes askew in her shoe as she walks (even 1 stair is a danger), she can easily fall, which she has, and seriously hurt herself, which she has.These shoes have been a GAME CHANGER for both of my parents. She can get into and out of them ON HER OWN and they are secure on her feet. Her entire gait has changed and she walks with more confidence. My dad can comfortably leave in the morning, even if she isn't yet up, as she can put on her own shoes. She has not fallen once since Christmas, and she was falling at least once or twice a week! We have ordered 2 more styles & colors for her.**For my next pair, I'll try one with the arch support and/or maximum cushioning. My Hoka, ON Cloud & Nike have spoiled me. These, however, are half the price and the style is definitely more subtle and goes with non-workout clothing much better. I do miss the extra support at the end of a long day on my feet though.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "janet brown",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGEFU3JYOGAAZ4XSNC7IILL6INCA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2P7H3O21EK7TW?ASIN=B0BXWT4SX2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 2, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great shoes",
+                "reviewText": "I bought these for my sister, hoping they were as advertised, easy slip on shoes. She has some medical issues and she struggles to tie/untie her athletic shoes so I thought easy slip on shoes would benefit her. They were so easy to slip on/off and she loves them. She uses a walker to steady herself and she can put these shoes on while standing instead of having to sit down and bend over as she did with her previous shoes. These shoes made such a difference with her so we\u2019re going to buy another pair and of course, I bought myself a pair too.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rosa Martha Ambia Medina",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 29, 2024",
+                "reviewTitle": "Comodisimos",
+                "reviewText": "Me quedaron muy bien y c\u00f3modos , el color es claro y al llover se salpicaron pero al secarse no se mancharon nada, \ud83d\udc4d",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cindy",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 18, 2024",
+                "reviewTitle": "Love these shoes!!!",
+                "reviewText": "They are so comfortable and so easy to put on. Wish I would\u2019ve had them a long time ago. They fit true to size. I got the wide and it was perfect",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ranix",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 20, 2023",
+                "reviewTitle": "Bien",
+                "reviewText": "Talla correcta, buen material ajuste y comodidad",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Almosa",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Spain on February 1, 2024",
+                "reviewTitle": "Zapatos c\u00f3modos para pies delicados",
+                "reviewText": "Todo perfecto",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on January 20, 2024",
+                "reviewTitle": "Can't get better than sketchers",
+                "reviewText": "My wife loves how comfortable these r",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

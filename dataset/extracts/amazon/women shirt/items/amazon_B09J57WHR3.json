@@ -1,0 +1,491 @@
+{
+    "remaining_requests": 17971,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/LYANER-Womens-Collar-Button-Sleeve/dp/B09BZJD7QZ",
+    "body": {
+        "name": "LYANER Women's Collar V Neck Button Front Long Sleeve Slit Hem Long Shirt Blouse Top",
+        "price": "$29.99",
+        "originalPrice": "",
+        "rawPrice": 29.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/LYANER-Womens-Collar-Button-Sleeve/dp/B09BZJD7QZ",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09BZJD7QZ"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09NC1N81B",
+                "variationName": "Color",
+                "variationValue": "Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31igfgbv9KL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09J56GG92",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Z02dbU-0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09X1TMFFH",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XtKaHPADL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09JZMTGWD",
+                "variationName": "Color",
+                "variationValue": "Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31EBP1HBnvL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09NC2H2JY",
+                "variationName": "Color",
+                "variationValue": "Dark Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31xBPu3nsdL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B4D9BB6H",
+                "variationName": "Color",
+                "variationValue": "Dark Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31rLGBZjM6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B4DB31PM",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31AnDHSjiaL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09MKNFKHP",
+                "variationName": "Color",
+                "variationValue": "Letter-white",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/411NMyjC9yL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B4D93Q5K",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31LjpnHdrzL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09J58MN5F",
+                "variationName": "Color",
+                "variationValue": "Navy Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Oya7VRw+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09X1VM712",
+                "variationName": "Color",
+                "variationValue": "Neon Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31SqvsWvdGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09X1STKNH",
+                "variationName": "Color",
+                "variationValue": "Neon Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31PnW93FGLL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ST86BHS",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31WjvQVSW3L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09X1WR5GW",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Kx4PaxBFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09J599KD4",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Lvb-h-ssL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ST76H6K",
+                "variationName": "Color",
+                "variationValue": "Royal Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31FYpg5NiGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09J59J4PR",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/316SlIZd64L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B4D9RT3M",
+                "variationName": "Color",
+                "variationValue": "Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31QGYZnKIeL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09JZN313F",
+                "variationName": "Color",
+                "variationValue": "Rose",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31cGxYKVt0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ZX4DP4G",
+                "variationName": "Color",
+                "variationValue": "Striped-red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41zwnguZaQL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ST5HGWK",
+                "variationName": "Color",
+                "variationValue": "Burgundy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/311ntnarszL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BXBWBPC7",
+                "variationName": "Color",
+                "variationValue": "Leopard-black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HR56tUsdL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09MKNWTPH",
+                "variationName": "Color",
+                "variationValue": "Letter-black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41MwPkUVajL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ZXP95ZC",
+                "variationName": "Color",
+                "variationValue": "Leopard-black#",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41-EUWSxFaL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09NC2J9MY",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09NC2DK52",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09NC26NGG",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09NC1N81B",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09NC2THXX",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09STGP9BQ",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31igfgbv9KL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31wbYPGuFDL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31qjr0 QCVL.jpg"
+        ],
+        "imagesCount": 3,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the LYANER Store",
+            "link": "https://www.amazon.com/stores/LYANER/page/20579A1A-1F99-45FC-8E6D-E91EABFC8224?ref_=ast_bln"
+        },
+        "brand": "LYANER",
+        "merchantInfo": "",
+        "customerReview": "3.9 out of 5 stars",
+        "customerReviewCount": 3380,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Care instructions Hand wash or machine wash. do not bleach",
+            "Closure type Button",
+            "Sleeve type Long Sleeve",
+            "Fit type Regular Fit",
+            "Collar v neck, long sleeve, 3/4 sleeve, solid color, button front, soft fabric, irregular hem blouse for women and girl.",
+            "The long sleeve collar shirt for women feature with two sides split slit and asymmetrical hem, make you look more chic, stylish and sexy.",
+            "Stand neck long sleeve tunic shirt for spring and fall pair with variety of coats, jacket, jeans, skirts, jeggings, sneakers or heels to complete casual look that's easy to love all season.",
+            "The plain button down split hem tunic tops good for office, work, casual outtings, street, home, dating, vacations, lounge, shopping or daily life wear",
+            "Please check Size Measurements before ordering to ensure a proper fit."
+        ],
+        "description": "Size Measurement: Small: Bust: 92 cm/36.25\", Length: 80 cm/31.5\", Sleeve: 58 cm/22.75\", Shoulder: 38 cm/15\", Medium: Bust: 96 cm/37.75\", Length: 81 cm/32\", Sleeve: 59 cm/23.25\", Shoulder: 39 cm/15.25\", Large: Bust: 100 cm/39.25\", Length: 82 cm/32.25\", Sleeve: 60 cm/23.5\", Shoulder: 40 cm/15.75\", X-Large: Bust: 104 cm/41\", Length: 83 cm/32.75\", Sleeve: 61 cm/24\", Shoulder: 41 cm/16.25\", XX-Large: Bust: 108 cm/42.5\", Length: 84 cm/33\", Sleeve: 62 cm/24.5\", Shoulder: 42 cm/16.5\",",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Tops, Tees & Blouses",
+                "link": "https://www.amazon.com/Womens-Tops-Tees/b?ie=UTF8&node=2368343011"
+            },
+            {
+                "name": "Blouses & Button-Down Shirts",
+                "link": "https://www.amazon.com/Womens-Shirts/b?ie=UTF8&node=2368365011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.07 x 10.35 x 1.3 inches; 5.22 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 16-blouse7213185BG1-S"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e December 9, 2021"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09NC2J9MY"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#40,116 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #633 in Blouses & Button-Down Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "3.9 3.9 out of 5 stars 3,380 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEQU4YXHRWM2ULRHQ2ZW3D4D4J2A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R20T32M5HDFDO5?ASIN=B09BZJD7QZ",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 31, 2021",
+                "reviewTitle": "1.0 out of 5 stars Order up several sizes",
+                "reviewText": "I wear L/XL and I order 2x and it is extremely small.",
+                "reviewVotes": "56 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ge Vang",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFAHQXFU4WGY655GVUHNZ4UZWQSA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1MZUNFCVDIEV2?ASIN=B09BZJD7QZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 8, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great for fall photoshoot",
+                "reviewText": "Great color, light and good fabric material. Perfect fit and great to wear for any occasions.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Shannon",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHO5MAHVWT2LNLIYMD5OLKC4QXEA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R28NKMPGQBD5YN?ASIN=B09BZJD7QZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 15, 2023",
+                "reviewTitle": "5.0 out of 5 stars It\u2019s a nice shirt!",
+                "reviewText": "Looks just like the picture, no quality concerns. I took a gamble and sized up in case there was no stretch in the fabric (and there isn\u2019t)\u2014unfortunately for me, it\u2019s too big. That\u2019s not the shirt\u2019s fault. I think it would be just right if I had ordered my usual size.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "TJ113",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGKZ4QIBVQCX4F5GTXZZDYP2Y5LQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1JO2LP1RFLNHX?ASIN=B09BZJD7QZ",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 28, 2022",
+                "reviewTitle": "4.0 out of 5 stars Arms are snug; definitely order the next size up",
+                "reviewText": "Blouse is beautiful. I'm approx 250lbs and ordered the white blouse with writing on it. Advertisement is a bit misleading as the material is thin and a bit sheer. The seems to be Rayon or something similar & sleeves are 3/4\" long, so you'll want to roll them up on your arms. Material is smooth, but definitely NOT cotton. I ordered the 2x due to the numerous posts about the fit. In my opinion, you'll want to wear a tank top or something underneath...but that's my opinion...a little too sheer for my comfort to wear with just a bra underneath. Overall, I like the blouse. Not returning because it fits nicely. I will not invest in other colors, unfortunately.",
+                "reviewVotes": "12 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tracy",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFWHBO6VAGNQGDW6PIBJYX7O27DA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1DPV2VH4GNKME?ASIN=B09BZJD7QZ",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 10, 2022",
+                "reviewTitle": "1.0 out of 5 stars Total fail",
+                "reviewText": "I purchased two of these shirts one in black and one in white. Returning both! I do not recommend this shirt at all it does not stay in place you constantly have to adjust it it does NOT lay on your body as perfect as the photos show it does it shifts literally everytime you move you have to constantly pull it forward. You can\u2019t move an inch! You have to adjust how it to how it supposed to be in the button areas and also in the oversized collar area cause it just slides forward and looks complete ridiculous! It definitely DOES NOT STAY ON YOU HOW ITS SHOWN in the photos . If you don\u2019t mind adjusting your clothes every two seconds then by all means go for it! I would honestly give this zero stars if I could. It also comes down way below my knees I am 5ft 4ins tall currently 185 lbs 40C 35 inch waist 42 inch hips and I purchased an xxl it fits everywhere besides the length just does not stay in place at all! The collar is the worst! If it was not so expensive (cause $31 for an Amazon shirt is a lot) I would maybe of paid to actually sow the collar in place and hem the length and just deal with adjusting the front every literally 2 seconds but not worth all that to be I wanna be comfortable and not be adjusting my clothes constantly when wearing them I also don\u2019t think it\u2019s worth it to pay to alter it to fit how the product description shows it fits. Sizing up or down will not fix these problems only make them worse I feel.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG7DZBL7XUZGS52LUPSXKJNYADLQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3LQEBZUG5DBRY?ASIN=B09BZJD7QZ",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 2, 2024",
+                "reviewTitle": "3.0 out of 5 stars Not true to size.",
+                "reviewText": "I am a 3x. I purchased a 4x and I still could not button.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Keema",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AESPM6CHE23ZOIUSTWHJ6XWPMGZQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1YBSV4LJ8VQBS?ASIN=B09BZJD7QZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 29, 2023",
+                "reviewTitle": "5.0 out of 5 stars I looked fabulous",
+                "reviewText": "I loved the shirt, got a lot of compliments. It fits a little tight, should\u2019ve gotten a larger size. Material was very comfortable. The color fit perfectly for the occasion.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Piorro",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AENZLXAVKQ4YWOGF6L5QNSELYC5A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R31H9C10SIPYCM?ASIN=B09BZJD7QZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 10, 2023",
+                "reviewTitle": "5.0 out of 5 stars Just like the Picture!!",
+                "reviewText": "the material of the shirt was flimsier than expected but it doesn't take away from the look at all, it fits as expected and very cute! Will order again.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Susana",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 9, 2022",
+                "reviewTitle": "Excelente blusa",
+                "reviewText": "Se me hizo un poco caro para el evento que lo requer\u00eda pero lo que me gusto que me quedo como esperaba",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ELIZABETH",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on September 28, 2022",
+                "reviewTitle": "Hermosa!",
+                "reviewText": "Hermosa blusa!Queda muy bien! Los colores son exactamente como se ven en las fotos. Talla M",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

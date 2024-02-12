@@ -1,0 +1,554 @@
+{
+    "remaining_requests": 13221,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Nautica-Double-Breasted-Peacoat-Black/dp/B072KJB7H1",
+    "body": {
+        "name": "Nautica Men's Classic Double Breasted Peacoat",
+        "price": "$65.50 - $174.95",
+        "originalPrice": "",
+        "rawPrice": 65.5,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Nautica-Classic-Double-Breasted-Peacoat/dp/B0BMTR1QCR",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BMTR1QCR"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0B9ZDZQLC",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31UQPNOWALL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B9ZLMK26",
+                "variationName": "Color",
+                "variationValue": "Charcoal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31e2Q0dzvTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B9ZNT945",
+                "variationName": "Color",
+                "variationValue": "Dark Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310XcaQMknL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B9YS4235",
+                "variationName": "Color",
+                "variationValue": "Camel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31WfMzN-uML._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B9YT147F",
+                "variationName": "Color",
+                "variationValue": "Light Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41tta1uYgiL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CHWM56G1",
+                "variationName": "Color",
+                "variationValue": "Loden",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/319hLVslaZL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00LIRZYJQ",
+                "variationName": "Color",
+                "variationValue": "Vintage Charcoal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31e2Q0dzvTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00LIS038W",
+                "variationName": "Color",
+                "variationValue": "Vintage Dark Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31jyFFXN6QL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B072KJB7H1",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00LIRZU22",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00LIRZUJA",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9ZHYQZ5",
+                "variationName": "Size",
+                "variationValue": "Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00LIRZU6S",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9YTQK67",
+                "variationName": "Size",
+                "variationValue": "X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00LIRZU9A",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9ZTFBFL",
+                "variationName": "Size",
+                "variationValue": "2X Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9ZBVMXW",
+                "variationName": "Size",
+                "variationValue": "2X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9ZYWLQN",
+                "variationName": "Size",
+                "variationValue": "3X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9YSN167",
+                "variationName": "Size",
+                "variationValue": "3X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9ZKKLSF",
+                "variationName": "Size",
+                "variationValue": "4X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9ZW296Z",
+                "variationName": "Size",
+                "variationValue": "4X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9YTGW51",
+                "variationName": "Size",
+                "variationValue": "5X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9ZQD69C",
+                "variationName": "Size",
+                "variationValue": "5X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9YYTRDQ",
+                "variationName": "Size",
+                "variationValue": "6X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9ZDZQLC",
+                "variationName": "Size",
+                "variationValue": "6X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B9ZLNDRR",
+                "variationName": "Size",
+                "variationValue": "8X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00LIS038C",
+                "variationName": "Size",
+                "variationValue": "2X",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31UQPNOWALL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/21Nh 2ADSwL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31mSMPQyK L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41WnupXFA L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51O2uiYKwKL.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c66ab680-f336-4242-ba65-6c87dac507e9/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Nautica Store",
+            "link": "https://www.amazon.com/stores/Nautica/page/AE6F8A7E-6EEF-4FB0-8A5D-0ACDEA2E0DE4?ref_=ast_bln"
+        },
+        "brand": "Nautica",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 2523,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 52% Wool, 40% Polyester, 8% Other Fibers",
+            "Care instructions Dry Clean Only",
+            "Origin Imported",
+            "PEACOAT: This Nautica classic peacoat has all the details that will instantly elevate all of your work to weekend outfits. Fashioned with a dependable wool-blend, sharp lapel collar, and a stylish Double-breasted front, this coat will keep you warm and stylish this winter. Dry Clean only.",
+            "COMPOSITION: Made from a wool/poly blend this coat is extremely warm and durable. This coat is fashioned with multiple pockets for optimal storage for things such as keys or wallets. Equipped with 6 buttons for fit flexibility this coat is great outdoor apparel.",
+            "CONVENIENT: This stylish peacoat is great for dressing up casual attire. Simply slide it on over your day outfit and match with your favorite fall or winter accessories such as a scarf or gloves. Perfect for walks and outdoor dining. Available in 3 colors.",
+            "DESIGNED TO LAST: Nautica attention and design to details is what makes our apparel stand out front the rest. Using only the highest quality of materials, this is made to be your new long lasting jacket that you'll enjoy for seasons to come.",
+            "NAUTICA: A leading global lifestyle brand, founded in 1983, well-known for their classic American sportswear. Inspired by the word \"nautical,\" Nautica's clothing truly embraces the joy of the water with multiple styles, prints & colors."
+        ],
+        "description": "Nautica is a leading global lifestyle brand, founded in 1983, well-known for its classic American sportswear. Inspired by the word \"nautical\", Nautica's clothing truly embraces the joy of the water with multiple styles, prints & colors.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jackets & Coats",
+                "link": "https://www.amazon.com/Mens-Jackets/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045830"
+            },
+            {
+                "name": "Wool & Blends",
+                "link": "https://www.amazon.com/Mens-Wool-Jackets-Coats/b/ref=dp_bc_aui_C_5?ie=UTF8&node=2476613011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Is Discontinued By Manufacturer \u200f",
+                "value": "\u200e No"
+            },
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 18.62 x 18.11 x 9.65 inches; 2.5 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e NV625548"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e September 23, 2017"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Nautica Men's Outerwear"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B072KJB7H1"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#25,063 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #7 in Men's Wool Jackets & Coats"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 2,523 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Nautica Wool Blend Peacoat Nautica Wool Blend Peacoat This Nautica Wool Blend Peacoat has all the details that will instantly elevate all of your work to weekend outfits. Fashioned with Wool-Polyester Blend, this coat will keep you warm and stylish this winter. Storage This jacket is fashioned with multiple pockets for optimal storage, for things such as, keys or wallets. This coat is great for outdoor apparel. Wear Anywhere This Nautica Wool Blend Peacoat is the perfect versatile item you for you. Simply slide it on over your day outfit and match with your favorite fall or winter accessories, such as a scarf or gloves. Great Gift The Nautica Wool Blend Peacoat is the perfect gift to ensure that special someone stays warm this winter. This coat is an excellent outdoor winter apparel for men.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d17d4c16-126d-47fe-aa25-c0d5694e0d4b.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6fa46200-b3bd-4795-b993-934c86d15062.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eacb1f79-50fb-42db-a3a2-1f45894ecd10.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/30a520bd-8c6c-41c7-8fdc-b94db91e7845.__CR0,0,220,220_PT0_SX220_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Our Story Founded in 1983, Nautica is a leading global lifestyle brand well-known for their classic American sportswear. As one of the most recognized American brands with more than 1,400 branded stores in 65 countries, Nautica continues to create high-quality fashion that delivers versatility and comfort.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/ed27dc91-062f-4673-b15b-c4c929f96e3a.__CR0,0,975,302_PT0_SX970_V1___.png"
+                ]
+            },
+            {
+                "media_text": "Nautica Wool Blend Peacoat Hooded Parka Jacket Nautica Transitional Hoodie Nautica Vintage Bomber Nautica Vintage Jimmy Dean Classic Style \u2713 \u2713 \u2713 \u2713 \u2713 High Quality \u2713 \u2713 \u2713 \u2713 \u2713 Material Wool Blend 100% Mechanical Stretch 100% Poly Mechanical Stretch 100% Polyester 100% Polyester Hood \u2713 \u2713 Side Pockets Lower Welt Pockets Zipper Zipper Zipper w/ Snap closure collar and hem No Closure",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2b94a3ba-b403-43c5-8be4-c0e4195fa8fb.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d17d4c16-126d-47fe-aa25-c0d5694e0d4b.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6fa46200-b3bd-4795-b993-934c86d15062.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eacb1f79-50fb-42db-a3a2-1f45894ecd10.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/30a520bd-8c6c-41c7-8fdc-b94db91e7845.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/ed27dc91-062f-4673-b15b-c4c929f96e3a.__CR0,0,975,302_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03466c5b-024c-41f4-9cb0-bfb0099bd263.__CR758,0,2378,4755_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/511e0135-3bc6-488d-9804-b317c2631122.__CR758,0,2378,4755_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/74b94de6-61e8-4ca0-806e-0648a0efb76a.__CR758,0,2378,4755_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1ef70166-4e22-4395-971d-e6cc302a2765.__CR758,0,2378,4755_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5aa7e07e-143c-4f2b-bf6a-f2e1aebe927d.__CR758,0,2378,4755_PT0_SX150_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Sharon Grandma",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHNS7DQBW64AEDK6G5G2KDP3D3MQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R205YD353RBAG9?ASIN=B0BMTR1QCR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars It\u2019s Nautica",
+                "reviewText": "Nautica is still the highest quality. Beautiful wool blend look and feel. Size is old school standard. Modern sizing seems to have no standard. I\u2019m 5ft 10 in and 320 pounds. I ordered a 4X because I wanted to be able to wear it over a heavy sweatshirt in extreme weather but 3X would have fit fine. The sleeves are too long as I expected they would be but the coat is worth the added cost of having the sleeves altered. Very nice quilted lining too. Very warm and comfortable. You won\u2019t find a better quality coat anywhere and the sale prices make it more than affordable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "J.Yates",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHYNOGHUBKXZYRTSO4S7BX2XYHEA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1IBEZUZLRAJ8Y?ASIN=B0BMTR1QCR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 9, 2023",
+                "reviewTitle": "5.0 out of 5 stars Not too bad...",
+                "reviewText": "I needed a dressy type coat and took a chance on this. Not my typical style and I did not think I would like it all. I was wrong. It appears and feels to be high quality, it's comfortable, it's warm, it fits great, and it looks great! I'm impressed with it. 5 stars! I actually bought a second one to give as a gift.",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JAvery",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHUAOT6E2QMHLUXYIGMZRCAHJ7BQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3VWKZ8I0BERIZ?ASIN=B0BMTR1QCR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice coat, but runs big",
+                "reviewText": "Happy with purchase, especially for the price. Coat is sturdy, appears to be well constructed and stylish. Saw this coat listed on a 'top 10 Peacoats' list and decided to try it for my son. He is 6'2\" and it hits him at the top of his thigh, so a good length. He is happy with it. However, the coats runs large. According to the size chart, we needed a large, ordered it and it was too big. Returned it, got a medium and its great.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alex",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFUWVRCKRV6XUALYDLSHENWAYUEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1QQO66GONEXK5?ASIN=B0BMTR1QCR",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "4.0 out of 5 stars Looks really nice",
+                "reviewText": "These pea-coats are nice looking. They do keep you warm but not as other but have a nice fit",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "tt",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG54XLU32Y3TGJ3ZUGT6S5EIKJOA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R5UWU685MZZK?ASIN=B0BMTR1QCR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars Excellent quality and perfect sizing",
+                "reviewText": "Purchased for my son. He was delighted. Better quality than he expepected and at a very good price during holiday sales.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/516P3PTw0CL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFUEUDJCCADK4WSJP2SWO3OAZJXA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2QU4313Z4CXVX?ASIN=B0BMTR1QCR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Arms a bit long unfortunately am a short guy",
+                "reviewText": "Beautiful jacket for what is for--nothing like my original bought 30 years ago- however very close and recommended-------is it possible to fix the arms length 2 inches shorter??????",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ChadChad",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFX55ANRKR7GJTLCXUEWOH5SXUOA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3890OFPCI739M?ASIN=B0BMTR1QCR",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 28, 2022",
+                "reviewTitle": "3.0 out of 5 stars Not bad for the money.",
+                "reviewText": "So this jacket is a modern slimmer cut interpretation of the classic pea coat. Where a traditional pea coat is large and boxy in order to fit over several layers, this coat fits more like a sportcoat. I'm 6'1\", 196 lbs. I wear a 44R suit coat with 34W pants. I wanted a slimmer fitting pea coat for the less chilly days when a t-shirt or button down was being worn. This coat sizing is perfect for that. Shoulder seams fall perfectly and it is just roomy enough through the waist. If I wanted to wear a sweater or layer thicker clothing, this would be too tight and I would wear a traditional cut pea coat. Length is on par with the length you would find on a suit or sport jacket. The material is a softer, lighter weight, tighter woven fabric. Again warm enough for cool days, probably want something heavier if your in a colder climate or just don't tolerate cold very well. The underside of the collar has a bit of the same material used to line the jacket sewn in as a contrast. Not sure whether I like it or not, but this is a design choice and is only seen if you pop the collar to seal up your neck. Now as others have mentioned the quality control is a little off. The right side lower buttons are sewn through to the inside causing and odd constriction near the pocket. It is not sewn through the pocket and is easily remedied by removing the thread and restitching the buttons. For $80 or less, I feel this is a good coat that can have the minor QC issues easily remedied. For any higher cost or for a true original sizing or warmth level, keep looking. I already own a traditional cut wool pea coat, so this fit my needs at a reasonable price point. I would recommend this coat to others with the same needs as I.",
+                "reviewVotes": "24 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81ha1yAw0VL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kunthea Prum",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFPH5LVA5YD6D35S6NTZ2S2EFCHQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R27I36TX5C8ZS1?ASIN=B0BMTR1QCR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 16, 2023",
+                "reviewTitle": "5.0 out of 5 stars Another solid winner from Nautica",
+                "reviewText": "This jacket look even better in real life than in the stock picture. It's definitely a jacket dress to impress. The color is rich and deep, the texture look really smooth and polish and the material look really upscale. I carefully inspected the stitching, buttons and pockets lining and every little detail is perfect. My skin has always been sensitive to wool and it was my neck area itches a little the first day or two but now I get used to it.It's a heavy jacket so it's really warm and I like that I can cover my neck area unlike other men's over coat that I have. It's a heavy jacket so it keeps me warm even when temperature was 31 degrees the other day and windy. But it's not overly heavy like my other full length overcoats. And because it is not a full length coat it makes it much easier to get in and out of cars.This high quality coat definitely does the Nautica name justice and I am really glad I paid a little more for this coat than other brand that I was considering. It's definitely worth the money and I trust that it will serve me well for many years to come.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "BBVA Bancomer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 25, 2023",
+                "reviewTitle": "Abrigo de lana NAUTICA",
+                "reviewText": "Excelente calidad de materiales, muy buena calidez y vale por lo que se paga.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "B",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 26, 2021",
+                "reviewTitle": "Beautiful, true-to-fit coat.",
+                "reviewText": "Very happy with this purchase. The coat has a quality feel and a sharp look.It's a bit thin for the dead of winter on its own, but with some layers underneath it will keep you warm and cozy all season long.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Paolo",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Italy on February 13, 2024",
+                "reviewTitle": "Pea Coat onesto e di ottimo rapporto prezzo/qualit\u00e0",
+                "reviewText": "Altezza 1,70. Peso 97kg taglia XL perfetta, accorciate le maniche di pochissimo, veste bene, anche con maglione pesante sotto, utilizzato con temperature di 2/3 gradi e con pioviggine. Aspetto decisamente marinaresco e vintage. Visto il prezzo mi ritengo molto soddisfatto. Non so quanto durer\u00e0, ma sar\u00e0 problema del prossimo inverno. Non metto 5 stelle perch\u00e9 manca un piccolo dettaglio che era presente sul Pea Coat che avevo tanti anni fa: sotto il bavero una aletta abbottonata sia dx che a sx che permetteva di chiudere il bavero davanti",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "LUIS MIGUEL",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Spain on February 13, 2024",
+                "reviewTitle": "Buen chaquet\u00f3n",
+                "reviewText": "Se trata de un chaquet\u00f3n marinero de muy buena calidad y sienta muy bien. Talla correctamente.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Colin Campbell",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 23, 2020",
+                "reviewTitle": "Nice coat!",
+                "reviewText": "Nice coat! Especially for the price. Fits great, doesn\u2019t feel cheap, and is surprisingly warm. Would definitely consider buying another in the future....I\u2019m 6\u20191\u201d 200lbs and I bought a medium.",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

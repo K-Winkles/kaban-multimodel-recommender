@@ -1,0 +1,696 @@
+{
+    "remaining_requests": 15475,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/ASICS-GT-1000-Running-Shoes-Sheet/dp/B09CLM2BYN",
+    "body": {
+        "name": "ASICS Men's GT-1000 11 Running Shoes",
+        "price": "$69.95",
+        "originalPrice": "",
+        "rawPrice": 69.95,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/ASICS-Mens-GT-1000-Running-Shoes/dp/B09CLNSPRB",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09CLNSPRB"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09CLMJYQF",
+                "variationName": "Color",
+                "variationValue": "Black/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XatiqGIjL._SS47_.jpg"
+            },
+            {
+                "asin": "B09WBHRS7N",
+                "variationName": "Color",
+                "variationValue": "Sheet Rock/Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41nCvG3JOQL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B47MBPVX",
+                "variationName": "Color",
+                "variationValue": "Piedmont Grey/Midnight",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41mLTMVihSL._SS47_.jpg"
+            },
+            {
+                "asin": "B09CLM968Y",
+                "variationName": "Color",
+                "variationValue": "Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41VW-8ZsgcL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B47KW9BB",
+                "variationName": "Color",
+                "variationValue": "Indigo Blue/Midnight",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41D9DDF8OTL._SS47_.jpg"
+            },
+            {
+                "asin": "B09CLM4YV1",
+                "variationName": "Color",
+                "variationValue": "Sheet Rock/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41nCvG3JOQL._SS47_.jpg"
+            },
+            {
+                "asin": "B0C4458NBQ",
+                "variationName": "Color",
+                "variationValue": "White/Electric Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41S1iMIxmdL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B47X54H9",
+                "variationName": "Color",
+                "variationValue": "White/Steel Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZWnUDiZrL._SS47_.jpg"
+            },
+            {
+                "asin": "B09WCCYG59",
+                "variationName": "Color",
+                "variationValue": "Black/Electric Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41cE9pOCcYL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B47CZR9M",
+                "variationName": "Color",
+                "variationValue": "Black/Island Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41r0qMsdWfL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BN2146WC",
+                "variationName": "Color",
+                "variationValue": "Piedmont Grey/Indigo Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41aMJicA+hL._SS47_.jpg"
+            },
+            {
+                "asin": "B09CLLGXYW",
+                "variationName": "Color",
+                "variationValue": "Lake Drive/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41I8nC0yFXL._SS47_.jpg"
+            },
+            {
+                "asin": "B09CLN6WRC",
+                "variationName": "Color",
+                "variationValue": "White/Blue Harmony",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31BTyx8ZbqL._SS47_.jpg"
+            },
+            {
+                "asin": "B09PMQ3LQ5",
+                "variationName": "Color",
+                "variationValue": "Black/Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41QxEuyxK3L._SS47_.jpg"
+            },
+            {
+                "asin": "B09WBT37FD",
+                "variationName": "Color",
+                "variationValue": "White/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31KiMJxEoGL._SS47_.jpg"
+            },
+            {
+                "asin": "B09WBT8DD7",
+                "variationName": "Color",
+                "variationValue": "Azure/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41R2An27m5L._SS47_.jpg"
+            },
+            {
+                "asin": "B0B47XJHZK",
+                "variationName": "Color",
+                "variationValue": "Black/Cilantro",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41a3zuRIS1L._SS47_.jpg"
+            },
+            {
+                "asin": "B0B47MJ7C9",
+                "variationName": "Color",
+                "variationValue": "Black/Electric Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41KrG14DvQL._SS47_.jpg"
+            },
+            {
+                "asin": "B0C548X34J",
+                "variationName": "Color",
+                "variationValue": "Ice Mint/Estate Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/419InjHgRyL._SS47_.jpg"
+            },
+            {
+                "asin": "B09CLMRN2B",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLN33WH",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLLBFMC",
+                "variationName": "Size",
+                "variationValue": "7.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLQD4YG",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B48HP92W",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLLB374",
+                "variationName": "Size",
+                "variationValue": "8 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLLT13S",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B48698TZ",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLMYDHJ",
+                "variationName": "Size",
+                "variationValue": "8.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLL1TMH",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLLQP44",
+                "variationName": "Size",
+                "variationValue": "9 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLMYHGQ",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WBTV99Q",
+                "variationName": "Size",
+                "variationValue": "9.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLM2BYN",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLMJYQF",
+                "variationName": "Size",
+                "variationValue": "10 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLM4XC6",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WC8M8DT",
+                "variationName": "Size",
+                "variationValue": "10.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLLP5X9",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WBXPMZ9",
+                "variationName": "Size",
+                "variationValue": "11 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLNKN15",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLN8YK8",
+                "variationName": "Size",
+                "variationValue": "11.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLM4YV1",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLMJY3Z",
+                "variationName": "Size",
+                "variationValue": "12 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLNG362",
+                "variationName": "Size",
+                "variationValue": "12.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLM4ZQV",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WBZHMQZ",
+                "variationName": "Size",
+                "variationValue": "13 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLNXSPL",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WC3QQ2G",
+                "variationName": "Size",
+                "variationValue": "14 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CLNMGG9",
+                "variationName": "Size",
+                "variationValue": "15",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41nCvG3JOQL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41NXrTnpbZL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41qRspwG3sL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41zjAuF2VXL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41oic2NL1QL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41tCA9LaEeL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51clEOkUWJL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the ASICS Store",
+            "link": "https://www.amazon.com/stores/ASICS/page/3D51EC88-4320-4F70-8CAF-9E7C77D723E2?ref_=ast_bln"
+        },
+        "brand": "ASICS",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 1519,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Sole material Rubber",
+            "Outer material Mesh",
+            "Engineered mesh upper: Improves breathability and wraps the foot with a soft feel.",
+            "External heel counter: Improves the fit and helps increase stability.",
+            "LITETRUSS technology: Improves medial support and midfoot integrity.",
+            "FLYTEFOAM cushioning: Provides lightweight impact absorption.",
+            "Rearfoot GEL technology: Improves impact absorption and creates a softer feeling at footstrike."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/Mens-Shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679255011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Mens-Sneakers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127770011"
+            },
+            {
+                "name": "Running",
+                "link": "https://www.amazon.com/Running-Mens-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679286011"
+            },
+            {
+                "name": "Road Running",
+                "link": "https://www.amazon.com/Mens-Road-Running-Shoes/b/ref=dp_bc_aui_C_6?ie=UTF8&node=14210389011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 12.44 x 7.75 x 4.75 inches; 1.7 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 1011B354.002"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e August 13, 2021"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Asics"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09CLMRN2B"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#15,825 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #79 in Men's Road Running Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 1,519 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Engineered Mesh Upper This material is designed to help provide comfortable fit and advanced breathability. LITETRUSS Technology It helps produce a more supportive stride while keeping overpronation at bay. FLYTEFOAM Technology Provides lightweight cushioning and impact absorption while still being durable.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cac2196e-7906-4bbd-b02d-c0733c257191.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3e2915dc-9dff-467a-8b43-7a5b70744787.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/15142ffc-b744-4659-a05b-d1edad61dda0.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "SURFACE Road HEEL DROP 8 mm WEIGHT 270g / 9.5 oz SUPPORT Neutral CUSHION Extra",
+                "media_link": []
+            },
+            {
+                "media_text": "UNDERPRONATION IS How Your Foot Contacts The Ground: The outside of the heel hits the ground at an increased angle with minimal pronation, causing shock to the lower leg. Push-Off: You experience pressure on your outer toes. Considered Injuries: Plantar fasciitis, shin splints, ankle strain. Foot Type: High arches. NEUTRAL FOOT TYPE IS How Your Foot Contacts The Ground: Your foot lands on the outside of the heel and then rolls inward, absorbing impact on the body. Push-Off: Your experience even distribution from the front of the foot. Considered Injuries: Getting hurt is less likely due to effective shock absorption, but not impossible. Foot Type: Normal-size arches. OVERPRONATION IS How Your Foot Contacts The Ground: Your foot lands on the outside of the heel and then rolls inward, transferring excess weight. Push-Off: Your experience pressure mainly on your big toe and second toe. Considered Injuries: Shin splints, plantar fasciitis, bunions, heel spurs. Foot Type: Low arches or flat feet.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6cfb39f3-c677-4a9a-b55a-e01d4df445bf.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dbf5d085-0a80-4533-84f4-055aea2e57e7.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65e3877c-70a0-4589-91d2-d2c30298e916.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sc/b191ca8d-9d1b-4b26-9128-3224cd168939.__CR0,0,600,180_PT0_SX600_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7b763bf9-7e40-4165-89c0-b90385add390.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cac2196e-7906-4bbd-b02d-c0733c257191.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3e2915dc-9dff-467a-8b43-7a5b70744787.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/15142ffc-b744-4659-a05b-d1edad61dda0.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6cfb39f3-c677-4a9a-b55a-e01d4df445bf.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dbf5d085-0a80-4533-84f4-055aea2e57e7.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65e3877c-70a0-4589-91d2-d2c30298e916.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Zenguy",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEBYEDQKS3AGPRW6H3MGRWQ6CZSQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1TBFFDSNFHIAD?ASIN=B09CLNSPRB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 6, 2023",
+                "reviewTitle": "5.0 out of 5 stars A solid support shoe and excellent value",
+                "reviewText": "I\u2019ve been a road-jogger for 25 years, with some breaks here and there, and ASICS have been my shoe of choice for most of that time. They seem to fit my somewhat narrow feet better than other brands. I either run in a stability shoe or in a neutral model with a rigid insole since my feet overpronate moderately. My average weekly distance is 10-12 miles, so not a whole lot anymore.The GT-1000 11 isn\u2019t really all that different than the ASICS stability shoes I bought twenty years ago. There\u2019s a built-up area under the arch that keeps the foot from rolling inwards too much. When combined with a stiff heel counter and supportive upper, the effect is to ensure proper gait alignment. It works really well and is reliable.I like the fit on the 11th iteration of this shoe, which suits my slimmer feet well. My feet feel really locked-in. I would imagine wider-footed people would need to make sure to order a wide. I also love how light these shoes feel. They look heavier than they actually are. There is ample cushioning through the whole length of the shoe, but more at the heel which is great for heel-strikers like me. The stock insoles are thin and I may eventually replace them with Dr Scholls for added cushioning and to make my shoes last longer. These kicks also look cool, with bright colors that pop.All told, these GT-1000 shoes are absolutely superb for daily jogging and are a real value for their low cost. I very highly recommend them to any runner who is looking for some extra foot support. You really aren\u2019t going to find anything better at this price point. I hope ASICS keeps this model in their rotation for a very long time.",
+                "reviewVotes": "15 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Seth GraybealSeth Graybeal",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFO5HDHXNPTEVQXQI5GKQ63FYWLQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2UZNQT4UFR0KR?ASIN=B09CLNSPRB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 29, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfort and Style",
+                "reviewText": "I recently acquired the ASICS Men's GT-1000 11 Shoes, and I must say that I am thoroughly impressed. These shoes not only fit perfectly but also provide an exceptional level of comfort that has made my walks and daily activities more enjoyable than ever before.First and foremost, the fit is spot on. I ordered my usual size, and the GT-1000 11s fit like a glove. The sizing is accurate, and I love how they hug my feet without feeling too tight. Whether you have narrow or wide feet, these shoes seem to adapt effortlessly, ensuring a snug and comfortable fit for all types of wearers.What truly sets these shoes apart, though, is the comfort they offer. The cushioning is just right, providing the perfect balance between support and responsiveness. I've worn these shoes for all sorts of daily tasks and long walks, and my feet have always felt well-supported and fatigue-free. The impact absorption is excellent, which is a relief for anyone prone to discomfort.The overall design is also quite stylish, making these shoes suitable not just for casual wear but also for various activities. They're lightweight, and the breathability keeps my feet comfortable even on the hottest days. The durability of the materials used in these shoes is impressive, as they've held up well even after several months of use.In summary, the ASICS Men's GT-1000 11 Shoes are a fantastic choice for individuals of all walks of life. If you're looking for a pair of shoes that fit perfectly and provide unbeatable comfort, these are an excellent option. I couldn't be happier with my purchase, and I highly recommend these shoes to anyone in need of a reliable and comfortable footwear companion for everyday use.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71bKCKncWpL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81kKGozIObL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81oLvrKFbJL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81q1RlQM+GL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Paul from Santa Rosa",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGF55UIVWWFFYXEHCFBG7XJETOGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R148OXDD1V88WC?ASIN=B09CLNSPRB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 22, 2023",
+                "reviewTitle": "5.0 out of 5 stars Good shoe, especially for overpronation",
+                "reviewText": "I like ASICS shoes because the sizes are consistent, really important for buying online. I like buying online because I wear a size 14, often stores have nothing or very little selection in that size. My left foot overpronates, which causes the right rear corner of my left shoe to mash down, and the sole to wear thru. So I have to get a new pair even though the right shoe is still in good shape. I needed a new pair, and went to the ASICS website to look for shoes that might work better, and they have a selector where I could search for shoes that were good for overpronation. This shoe, the GT-1000 came up. I've had them for only a week, too soon to know for sure, but my initial impression is these are going to help. The midsole is a firmer material, so hopefully it will not mash down and exacerbate the inward tilt of my foot. Besides that, the shoe is comfortable and well-made. The top is a very thin, flexible material which I like because sometimes walking down a steep slope my big toes press against the front of my shoe. I use these shoes for long daily walks with my wife and dog, and I'm 6'5\" and 280lb so I'm hard on shoes.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "James Scott",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG6D4VELYYU4BIFC6AEEGN5NOUZQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R36ZOY3F7CZFJ3?ASIN=B09CLNSPRB",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 3, 2023",
+                "reviewTitle": "4.0 out of 5 stars Great shoe. One issue.",
+                "reviewText": "I love these shoes. Comfortable and affordable. Nice and wide. Only issue is after a month my big toe punches through the mesh top. Would be good if they had more of a coating over the first inch of the toes. I'll keep buying these and maybe put a piece of tape inside above my big toe to combat the wear.",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JR",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGZAQV6SV2MRL7W5PEYUKV7JY7NA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RPF2POMPE9U42?ASIN=B09CLNSPRB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "5.0 out of 5 stars Working Good so far",
+                "reviewText": "Shoe supplies good support, fits well and is of good constuction. The toe box is large enough as other shoes seem to be thining this area down to save cost or something but it is sure impacting me.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Brian AllisonBrian Allison",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEN5EW3L3UU2NB7FF536T5CNZWIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R167U8VITO10L6?ASIN=B09CLNSPRB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Cushy and snug, but not red trim",
+                "reviewText": "The wrong photo was used in the product image. This version is electric green, rather than brownish-red (that image was mistakenly put on two models).Aside from that, these fit snugly a half-size larger than your true foot size. They have a comfy bounce and cushion to them. The tread isn't super-deep, but it's pronounced and seems to have held up well after a week of alternating with another pair of shoes.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71qM4clxp-L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Joe O&#39;Brien",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGEAN6IWHORKQHE2TR7MEFNMZ6YQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R32V1TVEBD90FB?ASIN=B09CLNSPRB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 6, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfortable, good looking, durable",
+                "reviewText": "I bought this to wear at work but now wear them in the gym, for walking, gigging with my band and basic everyday use. I'm in a casual rock band and because these are all black, they are great for the stage. These are comfortable, looked nice and have a great lifespan.I got them for about $60 on sale. I bought 2 more pairs because I like them so much. Very happy with this. Size was as expected.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "R. Johns",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFWFBLGY4W5YOPUDS22X2CVMMNTA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3JBXJS66T52DL?ASIN=B09CLNSPRB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good Fit At a Good Price",
+                "reviewText": "Been wearing the GT series for several years. They're a little stiff at first, but after a week of wearing, very comfortable. I wear them for walking and pickle ball.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "GFG",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 5, 2023",
+                "reviewTitle": "Love the Gore-Tex",
+                "reviewText": "Fit is excellent and the Gore-Tex keeps feet dry and warm.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cliente de Amazon",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 30, 2023",
+                "reviewTitle": "Muy buenos Tenis, muy comodos",
+                "reviewText": "Assics es garant\u00eda y a muy buen precio",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Adrian Lopez",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 14, 2023",
+                "reviewTitle": "La marca lo dice todo",
+                "reviewText": "Muy buenos, excelente ajuste y perfectos para correr",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Barrie D",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 17, 2023",
+                "reviewTitle": "Asics",
+                "reviewText": "Super comfortable. Bought for walking. Excellent",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Happy Customer. ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 17, 2023",
+                "reviewTitle": "Very comfortable",
+                "reviewText": "Like all ASICS I've owned, their very comfortable and light. Probably the most comfortable brand of running shoes on the market. Excellent support.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,800 @@
+{
+    "remaining_requests": 15768,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Under-Armour-Charged-Assert-Running/dp/B09XBV9H6B",
+    "body": {
+        "name": "Under Armour Men's Charged Assert 10",
+        "price": "$46.36 - $64.99",
+        "originalPrice": "",
+        "rawPrice": 46.36,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Under-Armour-Mens-Charged-Assert/dp/B0CMMGWKW3",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CMMGWKW3"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09XBT7B2N",
+                "variationName": "Color",
+                "variationValue": "(001) Black/Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31VgIzUTP6L._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBVXJWY",
+                "variationName": "Color",
+                "variationValue": "(002) Black/Black/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sxxx3uLNL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBWHJS8",
+                "variationName": "Color",
+                "variationValue": "(400) Academy/Academy/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31klSpBJA6L._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBV7TM2",
+                "variationName": "Color",
+                "variationValue": "(003) Black/Black/Blue Surf",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/317A7z-FJfL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBWCQF1",
+                "variationName": "Color",
+                "variationValue": "(004) Black/Black/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31P5bFUhs5L._SS47_.jpg"
+            },
+            {
+                "asin": "B0BZY12CPK",
+                "variationName": "Color",
+                "variationValue": "(004) Black/Black/High Vis Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31pJL-trI4L._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQQDC2Y",
+                "variationName": "Color",
+                "variationValue": "(006) Black/Black/Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gh4IaC5PL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BZXFK3MN",
+                "variationName": "Color",
+                "variationValue": "(007) Black/Black/High Vis Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31dc5WJv0nL._SS47_.jpg"
+            },
+            {
+                "asin": "B09WWSGB4J",
+                "variationName": "Color",
+                "variationValue": "(100) Gravel/Gravel/Lime Surge",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413maSn8sAL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBTFSKM",
+                "variationName": "Color",
+                "variationValue": "(100) Mod Gray/Mod Gray/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41e2hY0yfVL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBVMZPB",
+                "variationName": "Color",
+                "variationValue": "(101) Gravel/Gravel/Lime Surge",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41aT6sWZrJL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBTM964",
+                "variationName": "Color",
+                "variationValue": "(101) White/White/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41r2VHbqP1L._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBT4RC2",
+                "variationName": "Color",
+                "variationValue": "(102) Mod Gray/Mod Gray/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41veqjqWbkL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQMBX12",
+                "variationName": "Color",
+                "variationValue": "(102) White/Black/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DCSVsPVDL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQNNW3Q",
+                "variationName": "Color",
+                "variationValue": "(103) Mod Gray/Mod Gray/Green Screen",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41CHZMBZV-L._SS47_.jpg"
+            },
+            {
+                "asin": "B0BZXFKZD3",
+                "variationName": "Color",
+                "variationValue": "(103) Steel/Steel/Atomic",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31eSsEfneIL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQNXGQV",
+                "variationName": "Color",
+                "variationValue": "(104) White/Black/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NoUv4eM-L._SS47_.jpg"
+            },
+            {
+                "asin": "B0BZXKH54Q",
+                "variationName": "Color",
+                "variationValue": "(105) Steel/Steel/Atomic",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31LKmt+xDUL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BZXHYPF2",
+                "variationName": "Color",
+                "variationValue": "(106) Castlerock/Castlerock/Team Royal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31tHkOZKqAL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBX5KJ5",
+                "variationName": "Color",
+                "variationValue": "(401) Blue Mirage/Blue Mirage/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PjhinFXsL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQQTHKD",
+                "variationName": "Color",
+                "variationValue": "(403) Team Royal/Team Royal/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31j3lHit6IL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BZXBC4K3",
+                "variationName": "Color",
+                "variationValue": "(404) Photon Blue/Photon Blue/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31HcTwUNeAL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBWZ898",
+                "variationName": "Color",
+                "variationValue": "(600) Red/Red/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41lVGvnCmQL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBX31PW",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBTRZ5N",
+                "variationName": "Size",
+                "variationValue": "7 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVJK4D",
+                "variationName": "Size",
+                "variationValue": "7 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVZYB7",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWFZ71",
+                "variationName": "Size",
+                "variationValue": "7.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWX715",
+                "variationName": "Size",
+                "variationValue": "7.5 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVB7L3",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBSQ471",
+                "variationName": "Size",
+                "variationValue": "8 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWMMQ5",
+                "variationName": "Size",
+                "variationValue": "8 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBW3QTF",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWX3ZD",
+                "variationName": "Size",
+                "variationValue": "8.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVN3GR",
+                "variationName": "Size",
+                "variationValue": "8.5 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBW5NF6",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVFHDB",
+                "variationName": "Size",
+                "variationValue": "9 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVS4PG",
+                "variationName": "Size",
+                "variationValue": "9 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XCSQD5N",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBTFSKM",
+                "variationName": "Size",
+                "variationValue": "9.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBTQNVX",
+                "variationName": "Size",
+                "variationValue": "9.5 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBT7B2N",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVS2KD",
+                "variationName": "Size",
+                "variationValue": "10 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVSSRS",
+                "variationName": "Size",
+                "variationValue": "10 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWQ9Y9",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBV9H6B",
+                "variationName": "Size",
+                "variationValue": "10.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWVJZ9",
+                "variationName": "Size",
+                "variationValue": "10.5 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVT7WX",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBTTKXY",
+                "variationName": "Size",
+                "variationValue": "11 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVJRCX",
+                "variationName": "Size",
+                "variationValue": "11 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBW71RQ",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBTG58R",
+                "variationName": "Size",
+                "variationValue": "11.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBV5BBM",
+                "variationName": "Size",
+                "variationValue": "11.5 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVM335",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBTVYH3",
+                "variationName": "Size",
+                "variationValue": "12 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBTFTL6",
+                "variationName": "Size",
+                "variationValue": "12 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVY23V",
+                "variationName": "Size",
+                "variationValue": "12.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBTC6KW",
+                "variationName": "Size",
+                "variationValue": "12.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWJW7V",
+                "variationName": "Size",
+                "variationValue": "12.5 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVY2CN",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWLS8N",
+                "variationName": "Size",
+                "variationValue": "13 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBW6DLC",
+                "variationName": "Size",
+                "variationValue": "13 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWY6YS",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVXC4W",
+                "variationName": "Size",
+                "variationValue": "14 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBVXCQH",
+                "variationName": "Size",
+                "variationValue": "14 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWHZ7G",
+                "variationName": "Size",
+                "variationValue": "15",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWLZRJ",
+                "variationName": "Size",
+                "variationValue": "15 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09XBWMGQJ",
+                "variationName": "Size",
+                "variationValue": "15 XX-Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41e2hY0yfVL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/413qiGRrfiL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41OStn9mlQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31IFc2wy8sL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41zYLoNo0uL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31lRi9JnqQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41W-WkBHHlL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Brand: Under Armour",
+            "link": "https://www.amazon.com/s/ref=bl_sl_s_sh_web_7141123011?ie=UTF8&node=7141123011&field-brandtextbin=Under+Armour"
+        },
+        "brand": "Under Armour",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 2807,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Care instructions Machine Wash",
+            "Origin Made in the USA or Imported",
+            "Sole material Rubber",
+            "Outer material Mesh,Synthetic",
+            "Lightweight, breathable mesh upper with synthetic overlays for added durability & support",
+            "EVA sockliner provides soft, step-in comfort",
+            "Charged Cushioning midsole uses compression molded foam for ultimate responsiveness & durability",
+            "Solid rubber outsole covers high impact zones for greater durability with less weight",
+            "Offset: 10mm",
+            "Warning: This product can expose you to chemicals including chromium (hexavalent compounds), which is known in the State of California to cause cancer and birth defects or other reproductive harm."
+        ],
+        "description": "Under Armour mens Charged Assert 10",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/Mens-Shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679255011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Mens-Sneakers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127770011"
+            },
+            {
+                "name": "Running",
+                "link": "https://www.amazon.com/Running-Mens-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679286011"
+            },
+            {
+                "name": "Road Running",
+                "link": "https://www.amazon.com/Mens-Road-Running-Shoes/b/ref=dp_bc_aui_C_6?ie=UTF8&node=14210389011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 8.86 x 13.39 x 4.53 inches; 1.7 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 3026175"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e April 6, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Under Armour"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09XBX31PW"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#643 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #5 in Men's Road Running Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 2,807 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Men's UA Charged Assert 10 Running Shoes These are running shoes anyone can wear to go faster\u2014with Charged Cushioning to help protect against impact, a breathable upper, and durability for miles. Lightweight, breathable mesh upper with synthetic overlays for added durability & supportEVA sockliner provides soft, step-in comfortCharged Cushioning midsole uses compression molded foam for ultimate responsiveness & durabilitySolid rubber outsole covers high impact zones for greater durability with less weightFor runners who need flexibility, cushioning & versatility",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/15a868e7-bd4f-453e-bf76-15c470b6f96b.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/15a868e7-bd4f-453e-bf76-15c470b6f96b.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/96e05e20-6237-43c9-8cbb-03045284c893.__CR0,0,2910,1800_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a9014e14-7022-4b2e-af7a-d5cb952bca3c.__CR0,0,970,600_PT0_SX970_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "MichailMichail",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHW25ZUCNYJ3UZ7QCDHM6SJB33IA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14F0RR2UIR8I?ASIN=B0CMMGWKW3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Under Armour Men's Charged Assert 10 is a stellar addition",
+                "reviewText": "If you're on the lookout for a pair of sneakers that blend style, comfort, and performance seamlessly, look no further than the Under Armour Men's Charged Assert 10. As someone who enjoys staying active, these shoes have become my go-to, and here's why.Comfort is where these shoes shine. The cushioning feels like walking on clouds, absorbing the impact and keeping my feet happy during any workout. Whether I'm hitting the gym or going for a jog, these shoes have my back (or should I say, feet).These shoes are tough cookies. I've put them through their paces, and they've held up like a champ. The quality materials and reinforced areas mean they can handle the regular wear and tear, making them a reliable choice for the long haul.Getting the right size is a breeze, and they hug my feet just right. The laces are easy to adjust for a snug fit, making sure they feel comfortable without any weird pressure points.In a nutshell, the Under Armour Men's Charged Assert 10 is a winner. Whether you're an exercise enthusiast or just want a reliable and good-looking pair of sneakers for daily wear, these shoes tick all the boxes. Under Armour knows how to make quality gear, and the Charged Assert 10 is proof of their commitment to making awesome sneakers for all of us on the move. Highly recommended! \u26a1\ud83d\udc5f",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/31x8cix54YL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/51WDOFSyTyL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "mark keyes",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGAWDCWEEUFL3ILWSQLPD5IFEVAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1TQGEY5B4WJDZ?ASIN=B0CMMGWKW3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 15, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great fit for wide feet",
+                "reviewText": "These were my first pair of UA shoes after being a UA apparel fan for many years. I\u2019ve tried a lot of brands for athletic shoes, and found many to be challenging when fitting my size 12 wide/x-wide feet.These shoes from UA deliver a comfortable fit, good quality, lots of breathability from the uppers and good looks. I can definitely recommend them for anyone looking to fit wider feet, or anyone looking to get lots of comfort in warmer climates.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "William",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHXGBM542WTD6LMJXIRORHLIYJJA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R190P4NGYYYR9F?ASIN=B0CMMGWKW3",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "4.0 out of 5 stars Great gym shoe",
+                "reviewText": "Great shoe to wear for the gym. I purchased to help keep me motived for the new year to work out. That's not happening anymore haha but they are still a stylish, comfortable shoe.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Akinci B.Akinci B.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGUZSXPUK2ZJN5YC6QNGX2FUIEKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1WFAD3L5HBG8J?ASIN=B0CMMGWKW3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 19, 2023",
+                "reviewTitle": "5.0 out of 5 stars Fantastic Running Companion: Under Armour Running Shoes",
+                "reviewText": "I recently purchased a pair of Under Armour running shoes and I am extremely impressed with their performance. These shoes have proven to be a game-changer in my running routine, offering exceptional comfort, support, and durability. First and foremost, the level of comfort these shoes provide is unmatched. The cushioning system incorporated in the midsole ensures a plush and responsive feel that absorbs impact effectively. It aids in minimizing fatigue, allowing me to push harder and longer during my runs. The padded collar and tongue also contribute to a snug fit and enhanced ankle support, preventing any discomfort or rubbing. Stability and support are paramount for any running shoe, and this is where Under Armour shines. The combination of a solid outsole with excellent traction and a well-constructed upper provides exceptional stability. These shoes offer a secure fit, preventing any slips or movements that could lead to injury. My foot feels locked in place, enabling me to confidently tackle different terrains and maintain a consistent pace. Durability is another aspect that stood out to me. Despite intense use on various surfaces, the shoe's construction has remained intact and shows no signs of wear. The high-quality materials used in the upper, midsole, and outsole are undoubtedly built to last. This long-lasting reliability ensures that the shoes will serve me well for many miles to come. Moreover, the sleek design of the Under Armour running shoes is worth mentioning. Its aesthetic appeal is a bonus, as these shoes look stylish and modern while offering high functionality. The brand's attention to detail is evident in the thoughtful design, making these shoes suitable for both running and everyday wear. In conclusion, Under Armour running shoes have exceeded my expectations in terms of comfort, support, and durability. They provide a comfortable running experience, superb stability, and impressive longevity. Whether you're a seasoned runner or just starting out, I highly recommend giving Under Armour running shoes a try. They will undoubtedly enhance your running performance and keep you going mile after mile.",
+                "reviewVotes": "26 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/91LjOv3uozL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/91WT66Cv3AL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Brian McGuire",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEQ725NIIWY2LAOD2K4WKGXPKRKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3FOM8KQDN6YCY?ASIN=B0CMMGWKW3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 30, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very nice quality however runs a half size small for X-wide",
+                "reviewText": "I\u2019m typically a size 10 1/2 X-wide. I had to return the first pair I bought and get a size 11 X-wide. Now that being said it wasn\u2019t much of a hassle to return, and the 11\u2019s fit comfortably and it\u2019s not an issue. Just be advised if you have wide feet get a size to a half size up.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Redrider34",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG6PMLU5ZFBZ2DXFREUJJWVV3HUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3M4QN2K7UI8J7?ASIN=B0CMMGWKW3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 19, 2024",
+                "reviewTitle": "5.0 out of 5 stars Like walking on clouds",
+                "reviewText": "Bought these shoes after owning the Charged Assert 9 for about a year and a half. Gotta say these are MUCH BETTER and that's saying quite a bit considering the 9s were pretty good. These are super comfy, super soft and they are especially roomy for those of us that have super wide feet these fit amazing! I really recommend purchasing them as they are an amazing value for the price!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dawn Smith",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFFQ37M2PP7IGGFQNWT2XJMDHGSQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R13XFYXRVK4V6K?ASIN=B0CMMGWKW3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 26, 2024",
+                "reviewTitle": "5.0 out of 5 stars Under Armour Men's Charged Assert 10",
+                "reviewText": "Just received the Under Armour Men's Charged Assert 10 in size 11 wide, and these shoes are great. I own another pair of under armour shoes and they are just very comfortable.Performance is top-notch. The Charged cushioning is a game-changer\u2014comfortable, responsive, and killer grip on any surface. Durability? Holding up strong after weeks of use.Breathability is a standout feature; my feet stay cool even during intense workouts.In a nutshell, if you want style, comfort, and durability in one, these Charged Assert 10s are a must. Highly recommend!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "SDutch",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE4SHWW6MYPUJXCPGL2HVC2Z7SKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RH90VMNJBSG3K?ASIN=B0CMMGWKW3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Highly Recommend!",
+                "reviewText": "I absolutely recommend this product for it's comfortability and style and how it fits!!! You do not have to specified ordering for \"wide or regular\" feet. The size fit to perfection and I am writing this for a size 12 Men's because I had ordered this for my young son whose size 12 now. He absolutely loves it! \ud83d\udc4d",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Buyer Beware",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 21, 2024",
+                "reviewTitle": "I can't understand why these are so inexpensive.",
+                "reviewText": "They look great, they fit great, they're light-weight, they offer me excellent support for hard cardio HIIT workouts (your knees will thank you too). Huge range of sizing options including wide sizes. They are as good or better than running shoes I've paid twice the price for. Maybe a little too platformed for weightlifting, but that's what weightlifting shoes/converse are for.I do not use these outdoors *at all* so maybe they get torn apart by concrete. I can't say. But for working out in a studio setting, these are an incredible value.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Henry f.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 10, 2024",
+                "reviewTitle": "Comodidad",
+                "reviewText": "Son muy c\u00f3modos y recomendables tienes comodidad al caminar",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "olga",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Italy on January 10, 2024",
+                "reviewTitle": "Belli e comodi",
+                "reviewText": "Serve un numero in pi\u00f9",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Philip",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on December 9, 2023",
+                "reviewTitle": "Sehr gute Qualit\u00e4t",
+                "reviewText": "Sehr leichte und robuste Schuhe!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Joaquin Martin",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Spain on November 19, 2023",
+                "reviewTitle": "Genial, precio y calidad",
+                "reviewText": "Buena calidad y comodidad",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

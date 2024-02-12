@@ -1,0 +1,578 @@
+{
+    "remaining_requests": 17031,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/CLARKS-Womens-Juliet-Loafer-Leather/dp/B07GQCQLZB",
+    "body": {
+        "name": "Clarks Women's Juliet Palm Loafer",
+        "price": "$38.23 - $54.95",
+        "originalPrice": "",
+        "rawPrice": 38.23,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/CLARKS-Womens-Juliet-Palm-Loafer/dp/B07GPXLH5N",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B07GPXLH5N"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07GQ728FX",
+                "variationName": "Color",
+                "variationValue": "Black Leather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31g8R6j8YDL._SS47_.jpg"
+            },
+            {
+                "asin": "B08TKMY6X3",
+                "variationName": "Color",
+                "variationValue": "Black Suede",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31A0UWkGX9L._SS47_.jpg"
+            },
+            {
+                "asin": "B08TKQ9222",
+                "variationName": "Color",
+                "variationValue": "Caramel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31NmKskQxmL._SS47_.jpg"
+            },
+            {
+                "asin": "B0854TD1SN",
+                "variationName": "Color",
+                "variationValue": "Dark Tan Leopard Print Suede",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/319Nlj3P6jL._SS47_.jpg"
+            },
+            {
+                "asin": "B07GQMY35K",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQG2GMK",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0846M4DL6",
+                "variationName": "Size",
+                "variationValue": "5.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQHCMKF",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQDT667",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQBLMXT",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQ4QC28",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQHBNSW",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQ8ZYCF",
+                "variationName": "Size",
+                "variationValue": "7 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQCQLZB",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQG2GLZ",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GPXLH63",
+                "variationName": "Size",
+                "variationValue": "7.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQMY35P",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQKZTFK",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQFZZX2",
+                "variationName": "Size",
+                "variationValue": "8 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQN4ZJT",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQ728FX",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQJ566P",
+                "variationName": "Size",
+                "variationValue": "8.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQ6F8CW",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQHBNS7",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQDTNVV",
+                "variationName": "Size",
+                "variationValue": "9 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQ4QC1Q",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQPWMZP",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQJ566X",
+                "variationName": "Size",
+                "variationValue": "9.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQF162L",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GPXLH68",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQF1CSM",
+                "variationName": "Size",
+                "variationValue": "10 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQKZTG3",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0846LN7ZC",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQKRV6D",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQHBNS8",
+                "variationName": "Size",
+                "variationValue": "11 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQDTNWK",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQ8ZYCX",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07MB7NPCK",
+                "variationName": "Size",
+                "variationValue": "12 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQCQLYS",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31g8R6j8YDL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31pKWfQ3BZL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31xCiQyV4DL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31NDRBuBrrL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41UZ1gLjiCL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41Erho8RWbL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Clarks Store",
+            "link": "https://www.amazon.com/stores/Clarks/page/6E7F4396-6004-497C-B702-21B18368E819?ref_=ast_bln"
+        },
+        "brand": "Clarks",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 8039,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Leather",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Sole material Rubber",
+            "Juliet Palm - A pair of flexible elastic gores and a curved topline provide this loafer style with an easy slip-on fit",
+            "OrthoLite footbed",
+            "Cushion Soft padding",
+            "Resposibly sourced leather upper",
+            "1 inch heel height"
+        ],
+        "description": "Clarks women Juliet Palm - This sharp loafer has a rich full grain leather upper and a slight stacked heel. Its rubber outsole makes it an all-day walker, and layers Cushion Soft\u2122 padding with an OrthoLite footbed keep bare feet in dry comfort.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Loafers & Slip-Ons",
+                "link": "https://www.amazon.com/Loafers-Slip-Ons-Womens/b/ref=dp_bc_aui_C_4?ie=UTF8&node=679404011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 10 x 15 x 6 inches; 6.4 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 26142933"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e March 12, 2019"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Clarks"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07GQMY35K"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#6,476 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #25 in Women's Loafers & Slip-Ons"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 8,039 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/54160a50-5310-4515-875b-a8a03623956a.__CR0,5,970,291_PT0_SX600_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "musician wanna be",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGGZ4DSCQ5EQONJVBNOGGRIEMXYA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R171ZXCSBCEU5W?ASIN=B07GPXLH5N",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 24, 2023",
+                "reviewTitle": "5.0 out of 5 stars Light weight and so comfortable!",
+                "reviewText": "These shoes have a nice classic look. They run a little narrow but they stretch nicely and really enjoy the comfort. They are nicely made. These will be a staple for my winter wardrobe.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "SHEILA FORBES",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHCRPZRS6BNLPH42ZCZGXUOWXHDQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2LCJ5UZY4IXTR?ASIN=B07GPXLH5N",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 21, 2023",
+                "reviewTitle": "5.0 out of 5 stars JUST AS DESCRIBE. SOFT AND BEAUTIFUL",
+                "reviewText": "Love this shoes. Very comfortable. Size is exact.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ashley",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGWF3FXG6HNVCQXUOD72XUJPQFAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3M49HWQJJ1H9K?ASIN=B07GPXLH5N",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 3, 2023",
+                "reviewTitle": "4.0 out of 5 stars comfy!!",
+                "reviewText": "If you're looking for a comfortable loafer, then these are it. I tried them on in the store originally to make sure size would work, and almost bought in the store, but Amazon offers a price of $10 less then most places that sell these! I've been wearing them around the house to break them in, and they feel wondering. They have the heel that isn't very large, and a thicker sole that will help the shoe last longer. There is also a design on the bottom of the shoe to help with traction that you don't usually get. I will be suggesting these to anyone looking for a nice flat!",
+                "reviewVotes": "10 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nichole Brown",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFIEAEJDD3WU6VC3FDPUVNKPDY6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2W73PAQAYUZ2B?ASIN=B07GPXLH5N",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very comfortable!",
+                "reviewText": "Comfortable, sturdy shoe. Quality is great, I anticipate them to last quite a while. They broke in easy and are very comfortable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Veronica Holder",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH32FPQRXFAVSYFNMJYYMRJ23AEA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3W5CP6AEITSSY?ASIN=B07GPXLH5N",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great every day shoe",
+                "reviewText": "I wear these every day almost. Good quality. Sturdy. And cute.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Donna L. Mooney",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGPJBAUJPTH3AV3AJITE7KOC3ZHQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R4ZGSFVNZW12N?ASIN=B07GPXLH5N",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 4, 2023",
+                "reviewTitle": "3.0 out of 5 stars Beautiful and comfortable, but I question the quality...showing much wear with 2 months.",
+                "reviewText": "The shoes were very attractive out of the box and feel good on my feet and I WANT to love them because I felt like springing for some Clark's was a good minor shoe upgrade. But after wearing them a few times over the past couple of months I'm super disappointed in how the back has worn on them with such short wear.It really made me wonder if they were knock offs. That is literally my only complaint but it's the one thing that makes a purchase worth the extra cash or not; quality and longevity. These won't last any longer than a $20 pair from Wal-Mart or something. :(",
+                "reviewVotes": "11 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "mizz mo",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHYWR2CHX4P2LZNB6GWHYCQFIGOA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2Q9YXHE31KRW?ASIN=B07GPXLH5N",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Buy",
+                "reviewText": "Nice comfortable shoes to wear! Beautiful style! Great color for either dress or casual!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Raquel",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGX7XF6DLRGICNLFMZA3ONAQXVTQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R30HYML72EMVKN?ASIN=B07GPXLH5N",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 12, 2023",
+                "reviewTitle": "4.0 out of 5 stars Returned",
+                "reviewText": "I had to return my pair because they were a half size too big. Thank goodness for \u201cTry Before You Buy\u201d. Overall these were nice looking shoes and comfortable for any occasion.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cliente de Amazon",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on April 8, 2023",
+                "reviewTitle": "Hermosos",
+                "reviewText": "Est\u00e1n muy lindos, me quedaron muy bien. Nada mas es una l\u00e1stima que el forro no sea de piel",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "RLK",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 23, 2023",
+                "reviewTitle": "Nice Looking Shoes",
+                "reviewText": "These are nice looking dress/casual shoes, they fit good, and are comfortable.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lidia R.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on June 15, 2022",
+                "reviewTitle": "Demasiado angosto",
+                "reviewText": "La talla no es true to size, si tienes pie ancho, pide 1 o hasta 2 n\u00fameros m\u00e1s grandes, el zapato es excesivamente angosto y muy cerrado.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Irene Stainthorpe",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on January 20, 2024",
+                "reviewTitle": "Fit and quality",
+                "reviewText": "I haven't as yet worn these shoes but the fit and the quality are excellent",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bada",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 30, 2021",
+                "reviewTitle": "Great pair",
+                "reviewText": "So cute and comfortable. Love the colour. You will see what you get!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

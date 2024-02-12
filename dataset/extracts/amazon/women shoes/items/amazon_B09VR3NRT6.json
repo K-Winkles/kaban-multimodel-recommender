@@ -1,0 +1,598 @@
+{
+    "remaining_requests": 17017,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/PUMA-Womens-Better-Prowl-Sneaker/dp/B09VR3NRT6",
+    "body": {
+        "name": "PUMA Women's Better Foam Prowl Slip Sneaker",
+        "price": "$29.99 - $34.00",
+        "originalPrice": "",
+        "rawPrice": 29.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Puma-Womens-Prowl-Alt-Sneaker/dp/B07WZQ4MWJ",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B07WZQ4MWJ"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09VR84G7V",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31NLzX-Xg7L._SS47_.jpg"
+            },
+            {
+                "asin": "B097LWPBVS",
+                "variationName": "Color",
+                "variationValue": "Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31a-vR1Z9uL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BR8LJMCJ",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31HvMOVxf+L._SS47_.jpg"
+            },
+            {
+                "asin": "B0C6QZKGX5",
+                "variationName": "Color",
+                "variationValue": "Warm White-puma Copper-puma White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31MELvA149L._SS47_.jpg"
+            },
+            {
+                "asin": "B0BHW4LMW5",
+                "variationName": "Color",
+                "variationValue": "Castlerock-gray Violet",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41US4YNDPPL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BL94591B",
+                "variationName": "Color",
+                "variationValue": "Rose Dust-wood Violet-white",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31SQiKo6IGL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BL94W1JQ",
+                "variationName": "Color",
+                "variationValue": "Warm White/Rose Dust/Puma White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31qzaBHQudL._SS47_.jpg"
+            },
+            {
+                "asin": "B09T27BQ3B",
+                "variationName": "Color",
+                "variationValue": "Pristine-dark Chocolate",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ISKrBe37L._SS47_.jpg"
+            },
+            {
+                "asin": "B097LWTYG5",
+                "variationName": "Color",
+                "variationValue": "Lavender Fog-puma White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01-xungW3lL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BR9ZDFFM",
+                "variationName": "Color",
+                "variationValue": "Puma Black/Intense Lavender/Puma White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/317aPvp1ONL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BL8LF3WL",
+                "variationName": "Color",
+                "variationValue": "Floral Warm White-rose Dust-white",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31qzaBHQudL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BL8LJNG4",
+                "variationName": "Color",
+                "variationValue": "Rose Dust/Wood Violet/Puma White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/314m5G-Hw-L._SS47_.jpg"
+            },
+            {
+                "asin": "B0BCPS32NK",
+                "variationName": "Color",
+                "variationValue": "Rose Quartz/Puma White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31zmbt9IAyL._SS47_.jpg"
+            },
+            {
+                "asin": "B09VQZS55V",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VR1CCV9",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHW8R2NF",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VRC1M3F",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHW7NMBB",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VQMN2QC",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHW6JW4Z",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VRF5VKQ",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHWCRX3F",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VRB5Q4H",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHW4LMW5",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VRB3NWF",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VQVR1Z5",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHW678T5",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VR3NRT6",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VRCC97S",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VR84G7V",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VQW1SXQ",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHW3XDG5",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31NLzX-Xg7L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31E9kkzuG2L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31kwsjjKrJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/315PWMtJXTL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31O0hVZKetL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/513EtXXZxPL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31KSKoSEHeL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the PUMA Store",
+            "link": "https://www.amazon.com/stores/PUMA/page/00F6067E-333B-41A4-AC3D-7B2FA69EA1AB?ref_=ast_bln"
+        },
+        "brand": "PUMA",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 660,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Care instructions Machine Wash",
+            "Origin Made in the USA or Imported",
+            "Sole material Rubber",
+            "Closure type Pull-On",
+            "Fabric and Synthetic upper",
+            "Rubber sole",
+            "Upper features an easy, sock like construction enhancing comfort and flexibility",
+            "SOFTFOAM+ incorporated into the footbed",
+            "True slip on construction"
+        ],
+        "description": "Lightweight and flexible, the BETTER FOAM Prowl Slip On is a stylized trainer perfect for quick, agile movements. Upper features an easy, sock like construction enhancing comfort and flexibility. SOFTFOAM+ incorporated into the footbed, ensures a holistic, full foot comfort story. PUMA is the global athletic brand that successfully fuses influences from sport, lifestyle and fashion. PUMA's unique industry perspective delivers the unexpected in sport-lifestyle footwear, apparel and accessories, through technical innovation and revolutionary design.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Womens-Athletic-Shoes/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127771011"
+            },
+            {
+                "name": "Fitness & Cross-Training",
+                "link": "https://www.amazon.com/Womens-Cross-Training-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679351011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 11.34 x 8.5 x 4.8 inches; 1.02 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 37654202"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e March 16, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e PUMA"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09VQZS55V"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#12,002 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #98 in Women's Fashion Sneakers"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 660 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Training PUMA women\u2019s training products are specially designed to prioritize comfort and performance. From the gym to the studio, be your best in PUMA. Running PUMA women\u2019s running products are built with you in mind. We\u2019ve got shoes and apparel for every type of run and every type of runner. Recovery Your workout is important, but what you do after you work is even more important. PUMA women\u2019s activewear is both comfortable and supportive, so you can recover better and return stronger.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/744827c1-d066-482c-a385-b5e880757673.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1642b887-a61d-4ef8-9858-61037aa4259a.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ee0692c8-ff8a-467f-a8a9-831b0a77e95e.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Make the most of every workout with women\u2019s activewear from PUMA",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fa2c3df0-913e-4487-88f9-a1a9a811984d.__CR0,61,970,300_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "PUMA running and training gear works hard, so you work harder. We\u2019re constantly striving to create lighter, faster, better performing tech that pushes the boundaries of activewear. We then work this next-level tech into some of the most stylish and eye-catching pieces that look great during and after a work-out. Take your fitness to the next level with running and training products from PUMA.",
+                "media_link": []
+            },
+            {
+                "media_text": "Women's Run/ Train For Everyday Training From the first mile to the extra mile, PUMA women\u2019s activewear works as hard as you do so you can get the most out of your workouts. For Speed Turn your PR into a WR with PUMA women\u2019s activewear. PUMA running shoes and apparel are designed to maximize performance so you can maximize speed. For Strength With PUMA women\u2019s training gear, there\u2019s always room for one more rep. Shoes and apparel are designed to keep you comfortable while you crush it.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/60b8a272-dc63-466f-a2b0-f286c9e87653.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f7a1bddf-8f9b-416a-b11c-f6c8585d3f64.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e1cf3a80-d63d-452e-8398-1ecba83f1ead.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/744827c1-d066-482c-a385-b5e880757673.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1642b887-a61d-4ef8-9858-61037aa4259a.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ee0692c8-ff8a-467f-a8a9-831b0a77e95e.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fa2c3df0-913e-4487-88f9-a1a9a811984d.__CR0,61,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/60b8a272-dc63-466f-a2b0-f286c9e87653.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f7a1bddf-8f9b-416a-b11c-f6c8585d3f64.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e1cf3a80-d63d-452e-8398-1ecba83f1ead.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Rachael K.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGBXW6DWOWHPRHENDT4OKP42H3SA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3SM0TTA0BAW2B?ASIN=B07WZQ4MWJ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 16, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfy and perfect",
+                "reviewText": "I needed simple, black sneakers after my under armor ones died and I ran across these. Life changing! I wore them all through Disney world, walking through my city for work and best of all - it\u2019s easier to work out and get on my treadmill in record time. Worth every penny.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MDeeMDee",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGNKINECOBFQFZSO33F3JLA7SFUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2SVV9IB2FPMPF?ASIN=B07WZQ4MWJ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 18, 2023",
+                "reviewTitle": "5.0 out of 5 stars So comfy",
+                "reviewText": "I always have trouble finding a comfortable sneaker for work, especially one that can withstand standing all day and slip resistant (doesn\u2019t say they are, but believe me, they are) When I do find something, it ends up being discontinued. I took a chance on these PUMAs and am very satisfied. This is my third pair because I go through them so quickly. They\u2019re slip on which is always a plus and feel like I\u2019m wearing socks, that\u2019s how comfortable they are. If you\u2019re looking for sneakers that you don\u2019t have to worry about eventually pinching or falling apart, I highly recommend these.",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71tftCFd5iL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71vK0jSXYOL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rosslyn Coles",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGWS7UQ225AZX6XPFFLUB4YBYXKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RXZ4Y97AHFJ1Z?ASIN=B07WZQ4MWJ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 19, 2024",
+                "reviewTitle": "5.0 out of 5 stars It's Very true to size I'll have to wear it to stretch them out a bit. Great product though \ud83d\udc4c\ud83c\udffe",
+                "reviewText": "The product is very fitting and looks great. They are very true to size so wear them to stretch them out a bit.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "K. MarieK. Marie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGODUHJHUDHLKYQHLEJ7T72UNFQQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RBYJ2UTCG8IHC?ASIN=B07WZQ4MWJ",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 27, 2023",
+                "reviewTitle": "4.0 out of 5 stars Not slip resistant.",
+                "reviewText": "I ordered these sneakers to wear to the gym. When I received them, the box was pretty mangled but, the shoe's were in perfect condition. I would describe these as very light weight, & form fitting. Almost a mix of a running shoe, & water sock. I wore them for the first time yesterday, to go work out. I stopped for a quick store run first. I was wearing footie socks, & with in 5min. walking through the store, both my heals were bleeding, & on fire. I had to stop everything, found a pair of ankle length socks, & some heal blister bandaids not on my list. Lol I would recommend wearing no shorter than an ankle sock with these. Later after my workout, I currently live in Montana, where it's been snow, & ice for months. I stepped on a ice patch, & went down pretty hard. These sneakers have no real tread for traction, & the soles are a slick glossy foam. That being said, I like the way they look, how they're form fitting great for indoor work outs, & are comfortable. Besides the heal area on bare skin, where there's a strap loop, to help you pull them on. I would not recommend these sneakers for the outdoors in poor weather conditions.",
+                "reviewVotes": "27 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71i1IAXAadL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71qikoVQjZL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81FdNfLGsyL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mollie Smith",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHY5J4P4Z5HKXIM6KFQ22IQNPCPQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R230IHL6QDQIJD?ASIN=B07WZQ4MWJ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 15, 2024",
+                "reviewTitle": "5.0 out of 5 stars 10/10",
+                "reviewText": "I have been wearing these shoes for work for 2 years now! I stand all day at my job, I have bought 4 pairs in 2 years and I don\u2019t really want a different shoe, eventually when the original insole wears down I put my own in, they\u2019re light and comfortable fitting! Will continue to purchase.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nari S. Ramzan",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHQLMBZSJNRQEHKIDNAISQ37TUDA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R32WF10IXF0BMM?ASIN=B07WZQ4MWJ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 10, 2023",
+                "reviewTitle": "5.0 out of 5 stars Weee I am a ninja in these!",
+                "reviewText": "I wanted to move with the shadows and fight against the corrupt shogun in my area. So naturally I needed proper footwear. These are comfortable and instead of laces sport elastic bands that cross the feet and comfortable slipper like insides . It's geniunally like wearing clouds and is great for making no noise while out doing my missions that consist of 90 percent naruto running. Also great for regular jogs during the day of lounging around the house or outside. Not sure how durable they are.",
+                "reviewVotes": "14 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kelley",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH3FUOILDEACY6BY7VFGVFAG7R5Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3TQAXL0LQZ2AT?ASIN=B07WZQ4MWJ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 23, 2024",
+                "reviewTitle": "5.0 out of 5 stars They are to tight can I still return if I've worn them",
+                "reviewText": "Can I return if I were for a couple days?They are to tight im on my feet all day and my feet hurt. I need to find a better pair.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tbear",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHH6N63YCFKUJD6MMQZNLXWMI66Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3VYUQGEZA150S?ASIN=B07WZQ4MWJ",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 9, 2024",
+                "reviewTitle": "3.0 out of 5 stars Stylish but..",
+                "reviewText": "The media could not be loaded. I love these shoes, the padding is very comfy, they are very tight and form to my feet BUT.. the tongue of the shoe is already cutting into my ankle. I\u2019ve only had them on for 2 hours and I\u2019ve got blisters. By acl is red and raw already. Maybe I need longer socks rather than ankle socks but I probably wouldn\u2019t buy again.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0838b5a1-6eb4-466c-839e-2c28a96162ec/default.vertical.jobtemplate.mp4.480.mp4"
+                }
+            },
+            {
+                "reviewerName": "Rossy Rossy ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 13, 2024",
+                "reviewTitle": "Muy c\u00f3modos",
+                "reviewText": "Son muy c\u00f3modos, ligeros y combinan con todo, los recomiendo ampliamente.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61ShFO091ML.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lorena",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 8, 2024",
+                "reviewTitle": "3B's",
+                "reviewText": "C\u00f3modos, bonitos y econ\u00f3micos, tardaron un poco en llegar pero vali\u00f3 la pena. La talla viene correcta y no lastiman el empeine. Son ligeros y delgados, tipo calcet\u00edn.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cheryl M",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 29, 2024",
+                "reviewTitle": "Fit like a glove",
+                "reviewText": "This slip-on was light weight, very comfortable and true to size.I definitely recommend this shoe.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Andrea",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 12, 2024",
+                "reviewTitle": "Muy buen producto",
+                "reviewText": "Est\u00e1n muy c\u00f3modos y muy padres me encantaron",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ely",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 7, 2024",
+                "reviewTitle": "Mala calidad",
+                "reviewText": "Ped\u00ed n\u00famero 3 y me mandaron 22Se ven de muy mala calidad",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

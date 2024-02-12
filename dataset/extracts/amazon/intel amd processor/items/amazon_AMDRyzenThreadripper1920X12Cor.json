@@ -1,0 +1,403 @@
+{
+    "remaining_requests": 43937,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/AMD-Threadripper-24-thread-Processor-YD192XA8AEWOF/dp/B074CBJHCT",
+    "body": {
+        "name": "AMD Ryzen Threadripper 1920X (12-Core/24-Thread) Desktop Processor (YD192XA8AEWOF)",
+        "price": "$270.00",
+        "originalPrice": "$270.00",
+        "rawPrice": 270.0,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/AMD-Threadripper-24-thread-Processor-YD192XA8AEWOF/dp/B074CBJHCT",
+        "soldBy": {
+            "sellerID": "A1ZYJ2SSCYE072",
+            "name": "Maestro Technology LLC",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1ZYJ2SSCYE072&asin=B074CBJHCT&ref_=dp_merchant_link"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B079VT3BDG"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B074CBJHCT",
+                "variationName": "Style",
+                "variationValue": "12-core Processor",
+                "price": "$270.00",
+                "variationImageURL": ""
+            },
+            {
+                "asin": "B074CBH3R4",
+                "variationName": "Style",
+                "variationValue": "16-core Processor",
+                "price": "$848.88",
+                "variationImageURL": ""
+            },
+            {
+                "asin": "B0754JNQBP",
+                "variationName": "Style",
+                "variationValue": "8-core Processor",
+                "price": "$99.99",
+                "variationImageURL": ""
+            }
+        ],
+        "isPrime": false,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/5149290vQyL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51tsMNhcf2L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/4152-FbaSCL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41aLWYpMGvL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31NQ28vxdGL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61bTHjQEdjL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/00cadd69-a6eb-5e95-8bd6-5324b085f67e/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/951bdd98-a963-488d-ac71-02d3c10fde31/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 2,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "https://m.media-amazon.com/images/I/B1MxO6FF50S.pdf",
+            "userManualLink": "https://m.media-amazon.com/images/I/B1MxO6FF50S.pdf"
+        },
+        "byLineInfo": {
+            "name": "Visit the AMD Store",
+            "link": "https://www.amazon.com/stores/AdvancedMicroDevices/page/8D05F933-0F55-46A5-A940-3711A335A383?ref_=ast_bln"
+        },
+        "brand": "AdvancedMicroDevices",
+        "merchantInfo": "Sold by RISING SUN SHOP and Fulfilled by Amazon.",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 1033,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery February 20 - 23.",
+            "FREE delivery Saturday, February 17",
+            "Or fastest delivery Friday, February 16. Order within 10 hrs 28 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Incredible 12 Cores and 24 Threads of processing power",
+            "4.0 GHz Precision Boost (up to 4.2 GHz with XFR)",
+            "38MB of Cache Memory",
+            "64 PCIe Gen3 Lanes",
+            "Quad channel DDR4 with support for ECC for reliable throughput"
+        ],
+        "description": "AMD Ryzen Threadripper 1920X (12 core/24 thread) Desktop Processor; Max Temps: 68\u00b0C .",
+        "breadCrumbs": [
+            {
+                "name": "Electronics",
+                "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=172282"
+            },
+            {
+                "name": "Computers & Accessories",
+                "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_aui_C_2?ie=UTF8&node=541966"
+            },
+            {
+                "name": "Computer Components",
+                "link": "https://www.amazon.com/PC-Parts-Components/b/ref=dp_bc_aui_C_3?ie=UTF8&node=193870011"
+            },
+            {
+                "name": "Internal Components",
+                "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_4?ie=UTF8&node=17923671011"
+            },
+            {
+                "name": "CPU Processors",
+                "link": "https://www.amazon.com/CPU-Processors-Memory-Computer-Add-Ons/b/ref=dp_bc_aui_C_5?ie=UTF8&node=229189"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Processor",
+                "value": "\u200e4 GHz ryzen_threadripper_1920x"
+            },
+            {
+                "name": "RAM",
+                "value": "\u200eDDR4"
+            },
+            {
+                "name": "Memory Speed",
+                "value": "\u200e1200 MHz"
+            },
+            {
+                "name": "Brand",
+                "value": "AMD"
+            },
+            {
+                "name": "Item model number",
+                "value": "\u200eYD192XA8AEWOF"
+            },
+            {
+                "name": "Hardware Platform",
+                "value": "\u200ePC; Unix; Linux"
+            },
+            {
+                "name": "Item Weight",
+                "value": "\u200e3.2 ounces"
+            },
+            {
+                "name": "Product Dimensions",
+                "value": "\u200e3.1 x 2.2 x 0.3 inches"
+            },
+            {
+                "name": "Item Dimensions LxWxH",
+                "value": "\u200e3.1 x 2.2 x 0.3 inches"
+            },
+            {
+                "name": "Processor Brand",
+                "value": "\u200eAMD"
+            },
+            {
+                "name": "Number of Processors",
+                "value": "\u200e12"
+            },
+            {
+                "name": "Computer Memory Type",
+                "value": "\u200eDDR4 SDRAM"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "\u200eAMD"
+            },
+            {
+                "name": "ASIN",
+                "value": "\u200eB074CBJHCT"
+            },
+            {
+                "name": "Is Discontinued By Manufacturer",
+                "value": "\u200eNo"
+            },
+            {
+                "name": "Date First Available",
+                "value": "\u200eJuly 31, 2017"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 1,033 ratings 4.6 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#369 in Computer CPU Processors"
+            },
+            {
+                "name": "CPU Manufacturer",
+                "value": "AMD"
+            },
+            {
+                "name": "CPU Model",
+                "value": "Ryzen Threadripper 1920X"
+            },
+            {
+                "name": "CPU Speed",
+                "value": "4 GHz"
+            },
+            {
+                "name": "CPU Socket",
+                "value": "Socket TR4"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "AMD Ryzen Threadripper Processor The AMD Ryzen Threadripper processor is designed to provide incredible multi-processing power on the X399 ultimate platform for desktop. - 12 cores and 24 threads for lightning-fast creative workloads. - An unprecedented 64 PCIe Gen3 lanes to meet large GPU and NVMe needs. - 38MB of combined cache for rapid access to large data sets. - Quad channel DDR4 with support for ECC for reliable throughput.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/f7aa153b-23fb-48e9-a3eb-044b79ff990b._CR127,51,458,458_PT0_SX300__.png"
+                ]
+            },
+            {
+                "media_text": "Technologies The 'Zen' Core Architecture Built with AMD SenseMI Technology\u2021 to deliver a truly intelligent processor. \u2021 AMD SenseMI technology is built into all Ryzen processors, but specific features and their enablement may vary by product and platform. AMD SenseMI Technology With AMD SenseMI technology, Ryzen processors use true machine intelligence to accelerate performance.\u2021 AMD Ryzen Master Utility The Simple and Powerful Overclocking Utility for AMD Ryzen processors.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/29729eb6-885f-4f7b-9260-31cb23881e4e._CR17,0,358,358_PT0_SX300__.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/6a3d8560-5d60-494a-9872-715e7a8d9f0d._CR20,0,373,373_PT0_SX300__.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/0a53fbf6-305b-441c-b963-999e4e3b4d7c._CR26,0,363,363_PT0_SX300__.png"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sota/f7aa153b-23fb-48e9-a3eb-044b79ff990b._CR127,51,458,458_PT0_SX300__.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/29729eb6-885f-4f7b-9260-31cb23881e4e._CR17,0,358,358_PT0_SX300__.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/6a3d8560-5d60-494a-9872-715e7a8d9f0d._CR20,0,373,373_PT0_SX300__.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/0a53fbf6-305b-441c-b963-999e4e3b4d7c._CR26,0,363,363_PT0_SX300__.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Amazon guy",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH2IEWQBIBKY726WRO4VGI7JEHQA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R6QVQ7X0R9CQ?ASIN=B074CBJHCT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 24, 2024",
+                "reviewTitle": "5.0 out of 5 stars Works perfectly at a great price",
+                "reviewText": "Can't be a 1900x for $43. What a steal.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "VengeanceMaster",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFTUKWJHO4DTARSBO3Y3R3XKE5LA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R9B0KF18EJBTJ?ASIN=B074CBJHCT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 6, 2020",
+                "reviewTitle": "5.0 out of 5 stars 12 Core for $200 - Yes, $200",
+                "reviewText": "CAUTION - THE INCLUDED SCREWDRIVER LIKE MANY OTHERS DID NOT RELEASE ON THE RIGHT TENSION! THIS CAN CAUSE DAMAGE IF YOU OVERTIGHTEN!Aside from the initial issue of the screwdriver; I stopped as I felt it was too much force and watched install videos, confirming I have put about as many turns as they have without it popping out to indicate it's tightened. I would recommend watching these so you don't overtighten as this can damage the motherboards socket or the CPU.The CPU:I have long since been an intel fanboy, but not anymore.Temperatures: With a Noctua TR4 cooler, expect 23C-33C Idle with 40-48C under load. The max I believe I've seen was 53C with a very high amount of CPU usage likely from an unoptimized piece of software.It runs cooler than all of my intel chips, including one that was watercooled while this is on an air cooler.Performance: It does everything. At once. You'll need lots of RAM if you want to do everything at once depending on what you do. If you want to play a game, stream said game, render graphics to a file you should get no less than 32GB of 3600 MHz memory, most of these TR4 boards support up to 128GB RAM.If you do graphics work, video editing, rendering and still want a PC you can use to have fun; this is a great CPU. I'll never get less than this in the future and it makes a quad core look like a toaster.Normal retail price is $800, it's been on sale often for $200, and moves up to $262 lately. The boards are expensive generally around $250-$350, but well worth the cost to have up to 3 NVMEs, 8 DIMM slots and a high cap of 128GB RAM.10/10 Highly recommend, and would recommend further Threadripper CPUs they release.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH6QUCCGMQVZO5H7DLGSG2UT7TQQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RFV7Z74US41RP?ASIN=B074CBJHCT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 10, 2023",
+                "reviewTitle": "5.0 out of 5 stars Good workhorse",
+                "reviewText": "It might not be the fastest, and it might be the lowest end. However it runs circles around the old AMD FX that I had before it. Runs VR quite well too.The packaging was a bit much, but neat if you collect things like that. If not though it seems kinda wasteful.The custom torx screwdriver that puts the correct amount of tension on the screws is really nice, and the case badges (both big and small) are fun.If my board had more than one socket for a physical chip I'd probably pick up another, though for what I do I'm not sure I'd need that much power anyway.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jeff Parsons",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGF4XO5XXR3LUKL7Q7PX3TZKGUYA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R209WBPM06CP0T?ASIN=B074CBJHCT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 11, 2017",
+                "reviewTitle": "5.0 out of 5 stars Great Product!",
+                "reviewText": "Pros:-Extremely fast-Price for value is great!Cons:-Had some challenges getting it to run at optimal performanceOther Thoughts:Unlike some, I found the installation to be very straightforward. The best tip I would provide is to screw in the number 1 screw a little, then the number 2 screw, then the number 3 screw. Then go back and tighten them all up.A few tips to save time on optimizing.First, make sure you are running four sticks of quad channel memory. Dual channel really hurts your performance.Second, turn off IOMMU in the northbridge bios settings. This also hurts performance.Third, turn off HPET in the bios settings. This KILLS performance. Prior to getting this turned off, my FPS were half what they are now, programs were slow to load, etc....With these three items out of the way, I am having a GREAT experience. Wonderful CPU. Everything loads instantaneously.",
+                "reviewVotes": "40 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Erin Hughes",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGKOHACHKFL43HS3W7R2SHTIVPGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3VU8H5C1XU4X2?ASIN=B074CBJHCT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 19, 2018",
+                "reviewTitle": "5.0 out of 5 stars Great CPU, just research & plan out your motherboard and RAM carefully, it's not one size fits all",
+                "reviewText": "There are a lot of claims going around that this CPU requires water cooling so I tested it. Mine easily and stably overclocks to 4.0GHz with a single-fan noctua NH-U14S TR4-SP3. Could possibly clock a little higher with liquid cooling but I haven't attempted it, even though there's plenty of thermal headroom. My CPU only runs a degree or 2 hotter with the noctua than with h115i. This processor also plays nice with high speed RAM, just make sure you get an asus motherboard if you want to hit 3600mhz on 128GB. I tested 3600mhz on 64gb with the zenith extreme and it works, but I ultimately chose the asrock x399 fatal1ty professional gaming for size reasons and my GPU wouldn't fit on the first slot of the zenith extreme. There are lots of other benefits to the asus boards but there are some unique benefits to the fatal1ty board, like onboard 10G lan for what that's worth. So with the asrock board I've been able to run 3200mhz on 64gb. It doesn't say anywhere in the manual or elsewhere that the board does not support 3600mhz, but if you select 3733mhz, it will revert to 2166 when you boot into windows. And when I selected 3600mhz, it'd boot and run at that number but crash as soon as i ran a program like google chrome. Tried it at lower and lower rates until I got to 3200mhz which is completely stable, so I'm guessing that's just a known limit but asrock's customer support is unaware of it. So yeah the threadripper is an amazing CPU but there are some things you gotta plan out in advance for your system. By the way, if you want to boot off an NVMe RAID array, this is definitely the platform to go with. The setup isn't trivial but it's this versus intel VROC, so there you go.",
+                "reviewVotes": "28 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cliente Amazon",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Italy on July 19, 2023",
+                "reviewTitle": "felicissimo",
+                "reviewText": "un animale",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "FranciscoFrancisco",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Spain on July 1, 2023",
+                "reviewTitle": "Extraordinario",
+                "reviewText": "Un procesador realmente soberbio. Un verdadera bestia que solo ha dado satisfaciones, al menos hasta que los amigos de cacasoft han decidido arbitrariamente que no es compatible con windows 11, pese a que tecnicamente no hay razones para ello. Particularmente uso Ubuntu pero me irrita igualmente .Es muy recomendable la refrigeraci\u00f3n liquida, porque los ventiladores que este peque\u00f1o monstruo necesita para enfriarse por aire son bastante grandes y ruidosos",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71mQYY2JbOL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/6159r17NXxL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "barolinr",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in France on August 14, 2021",
+                "reviewTitle": "RAS pour l\u2019instant",
+                "reviewText": "Tr\u00e8s gros et lourd comme processeur mais bon, pour l\u2019instant il fonctionne. Je voulais un mod\u00e8le plus puissant pour \u00eatre tranquille un bon moment mais les prix et date de livraison pour certains m\u2019on refroidi. Juste un b\u00e9mol le packaging est trop important c\u2019est trop pour juste un processeur.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on June 17, 2020",
+                "reviewTitle": "It is sweet, the 1950X",
+                "reviewText": "I didn't like paying that much money, to be honest. But it was a heck of a lot cheaper than whatever intel was offering that was similar at the time. I am still using it today, and it is as quick and as stable as ever.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Norberto Gonz\u00e1lez Pi\u00f1a",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on March 15, 2020",
+                "reviewTitle": "Exelente para renders",
+                "reviewText": "Procesador comprado para renderizado, muy adecuado para ello, los 32 hilos que entrega se dividen perfectamente para los renders, quiz\u00e1 mi \u00fanico comentario, es que para tareas de potencia no sent\u00ed una abismal diferencia con, por ejemplo un i7 de 12 hilos, y para tambi\u00e9n considerar, tiene un alto consumo energ\u00e9tico, para dar una referencia, la PC, con este procesador y una tarjeta de video gtx 1080 en estado de reposo o tareas simples, como usar navegador, consum\u00eda 280w, y con trabajo de renderizado, lleg\u00f3 hasta los 495w",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

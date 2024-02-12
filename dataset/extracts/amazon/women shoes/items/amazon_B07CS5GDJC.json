@@ -1,0 +1,553 @@
+{
+    "remaining_requests": 16736,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Dr-Scholls-Shoes-womens-Rate/dp/B09JMBLTB9",
+    "body": {
+        "name": "Dr. Scholl's Shoes Women's Rate Ankle Boot",
+        "price": "$56.00 - $60.00",
+        "originalPrice": "",
+        "rawPrice": 56.0,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Dr-Scholls-Shoes-womens-Rate/dp/B09JMBLTB9",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09JMBLTB9"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B071D4YQ5L",
+                "variationName": "Color",
+                "variationValue": "Black Perforated Microfiber Suede",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31dBCtSi0XL._SS36_.jpg"
+            },
+            {
+                "asin": "B07QGZQVHY",
+                "variationName": "Color",
+                "variationValue": "Dark Shadow Grey Perforated Microfiber Suede",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Ni+5Hhm5L._SS36_.jpg"
+            },
+            {
+                "asin": "B06ZY6SLFP",
+                "variationName": "Color",
+                "variationValue": "Olive Perforated Microfiber Suede",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/416YBnvgI-L._SS36_.jpg"
+            },
+            {
+                "asin": "B07QW27MMZ",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31xmMu7w7BL._SS36_.jpg"
+            },
+            {
+                "asin": "B07QWZV29R",
+                "variationName": "Color",
+                "variationValue": "Chocolate Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PZQMA3XPL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BJJFG29L",
+                "variationName": "Color",
+                "variationValue": "Black Fabric",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ppv7xAiPL._SS36_.jpg"
+            },
+            {
+                "asin": "B08CMWN7SL",
+                "variationName": "Color",
+                "variationValue": "Olive",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31FXkN0kCsL._SS36_.jpg"
+            },
+            {
+                "asin": "B07QY1XM26",
+                "variationName": "Color",
+                "variationValue": "Tan Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413ZovCqJ8L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BJHCZCJZ",
+                "variationName": "Color",
+                "variationValue": "Chocolate Brown Fabric",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41n66MKqu5L._SS36_.jpg"
+            },
+            {
+                "asin": "B071RCLMMY",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CS7D1JL",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B071RCMY8H",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CS1H2QW",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B071YDPH2D",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CS5H9YW",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06ZXXD5LB",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CSBRDMD",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07228F4MB",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CS1QV9Z",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B071R33YVC",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CS1QXTK",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B071CVGGZT",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CS5GDJC",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B071YDPXCB",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CS3C1D9",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B071D4YQ5L",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CSNZKCF",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B071YDPGSM",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CS8Z2B2",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BJHFPZXQ",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BJHCZCJZ",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31dBCtSi0XL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31YFIHZXC L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41c8gfjD80L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31QhszhLB5L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31xCT9jTWjL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31FPQp3mxPL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31EnCLDbZXL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Dr. Scholl's Shoes Store",
+            "link": "https://www.amazon.com/stores/DrSchollsShoes/page/DFB74C4F-D68E-479C-A718-4FE24655071C?ref_=ast_bln"
+        },
+        "brand": "DrSchollsShoes",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 8816,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type Fabric or Textile",
+            "Origin Imported",
+            "Sole material Rubber",
+            "Shaft height Ankle-high",
+            "Memory Foam Cool Fit insole designed for all-day comfort",
+            "Deep chop outs at side and back tab for easy fit",
+            "Deep chop outs at side and back tab for easy fit",
+            "Memory Foam Cool Fit insole"
+        ],
+        "description": "A bestselling bootie that's anything but basic. SUSTAINABLY CRAFTED: Eco-conscious fabric toe box, linings and topcloth made from recycled bottles, and heel counter made from recycled materials. MATERIALS: Microfiber made from recycled bottles. FIT: Slip-on fit with back pull tab and deep side chopouts for easy on/off. SUSTAINABLE COMFORT: Insole Technology with anatomical cushioning, comfort & support. MOVEMENT: Lightweight, flexible construction moves with you. STYLE: Sleek round toe bootie with perforated accents and 1 inch stacked heel. Geometric perforated detailing and a deep chop-out give this bootie standout status. Wear it endlessly with everything from shorts and jeans to dresses.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Boots",
+                "link": "https://www.amazon.com/Womens-Boots/b?ie=UTF8&node=679380011"
+            },
+            {
+                "name": "Ankle & Bootie",
+                "link": "https://www.amazon.com/Womens-Ankle-Boots-Booties/b?ie=UTF8&node=11721153011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 5 x 5 x 0.7 inches; 10 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e F0587S2002"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 28, 2017"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Dr. Scholl's Shoes"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B071RCLMMY"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#14,467 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #49 in Women's Ankle Boots & Booties"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 8,816 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Dr. Scholl's Create Wedge Bootie Dr. Scholl's Rate Zip Bootie Dr. Scholl's Rate Bootie Dr. Scholl's Laurel Ankle Bootie Dr. Scholl's Lawless Ankle Boot Dr. Scholl's Astir Bootie Closure Zipper Zipper Pull On Pull On Zipper Zipper Heel Type Wedge Low Heel Low Heel Block Heel Block Heel Low Heel",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed969ce3-93dc-458c-87a0-876238e9e3a9.__CR0,0,1940,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0faaa2e7-db95-42d0-8386-1b65ee9ec01b.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c1f38518-22ca-451e-ac20-b25db447a96b.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8fd28fdc-5804-45dd-a3b6-377e1321327f.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f8a9ee9f-dddc-4bb5-8fe6-506ab875bf91.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cc294d89-3a20-4780-949f-ecf9f9ea48c1.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8d600e6f-c1f3-4ae9-9934-27afcb09bc88.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b89420a5-f530-4d69-9ca0-65fe5f0a54dc.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2cbfd609-25bf-40fe-af0d-937abc335498.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5db871ab-ac96-46d0-837c-537964c58e06.__CR0,0,150,300_PT0_SX150_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "N. B. Elks",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFRKVAIR645L6JGN7SPIPZADEVHQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RWAILLYZ8PE7W?ASIN=B09JMBLTB9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 26, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great shoes!",
+                "reviewText": "These booties are great looking and comfortable! I was already packed when they were delivered, so I threw them in my suitcase and so glad I did. The heel was a tad stiff but I just stepped on them to soften them up and wore them the first day and all day. I've got a couple of other boots and these beat them by a mile. They're black suede and just gorgeous. I've received compliments on them. So glad I took a chance on them! They're stylish and so comfortable.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Corinna",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEMPXUBSLLGWSFJY5KIM7FFVRRGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2L8NOYXE4PAEM?ASIN=B09JMBLTB9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 26, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable Boot",
+                "reviewText": "This boot is comfortable, stylish, and true to size. Didn't have to break these in at all.and can be worn all day. Just wish you also had them in leather and more colors!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "jin mao",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEAEDANKB7JYDDNKXZGXCMAK3DAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1RY35H457EZB3?ASIN=B09JMBLTB9",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 19, 2023",
+                "reviewTitle": "4.0 out of 5 stars Nice looking and comfortable low heel",
+                "reviewText": "The style and low heel is perfect for walking. However, the width needs to be larger though and the insert softer. However, it works for a 1/2 day of shopping or visiting friends. Not good for all day.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "AnnieK",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGLXWBYZK6STFXGQE5UYXLI555WA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2FC1UWULPYJBF?ASIN=B09JMBLTB9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 18, 2023",
+                "reviewTitle": "5.0 out of 5 stars Very well constructed with perfect finishing touches",
+                "reviewText": "Great bootie with barely there heel. Sole is not slippery on floors. Zipper on side helps get the shoe on when open and ankle space is snug when zipper is closed so shoe isn\u2019t flopping around the ankle. True to size. Rounded pointed toe box. I\u2019m buying additional colors since the fit is so good. Also has insole cushioning for extra comfort.",
+                "reviewVotes": "11 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kdefran",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE2RN3OAVEOUKD5PJNZBWSG2LYIA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RY13TJXWPWJXJ?ASIN=B09JMBLTB9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 29, 2023",
+                "reviewTitle": "5.0 out of 5 stars Pretty",
+                "reviewText": "I love the style of these boots. I think they are adorable. With the tassle and zipper However, the sides hit my ankle on both sides and feel very uncomfortable regrettably I had to return. Now, I also ordered the Black suede perforated that do not have a zipper and they are the Most comfortable boots I\u2019ve ever had in my life. While I am awaiting knee replacement, I have worn these boots all day without wearing them in they were absolutely fabulous and I highly recommend them. I am recommending the preforated suede boots.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Judymanynames",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG7HFQTQI276KERPEWUJR6DIX67Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RIHL673JY3RR7?ASIN=B09JMBLTB9",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 24, 2024",
+                "reviewTitle": "3.0 out of 5 stars Runs narrow",
+                "reviewText": "Nice bout but returned. Runs very narrow .",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sueva",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGO3Q5M3CWXGZATXLTJEE7AB2VTQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RYU8AZ10D5LZQ?ASIN=B09JMBLTB9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very comfy",
+                "reviewText": "Love, love, love these booties. I have a painful bunion and I don\u2019t even feel it with these . I wear a size 10 W and these fit perfectly.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "C. Raptis",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGTTO2KDB7IDJVGYQKPQBTPQLAYA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2O3B46RHPDSE6?ASIN=B09JMBLTB9",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 7, 2024",
+                "reviewTitle": "4.0 out of 5 stars Good for wide feet",
+                "reviewText": "I have been wearing these for 2 weeks now and they\u2019re pretty much broken in. Still pretty stiff around the ankle but otherwise good for my wide foot and very comfortable to work in all day and I\u2019m a teacher.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rod Johnston",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 6, 2023",
+                "reviewTitle": "Fit well, comfortable",
+                "reviewText": "My wife has a bunion on one foot, so finds it hard to find a shoe that is comfortable, and this one is perfect! She is thrilled.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Pat Bodnarchuk",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 6, 2023",
+                "reviewTitle": "Wonderful little booties.",
+                "reviewText": "Got the black. Great fit even though I have a wide foot. Lightweight and comfy cozy. Well made. Perfect",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Natalia G.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 10, 2023",
+                "reviewTitle": "Me encantaron",
+                "reviewText": "Buena compra, talla correcta, son muy c\u00f3modos losuso casi a diario y a meses de uso puedo de decir que est\u00e1n intactos.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Odette",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on July 22, 2023",
+                "reviewTitle": "Comfort",
+                "reviewText": "Shoes are very comfortable",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Martha Morin",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 14, 2021",
+                "reviewTitle": "Divinas",
+                "reviewText": "Valen cada centavo, son c\u00f3modas, calientitas y de muy buena calidad. Compra tu n\u00famero regular, no hay pierde.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

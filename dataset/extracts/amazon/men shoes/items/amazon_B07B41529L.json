@@ -1,0 +1,979 @@
+{
+    "remaining_requests": 15765,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/New-Balance-Casual-Comfort-Trainer/dp/B07B41529L",
+    "body": {
+        "name": "New Balance Men's 608 V5 Casual Comfort Cross Trainer",
+        "price": "$41.04 - $62.94",
+        "originalPrice": "",
+        "rawPrice": 41.04,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/New-Balance-Casual-Comfort-Trainer/dp/B093XKL7WZ",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B093XKL7WZ"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07B3SDL7C",
+                "variationName": "Color",
+                "variationValue": "White/Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41vpEYNSeQL._SS36_.jpg"
+            },
+            {
+                "asin": "B07B416XX8",
+                "variationName": "Color",
+                "variationValue": "Black/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41CMKxvcrTL._SS36_.jpg"
+            },
+            {
+                "asin": "B07F1T85MR",
+                "variationName": "Color",
+                "variationValue": "Chocolate Brown/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DpQAtBXtL._SS36_.jpg"
+            },
+            {
+                "asin": "B07F1T85N8",
+                "variationName": "Color",
+                "variationValue": "Team Away Grey/Castlerock",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41OA4vxLaSL._SS36_.jpg"
+            },
+            {
+                "asin": "B07B3W9RN4",
+                "variationName": "Color",
+                "variationValue": "White/Team Royal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415aSc8yT1L._SS36_.jpg"
+            },
+            {
+                "asin": "B07B414YCF",
+                "variationName": "Color",
+                "variationValue": "White/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31gfRgQh17L._SS36_.jpg"
+            },
+            {
+                "asin": "B089DBM964",
+                "variationName": "Color",
+                "variationValue": "Grey Dark",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41T3+Y8JFsL._SS36_.jpg"
+            },
+            {
+                "asin": "B07YZRHTNR",
+                "variationName": "Color",
+                "variationValue": "White/Black/Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41hxO02YjSL._SS36_.jpg"
+            },
+            {
+                "asin": "B08D11GV64",
+                "variationName": "Color",
+                "variationValue": "White/Navy/Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PnzCv+A7L._SS36_.jpg"
+            },
+            {
+                "asin": "B07VPT48VT",
+                "variationName": "Color",
+                "variationValue": "Pigment/Gunmetal/Silver Metallic",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NKDVhvw8L._SS36_.jpg"
+            },
+            {
+                "asin": "B07F1R3H5F",
+                "variationName": "Color",
+                "variationValue": "Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41B9tNZo2ZL._SS36_.jpg"
+            },
+            {
+                "asin": "B08CZZ8W28",
+                "variationName": "Color",
+                "variationValue": "White, Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21zMjwMyFXL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BYGKHXKS",
+                "variationName": "Size",
+                "variationValue": "7.5 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYGS5Y88",
+                "variationName": "Size",
+                "variationValue": "8 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYGCQLVM",
+                "variationName": "Size",
+                "variationValue": "8.5 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYGKPW1L",
+                "variationName": "Size",
+                "variationValue": "9 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYGFT8HT",
+                "variationName": "Size",
+                "variationValue": "9.5 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYGM1Z81",
+                "variationName": "Size",
+                "variationValue": "10 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYGLJQJV",
+                "variationName": "Size",
+                "variationValue": "10.5 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYGKG84B",
+                "variationName": "Size",
+                "variationValue": "11 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYGFZWSG",
+                "variationName": "Size",
+                "variationValue": "11.5 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYGS5Z21",
+                "variationName": "Size",
+                "variationValue": "12 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYGM4878",
+                "variationName": "Size",
+                "variationValue": "12.5 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYGKCQBS",
+                "variationName": "Size",
+                "variationValue": "13 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYGR6BVB",
+                "variationName": "Size",
+                "variationValue": "14 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYGQXGYH",
+                "variationName": "Size",
+                "variationValue": "15 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYGFYJ7G",
+                "variationName": "Size",
+                "variationValue": "17 3X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3W9QFJ",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3W9QFP",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3SF1NT",
+                "variationName": "Size",
+                "variationValue": "6.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3SDL7C",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3VQ8DZ",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3VM8D1",
+                "variationName": "Size",
+                "variationValue": "7 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B421VF8",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B41R493",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B428PCP",
+                "variationName": "Size",
+                "variationValue": "7.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN397Y1",
+                "variationName": "Size",
+                "variationValue": "7.5 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B429J9R",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B42PTL8",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B42PTLF",
+                "variationName": "Size",
+                "variationValue": "8 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN56M6R",
+                "variationName": "Size",
+                "variationValue": "8 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3SDCF6",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B41G645",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3W9RNC",
+                "variationName": "Size",
+                "variationValue": "8.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN4ZCBG",
+                "variationName": "Size",
+                "variationValue": "8.5 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B422CBG",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B41S34Q",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B414Q8F",
+                "variationName": "Size",
+                "variationValue": "9 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN3345V",
+                "variationName": "Size",
+                "variationValue": "9 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B41R492",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3W5F7N",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3SDL7M",
+                "variationName": "Size",
+                "variationValue": "9.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN4FP66",
+                "variationName": "Size",
+                "variationValue": "9.5 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3SDL77",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B422CBD",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3TNZXB",
+                "variationName": "Size",
+                "variationValue": "10 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN1SJDK",
+                "variationName": "Size",
+                "variationValue": "10 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B421VFF",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3VQ8DY",
+                "variationName": "Size",
+                "variationValue": "10.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3VM8D2",
+                "variationName": "Size",
+                "variationValue": "10.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN1PBBQ",
+                "variationName": "Size",
+                "variationValue": "10.5 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3SDXXL",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B079FFDS4Y",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B417K2V",
+                "variationName": "Size",
+                "variationValue": "11 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN1246H",
+                "variationName": "Size",
+                "variationValue": "11 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3W9RN8",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3TNZX7",
+                "variationName": "Size",
+                "variationValue": "11.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B421VFD",
+                "variationName": "Size",
+                "variationValue": "11.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPMZSK1X",
+                "variationName": "Size",
+                "variationValue": "11.5 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B41G96T",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B41529L",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B41HCNS",
+                "variationName": "Size",
+                "variationValue": "12 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN3Q44J",
+                "variationName": "Size",
+                "variationValue": "12 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B429J9Q",
+                "variationName": "Size",
+                "variationValue": "12.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B429J9M",
+                "variationName": "Size",
+                "variationValue": "12.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B414YCB",
+                "variationName": "Size",
+                "variationValue": "12.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN27PCH",
+                "variationName": "Size",
+                "variationValue": "12.5 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3W9QFD",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3VLHTQ",
+                "variationName": "Size",
+                "variationValue": "13 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3SDXXW",
+                "variationName": "Size",
+                "variationValue": "13 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN65YSR",
+                "variationName": "Size",
+                "variationValue": "13 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B41TQY3",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B41HCNT",
+                "variationName": "Size",
+                "variationValue": "14 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B4152B8",
+                "variationName": "Size",
+                "variationValue": "14 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN4DH89",
+                "variationName": "Size",
+                "variationValue": "14 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3SDCF9",
+                "variationName": "Size",
+                "variationValue": "15",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B438ZBN",
+                "variationName": "Size",
+                "variationValue": "15 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B419YYS",
+                "variationName": "Size",
+                "variationValue": "15 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPMZ23H4",
+                "variationName": "Size",
+                "variationValue": "15 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B41529T",
+                "variationName": "Size",
+                "variationValue": "16",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B417MSY",
+                "variationName": "Size",
+                "variationValue": "16 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B41D63P",
+                "variationName": "Size",
+                "variationValue": "16 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN28QCD",
+                "variationName": "Size",
+                "variationValue": "16 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B41D638",
+                "variationName": "Size",
+                "variationValue": "17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3VQ8DR",
+                "variationName": "Size",
+                "variationValue": "17 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B414YCK",
+                "variationName": "Size",
+                "variationValue": "17 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN3H4KG",
+                "variationName": "Size",
+                "variationValue": "17 XX-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B414YCD",
+                "variationName": "Size",
+                "variationValue": "18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B3W5F7L",
+                "variationName": "Size",
+                "variationValue": "18 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07B41529R",
+                "variationName": "Size",
+                "variationValue": "18 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BPN28SH6",
+                "variationName": "Size",
+                "variationValue": "18 XX-Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41vpEYNSeQL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/415V2Wp17LL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41k8tKpTmHL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41fK3DrjzPL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31PXWUChqWL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41mU1wLgzAL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31KYz06eIhL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the New Balance Store",
+            "link": "https://www.amazon.com/stores/NewBalanceAthleticShoeInc/page/855D4CDF-ADB7-4BE8-9E26-A085D029E4B5?ref_=ast_bln"
+        },
+        "brand": "NewBalanceAthleticShoeInc",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 74055,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Leather",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Sole material Rubber",
+            "Leather upper",
+            "ABZORB midsole cushioning aids in absorbing forceful impacts",
+            "Premium PU comfort insert"
+        ],
+        "description": "The men's New Balance 608v5 is a classic trainer designed with a premium PU nsert to help offer reliable comfort for long days spent on feet. New Balance, is dedicated to helping athletes achieve their goals. It's been their mission for more than a century. It's why they don't spend money on celebrity endorsements. They spend it on research and development. It's why they don't design products to fit an image. They design them to fit. New Balance is driven to make the finest shoes for the same reason athletes lace them up: to achieve the very best.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/Mens-Shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679255011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Mens-Sneakers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127770011"
+            },
+            {
+                "name": "Fitness & Cross-Training",
+                "link": "https://www.amazon.com/Mens-Cross-Training-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679271011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 13.72 x 8.26 x 5.04 inches; 14 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e MX608WN5"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e June 28, 2018"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e New Balance"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07B3W9QFJ"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#177 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #1 in Men's Cross-Training Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 74,055 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Previous page Next page",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sota/14cf0001-e2f5-4b6b-8168-0fdb49d783ca.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/00cbfb7e-9789-4662-a92a-b45d89cc5fdc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/30d01dae-5d69-432a-b576-a9342f5c068d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/66426a14-7b12-4c12-8789-4c9867b28b83.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/9f12498b-b06b-4a9e-bc9c-5abcdee7481a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Victoria",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE54QRBZ2S3D6KR6LZTJG6CT2CMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R560F8JSJR6JI?ASIN=B093XKL7WZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 26, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice Dad Shoes",
+                "reviewText": "The shoes arrived, and they are great quality. My husband goes through shoes quickly. He has wide feet, and it can be hard to shop for him. I found these New Balances, and they are so nice. They are extra wide, so he\u2019ll be comfortable. They will go with most of his outfits, too!So glad I found these on sale.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Keagen G.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHQA5552JPAA5S7BEJTJXUFLGDQQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3HZK8D9HB1947?ASIN=B093XKL7WZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 25, 2023",
+                "reviewTitle": "5.0 out of 5 stars I've owned many of this type of shoe, probably won't ever buy anything else",
+                "reviewText": "I think I have owned 3 or these now over the last 5-6 years, just got a new pair this summer, and as long as NB keeps making them, I'll keep buying them. Love the feel, the colors, and the overall look of the shoe. It's become such an integral part of my daily attire that wearing any other type of shoe will need a long adjustment period to acclimate to. They're great for pretty much anything, running, walking, standing, workouts, they're a really versatile shoe and fit well for almost any occasion (excluding high society/high formality attire) and they really work well when paired with similar earthy colors. I work in auto service where I am on my feet standing/walking for 8+ hours a day and my feet are never sore in these shoes, even after I have worn out the memory foam pads. These shoes are perfect for me, especially the brown suede has a nice feel and with some wax it becomes semi water resistant, at least to a point. They clean up nice and have a thin memory foam insert that wears out after about 2-3 months, but put in your favorite arch support insole and these shoes will last for miles to come!",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JoeD",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFNTBJEVAM6HEMRPIMG5WFHHO7ZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1TO36VCBAUEQ0?ASIN=B093XKL7WZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Inexpensive, but not at a reduction in quality",
+                "reviewText": "I usually have a problem buying shoes on line. I use a Brannock Device to get proper size, but shoes often do not run true to size. I usually end up with shoes too long or too short and, usually, a width too narrow. These New Balance cross trainer fit exactly as they should.They are comfortable to walk in, and they are comfortable on the tread mill and working out with stack weights. The inner soles are comfortable and provide good support. The insides are smooth, so nothing poking at my feet or causing discomfort.They look good. The leather has held up, the soles are not really wearing, so they hold up well.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Maryann S.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGNBUVBTWMVPKM7OZG6TI42IVD3A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1BYING7FG9PIX?ASIN=B093XKL7WZ",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 19, 2023",
+                "reviewTitle": "4.0 out of 5 stars Almost perfect.",
+                "reviewText": "If it wasn't for the memory foam insoles in these shoes I would give 5 stars. For decades I was wearing the leather upper New Balance shoes. My last were the 623. I noticed leather is like cardboard in the past 5 years so I decided on softer, suede like shoe. I am not diabetic, but always had sensitive feet and toes. These would be a perfect shoe but memory foam is awful for me and hard to walk on. So I remove them and replace with my dr Scholls insoles and these are good. Nothing rubs on top of foot, very padded under tongue. Sides are soft, yet still have good stability. Toe box is a tad narrower than leather 623 or 624 and I could tell from 3D image so I ordered a half size larger than my regular size and fit is perfect. This shoe is overall great except for insoles that I remove.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "TCp",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGNU6V54RG3ZNK2EFRENBWZS3YTQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RWZ5KN9LFAM0U?ASIN=B093XKL7WZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good shoe",
+                "reviewText": "Liked the fit. Very comfortable. Fast delivery",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "\"blpack\"",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGHKISMEUUCJICOCYAFDCQQ7TM2A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R22E2EDA08AXKH?ASIN=B093XKL7WZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 28, 2024",
+                "reviewTitle": "5.0 out of 5 stars comfort, support, flexibility...",
+                "reviewText": "I've been wearing New Balance for 20+ years...for old guys like me they are the bomb....wide for comfort, insoles flexibility is great, and quality is A+++",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jack",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFOYY3L7MXBBOT73X4X3SKN52AKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RRFIT6N1ZOW1F?ASIN=B093XKL7WZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "5.0 out of 5 stars The classic DAD shoe",
+                "reviewText": "I love these shoes. They\u2019re great beater shoes, comfortable, I wear them to my job as a server and my feet are never sore. They\u2019re perfect for mowing the lawn, perfect for nurses.All around, this is an essential for anyone who needs a comfortable pair of shoes that will keep your feet comfortable after standing for a long time. Great price too!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Peter S.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFWIZGGNH4WMSYISYUJZWFNTK2RA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1V5ICI0TIDGTP?ASIN=B093XKL7WZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 9, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfortable, supportive, long-lasting.",
+                "reviewText": "I've used New Balance 608 shoes for many years now, and I'm still just as pleased as ever. Right out of the box, they give hardly any of the burning foot feeling often associated with new shoes (in other words, they feel already broken in even when brand new). I use them for work (I work in a wood shop where I'm on my feet on a concrete floor most of the day), and they provide great support and comfort. They're also comfortable enough to wear around the house, and yet they're classy enough (I get the brown suede) that I even wear them to church (way more comfortable than standard dress shoes!)I particularly like the fact that the comfort insole is firm enough to provide real support, yet has enough give that it molds to my foot over time (the arch support is not perfect right out of the box, but it quickly conforms to the shape of my foot). Overall, I'm very happy with these shoes, and I hope New Balance continues to offer them without any major changes.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Berenice Morales LaraBerenice Morales Lara",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 15, 2024",
+                "reviewTitle": "New Balance",
+                "reviewText": "Me llegaron de un d\u00eda para otro, los ped\u00ed en 8 1/2La caja viene muy malteada es lo \u00fanico que no me gust\u00f3.Pero si vienen muy anchos, recomiendo pedir un n\u00famero menos, dependiendo su pie.De ah\u00ed en fuera todo bien, son Originales.\u263a\ufe0fHuelen a Nuevo!En persona est\u00e1n bonitos y el color es id\u00e9ntico al de las fotos",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71Z-50tde9L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81-JVRgOL2L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/7105QcyV1KL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71CqOpDouDL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "RAFAEL",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 28, 2023",
+                "reviewTitle": "Como esperado, un buen par de tenis.",
+                "reviewText": "Buen tenis cl\u00e1sico. Bastante confortable a precio moderado.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jhops",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on August 10, 2023",
+                "reviewTitle": "Material de calidad",
+                "reviewText": "Los tenis fueron los adquiridos, seg\u00fan el color elegido, satisfecho. Mi recomendaci\u00f3n para los que les interesa este modelo tenis New Balance es que traten de elegir un talla lo m\u00e1s exacta posible para mayor comodidad.El art\u00edculo lleg\u00f3 a tiempo.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Maggie Mae",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 8, 2023",
+                "reviewTitle": "NICE WIDE shoe...",
+                "reviewText": "I purchased these in June and found that they fit nice, I am a woman's size 8.5 - 9.0 depending on the shoe width. Woman's shoes do not tend to come in wide enough width to be comfortable so thought I would try these as I like New Balance. Ordered a men's 6.5 xwide width and they were comfortable from the day they came out of the box. I have a bad Achilles and these shoes help with the correct support, so I wear them when ever I am going to be doing any walking for extended periods of time. I decided to order a second pair but when I went to order them the price had gone up significantly so decided not to get another pair. HOWEVER this week the shoes were on sale for 33% off so I was able to get another pair, the second pair will be for using indoors on the tread mill. Nice fitting shoe if you have a wide foot. They are well made and comfortable with a good arch support.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "57",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in France on December 3, 2023",
+                "reviewTitle": "Belles baskets",
+                "reviewText": "Belles baskets de qualit\u00e9.Malheureusement livr\u00e9es par DHL et remises \u00e0 un voisin devant mon b\u00e2timent sans s'assurer qu'il h",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

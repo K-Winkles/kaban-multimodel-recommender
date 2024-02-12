@@ -1,0 +1,638 @@
+{
+    "remaining_requests": 13001,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Under-Armour-Womens-Sleeve-V-neck/dp/B086ZN8HG2",
+    "body": {
+        "name": "Under Armour Women's Tech Short Sleeve V-Neck - Solid",
+        "price": "$20.41 - $22.24",
+        "originalPrice": "",
+        "rawPrice": 20.41,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Under-Armour-Womens-Sleeve-V-neck/dp/B086ZN8HG2",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B086ZN8HG2"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0BGWRGP33",
+                "variationName": "Color",
+                "variationValue": "(390) Marine Od Green / / Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4130WFmccqL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BGVPVB4F",
+                "variationName": "Color",
+                "variationValue": "(400) Team Royal / / Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41FpdJbTgFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09WCQRMN4",
+                "variationName": "Color",
+                "variationValue": "(468) Sonar Blue / / Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qne5R0u+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BGWSPDY9",
+                "variationName": "Color",
+                "variationValue": "(628) Beta / / Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41t-QvpgCiL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07YXL8F1F",
+                "variationName": "Color",
+                "variationValue": "Cerise (653)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31cYgbPtNaL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07YXLHPP8",
+                "variationName": "Color",
+                "variationValue": "Equator Blue (417)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41KVXxXkVhL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07YXLFV9V",
+                "variationName": "Color",
+                "variationValue": "Exotic Bloom (568)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41xQb-XCx0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B086ZN2GRY",
+                "variationName": "Color",
+                "variationValue": "Meteor Pink (660)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/314Oh3KEu2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00KTH2XA4",
+                "variationName": "Color",
+                "variationValue": "White (100)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31UMscO5hnL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00KTH33DA",
+                "variationName": "Color",
+                "variationValue": "Carbon Heather (090)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZpriZoQOL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BGWVTS23",
+                "variationName": "Color",
+                "variationValue": "(426) Varsity Blue / / Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41eU55YNQKL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09JNF9DWH",
+                "variationName": "Color",
+                "variationValue": "(514) Rivalry / / Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31PNKZFAluL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09JNFQ1BV",
+                "variationName": "Color",
+                "variationValue": "(647) Prime Pink / / Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31zlzB0Ml2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09JNF9BT4",
+                "variationName": "Color",
+                "variationValue": "(716) Tourmaline Teal / / Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rxwCWdTIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09JND9RVZ",
+                "variationName": "Color",
+                "variationValue": "(800) Sunset Boulevard / / Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ozuWiDeqL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09JNFRBB9",
+                "variationName": "Color",
+                "variationValue": "(890) Radio Red / / Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31VfUeQ05bL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07YXLS53N",
+                "variationName": "Color",
+                "variationValue": "Beta Tint (658)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313bxZtEo2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00KTH2S7W",
+                "variationName": "Color",
+                "variationValue": "Black/ Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31GfJcvKS+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08GDHC69H",
+                "variationName": "Color",
+                "variationValue": "Blaze Orange (825)/ Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4130EB2c7kL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B086ZP2FP8",
+                "variationName": "Color",
+                "variationValue": "Breeze (441)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31mpDSglPTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07YXLS5X2",
+                "variationName": "Color",
+                "variationValue": "Green Citrine (394)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31fq-qQyYrL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08NWL326W",
+                "variationName": "Color",
+                "variationValue": "High-vis Yellow (731)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31HCyiTZS2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08LMX4V4S",
+                "variationName": "Color",
+                "variationValue": "League Red (626)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ZvT6xpXTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08LMZFFK5",
+                "variationName": "Color",
+                "variationValue": "Phoenix Fire (296)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Ew0roa54L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08LMCTHCR",
+                "variationName": "Color",
+                "variationValue": "Purple Tint (532)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Q4AEN4-4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08LMS16KL",
+                "variationName": "Color",
+                "variationValue": "River (488)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/412sP6VLk+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B093K6VDST",
+                "variationName": "Color",
+                "variationValue": "Neptune (369)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31D2QvAk4wL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B093K84VL8",
+                "variationName": "Color",
+                "variationValue": "Octane (566)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413jW8zE1yL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07SP612DQ",
+                "variationName": "Color",
+                "variationValue": "Black (002)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/317sloe6FDL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0942PD2QZ",
+                "variationName": "Color",
+                "variationValue": "Neptune (369)/Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31l3Hl+9jwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07SKX6G32",
+                "variationName": "Color",
+                "variationValue": "Carbon Heather/ Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41H2YHH74eL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B019ZJ9KF2",
+                "variationName": "Color",
+                "variationValue": "Midnight Navy (410)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41UvTe5m2+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00NC5HRUQ",
+                "variationName": "Color",
+                "variationValue": "Rebel Pink (652)/Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41AB9pu8QZL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BGWRGP33",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGWHCNZK",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGVSYPGQ",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGWH5GQR",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGW4R62T",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGWRGSS8",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGW5YD3F",
+                "variationName": "Size",
+                "variationValue": "1X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGW5PRT4",
+                "variationName": "Size",
+                "variationValue": "2X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGVZJHWY",
+                "variationName": "Size",
+                "variationValue": "3X",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/4130WFmccqL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31lqM4AZu9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/313JOvjal7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51Y2WYyiUZL.jpg"
+        ],
+        "imagesCount": 4,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Under Armour Store",
+            "link": "https://www.amazon.com/stores/UnderArmour/page/4750579C-0CF4-4BF9-B7E8-F782E52D7683?ref_=ast_bln"
+        },
+        "brand": "UnderArmour",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5",
+        "customerReviewCount": 14440,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Polyester",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Pull On",
+            "UA Tech fabric is quick-drying, ultra-soft & has a more natural feel",
+            "Material wicks sweat & dries really fast",
+            "4-way stretch construction moves better in every direction",
+            "Under Armour\u2019s mission is simple: to make you better.",
+            "Deep V-neck collar & slimmer fit deliver a sleek, more feminine silhouette"
+        ],
+        "description": "UA Tech fabric is quick-drying, ultra-soft & has a more natural feel. Material wicks sweat & dries really fast. 4-way stretch construction moves better in every direction . Deep V-neck collar & slimmer fit deliver a sleek, more feminine silhouette. Metallic silver front chest logo.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Active",
+                "link": "https://www.amazon.com/Womens-Activewear/b?ie=UTF8&node=3456051"
+            },
+            {
+                "name": "Active Shirts & Tees",
+                "link": "https://www.amazon.com/Womens-Active-Shirts-and-Tees/b?ie=UTF8&node=1046580"
+            },
+            {
+                "name": "T-Shirts",
+                "link": "https://www.amazon.com/b?ie=UTF8&node=23575649011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 10.04 x 8.35 x 1.42 inches; 3 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 1255839"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e September 30, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Under Armour"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0BGWRGP33"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#3,010 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #12 in Women's Activewear T-Shirts #120 in Women's Running Clothing"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Kristin B.Kristin B.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH4YBVO724V3BJUUFP4DBFQGNEHQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3JHHPQ2I9YRC1?ASIN=B086ZN8HG2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 23, 2016",
+                "reviewTitle": "5.0 out of 5 stars Great Shirt but This One Runs Big!",
+                "reviewText": "I'm an active person and I love to walk and exercise whenever I can. I typically opt for the racerback tank top style for my workout shirts but I'm also very fair-skinned and I wanted a bit more protection from the sun for my shoulders and back when I'm outside during peak sunshine hours. I own a number of Under Armour products so I was well aware of the quality when I decided to purchase this shirt. Like a lot of people, I was hesitant on the sizing since Under Armour's clothes fit differently depending on the style. Under Armour classifies this shirt as a loose fit as opposed to semi-fitted, fitted, or compression fit.For reference, I am 5'6\", 150 pounds, with a 36D chest and a medium fits me perfectly! I wear a medium or large depending on the style and fit of the shirt but, thanks to the help of other reviewers, I was able to successfully order my correct size for this shirt. This shirt is part of UA's Heatgear line which is meant to keep you cool when it's warm out. I've already worn this shirt several times and it is incredibly comfortable. It is made in Jordan of 100% polyester and is very soft and lightweight. It is so comfortable that I don't have any problems with range of motion or anything while exercising. This shirt is a V-neck style which is nice since it adds a little bit of a design over the scoop neck style shirts and it still has good chest coverage so I don't feel like I'm indecent while bending over. It has an UA logo on the left side of the chest as well as one on the back of the shirt, just below the neck. The length is also really nice and comfortably rests on my upper thighs. I've worn this shirt while walking and playing basketball and have still managed to stay fairly cool. Even though this shirt is lightweight, I don't feel that it's sheer and would show anything that's not meant to be seen. The shirt also washes up nicely. I typically hang dry these shirts so they don't get caught on anything in the dryer and so far, they've been great!I'm so happy I found this shirt because it's become my go-to t-shirt for working out when I don't want to wear my racerbacks. I originally ordered the Montana Teal/Metallic Silver color and loved it so much that I also ordered Flint/Metallic Silver and Coho/Metallic Silver. I've included a picture of my three shirts so you can see what they look like. At first I thought the Flint/Metallic Silver was a gray color but when I got it, it's actually more of a dusky lilac and, since I love purple, I am even happier! I think the hardest thing for most people is to figure out what size to order for this shirt. My thoughts are, if you have two sizes of shirts that you normally order depending on the brand and style, order the smaller size for this shirt. That's what I did and these shirts ended up fitting me perfectly. They are even nice enough to wear out in public so they are definitely versatile. I highly recommend these shirts because they are great for exercising, there are a lot of colors to choose from, and the price is perfect so you can order more than one!",
+                "reviewVotes": "204 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/71SvxrTsjkL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Stephanie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF243N2AVHEZ2UBHDTZSW62MXT6A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R31WAZ2YBU5MO2?ASIN=B086ZN8HG2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable and loose around belly",
+                "reviewText": "Looking for a longer workout top. This doesn\u2019t go past the hips, but it definitely covers the belly. The material quality is good as well, very breathable and feels sturdy.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Perry",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHUC3Q3VYJ5WOOOGDNEZBM35FQWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R36KPXLX7YOMN8?ASIN=B086ZN8HG2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very nice shirt.",
+                "reviewText": "Fits and looks good.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rational Velvet",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFY7RJ2UCDOV5RQSCHPCAUHDW7WA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R9LBKURGDLMGA?ASIN=B086ZN8HG2",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 22, 2023",
+                "reviewTitle": "4.0 out of 5 stars Great product, but they trap odor",
+                "reviewText": "These are great shirts to feed horses in, as the hay doesn't stick to the shirts. They are great shirts to layer with, they wick moisture away from you, and they are comfortable. However, if you sweat in them, it will be difficult to tell who is stinkier, you or your sweaty horse. They also do not dry out quickly if you hang them up. If you hang them up on the radiator, they will dry and they will still stink, ergo only 4 stars. If you feed horses three times a day in the Winter, you need three of these shirts or your body will basically be a party bus for sweat swilling bacteria. An Ariat Lowell shirt is basically the same material, but the material does not trap odor like the Under Armour, and you can hang up and air out and wear the Ariat more than once. Would be nice if UA could fix this issue, as washing all those shirts isn't exactly environmentally friendly, even if it means they sell more shirts. If the UA shirt was not on sale, I honestly would not have bought so many of them.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sharon Keiser",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFHCN47FOPJFBVVXJEW6BDPU2GGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3BDW9H0F78BE6?ASIN=B086ZN8HG2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love these shirts",
+                "reviewText": "Love these shirts! I have several colors. I order an XL just because they seem to run a little small and I like my shirts loose. Very flattering and a little longer than your average short sleeve shirt. If I could say anything that is not positive...but just a personal preference. It is that the sleeves could be a tad bit longer.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mom of 3",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEIUYEVGRRQXOKDW5N3ETUQKTYSA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3QEYCEL6PWGW5?ASIN=B086ZN8HG2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 13, 2023",
+                "reviewTitle": "5.0 out of 5 stars Quality material, good fit",
+                "reviewText": "Quality material, good fit, comfortable & breathable.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Stephanie Crabtree",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFXDB3WG2RI3IKPDQU5MYGRWELQQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2SE3SNJ5ZCAUN?ASIN=B086ZN8HG2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Womens work out top",
+                "reviewText": "True to size. Flattering. 145 lb and 5 feet 4. I bought a bunch in all deferent colors.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cynthia",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AETMHTMYXGBJ23PMIY3KHXY4MHGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14BZ0SDLUBQXN?ASIN=B086ZN8HG2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Woman's T-shirt",
+                "reviewText": "very good material, light weight, comfortable",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Norma miller",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 5, 2023",
+                "reviewTitle": "Tee shirt",
+                "reviewText": "Great quality",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Maria d.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on September 21, 2023",
+                "reviewTitle": "Linda",
+                "reviewText": "Si vienen amplias muy bonitas",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sarah",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 16, 2023",
+                "reviewTitle": "Light weight shirt",
+                "reviewText": "Love this shirt so lightweight and nice! Great price.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Karen mar\u00edtza Cabrera barriosKaren mar\u00edtza Cabrera barrios",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on March 22, 2023",
+                "reviewTitle": "Me encant\u00f3 \ud83d\udc95",
+                "reviewText": "Me encanta el color y me quedo perfecto",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/51mQa+vB2RL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81za-cA7f2L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81-JlFJattL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Geraldynne FloresGeraldynne Flores",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 3, 2023",
+                "reviewTitle": "Excelente talla",
+                "reviewText": "Buena calidad de la tela, es deportiva, la talla es la adecuada.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61ydQYtpksL.jpg"
+                    ],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

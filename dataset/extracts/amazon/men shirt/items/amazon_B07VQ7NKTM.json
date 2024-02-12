@@ -1,0 +1,593 @@
+{
+    "remaining_requests": 16569,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/COOFANDY-Casual-Sleeve-Collar-Cotton/dp/B07VQ7NKTM",
+    "body": {
+        "name": "COOFANDY Men's Long Sleeve Dress Shirt Plaid Collar Casual Button Down Shirts",
+        "price": "$33.99",
+        "originalPrice": "",
+        "rawPrice": 33.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/COOFANDY-Sleeve-Collar-Casual-Button/dp/B0BY8KN4P9",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BY8KN4P9"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0CF19BL23",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/417L3UI7TBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07X3K64YK",
+                "variationName": "Color",
+                "variationValue": "Army Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415T+4o7dDL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07N3ZMKLX",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/411nyEyhSwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BJYRNNZ5",
+                "variationName": "Color",
+                "variationValue": "Check Pattern-black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PQ7eS4QeL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09V6W3QDY",
+                "variationName": "Color",
+                "variationValue": "Check Pattern-white",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41QJb1K2yrL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09V6ZCL2Q",
+                "variationName": "Color",
+                "variationValue": "Check Pattern-wine Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41X0GYrhzFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07SV38L7Z",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41egDIMBr0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08FHWYTF6",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ohAWtRC9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B097RKSQB6",
+                "variationName": "Color",
+                "variationValue": "Navy Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41bXzFD8OrL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B097RL67DB",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41WdqF8fVEL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08YX47BVD",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41txQ64ubpL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08R74XTP7",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41BqwffzvtL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CNYLZ6B9",
+                "variationName": "Color",
+                "variationValue": "White/Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31qwJk4+dxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08FHXMBVH",
+                "variationName": "Color",
+                "variationValue": "Wine Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41GMdIWpKLL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJBTGJ9T",
+                "variationName": "Color",
+                "variationValue": "Clear Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41GUkIM9FzL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B097RG1N3K",
+                "variationName": "Color",
+                "variationValue": "Lavender",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41eZPdyL6EL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJBSX3DS",
+                "variationName": "Color",
+                "variationValue": "Light Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41B13zXO1RL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B3RMYYZH",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41en3KKFECL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CNYMBHNK",
+                "variationName": "Color",
+                "variationValue": "Red/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41OMb9SCkJL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BNJBDMJ2",
+                "variationName": "Color",
+                "variationValue": "Check Pattern-blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41UF-8e1pBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B097RL5HHT",
+                "variationName": "Color",
+                "variationValue": "Celadon Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41vUS5IzznL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CNYMX93Z",
+                "variationName": "Color",
+                "variationValue": "Black/Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31FkaOcZCEL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CF19BL23",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VSG2N9P",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VQ7NKTM",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VRCK3LK",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08FHXMBVH",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VRCK7JP",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08R75PKHK",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BNJCJ486",
+                "variationName": "Size",
+                "variationValue": "4X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41hVAvsT6OL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41CEaOLFCbL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41JVT71MzlL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31XHD0HNDHL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41WLjQ O5CL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51-j75nCNFL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/615LB8H5tpL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c02b5eb5-e5b7-45a8-8510-52fd8a0539f1/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fce48630-60b4-42b4-a3ac-3ee075a87c2d/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/821c7116-a1ce-406e-8b25-e952ec08f4dc/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bcff9dcf-66cb-4ec8-9b66-eeabe3321944/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b98eb202-70d4-4464-8482-b1aed0afa57c/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 5,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the COOFANDY Store",
+            "link": "https://www.amazon.com/stores/COOFANDY/page/23614F3D-BBD9-4564-8B56-4436A5CD5A93?ref_=ast_bln"
+        },
+        "brand": "COOFANDY",
+        "merchantInfo": "",
+        "customerReview": "4.0 out of 5 stars",
+        "customerReviewCount": 10105,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 98%cotton 2%polyester",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Button",
+            "PREMIUM MATERIAL: This business casual button down long sleeve shirts cut from lightweight cotton fabric that gives you breathable durability. A clean and stylish look item for your daily wardrobe.",
+            "CLASSIC DESIGN: Mens long sleeve dress shirts featuring a plaid pattern collar and cuff adding a playful twist to a classic style. This shirt is finished with one chest pocket,button up closure, it's a must have item to create a look of city chic.",
+            "CLOTHING MATCH: Dress in this button down shirts and chinos/jeans, athletic shoes are the simplest way to bring a dash of stylish casualness to this look. For easy comfort with a look that's always casual.",
+            "VARIOUS OCCASIONS: Coofandy shirts perfect for business, work, holiday, party, wedding, date, travel, casual, or daily life.This casual shirt is what to wear on casual days whether you're in or out of the office.",
+            "WARM TIPS: Machine washable,low iron if necessary.please choose your size according to our size chart (Not the Amazon Size Chart) and if you have big belley and wide shoulders, we recommend you to go up one or two size."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Shirts",
+                "link": "https://www.amazon.com/Mens-Shirts/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2476517011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 14.53 x 11.34 x 0.63 inches; 9.14 Ounces"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e August 8, 2023"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0CF19BL23"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#6,215 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #171 in Men's Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.0 4.0 out of 5 stars 10,105 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "COOFANDY Men's Long Sleeve Dress Shirt Plaid Collar Casual Button Down Shirts The plaid collar shirt, contemporary look and performance stretch qualities of this regular-fit COOFANDY dress shirt offer versatile style and comfort befitting of any modern male wardrobe.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/78854215-a6b4-4b43-839a-c2835a7cd065.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "COOFANDY Mens Dress Shirt Much-loved Shirt This much-loved weave is both robust and supple, crafted from soft, pure cotton.Plaid design mix of tradition and innovation, this shirt is carefully constructed to stay immaculate all day. COOFANDY Fitted Dress Shirts straight out of the wardrobe With naturally stretchy, pure cotton fabric and lightweight, it's a comfortable year-round choice for both the office and bar. You'll notice our details, like a smart spread collar, piping trim and tonal button attaches.while complimentary brass collar stays mean your look is sharp, straight out of the wardrobe. classic design Button Down Dress Shirt Finished with a button-down collar for versatility, thislightweight wardrobe classic is set to be a style you reach for time and time again. The split back yoke allows for freedom of movement, while the addition of trim detailing to the neck is a sophisticated touch. COOFANDY Long Sleeve Dress Shirt Essential Collection items This is a must have item for your daily wardrobe offers effortless chic.",
+                "media_link": []
+            },
+            {
+                "media_text": "Previous page Next page 1 CASUAL 2 STREET 3 BUTTON DOWN 4 WEDDING 5 BUSINESS",
+                "media_link": []
+            },
+            {
+                "media_text": "Datails & Features A button-down collar and plaid pattern imbue this soft, cotton dress shirt with a classic meets casual look that is complemented by its comfortable feel.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dcf0ccf7-5a91-464b-9b02-acfe0541e99c.__CR0,12,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Buyer Show Combining style and comfort.Build your casual and formal looks here. Ideal gift for family, lovers and friends.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c3ecbad1-3434-41e4-a14d-3d2171b85167.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Size Chart Size are US standard size, please choose your size according to our size chart",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/11ef05c4-aa92-428f-910b-8aed691c8db5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "More Products from COOFANDY Mens Dress Shirts Add to Cart Men's Short Sleeve Shirt Add to Cart Mens Dot Dress Shirts See Details Mens Business Dress Shirt Add to Cart Men's Cotton Dress Shirts See Details Mens Satin Shirts Add to Cart Men's Wrinkle Free Shirt See Details Customer Reviews 4.0 out of 5 stars 10,105 4.1 out of 5 stars 4,864 4.1 out of 5 stars 265 4.3 out of 5 stars 209 4.2 out of 5 stars 639 4.4 out of 5 stars 9,366 4.1 out of 5 stars 133 Price $33.99$33.99 $27.19$27.19 \u2014 $31.99$31.99 $19.99$19.99 $19.99$19.99 \u2014 COLORS 17 Colors 18 Colors 9 Colors 7 Colors 10 Colors 18 Colors 9 Colors SIZE S-4XL S-4XL S-XXL S-3XL S-3XL S-3XL S-3XL Material 98% Cotton, 2% Polyester Wrinkle Free Material Wrinkle Free Material Wrinkle Free Material 65% Cotton, 35% Polyester 55% Polyester, 45% Rayon Wrinkle Free Material Design plaid pattern,chest pocket plaid pattern,chest pocket regular fit, short sleeve Button down collar Long sleeve, button down Jacquard and Shiny Material Long sleeve, button down Occasions Business, Work,Casual, Daily Business, Work,Casual, Daily Business, Work,Casual, Daily Business, Work,Casual, Daily date, party, work, business Party,Prom, Weddings Casual, Daily, Business",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/78854215-a6b4-4b43-839a-c2835a7cd065.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ed0dade-ea58-4039-bdad-6da4ca25234a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/55b3f9dc-8bfd-4847-ac3e-be4089c31483.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a2c2e7f8-e24f-432a-a5e1-42d0e28df5f0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ce36a5cd-d37e-4bab-ba2e-b7342da946a6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/57d70061-2c86-40b8-b8f6-12cb5e49ef9a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dcf0ccf7-5a91-464b-9b02-acfe0541e99c.__CR0,12,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c3ecbad1-3434-41e4-a14d-3d2171b85167.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/11ef05c4-aa92-428f-910b-8aed691c8db5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/762b91ae-dc25-4ed9-a641-8f85cd407dc9.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/41c433c9-0ba4-47fd-85e6-46912f94ad24.__CR0,0,200,225_PT0_SX200_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a05e2598-e3ff-4547-b54e-66e6436ee499.__CR0,0,200,225_PT0_SX200_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d7f90655-87eb-4c46-aac5-ee896998d450.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d191ad4f-45a3-45dd-9f62-555e8e4ffeac.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5f96dc55-c26e-4376-a17a-3169a899686d.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5477b881-98b7-42e9-bfe1-764e3a050feb.__CR0,0,200,225_PT0_SX200_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "JM",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE2J6UQ2LPFCJ3P5WP2LEYXWZYRA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2FHLBRMIFPKXX?ASIN=B0BY8KN4P9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 20, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very nice looking shirt at a good price",
+                "reviewText": "I have four of these shirts in different colors and I love them all. They fit great, are relatively wrinkle-free, and look great. They are well made and appear to be of very good quality.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH62HA2ZWWKKEN7XJCU4USDFN6SQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3E03RK145EMEY?ASIN=B0BY8KN4P9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Really Nice Shirt",
+                "reviewText": "Bought this for my son and it is much nicer than i expected. the color is gorgeous and the fit is true to size. my son likes to wear it untucked and it really looks great",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Daphne ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE5XWB2R6NUOUH3FU5N6NTJ6WACQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1G29NK2XEFZLH?ASIN=B0BY8KN4P9",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 3, 2024",
+                "reviewTitle": "4.0 out of 5 stars Shirt",
+                "reviewText": "Not sized right",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Drew Elness",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHQZ642ZF6ERN5HN5JLSDSNEVQHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3L62BNVFBC2HL?ASIN=B0BY8KN4P9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars Fantastic shirt for business casual",
+                "reviewText": "I was in need of some more business casual shirts for my work. I purchased this shirt along with another one of the same brand and I'm very happy with them so far. I'm 6'2 210lbs and I generally order Large for my shirts, however my luck with Amazon clothes is they shrink after first use. I ordered XL primarily for length and any chance of shrinking, however so far these have held their size pretty well. Overall happy with my purchases.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Domino",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEBIWVO32MARC4APSBE3NXHTGJWQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1KMWYHB6PG7AS?ASIN=B0BY8KN4P9",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 9, 2022",
+                "reviewTitle": "3.0 out of 5 stars Order two Mediums- one too large, other too small",
+                "reviewText": "TLDR..The pros:- nice looking, good colors and the plaid accents are cool- lightweight/thin fabric, so good for summer- length was perfect for the shirts to wear tucked or untuckedThe cons:- terrible inconsistency in sizing, one came smaller than a medium and the other came at least 2 sizes bigger than a medium (both labeled medium on the shirts)- not wrinkle free, can get most of the wrinkles out with a steam dryer or light ironing but can wrinkle back up while wearing it- fiance said it looked nice and felt good for hot days but fabric felt cheap when wearing itFull review:I typically don't buy clothes on Amazon, and I knew I took a risk based on the other reviews for these shirts. I bought two Medium shirts (the black and the grey) for my fiance because we've been trying to explore different types of summer button up shirts for him. I initially liked these shirts because of the plaid print accents on them, and my fiance said he loved that as well.The disappointment came when the grey shirt was almost like a XL, and we tried boiling/high heat drying the shirt and it barely shrunk and then didn't shrink any more after trying 3 more times.The black shirt was a bit smaller than most of his Medium shirts, which is fine considering he is thinner than usual so it looked nice on him when he wore it out for date night. I did notice that the plaid on the black shirt already faded after the one wash though, so I am upset over that.The consistency of the sizing was definitely off for both purchases, especially since the grey one is so big it is unwearable.The shirts are not wrinkle free, at least not what we received... even after a light wash, the good shirt (black) was more wrinkled than it orginally came. I have a nice dryer with a steam setting that was able to get most of the wrinkles out after the wash, but just 20 minutes of him sitting in the car with the shirt on made it wrinkle all over the back.Overall, we really wanted to like these shirts and try more colors, but probably won't be purchasing again because of the size inconsistency and quality. We kept the black one but I doubt it'll survive a few more washes, might have to stick to dry cleaning so the plaid fabric doesn't fade more.",
+                "reviewVotes": "16 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Oneisha Thomas",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFBEYMCXU5P5WUJX3J23M7CJ5T7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14KJMF3UA8GHO?ASIN=B0BY8KN4P9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars The texture is impeccable",
+                "reviewText": "The material is wonderful and the quality is great and the most important thing is it is true to size",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHTXHX57STQSBGZSNVU4LKKN5TEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R24U8A9KTY4AUY?ASIN=B0BY8KN4P9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great fit and style",
+                "reviewText": "Bought this for my son. Very stylish shirt. Fit very well",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFUOPHQVL4IVQR2KUHKEJ7AYWGMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2WEBMXEGNMAMY?ASIN=B0BY8KN4P9",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 3, 2023",
+                "reviewTitle": "3.0 out of 5 stars Attractive shirt, low quality fabric",
+                "reviewText": "Loved the look of this shirt but the fabric was cheap and the cut was odd. It definitely fit both long and big, but was low quality fabric and very see-through.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nelson",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 11, 2022",
+                "reviewTitle": "Right on time.",
+                "reviewText": "Casual but elegant.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "H\u00e9ctor Hern\u00e1ndez",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on July 15, 2022",
+                "reviewTitle": "Perfecta",
+                "reviewText": "Perfecta",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Francisco  Paredes",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 10, 2021",
+                "reviewTitle": "Que es de buena calidad",
+                "reviewText": "Me gusto que se ve tal c\u00f3mo est\u00e1 en la imagen de venta",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gregory Sproule",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Australia on November 1, 2020",
+                "reviewTitle": "Nice",
+                "reviewText": "Nice shirt",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jos\u00e9 Antonio Aznar Nardoni",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on July 7, 2021",
+                "reviewTitle": "Talla",
+                "reviewText": "Me gusta mucho la calidad de esta marca y sus tallas son correctas. Gracias",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

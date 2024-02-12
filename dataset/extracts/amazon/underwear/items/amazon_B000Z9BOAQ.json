@@ -1,0 +1,537 @@
+{
+    "remaining_requests": 13848,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Jockey-Womens-Underwear-Promise-Cheetah/dp/B000Z9BOAQ",
+    "body": {
+        "name": "Jockey Women's Underwear No Panty Line Promise Tactel Bikini",
+        "price": "$8.63",
+        "originalPrice": "",
+        "rawPrice": 8.63,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Jockey-Womens-Promise-Tactel-Bikini/dp/B01KPT9NDK",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B01KPT9NDK"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B000HQEDEQ",
+                "variationName": "Color",
+                "variationValue": "Light",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31EXmTytsNL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B000Z98EOU",
+                "variationName": "Color",
+                "variationValue": "Iconic Cheetah",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01v2duYttJL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07N8SGCTX",
+                "variationName": "Color",
+                "variationValue": "Midnight Poppy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31qi39R4yUL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CT8Q7TDB",
+                "variationName": "Color",
+                "variationValue": "Wake Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/114G4g0aSGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00GOT85IU",
+                "variationName": "Color",
+                "variationValue": "Deep Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZIs9dMkkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0013IVEDK",
+                "variationName": "Color",
+                "variationValue": "Plum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41u44bE8aLL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BWTHCFNR",
+                "variationName": "Color",
+                "variationValue": "Wild Blooms",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11V+QkviruL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B001CS2EEE",
+                "variationName": "Color",
+                "variationValue": "Ivory",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01tsX+ROG4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00A34WSUI",
+                "variationName": "Color",
+                "variationValue": "Light Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01Of1EL5sWL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BTSLK1PQ",
+                "variationName": "Color",
+                "variationValue": "Fuchsia",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11mGn0b44sL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CF81J2Z6",
+                "variationName": "Color",
+                "variationValue": "Rosa Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01QKCGXCQVL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01DBINWAW",
+                "variationName": "Color",
+                "variationValue": "Splatter Dot",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01ct1lZCrBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0000ZCEAO",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41i51GUZjJL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09FHJ7M17",
+                "variationName": "Color",
+                "variationValue": "Adorned",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DcGLl6beL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CNK2VVNJ",
+                "variationName": "Color",
+                "variationValue": "Amour",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01WTa5M4KFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0000ZCEE0",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01r5Yy0ir6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C2YLW9MK",
+                "variationName": "Color",
+                "variationValue": "Earth Rose",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11gmC0N0FoL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BDL7J9X4",
+                "variationName": "Color",
+                "variationValue": "Frosty Periwinkle",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01LC-BaQ9fL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CPWC6TDC",
+                "variationName": "Color",
+                "variationValue": "Green Floral",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/012A+f+gvIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01KKRL59W",
+                "variationName": "Color",
+                "variationValue": "Just Past Midnight",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41W158CGm+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDTQ5BQD",
+                "variationName": "Color",
+                "variationValue": "Leather Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/115SyIEuz8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BDLB5L4T",
+                "variationName": "Color",
+                "variationValue": "Story Stripe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11G-z78E1RL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07F5BML7M",
+                "variationName": "Color",
+                "variationValue": "True Love",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01OdM5yJOrL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B000Z98EOA",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000Z98EOU",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000Z9BOAQ",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000Z98EPY",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09FHJ7M17",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QJBV5W6",
+                "variationName": "Size",
+                "variationValue": "9 Plus",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B004NHJNCC",
+                "variationName": "Size",
+                "variationValue": "10 Plus",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/414JkPJHH9L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41UWyS3UILL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41AIoY3YV5L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31HyFjIesQL.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Jockey Store",
+            "link": "https://www.amazon.com/stores/Jockey/page/D7EDA28E-5C73-4E13-9164-3EDF57CB6D40?ref_=ast_bln"
+        },
+        "brand": "Jockey",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 1440,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 90% Tactel Nylon, 10% Spandex",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Style 1370",
+            "Low rise and moderate coverage",
+            "90% Tactelr nylon/10% spandex",
+            "Machine wash and dry"
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Lingerie, Sleep & Lounge",
+                "link": "https://www.amazon.com/Lingerie-Sleepwear-and-Loungewear/b/ref=dp_bc_aui_C_4?ie=UTF8&node=9522931011"
+            },
+            {
+                "name": "Lingerie",
+                "link": "https://www.amazon.com/Lingerie/b/ref=dp_bc_aui_C_5?ie=UTF8&node=14333511"
+            },
+            {
+                "name": "Panties",
+                "link": "https://www.amazon.com/Womens-Panties/b/ref=dp_bc_aui_C_6?ie=UTF8&node=1044958"
+            },
+            {
+                "name": "Bikinis",
+                "link": "https://www.amazon.com/Womens-Bikini-Panties/b/ref=dp_bc_aui_C_7?ie=UTF8&node=1044974"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 9.5 x 2.7 x 2 inches; 0.81 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 1370-371"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e December 21, 2002"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Jockey"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B000HQCBR2"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#13,835 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #65 in Women's Bikini Panties"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 1,440 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Shop the Jockey No Panty Line Collection",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/92c2b436-f373-44d5-8955-3a01e23f88a8.__CR3,0,970,600_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "No Panty Line Hip Brief No Panty Line Hi Cut No Panty Line Lace Hip Brief No Panty Line Bikini - 3 pack No Panty Line Hip Brief - 3 pack Fit Full Rise Mid Rise Mid Rise Low Rise Mid Rise Coverage Full Coverage Full Coverage Full Coverage Moderate Coverage Full Coverage Fabric 90% Tactel nylon/10% spandex 90% Tactel nylon/10% spandex 90% Tactel nylon/10% Lycra spandex 90% Tactel nylon/10% Lycra spandex 90% Tactel nylon/10% Lycra spandex Pack Size 1 pack 1 pack 1 pack 3 pack 3 pack",
+                "media_link": []
+            },
+            {
+                "media_text": "No Panty Line Lace Bikini No Panty Line String Bikini No Panty Line Thong No Panty Line Lace Camisole No Panty Line Modern Camisole Fit Low Rise Low Rise Low Rise Fitted Fitted Coverage Moderate Coverage Moderate Coverage Cheeky Coverage Full Coverage Full Coverage Fabric 90% Tactel nylon/10% Lycra spandex 90% Tactel nylon/10% spandex 90% Tactel nylon/10% spandex 90% Tactel nylon/10% Lycra spandex 84% nylon/16% spandex Pack Size 1 pack 1 pack 1 pack 1 pack 1 pack",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3f431d14-77d3-4c04-9300-460f1bad5c0a.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03649b5b-2be7-48cc-b1c7-a7cca9565377.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bae0e3b7-d975-413e-981c-1b43fe7032d8.__CR0,0,970,600_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d84fbe56-81b1-457e-89b5-09b46ccf83d8.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/92c2b436-f373-44d5-8955-3a01e23f88a8.__CR3,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b9089dc1-55db-4130-a7df-4a3b9f824589.__CR567,0,1200,2400_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4c292319-01e6-452e-8408-ca8c74eae112.__CR567,0,1200,2400_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a54eeeff-f5f1-451c-89c4-c5496aac81aa.__CR600,0,1200,2400_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c298984d-d28b-4ecb-8d97-07333ad04226.__CR502,0,1200,2400_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ee00d5d2-e565-4011-8508-f5625632bf8b.__CR491,0,1200,2400_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b6aa2769-e0d8-4ec5-b954-1bdb7eb5e63f.__CR611,0,1200,2400_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d475b441-1991-4c3d-a0cd-ad632e19ba55.__CR600,0,1200,2400_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/76944c87-0a25-4569-9684-8ae90aaa5949.__CR600,0,1200,2400_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/23dd6f11-5ffa-4e3c-9ff6-731a232ed4d9.__CR698,0,1200,2400_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/473d1aa2-f5b6-4291-8cfb-8f6f83998aab.__CR698,0,1200,2400_PT0_SX150_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Ted",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHD47WZ735CECCFMWC74T7NILA5Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RKGP197IDFASP?ASIN=B01KPT9NDK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "5.0 out of 5 stars She loves these",
+                "reviewText": "I get these for my wife\u2019s birthday, Christmas, and our anniversary every year. She claims they are the most comfortable she\u2019s ever had.They look absolutely beautiful on her too.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "John Gardner",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEVPXSUMGHDJ2OH2GAO3GRYLSWMQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1QXMXZ7PTWCDU?ASIN=B01KPT9NDK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Jockey 4 Her",
+                "reviewText": "She loved them\u2026, great fit and comfortable",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "BW anon",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE56GJVKAEMGT5FQXMDYG72MAZZQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3IMIWBN9GGOXL?ASIN=B01KPT9NDK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars great basic panties",
+                "reviewText": "i love .fit , feel and wear. they should be headliner item not back shelf item",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "K.O.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHQDEHAW4NNKCU3TMK5LEUE5MVUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3LE7S0D8QUDGM?ASIN=B01KPT9NDK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 12, 2023",
+                "reviewTitle": "5.0 out of 5 stars Nice fit",
+                "reviewText": "Full coverage in seat. Soft and comfortable .",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rick m.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGODP7GUCTA2QTA7SRRRXFGCMEWQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RGJHHR9MTQQS?ASIN=B01KPT9NDK",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 9, 2023",
+                "reviewTitle": "4.0 out of 5 stars Good product",
+                "reviewText": "The product would have been a 5 due to the size this time. Good product, great soft and shiny material with a tight fit this order. Will order a size up in the near future. No sure the order came from the same company as the last order.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Savanna",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGZYR2536FW7VPXSIPCDJELXFQKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R26ICS8C5PELXS?ASIN=B01KPT9NDK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 5, 2023",
+                "reviewTitle": "5.0 out of 5 stars The best underwear",
+                "reviewText": "I love these! They are the best to wear under scrubs or jeans, they don\u2019t move all day while I\u2019m active at work and they\u2019re so comfortable. They hold up for a long time as well. Always love getting these when they\u2019re on sale!",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Shane Sotelo",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHLD2BDICHU4JNDG3OHDDIID7XHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2E4KESIEQMM6E?ASIN=B01KPT9NDK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars A very good customer jockey I'm a guy loves her panties",
+                "reviewText": "I love the Royal style I'm very customer jockey women's panties are very beautiful and guys are very ugly I kind of feel gay wearing them but I'm proud of it",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Maria WozniakMaria Wozniak",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGOXA7AQLIMII5SOMVB4SXPDDSJQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RSF4TUWXLFVSD?ASIN=B01KPT9NDK",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 23, 2023",
+                "reviewTitle": "1.0 out of 5 stars Looks like someone made these at home!",
+                "reviewText": "I can't believe jockey put their name on these! They are the worst underwear I have ever seen. I never would have purchased these if I had seen them in person, or in a store. They look extremely cheap and began look like they are going to fall apart after one wash. I haven't even tried wearing them, I simply washed them as soon as they arrived. I don't even wear them because they are so bad. I wasted my money because I doubt I can return them because I washed them when they arrived. So, just be aware that this is what you will probably get.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71TZ+3qC1CL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81Ok1C+7MSL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Trevor Smith",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on June 30, 2023",
+                "reviewTitle": "Love them",
+                "reviewText": "From the first time I tried them on, I was in love. So thin and very comfortable. I have found them to be kind of pricey, but they are very high quality.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lady Ellen",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 9, 2016",
+                "reviewTitle": "Five Stars",
+                "reviewText": "Love these\" the fit well, don't pinch or ride up and are panty line free. Definitely recommended!",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

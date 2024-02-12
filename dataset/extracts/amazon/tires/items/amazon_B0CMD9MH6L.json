@@ -1,0 +1,665 @@
+{
+    "remaining_requests": 5824,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Landspider-Citytraxx-All-Season-Performance-Tire-235/dp/B0CMD9MH6L",
+    "body": {
+        "name": "Citytraxx H/P All-Season Truck/SUV High Performance Radial Tire-235/55R20 235/55ZR20 235/55/20 235/55-20 105W Load Range XL 4-Ply BSW Black Side Wall UTQG 420AA",
+        "price": "$120.93",
+        "originalPrice": "",
+        "rawPrice": 120.93,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Landspider-Citytraxx-All-Season-Performance-Tire-235/dp/B0CMD9MH6L",
+        "soldBy": {
+            "sellerID": "A35YNQIZ5G65XK",
+            "name": "Priority Tire \u2705",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A35YNQIZ5G65XK&asin=B0CMD9MH6L&ref_=dp_merchant_link"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BWCHZ7B8"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0CH4VKW82",
+                "variationName": "Size",
+                "variationValue": "205/40R17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CN7B7S11",
+                "variationName": "Size",
+                "variationValue": "205/45R17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C81J32MP",
+                "variationName": "Size",
+                "variationValue": "205/50R17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BFXDPXT9",
+                "variationName": "Size",
+                "variationValue": "215/50R17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BJL3JB7Z",
+                "variationName": "Size",
+                "variationValue": "215/55R17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09P55R8HD",
+                "variationName": "Size",
+                "variationValue": "225/40R18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CGVKMDT3",
+                "variationName": "Size",
+                "variationValue": "225/40R19",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BQF7CDDZ",
+                "variationName": "Size",
+                "variationValue": "225/45R17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B521QV5V",
+                "variationName": "Size",
+                "variationValue": "225/45R18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5XNJH1S",
+                "variationName": "Size",
+                "variationValue": "225/45R19",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCWLPPQZ",
+                "variationName": "Size",
+                "variationValue": "225/50R17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B697QP43",
+                "variationName": "Size",
+                "variationValue": "225/50R18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BMVX3TX5",
+                "variationName": "Size",
+                "variationValue": "225/55R17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CV3N313",
+                "variationName": "Size",
+                "variationValue": "225/55R18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B51VHFDH",
+                "variationName": "Size",
+                "variationValue": "225/55R19",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0968M1SYZ",
+                "variationName": "Size",
+                "variationValue": "235/40R18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B4P939TG",
+                "variationName": "Size",
+                "variationValue": "235/40R19",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BG8T3LD5",
+                "variationName": "Size",
+                "variationValue": "235/45R17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B28Y21DW",
+                "variationName": "Size",
+                "variationValue": "235/45R18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0968LJ2PN",
+                "variationName": "Size",
+                "variationValue": "235/50R17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0968MPP2G",
+                "variationName": "Size",
+                "variationValue": "235/50R18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BC3XWCDH",
+                "variationName": "Size",
+                "variationValue": "235/55R17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BJV99ZQ4",
+                "variationName": "Size",
+                "variationValue": "235/55R19",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CMD9MH6L",
+                "variationName": "Size",
+                "variationValue": "235/55R20",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B7GWXZ2T",
+                "variationName": "Size",
+                "variationValue": "245/30R22",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B88DSH83",
+                "variationName": "Size",
+                "variationValue": "245/35R20",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5N5JWLJ",
+                "variationName": "Size",
+                "variationValue": "245/40R17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0968JK4WR",
+                "variationName": "Size",
+                "variationValue": "245/40R18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B4F36ZJX",
+                "variationName": "Size",
+                "variationValue": "245/40R19",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BC3ZR9Q8",
+                "variationName": "Size",
+                "variationValue": "245/40R20",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0968L1YPD",
+                "variationName": "Size",
+                "variationValue": "245/45R17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BC41VMY1",
+                "variationName": "Size",
+                "variationValue": "245/45R18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CH9YHZGQ",
+                "variationName": "Size",
+                "variationValue": "245/45R19",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BM3WNTST",
+                "variationName": "Size",
+                "variationValue": "245/45R20",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B77PLTKT",
+                "variationName": "Size",
+                "variationValue": "245/55R19",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BJVFF3HG",
+                "variationName": "Size",
+                "variationValue": "255/30R22",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLV2PWW1",
+                "variationName": "Size",
+                "variationValue": "255/35R20",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0968H9FSX",
+                "variationName": "Size",
+                "variationValue": "255/40R18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CN78R1H6",
+                "variationName": "Size",
+                "variationValue": "255/40R19",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B7S1M8CT",
+                "variationName": "Size",
+                "variationValue": "255/45R20",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B28Z39X5",
+                "variationName": "Size",
+                "variationValue": "255/50R20",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BFFB2DJY",
+                "variationName": "Size",
+                "variationValue": "255/55R19",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09DG6PB3S",
+                "variationName": "Size",
+                "variationValue": "255/55R20",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09DG96NCM",
+                "variationName": "Size",
+                "variationValue": "265/40R22",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BB7SNTKH",
+                "variationName": "Size",
+                "variationValue": "275/25R24",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B82WKCV3",
+                "variationName": "Size",
+                "variationValue": "275/30R20",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B51ZPDHP",
+                "variationName": "Size",
+                "variationValue": "275/35R20",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BC3Z4SXV",
+                "variationName": "Size",
+                "variationValue": "275/45R20",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096BHPZS5",
+                "variationName": "Size",
+                "variationValue": "285/40R22",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BJVDBWFZ",
+                "variationName": "Size",
+                "variationValue": "305/30R26",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BJVB63MS",
+                "variationName": "Size",
+                "variationValue": "305/35R24",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/51X q7LMVBL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41CWe0oRkJS.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51NhIDIfboL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61LWDhpEoTL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51zLXoraILL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/411beHT1-8S.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51O6cDAdRCL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Landspider Store",
+            "link": "https://www.amazon.com/stores/Landspider/page/CABA8D6D-4FFB-4B83-BE5A-8777BA0B7C9F?ref_=ast_bln"
+        },
+        "brand": "Landspider",
+        "merchantInfo": "Priority Tire \u2705",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 449,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery February 23 - 27."
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Treadlife: N/A",
+            "Season: All Season",
+            "Performance: High Performance",
+            "Car Type: Truck/SUV",
+            "Load Range XL, 4-Ply Rated, 4-PR"
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Automotive",
+                "link": "https://www.amazon.com/automotive-auto-truck-replacements-parts/b/ref=dp_bc_aui_C_1?ie=UTF8&node=15684181"
+            },
+            {
+                "name": "Tires & Wheels",
+                "link": "https://www.amazon.com/Automotive-Tires-Wheels/b/ref=dp_bc_aui_C_2?ie=UTF8&node=15706571"
+            },
+            {
+                "name": "Tires",
+                "link": "https://www.amazon.com/Tires/b/ref=dp_bc_aui_C_3?ie=UTF8&node=353609011"
+            },
+            {
+                "name": "Passenger Car",
+                "link": "https://www.amazon.com/Passenger-Car-Tires/b/ref=dp_bc_aui_C_4?ie=UTF8&node=353610011"
+            },
+            {
+                "name": "Performance",
+                "link": "https://www.amazon.com/Passenger-Car-Performance-Tires/b/ref=dp_bc_aui_C_5?ie=UTF8&node=2054185011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Brand",
+                "value": "Landspider"
+            },
+            {
+                "name": "Seasons",
+                "value": "Year Round"
+            },
+            {
+                "name": "Size",
+                "value": "235/55R20"
+            },
+            {
+                "name": "Section Width",
+                "value": "235 Millimeters"
+            },
+            {
+                "name": "Load Capacity",
+                "value": "2039 Pounds"
+            },
+            {
+                "name": "Tread Depth",
+                "value": "7.14 Millimeters"
+            },
+            {
+                "name": "Tread Type",
+                "value": "Asymmetrical"
+            },
+            {
+                "name": "Ply Rating",
+                "value": "4-Ply"
+            },
+            {
+                "name": "Rim Width",
+                "value": "7.5 Inches"
+            },
+            {
+                "name": "Item Weight",
+                "value": "\u200e32 pounds"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "\u200eLandspider"
+            },
+            {
+                "name": "Model",
+                "value": "\u200eCitytraxx H/P"
+            },
+            {
+                "name": "Is Discontinued By Manufacturer",
+                "value": "\u200eNo"
+            },
+            {
+                "name": "Manufacturer Part Number",
+                "value": "\u200eBGP018A"
+            },
+            {
+                "name": "OEM Part Number",
+                "value": "\u200eBGP018A"
+            },
+            {
+                "name": "Construction",
+                "value": "\u200eRadial"
+            },
+            {
+                "name": "UTQG",
+                "value": "\u200eTreadwear: 420, Traction: A, Temperature: A"
+            },
+            {
+                "name": "ASIN",
+                "value": "B0CMD9MH6L"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 449 ratings 4.6 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#5,393 in Automotive (See Top 100 in Automotive) #7 in Passenger Car Performance Tires"
+            },
+            {
+                "name": "Date First Available",
+                "value": "April 27, 2023"
+            },
+            {
+                "name": "Item Dimensions LxWxH",
+                "value": "28 x 28 x 9 inches"
+            },
+            {
+                "name": "Rim Size 20 Inches",
+                "value": "Tire Aspect Ratio 55 Millimeters"
+            },
+            {
+                "name": "Load Index 105.00",
+                "value": "Speed Rating W"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "About Us Landspider is a manufacturer that works with multiple tire models. They design and produce tires for passenger cars, SUVs, and light trucks, ranging from high performance tires to various off-road tires, offering an option for every driver. Their tires are well-known for their durability, performance, and traction.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/29067b5b-20b5-4657-8a9e-3400bc60fe5b.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Landspider Citytraxx H/P The Landspider Citytraxx H/P is a high performance, all season tire manufactured for passenger vehicles and SUVs. The detailed asymmetric tread design and the all season compound boost the dry, wet, and winter traction. The circumferential grooves prevent hydroplaning by dispersing water and slush from the footprint. The maintained surface contact boosts steering responsiveness and driving stability, while the outer shoulder block pattern improves the cornering ability as well. The siping placement generates friction in order to reduce the braking distance. The Citytraxx H/P improves the high speed durability, as the tire prevents heat build-up during the performance.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1480b8fe-86ed-4ef2-a567-bdf80179999d.__CR0,0,500,500_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "All Season Traction The model\u2019s asymmetric tread design and the all season compound enhance its dry, wet, and winter traction and hydroplaning resistance. Handling The asymmetric ribbed pattern, along with the shoulder blocks and the sipe placement, boosts controllability, maneuvering, and braking capabilities. High Speed Performance The optimized and stable footprint actively prevents heat accumulation, while the stronger structure keeps the ideal high speed durability.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/06c4f946-89e6-4187-8a92-e132e40471ee.__CR0,0,500,500_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/efa7d3a4-a8b5-45ce-97a0-a6e89895d142.__CR0,0,500,500_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a5f0b8da-2c89-42ca-8f64-1e92e7af6c3f.__CR0,0,500,500_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/29067b5b-20b5-4657-8a9e-3400bc60fe5b.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1480b8fe-86ed-4ef2-a567-bdf80179999d.__CR0,0,500,500_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/06c4f946-89e6-4187-8a92-e132e40471ee.__CR0,0,500,500_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/efa7d3a4-a8b5-45ce-97a0-a6e89895d142.__CR0,0,500,500_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a5f0b8da-2c89-42ca-8f64-1e92e7af6c3f.__CR0,0,500,500_PT0_SX300_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Sal Davis",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG4GUFPCSJO5BR6HYD7ZL5RADSGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1LNCOC3FKSLY2?ASIN=B0CMD9MH6L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 28, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good for the price",
+                "reviewText": "They grip great",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "CUSTOMER SAYS",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHDN5TYWW4SRUHM2VY6F5VEA5TEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3J6PW8QH8K0ZZ?ASIN=B0CMD9MH6L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great tire",
+                "reviewText": "Great tire Great performance",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dreamshatterer ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGI6ZO4HZH3DE4WERLJFSUA7B32A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RMVHSPDQIV5X7?ASIN=B0CMD9MH6L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 3, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great tire for the price",
+                "reviewText": "Rides good, no issues.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Samantha Maldonado",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHEBJFGAVCYICDZ2AEGXUCTGY7IA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/REUY9LNSP83Q3?ASIN=B0CMD9MH6L",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 19, 2022",
+                "reviewTitle": "4.0 out of 5 stars ASE mechanic reveiw.",
+                "reviewText": "12k miles in and these tires are still going strong. One tire has excessive outer wear but im positive that was a separate part failure issue. These tires handle like a dream in dry and wet conditions. No excessive road noise is heard even after uneven wear from separate part failure. These tires survive the many potholes of Pennsylvanian and I have yet to see a bubble form in these tires. I will be purchasing these again when needed and I would recommend these to anyone looking for the cheapest but most reliable option available.",
+                "reviewVotes": "12 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "GolfMac",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH2TOCXFT5ORUCS2KIIIHDP2CACA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1IVF719OAM8SE?ASIN=B0CMD9MH6L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 22, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great Price Quality Product",
+                "reviewText": "These tires provide a smooth, quiet ride and the price was perfect for my budget. I highly recommend these tires.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Belinda Harrell",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHJROOD4XEH7B4JQNDZTE4AZV6UA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2HDQ8MGX98FSB?ASIN=B0CMD9MH6L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars The price",
+                "reviewText": "The price and the service at Mavis was great",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Luis luluLuis lulu",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHQHNWRWPI5QTMSIVO3JLVMQPU6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2IIFWM6ZPQZMO?ASIN=B0CMD9MH6L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 15, 2024",
+                "reviewTitle": "5.0 out of 5 stars Right size for the application",
+                "reviewText": "Loved it, it worked for my application",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71SMulIGMwL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGXQNRCWAXBVUPKFT4REVLGO3VRQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3VB937EEED9BH?ASIN=B0CMD9MH6L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 30, 2023",
+                "reviewTitle": "5.0 out of 5 stars Tires",
+                "reviewText": "Great tires for the price.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,921 @@
+{
+    "remaining_requests": 16018,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Wrangler-Mens-Cowboy-Slim-36x30/dp/B0006U69MW",
+    "body": {
+        "name": "Wrangler Men's Cowboy Cut Slim Fit Jean",
+        "price": "$23.30 - $31.05",
+        "originalPrice": "",
+        "rawPrice": 23.3,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Wrangler-Mens-Cowboy-Slim-Jean/dp/B0CTMGQTDF",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CTMGQTDF"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0006U69AO",
+                "variationName": "Color",
+                "variationValue": "Rigid Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31lNnadJzQL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0006U6C5G",
+                "variationName": "Color",
+                "variationValue": "Prewashed Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31lNnadJzQL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0006U6CTW",
+                "variationName": "Color",
+                "variationValue": "Shadow Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/316Gspjy8+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0006U6A4Y",
+                "variationName": "Color",
+                "variationValue": "Dark Stonewash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31iHhghbWFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B009AFQRFI",
+                "variationName": "Color",
+                "variationValue": "Rough Stone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31spw3nDsiL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0006U6AL2",
+                "variationName": "Color",
+                "variationValue": "Gold Buckle Bleach",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Jp6K13zsL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0006U6B7U",
+                "variationName": "Color",
+                "variationValue": "Stonewashed",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31xP1d7pISL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B001AED3UY",
+                "variationName": "Color",
+                "variationValue": "Black Chocolate",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31vhmc0XNNL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B001AEBBZI",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31bSe0e6omL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B008O34AZG",
+                "variationName": "Color",
+                "variationValue": "Black Whiskey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51gdSrQMljL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B001AE812O",
+                "variationName": "Color",
+                "variationValue": "Nightfire",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312jMWYXQxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0006U68TG",
+                "variationName": "Color",
+                "variationValue": "Antique Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31-DA25KEYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B001AED0F2",
+                "variationName": "Color",
+                "variationValue": "Charcoal Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31m09bkIlwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B001AE99MK",
+                "variationName": "Color",
+                "variationValue": "Prewashed Tan",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31A81A3LK4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0006U695E",
+                "variationName": "Size",
+                "variationValue": "27W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U695O",
+                "variationName": "Size",
+                "variationValue": "27W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U695Y",
+                "variationName": "Size",
+                "variationValue": "27W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U6968",
+                "variationName": "Size",
+                "variationValue": "28W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U696S",
+                "variationName": "Size",
+                "variationValue": "28W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U697C",
+                "variationName": "Size",
+                "variationValue": "28W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U697M",
+                "variationName": "Size",
+                "variationValue": "28W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U697W",
+                "variationName": "Size",
+                "variationValue": "28W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U6986",
+                "variationName": "Size",
+                "variationValue": "29W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U698G",
+                "variationName": "Size",
+                "variationValue": "29W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U698Q",
+                "variationName": "Size",
+                "variationValue": "29W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U6990",
+                "variationName": "Size",
+                "variationValue": "29W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U699A",
+                "variationName": "Size",
+                "variationValue": "29W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U699K",
+                "variationName": "Size",
+                "variationValue": "29W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U699U",
+                "variationName": "Size",
+                "variationValue": "29W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69A4",
+                "variationName": "Size",
+                "variationValue": "29W x 40L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U6BM0",
+                "variationName": "Size",
+                "variationValue": "30W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69AE",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69AO",
+                "variationName": "Size",
+                "variationValue": "30W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69AY",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69B8",
+                "variationName": "Size",
+                "variationValue": "30W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69BI",
+                "variationName": "Size",
+                "variationValue": "30W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69BS",
+                "variationName": "Size",
+                "variationValue": "30W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69C2",
+                "variationName": "Size",
+                "variationValue": "30W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69CC",
+                "variationName": "Size",
+                "variationValue": "30W x 40L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69CM",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69CW",
+                "variationName": "Size",
+                "variationValue": "31W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69D6",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69DG",
+                "variationName": "Size",
+                "variationValue": "31W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69DQ",
+                "variationName": "Size",
+                "variationValue": "31W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69E0",
+                "variationName": "Size",
+                "variationValue": "31W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69EA",
+                "variationName": "Size",
+                "variationValue": "31W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69EK",
+                "variationName": "Size",
+                "variationValue": "31W x 40L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U6BU2",
+                "variationName": "Size",
+                "variationValue": "32W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69EU",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69F4",
+                "variationName": "Size",
+                "variationValue": "32W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69FE",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69FO",
+                "variationName": "Size",
+                "variationValue": "32W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69FY",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69G8",
+                "variationName": "Size",
+                "variationValue": "32W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69GI",
+                "variationName": "Size",
+                "variationValue": "32W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69GS",
+                "variationName": "Size",
+                "variationValue": "32W x 40L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69H2",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69HC",
+                "variationName": "Size",
+                "variationValue": "33W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69HM",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69HW",
+                "variationName": "Size",
+                "variationValue": "33W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69I6",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69IG",
+                "variationName": "Size",
+                "variationValue": "33W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69IQ",
+                "variationName": "Size",
+                "variationValue": "33W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69J0",
+                "variationName": "Size",
+                "variationValue": "33W x 40L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U6C0Q",
+                "variationName": "Size",
+                "variationValue": "34W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69JA",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69JK",
+                "variationName": "Size",
+                "variationValue": "34W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69JU",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69K4",
+                "variationName": "Size",
+                "variationValue": "34W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69KE",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69KO",
+                "variationName": "Size",
+                "variationValue": "34W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69KY",
+                "variationName": "Size",
+                "variationValue": "34W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69L8",
+                "variationName": "Size",
+                "variationValue": "34W x 40L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69LI",
+                "variationName": "Size",
+                "variationValue": "35W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69LS",
+                "variationName": "Size",
+                "variationValue": "35W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69M2",
+                "variationName": "Size",
+                "variationValue": "35W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69MC",
+                "variationName": "Size",
+                "variationValue": "35W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69MM",
+                "variationName": "Size",
+                "variationValue": "35W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U6C42",
+                "variationName": "Size",
+                "variationValue": "36W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69MW",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69N6",
+                "variationName": "Size",
+                "variationValue": "36W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69NG",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69NQ",
+                "variationName": "Size",
+                "variationValue": "36W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69O0",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69OA",
+                "variationName": "Size",
+                "variationValue": "36W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69OK",
+                "variationName": "Size",
+                "variationValue": "36W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U6C60",
+                "variationName": "Size",
+                "variationValue": "38W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69OU",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69P4",
+                "variationName": "Size",
+                "variationValue": "38W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69PE",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69PO",
+                "variationName": "Size",
+                "variationValue": "38W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69PY",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69Q8",
+                "variationName": "Size",
+                "variationValue": "38W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U6C7E",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69QI",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69QS",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U6C88",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69R2",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U69RC",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0006U6C92",
+                "variationName": "Size",
+                "variationValue": "44W x 30L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31lNnadJzQL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/3112tA6q27L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31gegcYjZoL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/416KsMH8UeL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51xdaV5txcL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41jq0ykR3cL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41KsIOw5NNL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ad111a17-8b1e-4560-afe4-557641b593d1/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Wrangler Store",
+            "link": "https://www.amazon.com/stores/Wrangler%C2%AE/page/447486A1-7264-4DFF-9C66-7F69EB4AA55B?ref_=ast_bln"
+        },
+        "brand": "Wrangler\u00ae",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 18853,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine wash warm with like colors only. Non-chlorine bleach when needed. Tumble dry low",
+            "Origin Imported",
+            "Closure type Zipper",
+            "SLIM FIT. Designed with a functional fit in mind, these jeans are made to stack over your favorite pair of boots. Constructed with a slim fit through the seat and thigh, this jean is made for both function and comfort for long days in the saddle.",
+            "CLASSIC COWBOY JEAN. Made for authentic cowboys and worn by world champions, this cowboy cut jean is a tried and true classic. As the Official ProRodeo Competition jean, this western denim essential will stay with you for years to come and maintain that timeless cowboy style.",
+            "DURABLE MATERIALS. It's no question that this classic can withstand wear and tear. Made with durable heavyweight cotton and felled seams to prevent chafing, this original fit jean was made to last -- no matter the task.",
+            "COMFORTABLE WEAR. Whether you're out on the ranch or working in the garage, you need a durable jean that keeps you comfortable throughout the day. Made from 100% cotton, this jean provides comfort and breathability for your day ahead.",
+            "FIVE POCKET STYLING. This cowboy cut jean is constructed with an authentic five pocket styling: (1) watch pocket, (2) front scoop pockets, (3) back patch pockets. Finished with copper rivets for added long-lasting durability."
+        ],
+        "description": "936 Wrangler jeans are a cowboy's pick with a slim fit seat and thigh. Rigid indigo blue jeans have a straight leg opening. Authentic five-pocket styling. Button waist and zipper fly. PRODUCT FEATURES: Slim fit Cowboy Cut Wrangler jean favorites Official Pro Rodeo Wrangler jeans Narrower in the seat & thigh than original fit 13MWZ jeans Straight leg opening fits over your boots Made of 100% heavyweight cotton denim",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 14.5 x 15 x 1 inches; 1.6 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 0936DEN"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e April 7, 2004"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Wrangler - MEN'S"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0006U695E"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,162 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #26 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 18,853 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Previous page Next page",
+                "media_link": []
+            },
+            {
+                "media_text": "Previous page Next page 1 Retro 2 George Strait Collection 3 Advanced Comfort 4 20X",
+                "media_link": []
+            },
+            {
+                "media_text": "Original Fit See Details Relaxed Fit See Details Slim Fit See Details Original Fit See Details Slim Fit Add to Cart Customer Reviews 4.5 out of 5 stars 39,329 4.5 out of 5 stars 3,481 4.4 out of 5 stars 18,853 4.6 out of 5 stars 971 4.5 out of 5 stars 818 Price $29.95$29.95 $42.99$42.99 $46.72$46.72 $51.36$51.36 $25.98$25.98 Fit Sits at waist Sits at waist Sits at waist Sits at waist Sits at waist Feature & Fit Full seat and thigh Relaxed seat and thigh Slim seat and thigh Full seat and thigh Slim seat and thigh Style Feature 100% Cotton 100% Cotton 100% Cotton Active Flex Denim Active Flex Denim Style Feature Fits over boots Fits over boots Fits over boots Fits over boots Fits over boots Color Options \u2714 \u2714 \u2714 \u2714 \u2714",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/66eb4504-eb58-4179-b534-4cf4560ffc0f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9b282841-f185-47b8-ad10-f5d141d62d26.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fe0ec9fd-c032-4cfb-aa06-8d2b9e38747a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5ad3e800-4e2c-4eea-abbf-bc13a093ec4b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac6d8c2b-f7ec-49ce-8561-ac77e8de5c12.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cfe1dcfa-5204-4fb8-a654-5b8d4f6dabda.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/14b235e8-53a3-49f0-8c74-9adf94c886a6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1c6242b0-492f-47b3-b4fd-69f8a8319444.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e689b71-d5fa-4761-8623-804d56d16952.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f298a46a-12ac-4b3d-99b8-35302b10df2d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/febe0c49-73dd-434c-b5b1-bee4eeb31afe.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5967ab73-7097-4465-846d-f5fc984360e1.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/56f184a7-b93d-421a-a376-5a7b99546d95.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fe2b3503-89f2-4f1d-9ed2-5c8fcb80b07a.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/23f9c36f-cbae-4003-906c-5422d2691329.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/443b5ed1-dc4b-42f8-9d38-8b9e553687aa.__CR0,0,200,225_PT0_SX200_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Paul",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHLWNGG5YSOPSX3IZR2ED33LN3AA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R11MY126F8M1AF?ASIN=B0CTMGQTDF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 15, 2017",
+                "reviewTitle": "5.0 out of 5 stars Great jeans if you want a slimmer, tighter fit than the normal version",
+                "reviewText": "I've become a big fan of these jeans. I've always had Levis, but decided to try these 18 months ago to see how the classic Wrangler jeans looked with my cowboy boots. At that point I had about a dozen pairs of Levis - now, I'm down to two pairs of Levis and eleven pairs of these Wrangler 936 slim fit jeans. That's how much I like them!There's a lot of reviews here saying these jeans are tight, and they are (they're meant to be), but I think some reviewers are perhaps being a little optimistic with their sizing. I wear a 30\" waist in Levis and have found that these Wranglers fit me snugly in a 31\" waist size, and very snugly with a 30\" waist size, but are still not at all uncomfortable. In fact I have both sizes, depending on the look I'm going for - the 31s fit perfectly through the hips and seat, snug but not tight. The 30s however fit me nice and tight in the same areas, as well as being much tighter through the thighs. Both are comfortable but I can feel the 30s pulling everything in as I zip them up, which should give an idea of how they fit. There is certainly no room for bulky underwear and perhaps that's the mistake some people are making with their designer boxers - I'm not an underwear fashion victim however and my \"tighty whitey\" briefs work absolutely fine with these jeans. The legs are quite trim but go perfectly over the tops of my cowboy boots, I never tuck them into my boots but they are skinny enough to do so if that's your look. The waist is fairly high and looks good with a tucked-in T-shirt and nice belt - I do think those who have a bit of a belly might feel this makes them feel too tight also, but being in my twenties and still managing to hold onto my flat stomach I can't really comment. I may change my mind in a couple of decades, but as it stands, I would agree with a previous reviewer's slightly blunt suggestion that these are really cut to provide a tight fit for boys rather than larger men - so whilst they fit my small frame very nicely, bigger guys looking for a comfier fit would be better off with the 13MWZ version.Quality and detail is nice, perhaps some of the stitching doesn't appear to be on a par with Levis (especially round the crotch) but I've yet to have a pair show any signs of failure. The various colours are nicely finished and (again, unlike some reviewers) I actually quite like the Wrangler patch on the back. Yes, it's plastic and not leather, but that kind-of goes with the simple and basic nature of these jeans. The seven belt loops even on the 30\" size is a plus, although not strictly necessary on my small waist I'm sure it helps on the larger sizes. The two front belt loops are a little closer together than I'd like with some of my chunkier belts but it doesn't look out of place and, again, a larger waist will probably not suffer this issue. Other details like the extra rivets and bold \"W\"s on the pockets are distinctive. The material has a soft and tactile feel entirely missing from my recent Levis, although I should point out that the \"rigid\" indigo versions of these are made of a much stiffer material. Not unpleasant, just different. With eleven pairs, I have these in most of the available colours and my favourites are the Rough Stone and Charcoal Grey ones, although the bleach ones are a particularly cool colour too.In summary then, great jeans. I always used to find Wranglers a bit \"cheesy\" as a Levis-wearing kid, but now I wish I'd discovered these years ago. Far better for less money, what more could you want!",
+                "reviewVotes": "24 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nicki BNicki B",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHA7HTNNTT543AVAPZAY3R4QFXVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R103VSGVPRSZ6F?ASIN=B0CTMGQTDF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 18, 2019",
+                "reviewTitle": "5.0 out of 5 stars For the 936PWD Style!",
+                "reviewText": "My husband has been a Wrangler man for probably the last 10 years. He used to be a hardcore Levi's guy, until their prices became ridiculous and the denim started completely wearing out after just a couple months of use.We used to go with the unwashed denim, for longer wear, but honestly, they were such a hassle and always got odd creases in them even with the most strict following of the instructions that we just decided to go with the PWD, which stands for \"Pre-Washed Denim.\"Things to note about the Cowboy Cut 936pwd style:1) These pants are supposed to fit at your natural waist, not your hips! Your natural waist is above your hip bones, and USUALLY can be found in line with the middle of your belly button. If you don't know how to find your natural waist, look it up- lots of helpful pics and articles.2) These pants are supposed to fit snugly! They are not supposed to be baggy at all.3) These pants may shrink a bit, so if you are on the edge of sizing up because these are already a bit uncomfortable, size up!4.) These pants fit best on people/men who are long and lean. I say this because they are so snug, and sit at your natural waist. Some may find this too constricting.My husband does manual labor for a living as a glazier. Wranglers have been awesome at protecting his legs from some crazy scary glass shards that have ripped other people's sissy brand pants to shreds. They have always been well worth the cost. A pair of Wranglers typically will last my husband about a year and a half to two years depending on how many he has on rotation. During lean times, if he only has, say 3 pair on rotation, they may last about a year due to the increased wash and wear. I recently splurged when I saw that Amazon had an amazing price on these babies, putting them at less than half of retail. So I bought 6 for less than I would have in store for 3. Sweet!!If you are a lean person like my husband, who looks like they are wearing their older and bigger sibling's pants when you try on \"Original fit\" or \"Relaxed fit\" and you DON'T want to look disheveled/unprofessional, these pants are for you. They look tailor-made to fit your body, and they are classy and professional looking.No butt bling, or saggy britches showing off your boxers here! These here are real man's pants.I have pictures of a pair that he has been wearing for about 6 months, that we purchased in store, compared to a pair I bought from Amazon, brand new out of the box.Note that the older pair have shrunk by about 2 inches. Now, I didn't measure the store bought ones when we brought them home, but they always fit him a little long and then after a few weeks of wash, they fit just right in the length.The only difference in the two pair is that the store bought ones were made in Mexico of U.S denim, and the ones I purchased from Amazon are made in Nicaragua from U.S. denim. Not sure if Wrangler switched their manufacturer (again) or if they have different manufacturing places for different sellers.I have already washed these several times and they have been in his rotation for about a month. They have conformed nicely as expected to his frame, and he has expressed no complaints.All in all, if you want some nice, presentable pants that are professional looking, durable as all get out, or maybe some nice jeans for Sunday dinners, church, or a night out, look no further!",
+                "reviewVotes": "190 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/718lXTdKuJL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/71E1TjsSnEL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/71erdqiZx6L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/71jajU8rkAL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/71xSjqYpNwL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/81VLVIgkSQL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cowboy Jerry",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFI3SM37ICXX46KHGKCCUPZSDNYA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3MDUYE6SJHB76?ASIN=B0CTMGQTDF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 2, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love 'em!",
+                "reviewText": "I confess, I'm a Wrangler jeans man. So ya know I lost 60 pounds over the past four years and had to give up my 42, 40 and 38 size Wranglers. All in excellent shape. The recipients were VERY happy with 'em cause they were in excellent broke in condition. Now I've gone from size 36 (13MWZ's and 936's) to these size 35 936's and they did not disappoint. Love the stonewashed color, and the 36 length is right perfect for a dress boot. Soon as they ain't \"new\" and not as great for sport coat wearin' they'll be good 'n broke for horse ridin'. Which--IMHO is ankle stacked enough to help keep the mud and dirt out your boots. Long Live Cowboys!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Carlos Enrique Nava P\u00e9rez",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 3, 2024",
+                "reviewTitle": "Excelente art\u00edculo.",
+                "reviewText": "Son c\u00f3modos, justo lo que quiero. Son muy c\u00f3modos.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 6, 2023",
+                "reviewTitle": "Great Jeans.",
+                "reviewText": "Fit well. Well made. I will be ordering more.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jamie hill",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on April 13, 2023",
+                "reviewTitle": "Seem good quality",
+                "reviewText": "I got some of these and they seem great quality. Definitely the thicker material. Unfortunately I ordered the wrong size so I had to send them back.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "R\u00e9mi PerronR\u00e9mi Perron",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 21, 2023",
+                "reviewTitle": "A very good pants for a cowboy \ud83e\udd20\ud83d\udc0e\ud83d\ude4f",
+                "reviewText": "",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71s1SWThUhL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alejandro Juarez",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 14, 2021",
+                "reviewTitle": "la rapidez con que se entregan los pedidos",
+                "reviewText": "excelente producto",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

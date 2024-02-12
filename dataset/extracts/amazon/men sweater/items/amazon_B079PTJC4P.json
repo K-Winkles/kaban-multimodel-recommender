@@ -1,0 +1,564 @@
+{
+    "remaining_requests": 16178,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/IZOD-Premium-Essentials-Sweater-Heather/dp/B079PTJC4P",
+    "body": {
+        "name": "IZOD Men's Fine Gauge V-Neck Sweater Vest",
+        "price": "$21.53 - $78.99",
+        "originalPrice": "",
+        "rawPrice": 21.53,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/IZOD-Premium-Essentials-Pullover-Sweater/dp/B08P46TXJF",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B08P46TXJF"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B01IE4H3AS",
+                "variationName": "Color",
+                "variationValue": "Peacoat",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sOo3ArRJL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079PQ8788",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01TT2T1U+pL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Camel Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41iVLLstbUL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Green Gables",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41+P9iw8emL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Nautical Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41nIde2V5KL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Rock Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01aBEnc5HqL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079PMX5DM",
+                "variationName": "Color",
+                "variationValue": "Biking Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41vZhGLt8cL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Federal Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41OAUkbYHXL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Medium Grey Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41YHda7uiaL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Carbon Heath",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41e-BiOmWyL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079PQZJVK",
+                "variationName": "Color",
+                "variationValue": "Carbon Htr.",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41oyhhTdDML._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Light Grey Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41JGyFVMbzL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Botanical Garden",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EdJOo0e2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079PQZJVK",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B079PWCWJP",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B079PTJC4P",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TXM7Y2X",
+                "variationName": "Size",
+                "variationValue": "Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B079PVV993",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TWJC27Y",
+                "variationName": "Size",
+                "variationValue": "X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B079Q8MZ46",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TZN8D1M",
+                "variationName": "Size",
+                "variationValue": "XX-Large Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TYR1P69",
+                "variationName": "Size",
+                "variationValue": "XX-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01IFV2PJ4",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TXM7Y2S",
+                "variationName": "Size",
+                "variationValue": "3X-Large Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TVFJ4B1",
+                "variationName": "Size",
+                "variationValue": "3X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B097QT5YGZ",
+                "variationName": "Size",
+                "variationValue": "4X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TTDVZVK",
+                "variationName": "Size",
+                "variationValue": "4X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01IHXR6JE",
+                "variationName": "Size",
+                "variationValue": "5X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TS9F853",
+                "variationName": "Size",
+                "variationValue": "5X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01IFV1MMU",
+                "variationName": "Size",
+                "variationValue": "2XLB",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TVFM762",
+                "variationName": "Size",
+                "variationValue": "4XLB",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41oyhhTdDML.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41Ypt9uQkXL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31qNqCcsrUL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/512M7xSBWYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41ANVJCFiKL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41i0SZpqjpL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51fG9kI8OsL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ac521de6-7148-44db-89cb-0a254fb6adac/default.vertical.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the IZOD Store",
+            "link": "https://www.amazon.com/stores/IZOD/page/194B666D-E81C-44AB-AC7D-18E188057CC1?ref_=ast_bln"
+        },
+        "brand": "IZOD",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 1988,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 55% Cotton, 25% Acrylic, 15% Nylon, 5% Wool",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Pull On",
+            "Ribbed trim helps this v-neck sweater vest keep its shape after each wash",
+            "Machine washable so you're able to wash and wear",
+            "12 gauge fabrication is the perfect weight to wear alone or layer under a sport coat",
+            "Cotton blend fabric has a soft hand feel",
+            "However you style this v-neck sweater vest you will have a classic look"
+        ],
+        "description": "This classic men's V-neck sweater vest adds a dose of preppy style to any look. With a logo-free design for a clean finish and a patch at the back neckline, this comfortable essential will be the one layer you can't live without.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Sweaters",
+                "link": "https://www.amazon.com/Mens-Sweaters/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1044442"
+            },
+            {
+                "name": "Vests",
+                "link": "https://www.amazon.com/Mens-Sweater-Vests/b/ref=dp_bc_aui_C_5?ie=UTF8&node=1045662"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Is Discontinued By Manufacturer \u200f",
+                "value": "\u200e No"
+            },
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 6 x 6 x 1 inches; 8.04 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e IZAGBU4R403"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e August 12, 2016"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e IZOD Men's Sportswear"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B01IE4H6BE"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#106,895 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #28 in Men's Sweater Vests"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 1,988 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Izod is bold, free-spirited, relaxed, active, and colorful with a weekend state of mind. We\u2019ve been outfitting America for over 80+ years and live for the next great adventure!",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fc2806b4-b3d1-45be-9902-e05386a741fd.__CR0,0,1940,1200_PT0_SX970_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fc2806b4-b3d1-45be-9902-e05386a741fd.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/53600bc0-7e6f-4020-8a8f-5f8fa3ec600a.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ccf42ba0-210f-48e6-9290-dc482ea3437a.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/729824e0-809a-4bfd-a7a5-3aac101cfdb7.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9c28c082-c5b0-4dd1-9dbf-bfaae6ba7fe1.__CR0,0,1940,1200_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE76LUHWDJQVXI5QJGL4RNTITKDA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R39EM3BT35GZQ3?ASIN=B08P46TXJF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 17, 2018",
+                "reviewTitle": "5.0 out of 5 stars Great buy, looked good!",
+                "reviewText": "Ordered this for my husband for my company holiday party, and it was perfect. It arrived in 2 days and was exactly what I expected. My husband is a \"big and tall\" guy at 6'4 320, so I was happy that the measurements were on point and it looked so great on him.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Judith",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHT2EWZLATLONEFFWWC25LG5SYBA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1POI2KNWYUYIM?ASIN=B08P46TXJF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 28, 2023",
+                "reviewTitle": "5.0 out of 5 stars Red vest\u2026.. that was Burgundy",
+                "reviewText": "I was unhappy when I received the vest, color bicycle red\u2026\u2026 which was Burgundy! I bought for my husband for his birthday\u2026. I gave it \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f because he loved it and fit perfectly.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Laura D",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AERFFTBK7VZUDELAWFOA7X7YQXVA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3P7P1Z2XDT2LM?ASIN=B08P46TXJF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 14, 2020",
+                "reviewTitle": "5.0 out of 5 stars Perfect fit!",
+                "reviewText": "This weather vest looks very expensive. We ordered many different colors. They wash and dry without shrinking and the color stays the same. Very classy look over a long sleeve or short sleeve shirt. We've ordered most colors and all are well made and the colors are vibrant.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gregor",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH6MSH4LVSUWMSIJF44DIWWIUG2Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2A5AW5IPO2QS6?ASIN=B08P46TXJF",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 16, 2020",
+                "reviewTitle": "4.0 out of 5 stars Looks Great",
+                "reviewText": "I wear a XL and this fit well. The color is deep red as the picture shows ( not a Christmas Red). but the price was good. Worth the cost.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "James P.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGSQEKQFJC6GRYNB2EVB35KTIAGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2WSVVJ7O3Y3MY?ASIN=B08P46TXJF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 25, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great product and great service.",
+                "reviewText": "What you want when you want it.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Hattrick",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJUBQ4YVCE7WRSADO5BEJP7YB3Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3F3F8E2STU883?ASIN=B08P46TXJF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 11, 2019",
+                "reviewTitle": "5.0 out of 5 stars Good buy",
+                "reviewText": "Vest is well made and hold its shape. Purchased 2XLT and fits well (285lbs, 6'3\")",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tony P",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEZJF6I42E2CVUSNKXRZW3XGUN3A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R377LXRIC93NKG?ASIN=B08P46TXJF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 8, 2020",
+                "reviewTitle": "5.0 out of 5 stars Comfortable and classy",
+                "reviewText": "Bought this to take on a cruise. Nice enough to wear to dinner over Oxford shirt. Appreciate the long length. Much preferred wearing this rather than a knit sweater vest.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "M. Heiss",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG333IRPK4DVJPF3DA5PHQ3BVPQQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3VKE8QMUCMZ20?ASIN=B08P46TXJF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 2, 2020",
+                "reviewTitle": "5.0 out of 5 stars Nice looking",
+                "reviewText": "This is for a 15-year-old musician who needs it for performances and will certainly outgrow it by next season. The price is right and the quality is better than I expected.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dave E",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 21, 2022",
+                "reviewTitle": "Nice Sleeveless Pullover",
+                "reviewText": "The size and colour were exactly as expected, and the sweater has a nice feel to it. I would say the fabric is medium weight medium weight as I have pullovers both thinner and thicker. Appears to be very good quality. I would prefer that the V in the neckline be a little bit deeper, but all in all an excellent purchase! Too bad it wasn't available in other colours in my size as I would have ordered more.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "RICARDO R.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on April 1, 2023",
+                "reviewTitle": "BUEN PRODUCTO",
+                "reviewText": "RECOMENDABLE",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dee s.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 31, 2021",
+                "reviewTitle": "Excellent fit!",
+                "reviewText": "Beautiful color and beautiful fit! Hope it wears and washes as described.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lynda ScottPolsonLynda ScottPolson",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 26, 2021",
+                "reviewTitle": "It will help to keep him warm",
+                "reviewText": "A little on the big size.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/716GG0BaOfL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lulu Rodriguez",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 25, 2021",
+                "reviewTitle": "Excelente calidad",
+                "reviewText": "Lo compr\u00e9 para mi pap\u00e1... La tela es muy buena (mejor de lo que esperaba) y las tallas vienen a la medida, no reducida, no amplia... Una excelente compra! (Yo lo compr\u00e9 durante una oferta express, vale la pena por lo que cuesta)",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

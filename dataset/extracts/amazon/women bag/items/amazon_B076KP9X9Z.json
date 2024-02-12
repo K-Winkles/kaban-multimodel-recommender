@@ -1,0 +1,535 @@
+{
+    "remaining_requests": 15342,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Functional-Multi-Pocket-Crossbody-Dark/dp/B076KP9X9Z",
+    "body": {
+        "name": "Isabelle Small Functional Multi Pocket Crossbody Bag",
+        "price": "$17.99",
+        "originalPrice": "",
+        "rawPrice": 17.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Functional-Multi-Pocket-Crossbody-Bag/dp/B078JJCKYS",
+        "soldBy": {
+            "sellerID": "AERTZZ7ZKLPCJ",
+            "name": "LOVESOME",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AERTZZ7ZKLPCJ&asin=B076KP9X9Z&ref_=dp_merchant_link&isAmazonFulfilled=1"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B078JJCKYS"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B076KWCFCT",
+                "variationName": "Color",
+                "variationValue": "Antique Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DfmKZUyML._SS36_.jpg"
+            },
+            {
+                "asin": "B01GF1EITG",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41CfjpLlRtL._SS36_.jpg"
+            },
+            {
+                "asin": "B07B4LYH1J",
+                "variationName": "Color",
+                "variationValue": "Black Pearl",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41V7e4CDNoL._SS36_.jpg"
+            },
+            {
+                "asin": "B076KSCZ6S",
+                "variationName": "Color",
+                "variationValue": "Blue Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sSIwHkn1L._SS36_.jpg"
+            },
+            {
+                "asin": "B01NA6MJ6H",
+                "variationName": "Color",
+                "variationValue": "Blush",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/419EE+FIIzL._SS36_.jpg"
+            },
+            {
+                "asin": "B01GF1EJ4K",
+                "variationName": "Color",
+                "variationValue": "Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/412WWjyg6xL._SS36_.jpg"
+            },
+            {
+                "asin": "B076L251CY",
+                "variationName": "Color",
+                "variationValue": "Charcoal Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41uuRf6Q3OL._SS36_.jpg"
+            },
+            {
+                "asin": "B076KP9X9Z",
+                "variationName": "Color",
+                "variationValue": "Dark Tan",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41hSCbgL3kL._SS36_.jpg"
+            },
+            {
+                "asin": "B076L56H1K",
+                "variationName": "Color",
+                "variationValue": "Dusty Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41fTRsngfSL._SS36_.jpg"
+            },
+            {
+                "asin": "B01HJ0XXC0",
+                "variationName": "Color",
+                "variationValue": "Fuchsia",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41lMPz5+Q-L._SS36_.jpg"
+            },
+            {
+                "asin": "B076KQ2GPX",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41xyUp67lJL._SS36_.jpg"
+            },
+            {
+                "asin": "B07B4MRBCX",
+                "variationName": "Color",
+                "variationValue": "Lavender",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LbxEFmwGL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B67J2299",
+                "variationName": "Color",
+                "variationValue": "Leopard Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LOBr0mZIL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B67JK3GB",
+                "variationName": "Color",
+                "variationValue": "Leopard Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41C3wh20e3L._SS36_.jpg"
+            },
+            {
+                "asin": "B07B4LXFC3",
+                "variationName": "Color",
+                "variationValue": "Mint",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41peyCwBWgL._SS36_.jpg"
+            },
+            {
+                "asin": "B076KQTJT6",
+                "variationName": "Color",
+                "variationValue": "Mustard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41xAQQ77sUL._SS36_.jpg"
+            },
+            {
+                "asin": "B09BS7QTS9",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41prxjegh2L._SS36_.jpg"
+            },
+            {
+                "asin": "B07FB968NV",
+                "variationName": "Color",
+                "variationValue": "Olive",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41actShCKtL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B4JK8FJG",
+                "variationName": "Color",
+                "variationValue": "Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41GPwqjjR-L._SS36_.jpg"
+            },
+            {
+                "asin": "B0754234MB",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41FognU+yJL._SS36_.jpg"
+            },
+            {
+                "asin": "B076KSJGBJ",
+                "variationName": "Color",
+                "variationValue": "Roayl Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41WYnyCDhmL._SS36_.jpg"
+            },
+            {
+                "asin": "B07B4LLKHP",
+                "variationName": "Color",
+                "variationValue": "Sky Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41YpTGDrF3L._SS36_.jpg"
+            },
+            {
+                "asin": "B076KKBSS9",
+                "variationName": "Color",
+                "variationValue": "Taupe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41dY67ITwlL._SS36_.jpg"
+            },
+            {
+                "asin": "B07FCRVNFZ",
+                "variationName": "Color",
+                "variationValue": "Teal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41oguobvqxL._SS36_.jpg"
+            },
+            {
+                "asin": "B076KM9CF7",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41lmHJLkQXL._SS36_.jpg"
+            },
+            {
+                "asin": "B07GCW3WPB",
+                "variationName": "Color",
+                "variationValue": "Wine",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41k5evlzNCL._SS36_.jpg"
+            },
+            {
+                "asin": "B01GF1EJEK",
+                "variationName": "Color",
+                "variationValue": "Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41scXPNWkTL._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41hSCbgL3kL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/419hzkJe-mL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31PJPvMpfYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31U7QaQlICL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51tiKMe -5L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/318DU2DmuVL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51sWah Nz0L.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Isabelle Store",
+            "link": "https://www.amazon.com/stores/Isabelle/page/64601481-A966-45BC-AFA6-90DA5E1D7516?ref_=ast_bln"
+        },
+        "brand": "Isabelle",
+        "merchantInfo": "LOVESOME",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 11232,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Tuesday, February 20 on orders shipped by Amazon over $35. Order within 6 hrs 18 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type Faux Leather",
+            "Origin Imported",
+            "Closure type Zipper",
+            "Country of Origin China",
+            "7\" (L) x 8\" (H) x 0.5\" (D)",
+            "Zipper closure (Outside zippers are functional pockets)",
+            "Faux Leather & Gold tone hardware",
+            "Adjustable shoulder strap with 24\" drop",
+            "1 open pocket & 1 zipper pocket inside"
+        ],
+        "description": "Functional Multi Pocket Cross Body Bag - 2 zipper pocket on front and 1 zipper pocket on back",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Handbags & Wallets",
+                "link": "https://www.amazon.com/Handbags/b/ref=dp_bc_aui_C_3?ie=UTF8&node=15743631"
+            },
+            {
+                "name": "Crossbody Bags",
+                "link": "https://www.amazon.com/Womens-Cross-Body-Handbags/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2475899011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Is Discontinued By Manufacturer \u200f",
+                "value": "\u200e No"
+            },
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 7 x 1 x 8 inches; 7.37 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e HBAG-00767"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e May 31, 2016"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B076KP9X9Z"
+            },
+            {
+                "name": "Country of Origin \u200f",
+                "value": "\u200e China"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#12,512 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #48 in Women's Crossbody Handbags"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 11,232 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Cheryl",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEPIPITNA5CCEQWTDTCXIEWDKGBA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R20U2CKKKVEZKU?ASIN=B076KP9X9Z",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 30, 2023",
+                "reviewTitle": "5.0 out of 5 stars Best purse ever",
+                "reviewText": "This crossbody holds everything. It is a good size, great price and high quality. I have been using for about a month and I love it. I like all the color options and will be buying another one soon. I like all the pockets and how deep it is. The strap is sturdy and adjustable. Just as described",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Animal Adopter",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHEEUP75XM5ADVNNFKJMKMMGL6QQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3HJQXVKB5N80K?ASIN=B076KP9X9Z",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 21, 2023",
+                "reviewTitle": "5.0 out of 5 stars Love this Little Bag!",
+                "reviewText": "Love this little bag! I'm VERY pleased with my purchase. The texture is SO soft. Almost like a real, believable quality leather with a hint of texture. Truly pretty. I wasn't necessarily looking for that, but WOW! I am seriously impressed. The size is absolutely PERFECT. I even searched local stores (and I have plenty in my area), and couldn't find one that appealed to me like this one. And what about the cost? Unbelievable. I'm telling you, this sweet bag could easily be mistaken for around $40+ or possibly a little more. Love the gold detailing. The interior is quite roomy, despite its smallness. Look at the photos. And you have EXTERIOR room too. You can easily fit your smart phone, some makeup, brush, comb, mirror, a few necessities like a pen and paper. You get the visual. And I like the nice strap. It's versatile so if you want it crossbody (like I do), you can do it. I'm plus size so you gals will have room in case you're wondering. Naturally you can shorten the strap or you can go strap free and use the bag as a clutch. But for me, I wanted the strap. I honestly can't say enough great things about this pretty and sophisticated little (but oh so versatile) bag. If you're thinking about getting it. Go for it! It's a little gem.",
+                "reviewVotes": "15 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "CharbieCharbie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AENSFDOIFW37M5WWFFEIHUFZT3RA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2K628UE4RIFX9?ASIN=B076KP9X9Z",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 28, 2023",
+                "reviewTitle": "5.0 out of 5 stars Fantastic Little Bag!",
+                "reviewText": "I bought two of these- one in black the other in leopard print for a trip to Brazil. They have multiple zippered pockets inside and out, which I found really convenient for separating lipstick, cash, my passport and other items. The purse is good quality, attractive, and the perfect size for travel. The price is very fair for the product you are getting. I intend to buy other colors and will use the purses for every day use, hiking, and travel. Practical and super cute!!",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71twPKZeoxL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "KatheeKathee",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFMNDACCSP75SNSKQBCDKI42MGAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R21VSY7L6A37OE?ASIN=B076KP9X9Z",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "4.0 out of 5 stars Compact. Zippers keep everything in place.",
+                "reviewText": "Good size, perfect for traveling. Keeps me from bringing EVERYTHING with me. Plenty of room for phone, passport, cards, cords and a few necessities. Adjustable strap stays put. Zippers open and close smoothly and stay closed when they should. Good price. Versatile gray color. The faux leather has a nice texture, although it is a bit slippery (my only complaint).",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71jQxUkx8CL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71vMO-3FsIL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alexandria",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE7HZSOWKSOWG5CHWI7F6PVAEA7Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3OPWHNQTQWLNW?ASIN=B076KP9X9Z",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "5.0 out of 5 stars Light and easy to throw on!",
+                "reviewText": "Great purse! Light and easy on the go. Goes with almost everything! A lot of room to!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "crystal chambers",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG4GIYI76HZ2PMIX4B3IJUSJPLJQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3469RDQFTDNZU?ASIN=B076KP9X9Z",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 4, 2024",
+                "reviewTitle": "3.0 out of 5 stars Very small!!!!!!",
+                "reviewText": "Cute color and looks like it would be a nice purse. It is extremely small though, almost child sized.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "melissa k bell",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGYDH27IQPQVZQKHITYN4S3NWTDA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1JAXYYUT61CNZ?ASIN=B076KP9X9Z",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "5.0 out of 5 stars Surprised!",
+                "reviewText": "I bought this for a one time use for a trip. I am still using it I am surpriced at how well made and how it is held up for so long. If you need an inexpensive cross body bag I would highly recommend this one it is not expensive and works and so far has held up very well.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "dandsldandsl",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHL4RCZ3FA4IHYOHU3ZHOJ5QFY6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2BYCUKAGIX59S?ASIN=B076KP9X9Z",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 4, 2021",
+                "reviewTitle": "5.0 out of 5 stars 3 Trips Later....",
+                "reviewText": "I can't say enough about this crossbody bag. I'm 5 ft tall and heavy set and I was very skeptical for many reasons but decided to give it a try because I needed a bag right away for upcoming trips and did not want to carry my regular bag through the airports. I saw some of the reviews and hence the hesitation but I am glad I bought it. I purchased the bag July of 2021 and traveled 3 times after that. The pics above were taken today 11.4.21 after returning from my 3rd trip. I am submitting this review because I realized that after 3 trips ,and using this bag on a daily basis sometimes close to ripping, it is still pretty much intact. No rips, tears or missing or broken parts. Actually, I noticed I did not stopped using it even when returning home because it is so light and convenient. Not to mention that I love the leather and gold color. It went with everything I wore and it actually looks cute. Also, long enough strap to go across the body and be comfortable. Plenty pockets. Sometimes I overfilled it and was worried it would end up tearing or ripping somewhere buy it didn't. However, I tried to not do that too often and cause it to do so. It took what 3 trips could and did throw and it and it is still here (e.g., got caught on door handles and such often and it would pull). I think I'll keep using it here at home while it lasts. I would love to see this in a slightly larger size. Not much bigger than this just slightly and I'd buy it quick!",
+                "reviewVotes": "20 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/710+8K5CSaL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81RfsU4W9BL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bonnie hibbs",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 17, 2023",
+                "reviewTitle": "I LIKE MY PURSE VERY MUCH IT IS JUST RIGHT SIDES SO I can't over load it",
+                "reviewText": "The outside pocket at the top is to hard to get into",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "LiannTaylor",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on September 8, 2021",
+                "reviewTitle": "Look a really nice quality",
+                "reviewText": "Would of been nice little bigger",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Angelika Stahl",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on July 9, 2023",
+                "reviewTitle": "Practical and attractive crossbody bag",
+                "reviewText": "Great bag. Have bought two colours already.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "TF",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on July 13, 2022",
+                "reviewTitle": "Love the colour and size. Took longer to come than I expected",
+                "reviewText": "Love it",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

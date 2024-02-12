@@ -1,0 +1,494 @@
+{
+    "remaining_requests": 15866,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/IZOD-Comfort-Stretch-Straight-Mavericks/dp/B076ZGMQ93",
+    "body": {
+        "name": "IZOD Men's Comfort Stretch Straight Fit Jean",
+        "price": "$34.99 - $51.20",
+        "originalPrice": "",
+        "rawPrice": 34.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/IZOD-Mens-Comfort-Stretch-Straight/dp/B07R5D462C",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B07R5D462C"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B076ZBWZ1R",
+                "variationName": "Color",
+                "variationValue": "Nautical Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41w63HcqPYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B076ZGMQ93",
+                "variationName": "Color",
+                "variationValue": "Mavericks Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZF4fmWULL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07D47RJ3M",
+                "variationName": "Color",
+                "variationValue": "Soft Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/319Eh1IQV9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01N1X32D2",
+                "variationName": "Color",
+                "variationValue": "Indigo Blast",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41y3Y8n+stL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01MZ4IYLZ",
+                "variationName": "Color",
+                "variationValue": "Khaki",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41dhXRlb6bL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B076ZJN9TY",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D46BQQM",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D488SMQ",
+                "variationName": "Size",
+                "variationValue": "30W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01N6LLCMT",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076ZKZKDR",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D47T81Q",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076ZFWBP9",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01NH0Y856",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D47TYQV",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076ZF8P4T",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D4825TK",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D485R1J",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076ZMP2KH",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076ZGSWQ9",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D485QZJ",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076ZD6CTG",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076ZGMQ93",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D485V8B",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076ZF6GN4",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D47VWL7",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D48KQRF",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41ZF4fmWULL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41SSzUdIvSL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51ypHrOHzqL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51QZlNSf7sL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/518YhNTvF1L.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the IZOD Store",
+            "link": "https://www.amazon.com/stores/IZOD/page/194B666D-E81C-44AB-AC7D-18E188057CC1?ref_=ast_bln"
+        },
+        "brand": "IZOD",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 2479,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 56% Cotton, 24% Rayon, 18% Polyester, 2% Spandex",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "IZOD QUALITY: Wear the brand that lasts. With over 75 years of experience with premium quality clothing; IZOD is the brand of choice for those who demand the pinnacle of style in their everyday wear",
+            "CLASSIC STYLING: The IZOD Men\u2019s Comfort Stretch Straight Fit jean features the timeless five pocket design for a look that shines at the restaurant; work; or at home among family and friends",
+            "COMFORT STRETCH: Made with blue stretchy denim fabric; these pants are the perfect gift for men who want jeans to fit them instead of fitting into slim skinny jeans; like stretch pants; they move and flex with you",
+            "STRAIGHT FIT: IZOD Straight Fit merges comfort and classic styles for a truly flexible and free experience. Snug and form-fitting; with just enough fabric to make it feel open but not baggy; these pants make a great first impression. Also available in relaxed and regular fit.",
+            "MACHINE WASH: Machine washable blend retains its perfect shape & fitted appearance for work & everyday casual. 98% Cotton; 2% Spandex"
+        ],
+        "description": "Wear the brand that lasts. IZOD is the brand of choice for those who demand the pinnacle of style in their everyday wear. IZOD jeans feature the classic five-pocket design that has been the standard for more than a century. Our jeans are dyed with an artisan touch to ensure a consistent and quality finish every time. IZOD Comfort Stretch is designed with 98% cotton and 2% spandex; so the jeans move with you and maintains its shape during your active life.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Is Discontinued By Manufacturer \u200f",
+                "value": "\u200e No"
+            },
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 14.61 x 10.39 x 1.77 inches; 1.23 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e I37JN21"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e May 4, 2018"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e IZOD"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B076ZJN9TY"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#82,978 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #357 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 2,479 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Micah",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF67I35LIXRO62RCC3REQQHAOO6A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R30Y2CH8EYDVKE?ASIN=B07R5D462C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 7, 2021",
+                "reviewTitle": "5.0 out of 5 stars wasn't sure at first...",
+                "reviewText": "they are now my favorite pants. comfy. look good. fit well. they're great. will buy more. had them a few months. will buy more next time i need pants. and because they flex, they're great for working in. house work, yard work, manual labor. the flex means bending, sitting, kneeling, working in odd positions, are all comfortable and easy. at first i didn't like the flex, now i love it. makes mobility real easy. i moved recently, and used these for the 2 days of moving. made carrying, lifting, and just shifting all this weight everywhere super easy, rather than getting stuck at times in stiff pants that won't allow for some flexibility. and they look good too. the cuffs fall on my lacoste shoes well and appear stylish and good looking.will buy again.Update: bought a second pair, to match the first pair i got and liked so much. but the second pair is a totally different size and shape. the waist is bigger and the legs are looser. they're much baggier. but they're supposedly the exact same set of jeans. clearly, they're not the same. the second one is not the straight fit (which is a little tighter) the first set is. the second one seems more like a relaxed fit (looser and baggier). but all the tags and labels claim they're the same. but just putting them on, they're 2 totally different cuts, shapes, or and sizes, despite having matching labels. i want a refund on the second pair... but still LOVE the first.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "James Dunnigan",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE6PTBPCRZ36BULPQEIDX5GSCRZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R27A8XK1MLMJIJ?ASIN=B07R5D462C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 14, 2023",
+                "reviewTitle": "5.0 out of 5 stars Good product",
+                "reviewText": "I like the fit and they are a comfortable pair of jeans. Would buy again.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JAS PAL JUNEJA",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGXMNWD542ISPBWCRH3ROPUF3PBQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R24UOLC7A74XUY?ASIN=B07R5D462C",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 19, 2023",
+                "reviewTitle": "4.0 out of 5 stars It's more lengthy than expected.",
+                "reviewText": "Quality is excellent, comfortable but waist is too loose and length is too long.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nana P",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG3XKFJSFS5RAFURBRFGJU6WE6YQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3TTCOKPCPXEJN?ASIN=B07R5D462C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Hubbys favorite",
+                "reviewText": "Hard to find brand . When we found on Amazon we ordered five pair. Great fit and price",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "hospnm",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEUC7ZK4XOWBYSBMQ5EXL6ZL4UFQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RZJXUOQ0TMIRQ?ASIN=B07R5D462C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very comfy jeans",
+                "reviewText": "The lightweight and stretchiness are great.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Marie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE2SFN7IW64FMBLONZCTPZZYONAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RXOO57NQHRSL2?ASIN=B07R5D462C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 4, 2024",
+                "reviewTitle": "5.0 out of 5 stars good jeans",
+                "reviewText": "Too loose for my son. Offered to exchange, but he said he'd use a belt and that's what he's been doing.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Walk_the_walk",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF6Q7VDC4VWHJNPDCOD63B7T47YQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3DVBDOBYI3B53?ASIN=B07R5D462C",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 17, 2023",
+                "reviewTitle": "3.0 out of 5 stars First Pair Fit Perfectly; 2nd One Didn't! Maddening!",
+                "reviewText": "My wife's a seamstress, so when the second identical light beige pair arrived today and were too tight, she started looking into it.Both pair were supposed to be 34x32s. Stretch comfort, straight fit. Identical. But the 2nd pair which arrived a few days later, had a tag reading:\"Slim fit in seat and thighs\"Instead of:\" Extra room in seat and thigh\".THANKS, seller for sending me the wrong product. It wastes an hour of my time doing the return, driving to/from.UPS store.You should be creating a seperate listing or selectable options, not sending a customer two different styles of the exact same item.It costs Amazon money, too. Maddening.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Baton de Colle",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AESEIYUSV72USS5MH2PBVDSPGXUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1FN2A6YTINMVJ?ASIN=B07R5D462C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 18, 2023",
+                "reviewTitle": "5.0 out of 5 stars Love the fit of these jeans.",
+                "reviewText": "These fit great. The poly/spandex make them fit without hanging loose everywhere, but gives them a lot of stretch so they are not too tight either. Really love the fit and these are my favorite jeans.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "J\u00fcrgen N.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on January 10, 2021",
+                "reviewTitle": "herren jeans",
+                "reviewText": "gute qualit\u00e4t",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "bo519",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 1, 2019",
+                "reviewTitle": "good",
+                "reviewText": "fit nice",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Or",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on September 24, 2019",
+                "reviewTitle": "Mezclilla suave el\u00e1stica",
+                "reviewText": "Otro buen producto de IZOD. La textura de la mezclilla es bastante suave y el\u00e1stica por lo que es muy c\u00f3modo usar este modelo de pantal\u00f3n. La talla es correcta, pero igual puedes intentar una talla menos si lo que buscas es un corte m\u00e1s ajustado. Recomiendo su compra.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Steve Murley",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 11, 2019",
+                "reviewTitle": "Good value",
+                "reviewText": "Nice fit",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Or",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on August 1, 2019",
+                "reviewTitle": "Ligeros y c\u00f3modos",
+                "reviewText": "Tienen un ajuste perfecto y la mezclilla stretch da mucha comodidad, adem\u00e1s de que son bastante ligeros. Para comprar m\u00e1s de uno porque se convierten en tus favoritos",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

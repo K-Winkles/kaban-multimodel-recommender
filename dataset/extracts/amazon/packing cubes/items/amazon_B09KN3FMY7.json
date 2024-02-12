@@ -1,0 +1,518 @@
+{
+    "remaining_requests": 7916,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/BAGSMART-6-Piece-Packing-Cube-Set/dp/B09KN3FMY7",
+    "body": {
+        "name": "BAGSMART 6 Set/4 Set/2 Set Compression Packing Cubes for Travel, Lightweight Vacation Travel Essentials, Travel Accessories for Suitcase Organizer Bags Set, Durable Luggage Organizer Travel Bags",
+        "price": "$39.99",
+        "originalPrice": "",
+        "rawPrice": 39.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/BAGSMART-Compression-Lightweight-Essentials-Accessories/dp/B0C88RNZXF",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0C88RNZXF"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0B8Z6GN11",
+                "variationName": "Color",
+                "variationValue": "Baby Pink-2 PCS",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31-nFzQxIcL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B8Z5FVR7",
+                "variationName": "Color",
+                "variationValue": "Black-2 PCS",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ufE2JLxRL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08Z7PYV37",
+                "variationName": "Color",
+                "variationValue": "Baby Pink-4 PCS",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41IlFdNstoL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08Z3187YZ",
+                "variationName": "Color",
+                "variationValue": "Black-4 PCS",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Z+Y8f-nlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BZZ25K6Q",
+                "variationName": "Color",
+                "variationValue": "Brier Rose-4 PCS",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51VmDSzzAzL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08Z35YNSR",
+                "variationName": "Color",
+                "variationValue": "Cyan-4 PCS",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ywkT3mriL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BZZ2NYC2",
+                "variationName": "Color",
+                "variationValue": "Grey-4 PCS",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41+3tWCbp8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BZZ24V6Y",
+                "variationName": "Color",
+                "variationValue": "Light Blue-4 PCS",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41BwAXzSwAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08Z7SLGMF",
+                "variationName": "Color",
+                "variationValue": "01-Baby Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ysybYQ7DL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08Z7B69TP",
+                "variationName": "Color",
+                "variationValue": "02-Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HRjRi9UxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09KN3FMY7",
+                "variationName": "Color",
+                "variationValue": "03-Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41a9P6QJVwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09KKYF34R",
+                "variationName": "Color",
+                "variationValue": "04-Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EEb1s5ErL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08Z31CXWZ",
+                "variationName": "Color",
+                "variationValue": "05-Cyan",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41-Nvn3B3hL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09YLTHC3S",
+                "variationName": "Color",
+                "variationValue": "06-Very Peri",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qkFTpD91L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BFHSM737",
+                "variationName": "Color",
+                "variationValue": "07-Brier Rose",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41hIPF2SRDL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BFQR243P",
+                "variationName": "Color",
+                "variationValue": "08-White Opal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/419ClG8P5dL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09YM7XDYY",
+                "variationName": "Color",
+                "variationValue": "09-Sunset Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Pqy-KsR+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BFQQNMKX",
+                "variationName": "Color",
+                "variationValue": "10-White & Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41o6bhaiNjL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BFHSDMQC",
+                "variationName": "Color",
+                "variationValue": "Camouflage Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41fzJ0tbhyL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BFHQYW9M",
+                "variationName": "Color",
+                "variationValue": "Highlight Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Z+H+LdS8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C9ZBMLN7",
+                "variationName": "Color",
+                "variationValue": "Kohlrabi Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41GsKM7p6JL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C9ZCY3PJ",
+                "variationName": "Color",
+                "variationValue": "Navy Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EKP6NXFUL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C9ZH2KV4",
+                "variationName": "Color",
+                "variationValue": "Sunny Coral",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/412U--uq6cL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C9ZDZ6SS",
+                "variationName": "Color",
+                "variationValue": "Sunray Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41hn105SxPL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJXB2P46",
+                "variationName": "Color",
+                "variationValue": "Tie-dye Sunrise",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41BPqXeTHuL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJXJB8B1",
+                "variationName": "Color",
+                "variationValue": "Tie-dye Sunset",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/317HX9k6xNL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJXF6WVD",
+                "variationName": "Color",
+                "variationValue": "Tie-dyed Fallen Leaves",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31K+zKp2loL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJWYN9MC",
+                "variationName": "Color",
+                "variationValue": "Tie-dyed Sea",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gVCJY1uzL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJWYPD4X",
+                "variationName": "Color",
+                "variationValue": "Tie-dyed Sky",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Ufnz9ux5L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B8Z6GN11",
+                "variationName": "Size",
+                "variationValue": "Set of 2",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Z7PYV37",
+                "variationName": "Size",
+                "variationValue": "Set of 4",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KN3FMY7",
+                "variationName": "Size",
+                "variationValue": "Set of 6",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41a9P6QJVwL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41J7zMZDJxL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41IcT0erahL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41UakPAO2qL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41 FE2qFyIL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41Flq1Bm9 L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/81P5YVxDXqL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1c2e9ef6-84d3-4547-9547-fb5b4ce669fa/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1b99dba6-ad0d-47b9-a2a9-8f0e6f972958/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/74c6e6b3-bb84-40f6-b413-d927eacc426d/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 3,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the BAGSMART Store",
+            "link": "https://www.amazon.com/stores/BAGSMART/page/EDE8B424-1294-40E6-837A-D9E47936AB02?ref_=ast_bln"
+        },
+        "brand": "BAGSMART",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 8044,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "2 Set Compression Packing Cubes - If you'll be preparing multiple outfit options for your travel, you no longer have to sacrifice style for luggage space when you come across BAGSMART PACKING CUBES. Large for jackets, sweaters, and trousers, Medium for shirts, and blouses.",
+            "True Space Saving - These compression travel cubes are kind of like how a vacuum sealer works. Done by adding an extra zipper around the outside that can be zipped up to help squash clothes down and minimize the space inside. It\u2019s remarkable how much of a difference they can make. Help travelers \u201cFit Double the Amount\u201d in their suitcases.",
+            "Durable Travel Essentials - We're sure you'll want to make sure you get a high-quality suitcase organizer that won't break in a few months. Hundreds of experiments simulating real-use scenarios have enabled us to improve the durability. And, it\u2019s also worth noting there\u2019s an ID tag pocket on the front of the packing organizers to help you further optimize your packing scheme. So you can remember which cube contains your favorite T-shirt.",
+            "Lightweight Travel Accessories - Super light fabric ensures packing your clothes neatly in luggage without adding extra weight. Great for when you want to minimize weight as much as possible and save space within your suitcase.",
+            "What We Care - Every traveler has their packing style preferences, and BAGSMART provides plenty of flexibility for any type of traveler. We hope to sell not just a commodity, but also a love. Love to travel, love the outdoors, love the journey of you. If there are any quality problems, please do not have any hesitation. Contact us for a timely and satisfactory answer!"
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Luggage & Travel Gear",
+                "link": "https://www.amazon.com/Luggage-Travel-Gear/b/ref=dp_bc_aui_C_2?ie=UTF8&node=9479199011"
+            },
+            {
+                "name": "Travel Accessories",
+                "link": "https://www.amazon.com/Travel-Accessories/b/ref=dp_bc_aui_C_3?ie=UTF8&node=15743971"
+            },
+            {
+                "name": "Packing Organizers",
+                "link": "https://www.amazon.com/Packing-Organizers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=15744041"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 10.5 x 6 x 15 inches; 7.83 Ounces"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e August 9, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e BAGSMART"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0B8Z6GN11"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#398 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #3 in Travel Packing Organizers"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 8,044 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b57a9e48-3255-4491-9369-963b015dc483.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d35ae0f2-6408-4af2-b999-7c6a61bf61bd.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/40316fbd-39b1-484e-8998-b09c8f6256a0.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d8abb73-b5c3-4e90-99c4-2be660a2980f.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Jose",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGHQTJ6EYPSZ27HJ6BOCKP2LECKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2B59R6HW45JW7?ASIN=B0C88RNZXF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 23, 2023",
+                "reviewTitle": "5.0 out of 5 stars For travelers!",
+                "reviewText": "The Compression Packing Cubes for Suitcase have revolutionized the way I travel, and I couldn't be happier! These cubes are an absolute must-have for anyone who loves efficiency and wants to pack smarter.First of all, they make packing a breeze. I used to dread packing, but now I actually enjoy it. The cubes help me stay organized, and the transparent panels let me see what's inside each one. No more rummaging through my suitcase to find that one item buried at the bottom.But what truly sets these packing cubes apart is their compression feature. They work like magic, allowing me to pack more clothes than I ever thought possible. The double zippers compress the contents, creating space I didn't know I had. It's like having a mini vacuum-sealed bag for each cube, and it's a game-changer when it comes to fitting everything I need into my suitcase.The benefits don't stop there. These cubes keep my clothes wrinkle-free, and they're incredibly durable, so I don't have to worry about wear and tear. Plus, they're lightweight, so they don't add any unnecessary bulk to my luggage.In short, the Compression Packing Cubes for Suitcase are a traveler's dream come true. They make packing easy, let you pack more, and create space where you thought there was none. If you're looking to streamline your packing and make your travels more organized and stress-free, I can't recommend these cubes enough. They're an absolute essential for any globetrotter.",
+                "reviewVotes": "73 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amy JorgensenAmy Jorgensen",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEDQRZKGMDUWSBSSDTBDHUSPNO7Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1MDUTP0JDU7UM?ASIN=B0C88RNZXF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 7, 2022",
+                "reviewTitle": "5.0 out of 5 stars Absolutely Perfect!",
+                "reviewText": "These are exactly what I wanted!! Here\u2019s the summary but keep reading if you like juicy details:\u2022 Great quality zippers and fabric - I don\u2019t worry about it tearing when I\u2019m zipping the compression (but probably still smart to do so carefully)\u2022 LOVE the size options - perfect for organizing by type of clothing and easier to Tetris into luggage than more typical ones\u2022 love the little pockets included at the bottom of the smallest cubes - didn\u2019t even know it had those but will come in handy!\u2022 it\u2019s easy to be tempted to overfill because it seems so roomy when it\u2019s not compressed, but just remember that the compression feature isn\u2019t magic. But it\u2019s also nice that if you do want to overfill and not compress you can too. Choose your own adventure!I\u2019ve been shopping for compression cubes for months now and had a million different ones sitting in my cart, but was too afraid to commit to a set because I was worried it wouldn\u2019t be THE one. I already have two sets of pretty standard packing cubes but have never really loved them, so if I was going to spend $30+ for something I didn\u2019t really need I wanted to love it!!Well, due to an upcoming trip and me running out of time I was forced to choose one, and these were love at first sight! It has all of the features I wanted and they are great quality. The thing I\u2019ve never liked about my old packing cubes is how big they are, because I always had to mix clothes together that I didn\u2019t want to mix (ie swimsuits with pajamas, shirts with bottoms, etc). It was also a pain to pack because the biggest size always took up almost an entire side of the suitcase and really limited what else you could add to that side. These cubes, in my opinion, are PERFECT because you can organize more strategically with the smaller options and pack Tetris style to fit way more. I also love that there\u2019s a little clear pocket on the top of the cube to add a label for each cube for what\u2019s inside!I didn\u2019t think I needed a laundry bag because I usually just bring a garbage bag with me for that, but this will be much classier (ha).As I mentioned above, it\u2019s tempting to overfill because it seems like there\u2019s still so much room left when it\u2019s not compressed, but that feature isn\u2019t magic so just be mindful of that when packing them. But it\u2019s always an option to just stuff it full uncompressed!Anyway, there\u2019s always a risk that you\u2019ll get a damaged product but in my opinion, you will be happy with this purchase!!",
+                "reviewVotes": "286 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61Y6XghbkhL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61huRPSI7JL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71+TvzVIdLL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71BmYiSJVzL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bramblewood on the Lane",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGI4N3YNTIPKS423YSENJMORO4TA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R8DAXYSHKDQ5X?ASIN=B0C88RNZXF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars 6 compression bags = 6 days Alaskan travel = ONE carry-on!",
+                "reviewText": "Well-structured, good colors, compacts bulky winter sweaters/pullovers well. I was really impressed by how easily I could pack 2 puffy vests PLUS a couple of turtlenecks into a single large compression bag. The zippers easily opened and closed. I rolled my turtlenecks and when I unpacked them, I had only a few wrinkles. Full disclosure - I did wear a pair of boots and my winter coat on the plane. I have since used all six to pack for a trip to NY, also in winter so the clothes were bulky. .I also needed a more diverse wardrobe for the activities we chose, including some clothes that were a bit dressier. Again, I was happy to open the compression bag and find my clothes needed only a quick steam to be completely wrinkle-free.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Al-B-Honest",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF5HYQT6NUW2J7SXNV6YS4DJ6L2Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3TJP22XIEZXCX?ASIN=B0C88RNZXF",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 19, 2023",
+                "reviewTitle": "4.0 out of 5 stars Worked great overall",
+                "reviewText": "I have bought other BAGSMAT stuff prior and it was well made. When it came to compression packing cubes...I figured Bagsmart seems to be pretty high quality stuff so decided on this brand. Forget even the fact that these do some compression, I have never EVER been so organized in a small carry on luggage in my entire life. Usually by the 3rd day or so al my stuff/clothes are hard to find. Not so with these cubes...at the least they keep you very organized...at the best they DO compress the clothing a bit but maybe more Like just 50% ish. It's not like night and day as to flat vs puffy, BUT they do work. I loved the bright color too on these things...zippers held up well construction seems well made and light. Overall I'd day this was an excellent overall must have purchase...if you want to be more organized AND bring more STUFF you normally could not...compression does help to a degree.",
+                "reviewVotes": "42 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JUSTUS",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHXLBZJ4JQ74LBIU37WAKSUHSCOA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2TGH0I8K8H1ON?ASIN=B0C88RNZXF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars Organized & Compact",
+                "reviewText": "I really like this set as I organize my clothing and accessories. I like the various sizes everything I was looking for .You have the option of leaving just the one zipper closed or-using second zipper compressing allowing more room in your suitcase.Good quality material. I\u2019ve already used it on my first outing.I\u2019m really happy with my purchase.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Phil",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 24, 2023",
+                "reviewTitle": "An organizational marvel for hassle-free travel!",
+                "reviewText": "As a first-time user of packing cubes, my experience with the BAGSMART Compression Packing Cubes has been nothing short of transformative. For someone who travels frequently, these cubes have revolutionized the way I pack and organize my suitcase.The variety of sets available (6 set/4 set/2 set) caters to different needs and trip lengths, making them versatile for any kind of journey. Whether it\u2019s a weekend getaway or an extended vacation, there's a combination that fits perfectly.The genius of these cubes lies in their compression capability. Not only do they help segregate my items \u2013 clothes, accessories, toiletries \u2013 but they also compress them down, freeing up valuable suitcase space. It's like having a magic wand that makes the chaos of packing orderly and efficient.The durability and quality of the cubes are commendable. They've withstood the rigors of travel without any signs of wear and tear, reassuring me that they're built to last. The zippers glide smoothly, and the material is both lightweight and sturdy \u2013 a perfect blend for travel accessories.Using these BAGSMART packing cubes has been a game-changer. No more rummaging through my suitcase to find a particular item; everything has its place, neatly organized and easily accessible. It's a system that not only saves space but also time and stress, allowing me to focus more on enjoying my travels and less on managing my luggage.In conclusion, the BAGSMART Compression Packing Cubes are a must-have for any traveler. They bring a level of organization and efficiency to packing that I didn't know was possible. For those who have never used packing cubes, these are an excellent place to start.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Teresa Ocharan Camacho",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 15, 2023",
+                "reviewTitle": "Estan de muy buena calidad",
+                "reviewText": "Calidad tama\u00f1o y eficiencia en el envio",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "mks",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 14, 2023",
+                "reviewTitle": "The BEST packing cubes",
+                "reviewText": "I\u2019ve heard the hype surrounding packing cubes and was hesitant to try them but I\u2019ve been thoroughly surprised at how well they work.The compression feature is super helpful and works great but even if you just use the packing cubes as it, it really helps organize your suitcase and maximize space. I have been able to fit it 20 items (shirts, shorts and dresses) into the large packing cube while not compressed and 12-15 with the compression. They\u2019re a must!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "rosalia",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on May 29, 2023",
+                "reviewTitle": "Me gustaron",
+                "reviewText": "El sistema de cierres si comprime. Son de buena calidad y se ven durables. No pesan nada y traen varios tama\u00f1os.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Happy on Vancouver Island",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 15, 2023",
+                "reviewTitle": "Creates extra packing room!",
+                "reviewText": "These packing cubes are the perfect size for various clothing items. It compresses and creates so much extra space in your suitcase and keeps everything from shuffling around. Love it!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

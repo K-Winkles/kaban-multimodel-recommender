@@ -1,0 +1,700 @@
+{
+    "remaining_requests": 16593,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Van-Heusen-Dress-Fitted-Poplin/dp/B07SG7BRPT",
+    "body": {
+        "name": "Van Heusen Men's Dress Shirt Fitted Poplin Solid",
+        "price": "$24.38 - $50.00",
+        "originalPrice": "",
+        "rawPrice": 24.38,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Van-Heusen-Dress-Fitted-Poplin/dp/B07SG7BRPT",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B07SG7BRPT"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B00CAKE63A",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41zvBD4NN5L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B06XXB665S",
+                "variationName": "Color",
+                "variationValue": "Cameo Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31MMVQ1z95L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07F3DLSVL",
+                "variationName": "Color",
+                "variationValue": "Dark Leaf",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31abAYOAHhL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07F3F894K",
+                "variationName": "Color",
+                "variationValue": "Deep Sea",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312tRpCiOxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07F3DLHHD",
+                "variationName": "Color",
+                "variationValue": "Desert Rose",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31gtlicOZ0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B06XWBG383",
+                "variationName": "Color",
+                "variationValue": "Flame",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ue4ZYFpHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B06XWJYH7T",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31C6ePqff3L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00CAKEW98",
+                "variationName": "Color",
+                "variationValue": "Greystone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/316ENiqf8OL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00IE0HJSE",
+                "variationName": "Color",
+                "variationValue": "Lavender",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31jwmwTOabL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07F3DLNCT",
+                "variationName": "Color",
+                "variationValue": "Leaf",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31sacpYRnAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07F39C2BM",
+                "variationName": "Color",
+                "variationValue": "Lemon Glaze",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/210-EbnO4oL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07F3CYNSM",
+                "variationName": "Color",
+                "variationValue": "Magenta",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31FawidFLPL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07F3CYDS5",
+                "variationName": "Color",
+                "variationValue": "Mist",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31yudLqK1wL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07F383FBH",
+                "variationName": "Color",
+                "variationValue": "Ocean Mist",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31LRReavmkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B06XXGQLZH",
+                "variationName": "Color",
+                "variationValue": "Pacifico",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31H6IwkZpmL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B06XXKC9L3",
+                "variationName": "Color",
+                "variationValue": "Persian Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21Zyja++wcL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07FHHV5W4",
+                "variationName": "Color",
+                "variationValue": "Persimmon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313HY3SnwFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00J5XLAP2",
+                "variationName": "Color",
+                "variationValue": "Purple Velvet",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Amqk9WjDL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07F3RY673",
+                "variationName": "Color",
+                "variationValue": "Scallop",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31+BKIFH-SL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B06XWHDBXB",
+                "variationName": "Color",
+                "variationValue": "Stone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/317Y1YgzkNL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00C86EA4G",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21Y-zqwtfGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00CAKDXKM",
+                "variationName": "Size",
+                "variationValue": "14.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00CAKDXL6",
+                "variationName": "Size",
+                "variationValue": "14.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00BM48G2C",
+                "variationName": "Size",
+                "variationValue": "15\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00CAKDXLG",
+                "variationName": "Size",
+                "variationValue": "15\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00BM48GE0",
+                "variationName": "Size",
+                "variationValue": "15.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00BM48H08",
+                "variationName": "Size",
+                "variationValue": "15.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00CAKE2A2",
+                "variationName": "Size",
+                "variationValue": "15.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00BM48HCG",
+                "variationName": "Size",
+                "variationValue": "16\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00BM48HSU",
+                "variationName": "Size",
+                "variationValue": "16\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00CAKE23E",
+                "variationName": "Size",
+                "variationValue": "16\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00BM48I3Y",
+                "variationName": "Size",
+                "variationValue": "16.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00BM48IJ8",
+                "variationName": "Size",
+                "variationValue": "16.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00CAKE69E",
+                "variationName": "Size",
+                "variationValue": "16.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00BM48IZC",
+                "variationName": "Size",
+                "variationValue": "17\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00BM48JDS",
+                "variationName": "Size",
+                "variationValue": "17\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00CAKE694",
+                "variationName": "Size",
+                "variationValue": "17\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00BM48K28",
+                "variationName": "Size",
+                "variationValue": "17.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00BM48KOG",
+                "variationName": "Size",
+                "variationValue": "17.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00CAKE63A",
+                "variationName": "Size",
+                "variationValue": "17.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00CAKE0VS",
+                "variationName": "Size",
+                "variationValue": "18\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00BM48L3Q",
+                "variationName": "Size",
+                "variationValue": "18\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00CAKE5V8",
+                "variationName": "Size",
+                "variationValue": "18\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00CAKE28E",
+                "variationName": "Size",
+                "variationValue": "18.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00CAKE248",
+                "variationName": "Size",
+                "variationValue": "18.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00CAKE5U4",
+                "variationName": "Size",
+                "variationValue": "18.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/411SKvO-UrL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41zLYvNSHkL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/21Zqm7531eL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41Pp40pfVyL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31ZssZFnuqL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51-2Cxs3EHL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41mZGT797iL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cfdfa00a-9cd0-4ecb-b05f-5cba66cf9004/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9928c6d8-eaa9-449f-8224-4c18ba02ea7e/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 2,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Van Heusen Store",
+            "link": "https://www.amazon.com/stores/VanHeusen/page/906C9C4B-D9BF-4FB4-A60C-C226BB100698?ref_=ast_bln"
+        },
+        "brand": "VanHeusen",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 21651,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 65% Polyester, 35% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Button",
+            "Wrinkle Free: Developed for less wrinkles and easy care",
+            "Fitted Fit: Roomier through the shoulders, chest and arms, with a tapered waist",
+            "Point Collar: Classic collar thought to lengthen the face & allows for tie knot variety; can be worn with or without neckwear.",
+            "Adjustable Cuff: Two button positions allow for a more customized, improved fit.",
+            "Chest Pocket: Classic design holds all your essentials."
+        ],
+        "description": "Van Heusen fitted poplin long sleeve blended dress shirt.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Shirts",
+                "link": "https://www.amazon.com/Mens-Shirts/b?ie=UTF8&node=2476517011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 10.2 x 7.7 x 4.6 inches; 7.52 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 20F8331"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e May 5, 2013"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Van Heusen Men's Dress Shirts"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B00CAKDXKM"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,615 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #56 in Men's Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 21,651 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Van Heusen Men's Wrinkle Free Poplin Dress Shirt",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/644e6193-c7b2-45f7-8252-e14230c1fe9a.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Feature & Benefits Wrinkle Free Fabric features enhanced wrinkle resistance for easy care at home. Machine Wash & Dry Just wash and dry in your machines and wear.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6a2359d4-aefd-4342-b5cd-20768fcfef97.__CR0,1,1304,702_PT0_SX650_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65050483-e699-45ed-9d67-b8f18fedc65f.__CR0,1,1304,702_PT0_SX650_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Van Heusen Poplin Dress Shirt This poplin dress shirt is designed for the man on the move, with a wrinkle-free finish that allows you to wash, dry and wear. It features a single pocket for a traditional men's look that always means business.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac5d8f40-0e29-4b6e-8590-bcbcee9f1e56.__CR0,0,1600,1200_PT0_SX800_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Regular Fit A relaxed fit through the shoulders, chest and waist for comfort. Fitted Fit A relaxed fit through the shoulders, chest, and arms, with a tapered waist. Big Fit Designed with extra room throughout with relaxed armholes and sleeve openings for added movement and ease. Tall Fit Designed with a relaxed fit throughout with added length in the sleeves and body for taller men.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b32a23ef-3a35-415e-abcf-05d69b1f9faf.__CR0,0,601,451_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d030db49-49d5-448c-b81e-20ad587fde1e.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef9bc8b6-80c2-4d09-ad37-95ae5c865e9a.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f69a4c16-d542-4028-a9f1-8a0973b4301d.__CR0,0,600,450_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Discover More Styles From Van Heusen Poplin Solid See Details Poplin Solid See Details Poplin Solid See Details Poplin Solid See Details Stain Shield Stretch See Details Stain Shield Stretch See Details Customer Reviews 4.4 out of 5 stars 34,805 4.5 out of 5 stars 8,728 4.4 out of 5 stars 839 4.4 out of 5 stars 21,651 4.5 out of 5 stars 1,280 4.4 out of 5 stars 1,221 Price $29.06$29.06 $50.00$50.00 $28.60$28.60 $30.00$30.00 $36.00$36.00 $33.06$33.06 FIT(S) Regular Regular Regular Fitted Regular Slim SLEEVE LENGTH Long Sleeve Short Sleeve Long Sleeve Long Sleeve Long Sleeve Long Sleeve COLLAR Point Point Spread Point Spread Spread FABRIC 65% Polyester, 35% Cotton 65% Polyester, 35% Cotton 65% Polyester, 35% Cotton 65% Polyester, 35% Cotton 64% Ctn,32% Rycld Ply,4% Spndx 64% Ctn,32% Rycld Ply,4% Spndx POCKET \u2714 \u2714 \u2714 \u2714 \u2714 \u2718 EASY CARE \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 MULTIPLE COLORS \u2714 \u2714 \u2718 \u2718 \u2714 \u2714",
+                "media_link": []
+            },
+            {
+                "media_text": "Discover More Styles From Van Heusen Poplin Solid See Details Poplin Solid See Details Poplin Solid See Details Poplin Solid See Details Stain Shield Stretch See Details Stain Shield Stretch See Details Customer Reviews 4.5 out of 5 stars 3,185 4.5 out of 5 stars 1,142 4.4 out of 5 stars 4,331 4.5 out of 5 stars 757 4.4 out of 5 stars 1,022 4.4 out of 5 stars 749 Price $55.00$55.00 $30.31$30.31 \u2014 $36.50$36.50 $37.44$37.44 \u2014 FIT(S) Big Big Tall Tall Big Tall SLEEVE LENGTH Long Sleeve Short Sleeve Long Sleeve Short Sleeve Long Sleeve Long Sleeve COLLAR Point Point Point Point Spread Spread FABRIC 65% Polyester, 35% Cotton 65% Polyester, 35% Cotton 65% Polyester, 35% Cotton 65% Polyester, 35% Cotton 64% Ctn,32% Rycld Ply,4% Spndx 64% Ctn,32% Rycld Ply,4% Spndx POCKET \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 EASY CARE \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 MULTIPLE COLORS \u2714 \u2714 \u2714 \u2714 \u2714 \u2714",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/644e6193-c7b2-45f7-8252-e14230c1fe9a.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6a2359d4-aefd-4342-b5cd-20768fcfef97.__CR0,1,1304,702_PT0_SX650_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65050483-e699-45ed-9d67-b8f18fedc65f.__CR0,1,1304,702_PT0_SX650_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac5d8f40-0e29-4b6e-8590-bcbcee9f1e56.__CR0,0,1600,1200_PT0_SX800_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b32a23ef-3a35-415e-abcf-05d69b1f9faf.__CR0,0,601,451_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d030db49-49d5-448c-b81e-20ad587fde1e.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef9bc8b6-80c2-4d09-ad37-95ae5c865e9a.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f69a4c16-d542-4028-a9f1-8a0973b4301d.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/d2438a1d-6604-4e1d-b283-c0f0f18d6d63.__CR0,0,401,451_PT0_SX200_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/720e6865-4eac-4e6b-b704-72a1d14b382e.__CR0,0,401,451_PT0_SX200_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/aacd228b-f35b-4420-b1a6-42d9acbb2202.__CR0,0,401,451_PT0_SX200_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/c4c13dda-4195-4ac2-b1a9-f9924677e5a1.__CR0,0,401,451_PT0_SX200_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/6ba99b2d-b653-4e4b-aa94-be375611cda2.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/229958dc-9a47-4370-9fa5-26202dee2602.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/6642129d-ee05-4cfe-9f91-d25c65abcb40.__CR0,0,401,451_PT0_SX200_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/770b4429-1063-459d-b39d-20d914b70515.__CR0,0,401,451_PT0_SX200_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/ba712074-fb68-4813-bcee-8544122a6feb.__CR0,0,401,451_PT0_SX200_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/ae7d4942-7cae-41ee-b007-c0b30041ac65.__CR0,0,401,451_PT0_SX200_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/564a75e3-5926-42a1-ab7d-77ca4a0580ab.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/19467182-79e9-4139-be4b-482ce49e4393.__CR0,0,200,225_PT0_SX200_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Derail H",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEXVMEYV23UAKBXMQYKR4DGOFKWQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3TTX1TPCNJU7K?ASIN=B07SG7BRPT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 28, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good shirts",
+                "reviewText": "Always great quality and fit from van Heusen. Great dress shirt and the fit is fitted. The colors are great too.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "TLB",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHLAL24CYXFRBPSDNVHHND7TJZHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3PC32H1RETAL6?ASIN=B07SG7BRPT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great quality",
+                "reviewText": "these shirts fit really nice, they are a crisp white, and they wash up real nice.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mike",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFLKO4IV3WEJXBIHZKZZ6KIDZVXA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3LJE9HN1HVQOC?ASIN=B07SG7BRPT",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 24, 2023",
+                "reviewTitle": "4.0 out of 5 stars Nice looking, but...",
+                "reviewText": "Perfectly fine for those in shape.. for us older folks whose chest has dropped to their waist, it's a pretty tight fit. I probably should've gotten a \"tall\" as there wasn't much to tuck into my trousers. Looks great, comfortable material.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Anthony P.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF4DOGVKLRVATOLYGO6XTPDYBOOQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R335KNNJQH8PAB?ASIN=B07SG7BRPT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Fit",
+                "reviewText": "I\u2019ve been looking for a deal like this for a while. I wanted some company branded shirts, but their supplier only offered standard fit shirts (that are oddly large around the torso).These are available in several colors. The fit is almost perfect (for me anyway), they\u2019re wrinkle free, and the price is right. I initially did a \u201ctry before you buy\u201d with three different colors. I liked them so much I paid for those and ordered a fourth.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mommy3670",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHOHJSJONW45GA3TISROGKLCXKQQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1YDN58VERPZHV?ASIN=B07SG7BRPT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 15, 2024",
+                "reviewTitle": "5.0 out of 5 stars Fits well",
+                "reviewText": "Good value. Looks very nice on my husband.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mdelrio",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFYKMQADNILFWU7HG2GSXFJXR7JA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1DE6IFBWFQ5A5?ASIN=B07SG7BRPT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 31, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great if you\u2019re in-between classic fit and slim fit",
+                "reviewText": "My stats (to help you choose a size):5\u2019 8\u201d / 210 lbs / chest 47\u201d / waist 36 (in Levi\u2019s) / biceps 16\u201d.Perfect fit for me: 17.5\u201d 34/35 (xl), feels tailored. A great option if a classic/regular size is too big, but slim fit is too tight. The fabric does have a very slight stretch to it, but not enough to matter. I wish it had a little more, but thats not a deal breaker. (Look at Van Heusen Fitted Stretch if you want more. Excellent shirts w/ same fit but very limited colors).I have a large 17 3/4\u201d neck, so I can\u2019t wear a tie, but the fit across chest is great. It\u2019s fitted around the belly, but not so much where it makes you look like sausage. You\u2019ll actually look leaner and more polished off. I\u2019m a little wide in the shoulders, so if I reach out, it\u2019s a little tight around the upper back. So I wouldn\u2019t take this shirt out dancing. If I got the 18\u201d version, it would fit at the neck, but too loose everywhere else . The 17 inch version would be way too tight.All in all, it\u2019s a sharp looking shirt that would be great for the office or out to dinner.",
+                "reviewVotes": "12 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "KJCKJC",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH24ZV64Q2R4CAYISGB2H2J7TOAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3L2R7TXCOW0F5?ASIN=B07SG7BRPT",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 31, 2023",
+                "reviewTitle": "3.0 out of 5 stars Wrinkle Free Shirt That\u2019s Absurdly Wrinkled",
+                "reviewText": "Decent shirt, although the material is a bit on the light side. When unwrapped, this shirt was badly wrinkled. So I washed it. Still wrinkled. I washed it again, no change. I washed it a THIRD time, and the accompanying picture was taken afterward. There is no way you\u2019re ever going to want to wear this \u201cwrinkle free\u201d shirt without ironing it. I would not purchase this shirt again. Buyer beware.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61ZvfrlpntL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Robert Henuber",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFKY4KVT5U64UVJWCDYFAPDIPCKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R15FRM9BKYINGT?ASIN=B07SG7BRPT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 2, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice fit for athletic build",
+                "reviewText": "Good choice for athletic/trim build guy, 17\" neck and 45\" chest at 6 feet tall and 190 lbs. 33 to 34\" sleeve and this shirt fit great. will go with my formal suit. So relieved that it fit well and is well constructed. Needed the 17 1/2 \" neck but the chest size would be larger, so learned to use the 17\" neck size and not fasten the collar button and use the tie a little loose fitting.Will buy again",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Robert R",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 27, 2023",
+                "reviewTitle": "Good fabric and a great look.",
+                "reviewText": "I used to wear only two types of shirts when I was working. Van Heusen was one of the styles and looks that I liked. They look super good dressy or casual. Neck fits well, sleeves ar long enough. As you can see there is a great choice of colours and sizes. These are a fitted shirt, so check your sizing. They do sell them in regular or Classic fit.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Eduardo Molina",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 25, 2022",
+                "reviewTitle": "Camisa con ajuste perfecto",
+                "reviewText": "Excelente camisa, de tela un poco gruesa ya que es poli\u00e9ster y algod\u00f3n de muy buena calidad.La talla es correcta con excelente ajuste y el largo de la manga como debe de ser.En si es una camisa muy recomendable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Crystal",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 25, 2022",
+                "reviewTitle": "Amazing shirt!",
+                "reviewText": "We have the hardest time finding shirts for my husband. He has a thick neck but average torso. Shirts are always perfect on neck but waaaaay too big or fit right but neck is too tight. This one is the best find! Will be purchasing more!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on January 14, 2024",
+                "reviewTitle": "Very nice and perfect",
+                "reviewText": "I like this product because it is so nice and valuable",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "A concerned Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 26, 2018",
+                "reviewTitle": "One Star",
+                "reviewText": "The shirt fits great but the buttons on the right cuff are in the wrong place!!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

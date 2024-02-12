@@ -1,0 +1,636 @@
+{
+    "remaining_requests": 17257,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Ariat-Female-Stretch-Whipstitch-Rainstorm/dp/B00TYPO9RW",
+    "body": {
+        "name": "ARIAT Women's R.e.a.l Mid Rise Boot Cut Jean",
+        "price": "$59.37 - $69.95",
+        "originalPrice": "",
+        "rawPrice": 59.37,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/ARIAT-Womens-Rise-Boot-Jean/dp/B0C5J5S3LK",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0C5J5S3LK"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B00TYPPARA",
+                "variationName": "Color",
+                "variationValue": "Marine",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41y2i+LU69L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00EQE5HRM",
+                "variationName": "Color",
+                "variationValue": "Spitfire",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41-4NSrFHOL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00IAOAROM",
+                "variationName": "Color",
+                "variationValue": "Ocean",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gGlPEqw0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00TYPOVJI",
+                "variationName": "Color",
+                "variationValue": "Rainstorm",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ayrFGV0rL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BN4OSIG",
+                "variationName": "Color",
+                "variationValue": "Lakeshore",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41P37uE8kyL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B014K1T0D2",
+                "variationName": "Size",
+                "variationValue": "25 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPO17K",
+                "variationName": "Size",
+                "variationValue": "25",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B014K1TH4E",
+                "variationName": "Size",
+                "variationValue": "28",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B014K1TLZ4",
+                "variationName": "Size",
+                "variationValue": "31",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPNYWS",
+                "variationName": "Size",
+                "variationValue": "32 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPPGJM",
+                "variationName": "Size",
+                "variationValue": "34 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B014K1TFTG",
+                "variationName": "Size",
+                "variationValue": "27",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPOPGW",
+                "variationName": "Size",
+                "variationValue": "26 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPPCJ6",
+                "variationName": "Size",
+                "variationValue": "32 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B014K1T9NI",
+                "variationName": "Size",
+                "variationValue": "31 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPOVJI",
+                "variationName": "Size",
+                "variationValue": "29 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FJT2Y8I",
+                "variationName": "Size",
+                "variationValue": "31 Extra Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPOTJU",
+                "variationName": "Size",
+                "variationValue": "28 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B014K1TKAA",
+                "variationName": "Size",
+                "variationValue": "30",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPPARA",
+                "variationName": "Size",
+                "variationValue": "31 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPOMTW",
+                "variationName": "Size",
+                "variationValue": "25 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPNU68",
+                "variationName": "Size",
+                "variationValue": "30 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B014K1TQPE",
+                "variationName": "Size",
+                "variationValue": "34",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B014K1TP0U",
+                "variationName": "Size",
+                "variationValue": "33",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00IAOARCY",
+                "variationName": "Size",
+                "variationValue": "30 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B014K1T7A8",
+                "variationName": "Size",
+                "variationValue": "29 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B014K1T3PM",
+                "variationName": "Size",
+                "variationValue": "27 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B014K1T1ZO",
+                "variationName": "Size",
+                "variationValue": "26 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B014K1T5IM",
+                "variationName": "Size",
+                "variationValue": "28 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPO9RW",
+                "variationName": "Size",
+                "variationValue": "29",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPO3FK",
+                "variationName": "Size",
+                "variationValue": "25 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPOJ5Y",
+                "variationName": "Size",
+                "variationValue": "33 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPO5G2",
+                "variationName": "Size",
+                "variationValue": "27 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B010961DAU",
+                "variationName": "Size",
+                "variationValue": "29 Extra Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPOBFM",
+                "variationName": "Size",
+                "variationValue": "30 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPOR7E",
+                "variationName": "Size",
+                "variationValue": "27 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPOE1I",
+                "variationName": "Size",
+                "variationValue": "31 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPPJ3U",
+                "variationName": "Size",
+                "variationValue": "30 Extra Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B010961AKI",
+                "variationName": "Size",
+                "variationValue": "28 Extra Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPPEAI",
+                "variationName": "Size",
+                "variationValue": "33 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B014K1TECE",
+                "variationName": "Size",
+                "variationValue": "26",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00EQE2MM0",
+                "variationName": "Size",
+                "variationValue": "32",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00TYPNIII",
+                "variationName": "Size",
+                "variationValue": "34 Extra Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07NP53VQP",
+                "variationName": "Size",
+                "variationValue": "34 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07NP2K97P",
+                "variationName": "Size",
+                "variationValue": "32 Extra Long",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41ayrFGV0rL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41sQPMxBjzL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61Ucm7Kn4rL.jpg"
+        ],
+        "imagesCount": 3,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/43862ca1-1656-4d79-a949-32cd3065285a/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the ARIAT Store",
+            "link": "https://www.amazon.com/stores/Ariat/page/5C580235-0937-42C9-B857-0EF70D457602?ref_=ast_bln"
+        },
+        "brand": "Ariat",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 8022,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "Bootcut leg jean in hand-sanded finish featuring thick contrast stitching",
+            "Slimming core control panels",
+            "Mid-rise back with darts to lift and flatter",
+            "Contoured no-gap waist band",
+            "Kindly refer last Image for sizing details"
+        ],
+        "description": "Featuring a combination of comfort and style, the R.E.A.L. Mid Rise Boot Cut Jeans for women will be a great addition to your wardrobe. Made of a performance blend of cotton, polyester and spandex, these stretchable women\u2019s jeans allow a great range of movement while holding their shape and flattering yours. These jeans add a modern twist to the classic country fashion. They have anchored belt loops that smartly hold a belt, providing a secure fit to the waistband. This pair of mid-rise pants falls right below the belly button and hug the waist, hip, and thigh. The back pockets allow you to keep your belongings safe as you go about your day. No matter what you need, there\u2019s an Ariat product made for you. Ariat works with global suppliers to develop new material that is lighter, cooler and more durable than anything else in the market. Every product, from hiking and work boots to western casual wear and English riding gear, gets field tested with people like you, enabling us to consistently raise the bar for functionality and style.Ariat is committed to building a different breed of company, one that reflects our core values as a team and those of our consumers. Our company values have shaped our success since 1993 \u2014 a commitment to innovation, quality, integrity, teamwork and respect.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Womens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1048188"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 13 x 9 x 1 inches; 1 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 10019536"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e January 27, 2016"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Ariat Womens Code"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B014K1T0D2"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#32,102 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #277 in Women's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 8,022 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Tough. Determined. Tested.",
+                "media_link": []
+            },
+            {
+                "media_text": "Explore Ariat Western Best-Sellers Delilah Western Boots R.E.A.L Mid Rise Boot Cut Jean Women's Dixon Western Boot Classy Appeal Ariat women\u2019s boots are perfectly paired with both western and work outfits. Made for Comfort These denim boot cut jeans are rider tested and thoughtfully engineered. Slip-On Practicality Features a cut out-side design detail that allows them to easily slip on. Anti-Slip Comfort Includes a Duratread heel, adding comfortability and noticeable support. Performance Fabric Designed with denim that promises to never sag, keeping that perfect fit all day Eye-Catching A classic design with quality build, make a style statement with every step. 4LR Technology Features Four Layer Rebound technology that provides optimum stability. Premium Features Contoured with a no-gap waist band. All Season Fashion Dixon Western boots can be paired with jeans or dresses for a western flair.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a7708178-69b2-4836-8e40-9c3ab67c3a8e.__CR0,0,300,225_PT0_SX300_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e70e3fe4-2b1d-444f-a21a-2a26e61b3378.__CR0,0,300,225_PT0_SX300_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f4fcb4a8-ba31-4818-b2ce-43240b46089b.__CR0,0,300,225_PT0_SX300_V1___.png"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac07aefe-a8c6-452d-8497-0e76b02a57d1.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/de8323fc-7d1f-43d3-a885-ee1be6a8f255.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3aa1865d-64c0-486e-81fa-ea4b027e2121.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a7708178-69b2-4836-8e40-9c3ab67c3a8e.__CR0,0,300,225_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e70e3fe4-2b1d-444f-a21a-2a26e61b3378.__CR0,0,300,225_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f4fcb4a8-ba31-4818-b2ce-43240b46089b.__CR0,0,300,225_PT0_SX300_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Amy",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AELPVPIMEUFMEOZ63KMBXSRWAFEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R8P8OOEDLK4EK?ASIN=B0C5J5S3LK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 5, 2021",
+                "reviewTitle": "5.0 out of 5 stars Nice fitting jeans",
+                "reviewText": "I may purchase a second pair. The quality of the denim is not cheap. These jeans will last many years and I feel with the softness and quality of the denim they will only get better with age. There is a nice soft cotton fabric sewn on the inside of the waistline with a pretty paisley pattern. The button in the front is a fancier button with a cute design on it. The stitching over all is nice and the design on the back pockets and the position of them are flattering. They fit nicely on the hips too. They are slightly long on me but I have short legs, but with a not too high boot or heel they will be the perfect length. Overall I am very satisfied with the product. The price was a little high but I am a firm believer you get what you pay for and I am willing to pay the price for a good quality product. Same with sneakers or bras . . . . some things you just shouldn't skimp on.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "BergyFamBergyFam",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AERKZNCDYB7RMHLHCYS2JNQIRF6A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RVZHW2KPJ72VS?ASIN=B0C5J5S3LK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 28, 2022",
+                "reviewTitle": "5.0 out of 5 stars Excellent rise and high cotton content for those that like jeans from the 2000\u2019s",
+                "reviewText": "These are a high cotton content, low stretch true denim jeans. I like jeans without any stretch; these have some but not too much. The mid rise sits low enough that my belt sits in that sweet spot just below my actual hip bone. They give me muffin top but all my jeans do that and it doesn\u2019t bother me. They are long enough to make a nice pile on top of my shoes, which I like. There are darts next to the back pockets that allow them to hug the butt nicely. Roomy front pockets big enough for my hands with back pockets big enough for my Otterboxed iPhone. I am 5\u20195\u201d and 127-129lbs depending on the day and I ordered size 27R in Ocean color. I debated getting size 28R but am glad I went with the smaller size so they wouldn\u2019t be baggy.***Update: washed and worn = my new favorite pair of jeans. Washed in cold water, dried on ultra low. They fit a tiny bit snugger after washing now but not much, certainly not enough to order a size up. The fit on these jeans is unbelievable. They are perfect butt huggers. I wear my jeans for 3 days between washes and I\u2019m on day 2 right now. They don\u2019t loosen up as the day goes on and they don\u2019t wind up being too baggy after wearing them for 2 days. No saggy crotch here, no hiking them up; just perfect.Oh, and something I didn\u2019t notice before but is a wonderful feature on the jeans is the extra right and left belt loop in the back. 7 belt loops to support the length of your belt will keep your belt from ever coming over the top band on your jeans when you bend over or squat down. These jeans pair perfectly with my 10 year old Ariat Fatbaby Center Stitch belt. Highly recommended!",
+                "reviewVotes": "31 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61E5zI9SQXL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/7140uWLu2cL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71AJTIhn6vL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71ZDbbB9TSL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGONG5OMZESZVVKXAMVSHVMSFGRQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3VB0582T1VZQ3?ASIN=B0C5J5S3LK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 3, 2021",
+                "reviewTitle": "5.0 out of 5 stars Best quality, best fitting jeans in YEARS/decades.",
+                "reviewText": "I am 5'11\", 143 - 150 lbs (depending on the week), size 8. In shape, but not as good of shape as i'd like. I'm actually 5 feet 11 and a half inches. I got the size 29 waist, extra long, mid-rise, boot-cut Ariat Jeans, I think, the whipstitch, not sure. With vans shoes, they drag on the ground, and I roll them up to not ruin the bottom of the legs. In my workman's square-toed country boots, they barely don't drag on the floor. The extra long is perfect for my height. Why should short girls be the only ones who get to have jeans that touch the floor? They seem like they're 37\" inseams. Also, I usually get Alloy Apparel jeans (because they cater to tall girls), but I took a chance and got these Ariats for the first time. I didn't even know Ariats sold extra long jeans. They far exceed in quality. The jean material is nice and sturdy. Reminds me of the days back in the 80's & 90's when jeans were thicker, and didn't feel so thin and stretchy. These Ariat jeans do have a little stretch, but it's not ridiculous. It's the perfect percentage of stretch. The mid-rise are not as high as I thought they would be, considering all I've bought for the last decade is low-rise. I now love mid-rise. It's not mom-pants high-waist, but not so low you show crack every time you bend over a little. I never need a belt to keep the jeans from sliding down too low when I bend over. It's really very flattering on the female figure. These jeans are extremely flattering. Best looking jeans I've ever had. I bought three pairs of new jeans recently, now that I'm getting back to my pre-baby size: Alloy, Ariat, and Maurice's. All boot-cut. Ariat's win. They are the best quality, best cut, best material, best design. They are the best. Now I want to buy more Ariats, because I find myself wearing the Ariats over and over, and only putting on the other guys when I don't have time to wash the Ariats.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGAGOBIMZGVFTSKOOYHEF5PB7LUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3C2BZQRD4INTP?ASIN=B0C5J5S3LK",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 1, 2023",
+                "reviewTitle": "4.0 out of 5 stars Love the jeans, but sizing is wacky",
+                "reviewText": "After previously purchasing this same style in 27 Regular -- which was way, way too long -- I ordered the same size in Short. The shorter length was great, but I could not even button the waist! I was really surprised because the 27 Regular size was actually a bit loose. It seems to me the two pairs should have fit me the same except for the length. In any event, I really like the cut, style, color and quality, and I hope to be able to figure out the sizes. For reference, I'm 5'4\" and 103 lb.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHZGCX2F2YGXRVG3XRVVMTOSCQ3A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3M6H091NZGHBS?ASIN=B0C5J5S3LK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars You can't go wrong with Ariat. They are a great fit and super comfortable.",
+                "reviewText": "Thanks so much. They fit amazing.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "AmberAmber",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG7XWFITITVCIJVS3UJ4ZBNVT32Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RBJ9K3QPUJ4KA?ASIN=B0C5J5S3LK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 12, 2023",
+                "reviewTitle": "5.0 out of 5 stars Almost perfect",
+                "reviewText": "This is my third pair from this brand and still surprised at the quality. I can wear them multiple days and they don't stretch out, pockets are a decent depth and my booty looks good, lol. There is a small area where the stitching is coming undone, but I already wore them before noticing. Just check everything when you first open package.I'm about 5'6-5'7 and regular is long for me. My cousin is about 5'9 and length was perfect for her with shoes on. I have to fold the buttons so they don't drag, cheap to get tailored but I'm lazy. Honestly good jeans are impossible to find unless you enjoy skin tight and high rise, yuck. These jeans take me back to happy days in the 90s.",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/7182RDDslvL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71N5TuDPrqL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71cBDSUoTFL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81KSyvYIoIL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81j8rWQqUyL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "lindajune",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFHWEW65O4BA2QIYIV6RJNY6VXRA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3L1U610LK6A3X?ASIN=B0C5J5S3LK",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "3.0 out of 5 stars Didn\u2019t fit right",
+                "reviewText": "The fit was off but very nice jeans",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MONICA  C IBARRA RAMOS",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 7, 2024",
+                "reviewTitle": "cierre o zipper.. de baja calidad.",
+                "reviewText": "Me quedo perfecto... y me encanto como se me ve, sin embargo... cierre o zipper.. de baja calidad.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Paloma H.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 29, 2023",
+                "reviewTitle": "S\u00faper c\u00f3modos!",
+                "reviewText": "Son s\u00faper c\u00f3modos!!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lgh",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 26, 2023",
+                "reviewTitle": "Me quedo bien.",
+                "reviewText": "Me quedo perfecto, ped\u00ed 26 regular y mido 1.65 con 58 kg es un Jean apto para bota gruesa y Justo por eso lo ped\u00ed. Llego pronto y en buenas condiciones. Espero dure mucho como lo comentan.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Grizzly700",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 13, 2023",
+                "reviewTitle": "Awesome jeans",
+                "reviewText": "Comfortable jeans great fit had them for over year still fit great and no rips yet would buy more if the price wasn\u2019t $100 dollars",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ANUAR FAJER ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on May 8, 2023",
+                "reviewTitle": "Perfecto",
+                "reviewText": "C\u00f3modo y la talla queda como esperaba",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

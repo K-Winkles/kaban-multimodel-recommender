@@ -1,0 +1,606 @@
+{
+    "remaining_requests": 17444,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/GRACE-KARIN-Womens-Cardigan-Sweater/dp/B07D3153M5",
+    "body": {
+        "name": "GRACE KARIN Women's Long Sleeve Button Down Crew Neck Classic Sweater Knit Cardigan",
+        "price": "$29.99",
+        "originalPrice": "",
+        "rawPrice": 29.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/GRACE-KARIN-Classic-Sweater-Cardigan/dp/B07PG8MHDC",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B07PG8MHDC"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B099ZS76K1",
+                "variationName": "Color",
+                "variationValue": "01black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31VGIrUSLOL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B099ZQV3S2",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LkaIXGtTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B099ZTBPYC",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31HntFm+VXL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B099ZRGVG1",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41StH7vXwsL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B099ZS189G",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/315P+97LCxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08H52HG4V",
+                "variationName": "Color",
+                "variationValue": "Acid Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41OysioCH2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B087C4KDTL",
+                "variationName": "Color",
+                "variationValue": "Blue Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41xU0CebkWL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07RGSSL56",
+                "variationName": "Color",
+                "variationValue": "Camel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31BImJZOc4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B087C3X2W8",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41djLvVtOjL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07VF44XND",
+                "variationName": "Color",
+                "variationValue": "Heather Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41z2hw+n-EL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0829KCNGC",
+                "variationName": "Color",
+                "variationValue": "Lemon Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31BBbkPTtQL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08H54DV33",
+                "variationName": "Color",
+                "variationValue": "Light Apricot Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZMSfrHM4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07RLYQ2DT",
+                "variationName": "Color",
+                "variationValue": "Light Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41KoaZfKEFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B087C5S9RL",
+                "variationName": "Color",
+                "variationValue": "Midnight Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4101+VKjJiL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07VK46HBN",
+                "variationName": "Color",
+                "variationValue": "Rose Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Y2ZPHD+ML._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07X5TZN6K",
+                "variationName": "Color",
+                "variationValue": "Army Olive",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41v4KlD6zbL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B087C4CHW9",
+                "variationName": "Color",
+                "variationValue": "Baby Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41kgDaNPdWL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0829K9Y8W",
+                "variationName": "Color",
+                "variationValue": "Cerulean",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wr0AILFWL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07WZS5L2R",
+                "variationName": "Color",
+                "variationValue": "Coffee",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41No4mERC8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07Z98XSFD",
+                "variationName": "Color",
+                "variationValue": "Grey Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41nlbHPZ70L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07Z9998FH",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31WghOQ7FNL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0829K4VGP",
+                "variationName": "Color",
+                "variationValue": "Royal Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HsCZWKDfL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B099ZQYS6Z",
+                "variationName": "Color",
+                "variationValue": "Heart-pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gHLc-ZWzL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07X2WNTCP",
+                "variationName": "Color",
+                "variationValue": "Mustard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EJT2c0FHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08H4S2B7R",
+                "variationName": "Color",
+                "variationValue": "Aliceblue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Y7LIYYFRL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B099ZSF5J3",
+                "variationName": "Color",
+                "variationValue": "Heart-black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jsc7kpXoL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C9PSJMDR",
+                "variationName": "Color",
+                "variationValue": "Feather-apricot",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31xzmlq8CLL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C9PFW6KC",
+                "variationName": "Color",
+                "variationValue": "Feather-black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31wkN2xEb6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B099ZS189G",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D34L88L",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D35YBGW",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D3153M5",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D33ZXHG",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D31F8XN",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07Z95CM5V",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41guNUx3Q3L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41EfYNHLuiL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/510yv2IONkL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41PnFyLFSZL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41STQKhRo7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41OgP7i7AyL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51 IeAc60PL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ba348874-9f0f-48f1-aa40-09becbf19ce8/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d8d061aa-1f4c-40ee-bb18-da3a8ea420d7/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6cbe4104-e163-48ea-a63b-ae132232ed0d/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c6ae00e6-0acb-443d-9cf4-b3da68dfa6df/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 4,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the GRACE KARIN Store",
+            "link": "https://www.amazon.com/stores/GRACEKARIN/page/87C34C1F-156A-4E73-AFA0-7C19974B4580?ref_=ast_bln"
+        },
+        "brand": "GRACEKARIN",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 11657,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 65% Viscose, 35% Acrylic",
+            "Origin Imported",
+            "Closure type Button",
+            "Weave type Knit",
+            "Comfortable and Versatile Sweater,Be made of stretchy breathable fabric,not too thick or thin,and fit well , keep cozy.",
+            "Classic long sleeve button down sweater knit cardigan,solid color crew neck.Size available from XS to 3XL.",
+            "This lightweight cardigan with a fitted design that flaters your figure, classic solid color and knit for a unique style, you'll feel confident and comfy in this solid color cardigan.",
+            "Comfortable thin fabric which is perfect for office,summer nights and spring ,Cardigan such a year-round essential! with your dress , jeans for a casually chic look.",
+            "Our SIZES run differently from Amazon's, please be sure to compare the size chart before you order."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Sweaters",
+                "link": "https://www.amazon.com/Womens-Sweaters/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1044456"
+            },
+            {
+                "name": "Cardigans",
+                "link": "https://www.amazon.com/Womens-Cardigans/b/ref=dp_bc_aui_C_5?ie=UTF8&node=1044612"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.58 x 9.84 x 1.38 inches; 8.82 Ounces"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 21, 2021"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B099ZS76K1"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#7,626 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #44 in Women's Cardigans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 11,657 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Women's Classic Long Sleeve Button Down Crew Neck Classic Sweater Knit Cardigan A lightweight layering piece for spring and summer. Soft to the touch., the seams, buttons and buttonholes are all well done.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/370c9e9d-da52-42c8-964c-dbaddf08d432.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+                ]
+            },
+            {
+                "media_text": "Classic button down sweater knit cardigan.Size available from XS to 3XL.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/680ac7e9-5698-45f3-8821-c01ff4ef52a1.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+                ]
+            },
+            {
+                "media_text": "Please be sure to compare the size chart before you order.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e6c718d-d804-48e1-8712-73196443918d.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+                ]
+            },
+            {
+                "media_text": "Womens Love Heart Pattern Print Button Down Cardigan Sweater",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/370c9e9d-da52-42c8-964c-dbaddf08d432.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/680ac7e9-5698-45f3-8821-c01ff4ef52a1.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2659e720-4a07-4e38-8cf4-ba63dbb8bfad.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7e6c718d-d804-48e1-8712-73196443918d.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Jennifer Jentzsch",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGFSHQRNBG4LXO7NQHQ6ZKQS7K5Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3OCLU44JCIWAB?ASIN=B07PG8MHDC",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great staple to your wardrobe",
+                "reviewText": "Fit is just a tad small so I went up a size and like the fit. The colors are accurate except the white. I have the blue, black, and white. The white is too thin and see through. It\u2019s very soft and comfy, buttons are secure. Very happy with it (aside from the white one).",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Barbra Barnes",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEZBH5UEEXUVIB4AW66CIIGDQR7Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R5SN0QJSPDAYL?ASIN=B07PG8MHDC",
+                "reviewRating": "2.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 26, 2020",
+                "reviewTitle": "2.0 out of 5 stars Holes after a few wears!",
+                "reviewText": "I'm REALLY disappointed in this sweater. It's gorgeous. Nice fabric. The detailed embroidery is really beautiful. But, I have two holes where the sleeves are attached to the bodice. This sweater wasn't cheap and the holes after only a few wears is really disappointing! Not what I e come to expect from this brand.",
+                "reviewVotes": "8 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "cmp1079",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGD5WSXXIEPO6USJRDZV4QF2LHUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1X17ZJH2FY30D?ASIN=B07PG8MHDC",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 13, 2023",
+                "reviewTitle": "5.0 out of 5 stars LOVE these cardigans!",
+                "reviewText": "I'm trying to write more reviews, both good and bad, because I rely on them so much when I buy things. This is truly a glowing review, and that doesn't happen often! I struggle with finding clothes that 1. I REALLY like 2. Fit well (and consistently, when buying multiple of an item) and 3. Are priced within my budget. These cardigans seem to check all of those boxes. I'd never bought clothing from Grace Karin before, but that's changing! I purchased the grey-blue and cerulean colored cardigans in a size S (I'm 5'5\", 110lbs). Both cardigans fit the same (one would think the same size in a brand would fit the same in any color, but it seems to be a rarity!), and they fit well. There's definitely enough room for a short-or-long-sleeve shirt to go underneath, but they weren't too big or loose/baggy. The material was unexpectedly very soft...softer than other brands I've tried recently, and the colors were deep, vibrant and beautiful. The grey-blue looks more like a grey-purple in person, but that's actually what I was hoping for. I bought these on a \"deal\" for just under $21, which i think is very reasonable, especially considering the good quality. It has been a long time since I've had an automatic \"go-to\" when buying clothes, but after receiving the cardigans today, I bought 3 more! If you couldn't tell, I highly recommend these (and I didn't get them for free nor was I asked to review them!)! ;)",
+                "reviewVotes": "34 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rosa Lee Ryan",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH2DCLSO7F2FXBCJKSFY2SFDPUWQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1MXRZ1HPB2P52?ASIN=B07PG8MHDC",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 4, 2023",
+                "reviewTitle": "4.0 out of 5 stars Nice lightweight sweater",
+                "reviewText": "It is a beautiful color & fits perfectly. Great addition to any wardrobe for cool weather. It\u2019s lightweight knit & soft, with a button up front. Great for casual wear or can be dressed up with accessories for evening.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Chris W.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGH2XQYG73MNDPBHS4W2QAWEIGOQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3UWJAN8XPT5TY?ASIN=B07PG8MHDC",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "5.0 out of 5 stars More Flattering than the picture shows",
+                "reviewText": "Very true to size. This isn't a loose fitting garment, so order a size up if you like it that way. The color is amazing and beautiful, looks expensive.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Melissa",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE5TJFYB7MW7OWFGZ6ITZ3LJH2CA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2REJQCMWSMKM5?ASIN=B07PG8MHDC",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 15, 2023",
+                "reviewTitle": "5.0 out of 5 stars Nice sweater",
+                "reviewText": "Nice fabric, plenty large, true to size, made well. I would hand wash to preserve quality",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "bsstockdogs",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFU2Q2QXKZ244ORC57BP3SL2CFKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1QPJA6IQKQ8Q0?ASIN=B07PG8MHDC",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 7, 2023",
+                "reviewTitle": "3.0 out of 5 stars Runs small",
+                "reviewText": "I ordered a 3x it\u2019s like a large. It\u2019s good quality and fits well. ( for the person I gave it too) Just isn\u2019t true to American sizing.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Selma",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGXBCSHFW5FJKO4NFD3IZ7WSD7CA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1N55U5NRFY731?ASIN=B07PG8MHDC",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 30, 2024",
+                "reviewTitle": "5.0 out of 5 stars So cute",
+                "reviewText": "Perfect sizeCute and perfect for valentines and special occasionsNot too thin or too thick, very comfortable and lots of compliments \ud83d\udc95",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Adrienne Bell",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 13, 2024",
+                "reviewTitle": "Fits really nicely",
+                "reviewText": "Really great fit. I bought a Medium, I\u2019m 5\u20197 and 165lbs. I have muscular arms and the sleeves aren\u2019t too tight like most cardigans.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Scamp",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 22, 2023",
+                "reviewTitle": "Long sleeved cardigan",
+                "reviewText": "Liked the accurate fit",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 10, 2023",
+                "reviewTitle": "Great quality",
+                "reviewText": "Love this, such great quality and washes well.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Taz",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 18, 2023",
+                "reviewTitle": "good quality but thinner than I expected",
+                "reviewText": "Good quality and shape. The material is thinner than I expected though.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "winnie st.germaine",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 28, 2023",
+                "reviewTitle": "Exactly what I wanted",
+                "reviewText": "Color, size, and texture, we're what I was hoping to receive",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

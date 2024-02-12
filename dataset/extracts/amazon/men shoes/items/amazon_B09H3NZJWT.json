@@ -1,0 +1,787 @@
+{
+    "remaining_requests": 15761,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/New-Balance-Marblehead-Castlerock-Metallic/dp/B09H3NZJWT",
+    "body": {
+        "name": "New Balance Men's Fresh Foam Arishi V4 Running Shoe",
+        "price": "$41.38 - $69.99",
+        "originalPrice": "",
+        "rawPrice": 41.38,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/New-Balance-Fresh-Arishi-Running/dp/B09K52X9QR",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09K52X9QR"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0BHKLWMMM",
+                "variationName": "Color",
+                "variationValue": "Blacktop/Hot Marigold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41yncRhAmUL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BHKSNW2N",
+                "variationName": "Color",
+                "variationValue": "Quartz Grey/Brick Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31aH9HMjeNL._SS47_.jpg"
+            },
+            {
+                "asin": "B09H3N3QDH",
+                "variationName": "Color",
+                "variationValue": "Black/Magnet",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31VlXfU-0lL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BHJRDM21",
+                "variationName": "Color",
+                "variationValue": "Blacktop/Angora Fuzz",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31cz2VUynAL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BHKNXXNM",
+                "variationName": "Color",
+                "variationValue": "Marine Blue/Hot Marigold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41O6VxYaZIL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XRGT7L2",
+                "variationName": "Color",
+                "variationValue": "Black/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/418BaloXvKL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BHJPGT37",
+                "variationName": "Color",
+                "variationValue": "Black/Black Metallic/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31VO6mMZTtL._SS47_.jpg"
+            },
+            {
+                "asin": "B0C29N612Q",
+                "variationName": "Color",
+                "variationValue": "Black/Castlerock/Angora",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31LBNLhD9CL._SS47_.jpg"
+            },
+            {
+                "asin": "B09H3NSQCQ",
+                "variationName": "Color",
+                "variationValue": "Black/Pixel Green/Cobalt",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ewVVCH5OL._SS47_.jpg"
+            },
+            {
+                "asin": "B09H3PMW51",
+                "variationName": "Color",
+                "variationValue": "Black/Silver Metallic/Gum 2",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Fsuw45GCL._SS47_.jpg"
+            },
+            {
+                "asin": "B0C29GXRJY",
+                "variationName": "Color",
+                "variationValue": "Dolce/Gold/Angora",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31wJqSXS2YL._SS47_.jpg"
+            },
+            {
+                "asin": "B09H3PGJCH",
+                "variationName": "Color",
+                "variationValue": "Marblehead/Castlerock/Silver Metallic",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31pV9XvlI0L._SS47_.jpg"
+            },
+            {
+                "asin": "B0C29K8PFX",
+                "variationName": "Color",
+                "variationValue": "Nb Navy/Vintage Indigo/Angora",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/314oOs6XUBL._SS47_.jpg"
+            },
+            {
+                "asin": "B09K4QJ9TG",
+                "variationName": "Color",
+                "variationValue": "White/Light Aluminum/Silver Metallic",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/315J35E+XoL._SS47_.jpg"
+            },
+            {
+                "asin": "B09H3NXPBL",
+                "variationName": "Color",
+                "variationValue": "Vintage Indigo/Natural Indigo/Gum 2",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rJrLiXaGL._SS47_.jpg"
+            },
+            {
+                "asin": "B09YGBL5NB",
+                "variationName": "Color",
+                "variationValue": "Neon Dragonfly/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Jy8CUw4NL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XRFGHJX",
+                "variationName": "Color",
+                "variationValue": "Grey/Gum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31obqpAarjL._SS47_.jpg"
+            },
+            {
+                "asin": "B09YGXKWWW",
+                "variationName": "Color",
+                "variationValue": "Heritage Blue/Hot Marigold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41AlE+NMMFL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XRD4W17",
+                "variationName": "Color",
+                "variationValue": "Blacktop/Gum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41khstsl7vL._SS47_.jpg"
+            },
+            {
+                "asin": "B09H3PTDYJ",
+                "variationName": "Color",
+                "variationValue": "Crimson/White/Silver Metallic",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31diPej5T4L._SS47_.jpg"
+            },
+            {
+                "asin": "B09H3NVG1G",
+                "variationName": "Color",
+                "variationValue": "Blue Groove/White/Silver Metallic",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ghbn1IqTL._SS47_.jpg"
+            },
+            {
+                "asin": "B09H3MNXZJ",
+                "variationName": "Color",
+                "variationValue": "Cedar/Electric Red/Timberwolf",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41f1tSar1dL._SS47_.jpg"
+            },
+            {
+                "asin": "B09H3NC123",
+                "variationName": "Color",
+                "variationValue": "Grey/Pixel Green/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310KraX0XLL._SS47_.jpg"
+            },
+            {
+                "asin": "B09H3NHT2K",
+                "variationName": "Color",
+                "variationValue": "Black/Magnet/Electric Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41moErs0-GL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BHKRQ3FV",
+                "variationName": "Color",
+                "variationValue": "Marine Blue/Hot Marigold Fuzz",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41uNmDyXbjL._SS47_.jpg"
+            },
+            {
+                "asin": "B09H3NZJWT",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHKM4YXH",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3QH1ZY",
+                "variationName": "Size",
+                "variationValue": "7 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3MFNNB",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHL1Q8JH",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3NMYXG",
+                "variationName": "Size",
+                "variationValue": "7.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3N2MW5",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHK9TT5C",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3NW9HG",
+                "variationName": "Size",
+                "variationValue": "8 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3NW3YT",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHKHSF81",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3NK3SC",
+                "variationName": "Size",
+                "variationValue": "8.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3NJQPJ",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHKSR6T3",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3P68LF",
+                "variationName": "Size",
+                "variationValue": "9 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3NXTY5",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHKP1YC3",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3PGJCH",
+                "variationName": "Size",
+                "variationValue": "9.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3N79N7",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHKQG8TH",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3M3RZ7",
+                "variationName": "Size",
+                "variationValue": "10 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3NKN4C",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHJPCTNV",
+                "variationName": "Size",
+                "variationValue": "10.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3PDNMR",
+                "variationName": "Size",
+                "variationValue": "10.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3NQC3T",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHKRPS6P",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3MS7WV",
+                "variationName": "Size",
+                "variationValue": "11 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3Q2X37",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHKMQB9T",
+                "variationName": "Size",
+                "variationValue": "11.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3Q28CK",
+                "variationName": "Size",
+                "variationValue": "11.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3PP78Q",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHKQPK32",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3N4NKD",
+                "variationName": "Size",
+                "variationValue": "12 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3P735J",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHL1K9RQ",
+                "variationName": "Size",
+                "variationValue": "13 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3PHZ4X",
+                "variationName": "Size",
+                "variationValue": "13 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3P3YV6",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHKKKR45",
+                "variationName": "Size",
+                "variationValue": "14 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3NHL8T",
+                "variationName": "Size",
+                "variationValue": "14 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3NKK5D",
+                "variationName": "Size",
+                "variationValue": "15",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BHKGD7JK",
+                "variationName": "Size",
+                "variationValue": "15 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09H3NFV3T",
+                "variationName": "Size",
+                "variationValue": "15 X-Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31pV9XvlI0L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31f4g2VR 0L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41kdLTvMwhL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/410MTGaNGvL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31ZcujJvX9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51RNDhJszKL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51-ttsBkSzL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b3db9cb4-05c3-4534-ab9a-ad32a31db09a/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the New Balance Store",
+            "link": "https://www.amazon.com/stores/NewBalanceAthleticShoeInc/page/855D4CDF-ADB7-4BE8-9E26-A085D029E4B5?ref_=ast_bln"
+        },
+        "brand": "NewBalanceAthleticShoeInc",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 3073,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Sole material Rubber",
+            "Outer material Rubber,Mesh,Suede",
+            "Fresh Foam midsole cushioning is precision engineered to deliver an ultra-cushioned, lightweight ride",
+            "Mesh upper with suede and knit hits",
+            "Upper features no-sew overlays for a sleek fit and feel",
+            "Textured logo and embroidered details",
+            "Durable rubber outsole"
+        ],
+        "description": "The versatile Fresh Foam Arishi v4 men\u2019s shoes from New Balance blend engineered cushioning with athletic style. Hits of suede and knit along with a textured logo and embroidered detailing create an elevated everyday look you can wear anywhere. A lightweight Fresh Foam midsole, breathable mesh upper, and durable rubber outsole make sure you arrive in comfort.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/Mens-Shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679255011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Mens-Sneakers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127770011"
+            },
+            {
+                "name": "Running",
+                "link": "https://www.amazon.com/Running-Mens-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679286011"
+            },
+            {
+                "name": "Road Running",
+                "link": "https://www.amazon.com/Mens-Road-Running-Shoes/b/ref=dp_bc_aui_C_6?ie=UTF8&node=14210389011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 12.52 x 7.95 x 4.72 inches; 1.37 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e MARISCP4"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e June 1, 2023"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e New Balance"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0BHKNGWJP"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,307 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #10 in Men's Road Running Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 3,073 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Previous page Next page",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sota/14cf0001-e2f5-4b6b-8168-0fdb49d783ca.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/00cbfb7e-9789-4662-a92a-b45d89cc5fdc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/30d01dae-5d69-432a-b576-a9342f5c068d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/66426a14-7b12-4c12-8789-4c9867b28b83.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/9f12498b-b06b-4a9e-bc9c-5abcdee7481a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Jose Rodriguez",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF2G76IFIOIMAHTNOZCCDCPWOSFA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R33ST7BFC9JOA8?ASIN=B09K52X9QR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 25, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfortable and great quality kicks",
+                "reviewText": "I recently purchased a pair of New Balance Men's Fresh Foam Arishi V4 Running shoes, and I couldn't be happier with my new kicks. These shoes have truly elevated my running experience to another level.First and foremost, the comfort and cushioning provided by the Fresh Foam technology are outstanding. It feels like walking on clouds! The cushioned midsole absorbs impact effectively, providing a gentle landing with each stride. Whether I'm running on pavement or hitting the trails, my feet remain well-supported and pain-free throughout my entire run.I am also impressed by the breathability of these shoes. The mesh upper allows ample airflow, preventing my feet from feeling sweaty or overheated, even on longer runs. Additionally, the fit is perfect; the shoes wrap snugly around my feet without feeling constricting.Another aspect I love about these New Balance shoes is their versatility. They are not only great for running but also perfect for everyday wear. The sleek and stylish design goes well with various outfits, making them suitable for different occasions.Durability is yet another aspect worth mentioning. These shoes are built to last. I have been using them for a few months now, and they still look and feel brand new. The robust construction gives me confidence that they will withstand the test of time.In summary, the New Balance Men's Fresh Foam Arishi V4 Running shoes are an absolute delight. From their exceptional comfort and breathability to their versatility, anti slip grip and durability, they tick all the boxes for what I want in a running shoe. I highly recommend these shoes to anyone looking for a superior running experience.",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGQSAINEOWRMNFUFUMHQMLSOJJHQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RFBN8ZCFB1YTU?ASIN=B09K52X9QR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 20, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good Price, Great Shoe",
+                "reviewText": "Considering how expensive some shoes are, I turned to these as a cheaper option as something I can get dirty or not have to worry about keeping clean and nice. But I actually choose to wear them over some of my other shoes sometimes because they are actually very comfortable and they fit amazingly (to my feet\u2026size 11 men\u2019s). The memory foam on the sole is really comfortable and feels nice when you walk. My only \u201cissue\u201d would be that about a month of having them, the memory foam is not as comfortable or powerful as it was at first, but that is pretty much expected with memory foam as you begin to wear and tear it a little, so no real complaints from me.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ozkar Torrez",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGGS4WUIQA2KKDDE7YLCUOCHGPWQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1RWU72HA95ZZO?ASIN=B09K52X9QR",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 10, 2024",
+                "reviewTitle": "4.0 out of 5 stars Fit was great",
+                "reviewText": "Good soft and reliable for walking and running",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "William D. Motes",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGK6UZ6WZGKQVXZQ7KBORLV3C2GA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R20O09DS7MMRAH?ASIN=B09K52X9QR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very comfortable",
+                "reviewText": "Great show for the money and very comfortable. I was pleased by the comfort if these shoes the moment I put them on. Having a very wide foot, it has always been difficult to get a good shoe to feel good on the first try, these surpassed my expectations. Comfortable, and quite stylish. I first wore them touring the Mayan pyramids. It was an all day walk, and at the end of the day, my feet felt better than i could ever imagine. I have since been using them to walk daily, and they continue to impress. Seem to be very sturdy and have held up to the daily routines. Well worth the price I paid, and will buy a second pair in the near future. Highly recommend!",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Chris",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE65NTSYHR3IFCGCSTMDFVEZMYIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RCVX0EJ03MKTJ?ASIN=B09K52X9QR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 21, 2023",
+                "reviewTitle": "5.0 out of 5 stars Light and comfortable",
+                "reviewText": "I've been using Nike Pegasus for years but they have changed so much that the last couple versions have just felt different. Tried replacing with other Nike, Asics, Adidas, but none were as nice fitting as the first pair of Pegasus I had, until these. They feel very light (almost cheap), but when I put them on, they are perfect. Arch support is okay (definitely not super firm). But it just hugs the foot very comfortably. Cushioning is super comfortable. Look is obviously subjective, but I think they look great - better than the Amazon pics. So, I think I found my new everyday shoe.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Brandon A Music",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGZTBB2XNKYGRKLS6VKAPTEZ75MA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1MZDU5OPA1BYZ?ASIN=B09K52X9QR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 4, 2024",
+                "reviewTitle": "5.0 out of 5 stars Durable for price point!",
+                "reviewText": "I'm normally very rough on shoes. These have withstood 4 months with no fraying or broken laces. They're very worth the value in my opinion. I'm very impressed with the durability and functionality of the shoe. I will more than likely be buying these again, if the ones I got now ever do wear out, or I want a different color option.The shoes are definitely meant for runners/athletes. The aerated front portion of the shoes ensures that your foot maintains cover of airflow which substantially cuts down on smells from trapped perspiration. Obviously, ordering a size 15 tells you that I'm a big guy. However, the sole of the shoes has been outstanding. The heel portion does not leave me sore and the ball-of-foot portion does not leave me feeling like I have pins/needles in my foot after a run.I put them through the test of all tests for wearing shoes. They survived 4 days of 17,000+ steps in Walt Disney World parks (Orlando, Florida) during the day. No intention of throwing shade, but I purchased a pair of shoes from Disney Springs at a whopping $150 dollars that didn't make it past 7 months - it was a big brand that has celebrity collaborations!As far as shoes go, and I'm not just saying this because shoes are normally so expensive for me due to my size, these compare with a pair of Asics as far as comfortability and durability. They don't quite meet Merrill quality, but if they tweaked the materials they use for the sole without sacrificing price going with a Vibram sole, they could be very close.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Naman",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE7Y4LUEJKVCQTT547PFZH4NDDLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RDETS1LFKVP67?ASIN=B09K52X9QR",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "3.0 out of 5 stars Good shoes but not durable",
+                "reviewText": "I have been using these shoes for 4 months now. They are really comfortable and have a good fit. But just after 4 months the mesh in the shoes has started tearing up, I have a hole in the shoe with not much usage to the shoe apart from walking and playing badminton.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Darryn r.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGUW3D2NU7HKC7OV7YZVYF5H4QAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3LRGGI9Z67142?ASIN=B09K52X9QR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 16, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great pair of sneakers",
+                "reviewText": "Stick with your normal shoe size . I\u2019m glad I did. They will feel tight at first but after wearing a couple times they will be the most comfortable shoe you ever wore",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Aroof",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 27, 2024",
+                "reviewTitle": "comfee",
+                "reviewText": "fresh form is very good support for daily walking, extra wide made it even better.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "V\u00edctor Said Guzm\u00e1n",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 12, 2024",
+                "reviewTitle": "Excelente Producto",
+                "reviewText": "Cumplieron las espectativas, c\u00f3modos, relajantes y frescos, talla adecuada...Son magn\u00edficos",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Christian",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 23, 2023",
+                "reviewTitle": "Tal cual la imagen bonitos y comodos",
+                "reviewText": "S\u00faper c\u00f3modos",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Raul Pimentel Maldonado",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 30, 2023",
+                "reviewTitle": "Llegaron buen, a tiempo y son tal cual se.promocionan.",
+                "reviewText": "Talla justa, buena calidad y llegaron en tiempo y forma. Los volver\u00eda a pedir.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Excelentes tenis, c\u00f3modos, muy ligeros y entrega r\u00e1pida. Los recomiendo. Unos delo mejores tenis que he tenido ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 26, 2023",
+                "reviewTitle": "Excelentes tenis!!",
+                "reviewText": "Llegaron antes de la fecha estimada. Tenis de buena calidad. Fue el regalo para mi hijo, los utilizar para correr y le fascinaron ya que tienen buena amortiguaci\u00f3n y muy bonitos el color de los tenis!! Los recomiendo.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

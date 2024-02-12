@@ -1,0 +1,539 @@
+{
+    "remaining_requests": 14440,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Michael-Kors-Stainless-Crystal-Earrings/dp/B0CCGT9DGX",
+    "body": {
+        "name": "Michael Kors Gold-Tone Hoop Earrings for Women; Huggie Earrings for Women; Stainless Steel Earrings; Jewelry for Women",
+        "price": "$125.00",
+        "originalPrice": "$125.00",
+        "rawPrice": 125.0,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Michael-Kors-Womens-Silver-Earrings/dp/B0BBMC7161",
+        "soldBy": {
+            "sellerID": "",
+            "name": "Amazon.com",
+            "link": "https://www.amazon.com"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BBMC7161"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B00ORJ3IEK",
+                "variationName": "Color",
+                "variationValue": "Gold 2.25 inch",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31HnKibx6uL._SS36_.jpg"
+            },
+            {
+                "asin": "B08LN39X52",
+                "variationName": "Color",
+                "variationValue": "Gold Crystal Huggie",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41H6JK+UImL._SS36_.jpg"
+            },
+            {
+                "asin": "B01LZAENWT",
+                "variationName": "Color",
+                "variationValue": "Gold Crystal Whisper",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ndVdrm0eL._SS36_.jpg"
+            },
+            {
+                "asin": "B09MSRZM97",
+                "variationName": "Color",
+                "variationValue": "Gold Crystal Whisper Logo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21XkNaOnuTL._SS36_.jpg"
+            },
+            {
+                "asin": "B09MSSP2TC",
+                "variationName": "Color",
+                "variationValue": "Gold Heart Crystal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21tzswUpgAL._SS36_.jpg"
+            },
+            {
+                "asin": "B00XMH21RS",
+                "variationName": "Color",
+                "variationValue": "Gold Hoop",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/319up6JJSdL._SS36_.jpg"
+            },
+            {
+                "asin": "B095J99DK8",
+                "variationName": "Color",
+                "variationValue": "Gold MK Logo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ZF81s8fiL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B7CJXYJB",
+                "variationName": "Color",
+                "variationValue": "Gold MK Medium",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31g1oQ3pbNL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CRLV7SDM",
+                "variationName": "Color",
+                "variationValue": "Gold MK Repeating Logo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31rNwUaLZzL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CCGW6KFJ",
+                "variationName": "Color",
+                "variationValue": "Gold/Black Logo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41lwm9CfCBL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CCGT9DGX",
+                "variationName": "Color",
+                "variationValue": "Gold/Pav\u00e9 Crystals",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41e0WZajiiL._SS36_.jpg"
+            },
+            {
+                "asin": "B00XMI34ZA",
+                "variationName": "Color",
+                "variationValue": "Rose Gold 1.5 inch",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DlWp+bbeL._SS36_.jpg"
+            },
+            {
+                "asin": "B00ORJ1ZZE",
+                "variationName": "Color",
+                "variationValue": "Rose Gold 1.75 inch",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31PLG1DS5aL._SS36_.jpg"
+            },
+            {
+                "asin": "B01LZAEOHR",
+                "variationName": "Color",
+                "variationValue": "Rose Gold Crystal Whisper",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Ie+gjkpaL._SS36_.jpg"
+            },
+            {
+                "asin": "B09MSQWPTQ",
+                "variationName": "Color",
+                "variationValue": "Rose Gold Crystal Whisper Logo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21R6a8TbjnL._SS36_.jpg"
+            },
+            {
+                "asin": "B09MSS6QGP",
+                "variationName": "Color",
+                "variationValue": "Rose Gold Heart Crystal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21Dc54ZiPyL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B7CHPR2L",
+                "variationName": "Color",
+                "variationValue": "Rose Gold Heart Huggie",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31fgoyty69L._SS36_.jpg"
+            },
+            {
+                "asin": "B0B7CG51Z5",
+                "variationName": "Color",
+                "variationValue": "Rose Gold MK Large",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XShj+vnwL._SS36_.jpg"
+            },
+            {
+                "asin": "B095J9G6PD",
+                "variationName": "Color",
+                "variationValue": "Rose Gold MK Logo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Tu5qWsUVL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CRM6L5WQ",
+                "variationName": "Color",
+                "variationValue": "Rose Gold Repeating MK Logo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31lONBlTJYL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CRM1L5HD",
+                "variationName": "Color",
+                "variationValue": "Rose Gold Repeating MK Logo Huggie",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31MhdHe7VGL._SS36_.jpg"
+            }
+        ],
+        "isPrime": false,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41e0WZajiiL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41BcR-xk6 L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41tXJRRCWCL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31uAbi1QGgL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/313IAO w9WL.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Michael Kors Store",
+            "link": "https://www.amazon.com/stores/MichaelKors/page/A9D4BA20-3814-439B-982C-F41837F1C8DF?ref_=ast_bln"
+        },
+        "brand": "MichaelKors",
+        "merchantInfo": "Sold by Amazon Warehouse and Fulfilled by Amazon.",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 2538,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Tuesday, February 20",
+            "Or fastest delivery Saturday, February 17. Order within 5 hrs 35 mins",
+            "FREE delivery Wednesday, February 21. Order within 5 hrs 35 mins",
+            "FREE pickup Tuesday, February 20",
+            "Or fastest pickup Tomorrow, February 16. Order within 4 hrs 20 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Item width 0.22 inches",
+            "Material Stainless Steel",
+            "Metal type Stainless Steel",
+            "Back Finding Push Back",
+            "Earring design Hoop",
+            "Metal weight 1 Grams",
+            "Country of Origin China",
+            "The Michael Kors jewelry collection is designed for timeless appeal. Crafted from hypoallergenic materials like stainless steel and brass with sparkling accents, rich in detail with enduring quality.",
+            "Make a statement with our luminous, pav\u00e9 crystal gold-tone hoop earrings. This ultra glamourous pair is defined by it's bold and luxe appeal that puts a twist on this timeless silhouette.",
+            "These hoop earrings feature gold-tone stainless steel and hinge closures.",
+            "Length 35MM Width 6MM",
+            "Closure: Hinge",
+            "Finish: Polished"
+        ],
+        "description": "Michael Kors is a world-renowned designer of luxury accessories and ready-to-wear, offering a lifestyle for the consummate jet-setter that is sophisticated, glamorous and modern. The Michael Kors jewelry collection is designed for timeless appeal, rich in detail with enduring quality. Crafted from hypoallergenic materials like stainless steel and brass with sparkling accents, creating uniquely personal jewelry designed to go beyond fashion, and into the realm of expressing each wearer's individual personality and mood. Put one on and shine bright!",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Jewelry",
+                "link": "https://www.amazon.com/Jewelry/b/ref=dp_bc_aui_C_3?ie=UTF8&node=7192394011"
+            },
+            {
+                "name": "Earrings",
+                "link": "https://www.amazon.com/Womens-Fashion-Earrings/b/ref=dp_bc_aui_C_4?ie=UTF8&node=7454917011"
+            },
+            {
+                "name": "Hoop",
+                "link": "https://www.amazon.com/Womens-Fashion-Hoop-Earrings/b/ref=dp_bc_aui_C_5?ie=UTF8&node=7454924011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 2 x 2 x 2 inches; 10 Ounces"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e August 23, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Michael Kors"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0BBMC7161"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#16,695 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #142 in Women's Hoop Earrings"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 2,538 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "MICHAEL KORS JEWELRY The Michael Kors jewelry collection is designed for timeless appeal, rich in detail with enduring quality. Crafted from hypoallergenic materials like stainless steel and brass with sparkling accents, creating uniquely personal jewelry designed to go beyond fashion, and into the realm of expressing each wearer's individual personality and mood. Put one on and shine bright!",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0b748fc7-46c1-41e0-a4b9-a0f883142a71.__CR0,0,800,600_PT0_SX800_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "DESIGN FEATURES",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/553a8c3d-cf18-4080-8284-134488608179.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "JEWELRY BY MICHAEL KORS Every piece of Michael Kors jewelry is made from quality materials, including sparkling crystals and polished stainless steel\u2014available in a variety of styles to suit your wardrobe. GLAMOROUS STYLING True to Michael Kors\u2019 enduring standout style, these quality, two-tone, silver and gold-tone silhouettes are designed with glitz, logos, and bold, signature Michael Kors detailing to be worn for years to come.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/137144a7-6bef-4419-a492-538915966379.__CR0,0,650,350_PT0_SX650_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c6cae5fe-2174-4e9d-a21d-526500685d7e.__CR0,0,650,350_PT0_SX650_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "SPARKLE & SHINE Starting with a stud and rounding its way down, these slim hoops have just enough sparkle to go from day to night with high style. VIEW NOW SILVER SHINE TIME These modern silver hoops have just the right amount of sparkle that comes from the crystals at the top of each hoop. VIEW NOW BEADED DREAMS Stainless steel covered in rose gold with beads of glitz make this a stackable piece or one you can easily wear alone for a more understated look. VIEW NOW SHINE BRIGHT She will shine bright in these crystal-studded, silver-tone hoops that are oh so glam and oh so Michael Kors. VIEW NOW WITH ALL OUR HEART Featuring gleaming silver slider bracelet and a polished silver-tone heart charm with pav\u00e9 halo, this beautiful piece showcases the brand's signature Michael Kors logo surrounded by crystals. VIEW NOW THE PERFECT BANGLE Nothing beats a glitzy bangle. This style dresses up your everyday: outfit, stack or simply your mood. The gold plating and glitzy crystal bands highlight the brand's signature \"MK\" logo. VIEW NOW",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/34440ead-b324-415c-a10f-ceff27391d67.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0b748fc7-46c1-41e0-a4b9-a0f883142a71.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7dbff30d-9d8b-4103-b581-ad8b6b64e035.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/553a8c3d-cf18-4080-8284-134488608179.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/137144a7-6bef-4419-a492-538915966379.__CR0,0,650,350_PT0_SX650_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c6cae5fe-2174-4e9d-a21d-526500685d7e.__CR0,0,650,350_PT0_SX650_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/69ba2f0b-7215-4b25-b9cb-0a2d62b5b034.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2082dc2e-8d0b-436f-b2f3-b8cec19ede8c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a725704c-8d2e-4dc5-9d69-8a3e00f5acfe.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8f650a1a-7af6-4ba4-9856-e873276d96f0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/81acece8-1a2a-45dc-a7a3-46f87ba21a29.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eae6b4ab-e13b-4d4c-8c69-8c8d605625c5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3acc745d-2ea7-4144-9420-744802f0e5d3.__CR0,0,300,225_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b78d6e29-5b7c-4f12-b492-3192e478710e.__CR0,0,300,225_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9a631b30-fffa-41f6-9b4e-991f6f931705.__CR0,0,300,225_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e2a43027-6e9a-451d-b6c3-ef8489d2922b.__CR0,0,300,225_PT0_SX300_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "joyce",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG56KBODVH7KFHMM4WVNLSQVEYYA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R21N3DJNWBKU80?ASIN=B0CCGT9DGX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love",
+                "reviewText": "I love them there not heavy and they are beautiful",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cathy Callaghan",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF7T27OXVILT22DVQIEMNQ2CAUMQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1VGLDF3OL8P14?ASIN=B0CCGT9DGX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 27, 2023",
+                "reviewTitle": "5.0 out of 5 stars Excellent product",
+                "reviewText": "Beautiful earrings, at a great price, and a quality product.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Erika Kennedy",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEB5NUWRGTVY5ZYV3DWF3T7N56GA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R33H5M4PXVC7GG?ASIN=B0CCGT9DGX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars Beautiful",
+                "reviewText": "I absolutely love these earrings...beautifully made and I always get compliments when I wear them.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rosanne Cravin",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGR7NMGUXZ32GMYDWJ742GJCTK2Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R358T6P1QMZ1PH?ASIN=B0CCGT9DGX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Quality is excellent",
+                "reviewText": "Earrings were a gift. The recipient genuinely loved them.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Catherine Thomas",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFOHFTFDXIWABKAF7L3RFVC4CI4A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3LX01S63M0AAU?ASIN=B0CCGT9DGX",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "4.0 out of 5 stars Stylish",
+                "reviewText": "That they look more expensive than they are.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rose Tapia",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFXT4RJW6UEGNN3JW55JJ6JQS2KQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RQ7RU5XM3OEB3?ASIN=B0CCGT9DGX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 23, 2024",
+                "reviewTitle": "5.0 out of 5 stars They were as described beautiful.",
+                "reviewText": "Love the style.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kathya Vargas Padilla",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHFCV6QNX7KOH7Q2VOABFVUUT5JA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3ASCZUXEGX61O?ASIN=B0CCGT9DGX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "5.0 out of 5 stars Hermosas",
+                "reviewText": "Te encantar\u00e1n.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Iowa Mom",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEBKJXNMHGBWTG4HM45ABQEFVKOQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R6EGKS3MU0UO9?ASIN=B0CCGT9DGX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 11, 2023",
+                "reviewTitle": "5.0 out of 5 stars Beautiful and comfortable",
+                "reviewText": "These earrings are top notch, not only do they look beautiful they feel great, no pulling or irritation. Love them!",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "M TRIPLE CANADA",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "2.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 7, 2023",
+                "reviewTitle": "LA QUALITE NE CORRESPOND PAS AU PRIX",
+                "reviewText": "LA COULEUR ET LA TAILLE TROP PETIT C DU FAUX MK",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Fanny Garcia Dominguez",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 23, 2021",
+                "reviewTitle": "Divinos!",
+                "reviewText": "Me encantaron!! Mucho mejor de lo que esperaba",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on January 11, 2024",
+                "reviewTitle": "MK earrings",
+                "reviewText": "They are lovely but not sure they are really Micheal Kors earrings .the packaging looked cheap and nothing showing it is Micheal Kors .MK products normally come in a box with the name on the box .dont think these are authentic",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ginette McDonald",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 19, 2024",
+                "reviewTitle": "Thank you",
+                "reviewText": "Thank you",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jes\u00fas Antonio",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on June 11, 2018",
+                "reviewTitle": "Excelentes arracadas",
+                "reviewText": "Fue un regalo para mi madre, le gustaron mucho, son arracadas grandes pero la marca habla por s\u00ed misma, cuenta con una bolsa de piel en donde se pueden guardar.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

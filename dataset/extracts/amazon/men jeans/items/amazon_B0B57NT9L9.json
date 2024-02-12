@@ -1,0 +1,722 @@
+{
+    "remaining_requests": 15987,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Carhartt-Mens-Relaxed-5-Pocket-Jean/dp/B0B57NT9L9",
+    "body": {
+        "name": "Carhartt Men's Relaxed Fit 5-Pocket Jean",
+        "price": "$44.99 - $49.99",
+        "originalPrice": "",
+        "rawPrice": 44.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Carhartt-Mens-Relaxed-5-Pocket-Jean/dp/B0CDVVRV92",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CDVVRV92"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0B1PZTB6Q",
+                "variationName": "Color",
+                "variationValue": "Bay",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41FhDDMigRL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B1Q3C5YX",
+                "variationName": "Color",
+                "variationValue": "Cove",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41imF9t71BL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B1Q37FLX",
+                "variationName": "Color",
+                "variationValue": "Deep Creek",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Sk2dBzOSL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B57S8DZM",
+                "variationName": "Size",
+                "variationValue": "28W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57Y26CH",
+                "variationName": "Size",
+                "variationValue": "28W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57NFS5X",
+                "variationName": "Size",
+                "variationValue": "29W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57PT3TB",
+                "variationName": "Size",
+                "variationValue": "29W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57QPH8H",
+                "variationName": "Size",
+                "variationValue": "30W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31B9K79",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31C9VJL",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31C9VKV",
+                "variationName": "Size",
+                "variationValue": "30W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57QKRC3",
+                "variationName": "Size",
+                "variationValue": "31W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57R4XM5",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57QJ3Z1",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57RP6S5",
+                "variationName": "Size",
+                "variationValue": "31W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57QGZZ4",
+                "variationName": "Size",
+                "variationValue": "32W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B319PYY5",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1PZTB6Q",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31B6P42",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31JW98S",
+                "variationName": "Size",
+                "variationValue": "32W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57PFD1L",
+                "variationName": "Size",
+                "variationValue": "33W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57NDMTL",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57PTCZ6",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57NX9L3",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57PS5ZR",
+                "variationName": "Size",
+                "variationValue": "33W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57NT9L9",
+                "variationName": "Size",
+                "variationValue": "34W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31BK7W9",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B319R699",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31BK5YY",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B319584J",
+                "variationName": "Size",
+                "variationValue": "34W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57P469H",
+                "variationName": "Size",
+                "variationValue": "35W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57QB1LW",
+                "variationName": "Size",
+                "variationValue": "35W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57RFWCX",
+                "variationName": "Size",
+                "variationValue": "35W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57NHH1P",
+                "variationName": "Size",
+                "variationValue": "35W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57Q93MM",
+                "variationName": "Size",
+                "variationValue": "36W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31C4S86",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B319Q5DM",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B318JCJ6",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31K8F8K",
+                "variationName": "Size",
+                "variationValue": "36W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57PK5ZT",
+                "variationName": "Size",
+                "variationValue": "38W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31B5Y3G",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B318GPXW",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B319TJGS",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31C1C6F",
+                "variationName": "Size",
+                "variationValue": "38W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57P916Y",
+                "variationName": "Size",
+                "variationValue": "40W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31CV2R8",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31BCW28",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31B7W2Z",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57S772D",
+                "variationName": "Size",
+                "variationValue": "40W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31C4MDJ",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31CDC4D",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B319X6CC",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31CKNV5",
+                "variationName": "Size",
+                "variationValue": "44W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B31CK33S",
+                "variationName": "Size",
+                "variationValue": "44W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57RPBPN",
+                "variationName": "Size",
+                "variationValue": "44W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57P77DQ",
+                "variationName": "Size",
+                "variationValue": "46W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57N15M7",
+                "variationName": "Size",
+                "variationValue": "46W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57PSLH4",
+                "variationName": "Size",
+                "variationValue": "48W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57SN4YG",
+                "variationName": "Size",
+                "variationValue": "48W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57R6P6Z",
+                "variationName": "Size",
+                "variationValue": "50W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57N7N4J",
+                "variationName": "Size",
+                "variationValue": "50W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57QL9MV",
+                "variationName": "Size",
+                "variationValue": "52W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57R4FNV",
+                "variationName": "Size",
+                "variationValue": "52W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57QVQ6W",
+                "variationName": "Size",
+                "variationValue": "54W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B57PJ9W3",
+                "variationName": "Size",
+                "variationValue": "54W x 32L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41FhDDMigRL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41qaspe3NCL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/510kxr8PdRL.jpg"
+        ],
+        "imagesCount": 3,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Carhartt Store",
+            "link": "https://www.amazon.com/stores/Carhartt/page/4D749FEE-ACA7-4043-8DF6-FCA7CF7BEE1F?ref_=ast_bln"
+        },
+        "brand": "Carhartt",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 588,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "13-ounce, 100% cotton",
+            "Sits slightly below the waist",
+            "Comfortable fit through the seat and thigh with more room to move",
+            "Straight leg opening fits over boots"
+        ],
+        "description": "Durable midweight denim gives these men's Carhartt five-pocket jeans an everyday feel. Their relaxed fit offers a little extra room through the seat and thigh with a straight leg opening.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 16.61 x 11.97 x 3.62 inches; 1 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 105119"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e June 27, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Carhartt"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0B57S8DZM"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#4,365 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #57 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 588 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Style Features Straight Leg Opening Straight leg opening leaves plenty of room to fit over your boot. Reinforced Belt Loops Stronger sewn-on-seam belt loops adds security from wear and tear. Carhartt Durability Classic Carhartt durability stands up to the daily demands of long workdays and rugged jobsites.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5b080c4d-98de-4018-857c-9c7eb4dc7c31.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/262d4124-f3de-4fa0-a594-4eb63b788096.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fd13f0bb-7466-4c10-9eb9-f0163c6958db.__CR0,0,720,720_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Fit Guide Straight Fit Closer-to-the-body fit through the seat and thigh, enough room to move Relaxed Fit Comfortable fit through the seat and thigh with more room to move Loose Fit Generous fit through the seat and thigh with the most room to move",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/130733e3-2686-458b-be4f-665f56a431b7.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9fd2336a-4720-4390-9393-d60cb0526a71.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/651812a2-21af-4827-a21a-e2d483b30371.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a665fcfd-590c-4ea8-ba44-a7a2cb6a4d48.__CR0,0,1940,600_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5b080c4d-98de-4018-857c-9c7eb4dc7c31.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/262d4124-f3de-4fa0-a594-4eb63b788096.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fd13f0bb-7466-4c10-9eb9-f0163c6958db.__CR0,0,720,720_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a4e4c971-85c7-4e31-964d-f2f28fa7bdb9.__CR0,0,1940,600_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/130733e3-2686-458b-be4f-665f56a431b7.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9fd2336a-4720-4390-9393-d60cb0526a71.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/651812a2-21af-4827-a21a-e2d483b30371.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7106f80a-5bf7-4641-8014-e53407b609a3.__CR0,0,1940,600_PT0_SX970_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Baldwinda",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFCRIJ6DNKNVSEG62JWWLNNRKB3A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R31SZV5QN6DTFS?ASIN=B0CDVVRV92",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good quality. Runs big.",
+                "reviewText": "Bought as a gift for my husband. They are a good quality but run large. He could easily go down a complete size.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHSFPXVHDFG4IFYHHTQH6S7KCEFQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3J0K2L542C1Y2?ASIN=B0CDVVRV92",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars Heavy duty denim pants by Carhartt",
+                "reviewText": "These are heavy duty pants! I waited to review for a few weeks until they had broken in (they do need to be broken in). At first they were a bit tight, but broke in well and are now VERY comfortable. I'm expecting these to stay nice for a few years before being relegated to \"workin' on the house\" jeans.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Thomas J. Gelsinger",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGZVCHY4E3KSSSSCSXBZRMTQBFZQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2PY2JSWJSLIMP?ASIN=B0CDVVRV92",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "5.0 out of 5 stars Carhartt Jeans?",
+                "reviewText": "In the past my Carhartt Jeans always had Triple stitching, but these don't. Is Carhartt becoming something less than great work clothes. Time will tell. They fit as they should, look as they should and hopefully will last as they should!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jacqueline M Zang",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGOD2Z3MDAKUHM4HV4D35IHEJZCQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1EEDMT0OAMXZH?ASIN=B0CDVVRV92",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 4, 2024",
+                "reviewTitle": "4.0 out of 5 stars Carrhart Jeans",
+                "reviewText": "Good fit, good quality, wear well so bought another pair.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "CLAUDIA SENOUR",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHAP6PKXKCTJTHDA3OCAVP66QFMQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1X6LVJ71YQ2XH?ASIN=B0CDVVRV92",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very sturdy and lasts a long iime",
+                "reviewText": "My son works in a job where he is very hard on jeans. These, while they may be a little more expensive, last much longer than many cheaper ones. Well worth the extra money.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEJHG2QTOIUUG7PO2Y25N2JLO6LA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R15LZMF516NBXL?ASIN=B0CDVVRV92",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Well made",
+                "reviewText": "Great quality consistentlyRuns slightly small, but still within the size quota.I will always buy Carhartt",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JH",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFUY5GAFLBLJOX2XZ442GGALAJWQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1OXSI7GNPWXPF?ASIN=B0CDVVRV92",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 2, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good stuff",
+                "reviewText": "I\u2019ve been a big believer in Carhartt jeans for almost 20 years. Fit really well and last a very, very long time. Very comfortable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "PhoenixAsh",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG2CVHWIXBQ2KAFQO52QLVJATICA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1SAU89YCS4NGY?ASIN=B0CDVVRV92",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 5, 2024",
+                "reviewTitle": "1.0 out of 5 stars Their quality just took a nose dive.",
+                "reviewText": "Carhartt jeans for the longest time was the premier brand for quality and durability. Not anymore. A few years ago, their jeans began to show wear much sooner than usual. Then my last order the jeans I received were obviously made with a different denim. I washed them and they shrank! I took them to a local store that sells Carhartt clothing and explained I bought it on Amazon. We verified they had not only shrunk but had done so by 2 inches. I wear a size 34x30. He confirmed they had changed their line of jeans, and the previous models were no longer available. I bought a size 34x32 from him and washed them. Sure enough they shrunk but at least they fit. Now to see how long these last. My sympathies go out to the trades people who relied on the durability and quality of the Carhartt brand.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tees",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 20, 2024",
+                "reviewTitle": "Perfect size and fit.",
+                "reviewText": "I was turned on to buying this brand of jeans because I use them for my work. These are the first pair I bought for pleasure wear. They're great, fit and finish is superb. Thank you",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Paul Byrne",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 17, 2023",
+                "reviewTitle": ".",
+                "reviewText": "Great they do the job",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nance",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 4, 2023",
+                "reviewTitle": "Fast",
+                "reviewText": "As described.fast delivery",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,804 @@
+{
+    "remaining_requests": 17839,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Carhartt-Womens-103067-Workwear-T-Shirt/dp/B09KVH3M4L",
+    "body": {
+        "name": "Carhartt Women's Loose Fit Heavyweight Short-Sleeve Pocket T-Shirt Closeout",
+        "price": "$19.99",
+        "originalPrice": "",
+        "rawPrice": 19.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Carhartt-Heavyweight-Short-Sleeve-T-Shirt-Closeout/dp/B0BZQPVSKH",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BZQPVSKH"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09KVHYCSZ",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVHZKTD",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVHWN2H",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVHNHJX",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVHDTQD",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVH3M4L",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093NJPD23",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVKF315",
+                "variationName": "Size",
+                "variationValue": "1X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVGFJGP",
+                "variationName": "Size",
+                "variationValue": "2X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVFYFJZ",
+                "variationName": "Size",
+                "variationValue": "3X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVJZH4F",
+                "variationName": "Color",
+                "variationValue": "Amethyst Fog Nep",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093NJ8K81",
+                "variationName": "Color",
+                "variationValue": "Basil Snow Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4V4BSTQ",
+                "variationName": "Color",
+                "variationValue": "Bittersweet",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RHZPBQ8",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVFYFJZ",
+                "variationName": "Color",
+                "variationValue": "Blackberry Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B4DTZ84Q",
+                "variationName": "Color",
+                "variationValue": "Brite Lime",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B3PZ5LPK",
+                "variationName": "Color",
+                "variationValue": "Brite Orange",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4V3ZW78",
+                "variationName": "Color",
+                "variationValue": "Carhartt Brown",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B3PVJ5JQ",
+                "variationName": "Color",
+                "variationValue": "Chili Pepper Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B3Q1YLXT",
+                "variationName": "Color",
+                "variationValue": "Electric Coral",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093NNH3G1",
+                "variationName": "Color",
+                "variationValue": "Folkstone Gray Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BNJNS7JH",
+                "variationName": "Color",
+                "variationValue": "Green Olive Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B075LVR4X9",
+                "variationName": "Color",
+                "variationValue": "Heather Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B3QKXMZ5",
+                "variationName": "Color",
+                "variationValue": "Hint of Lime",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4V3CCMP",
+                "variationName": "Color",
+                "variationValue": "Honeycomb Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B3QF6Q9D",
+                "variationName": "Color",
+                "variationValue": "Marine Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4V34DX9",
+                "variationName": "Color",
+                "variationValue": "Mink",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BNJLM7ZZ",
+                "variationName": "Color",
+                "variationValue": "Moonstone Snow Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B075LM3NBG",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4V36H3X",
+                "variationName": "Color",
+                "variationValue": "Sable",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BNJMVQSD",
+                "variationName": "Color",
+                "variationValue": "Shaded Spruce",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4V3NPDW",
+                "variationName": "Color",
+                "variationValue": "Sun Bloom",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RRQ845G",
+                "variationName": "Color",
+                "variationValue": "White",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B3Q728PQ",
+                "variationName": "Color",
+                "variationValue": "Alpine Blue Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVJ2V3F",
+                "variationName": "Color",
+                "variationValue": "Beet Red Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BNJMD5PF",
+                "variationName": "Color",
+                "variationValue": "Golden Oak",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVJ1KX1",
+                "variationName": "Color",
+                "variationValue": "Hibiscus Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVH8WNW",
+                "variationName": "Color",
+                "variationValue": "Pale Sun",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4V4R1X6",
+                "variationName": "Color",
+                "variationValue": "Pastel Turquoise",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVHL38K",
+                "variationName": "Color",
+                "variationValue": "Powder Blue Nep",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4V7FNMN",
+                "variationName": "Color",
+                "variationValue": "Skystone",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09LVW7CWM",
+                "variationName": "Color",
+                "variationValue": "Soft Lavender Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093NHRNNH",
+                "variationName": "Color",
+                "variationValue": "Ash Rose",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCG7H12B",
+                "variationName": "Color",
+                "variationValue": "Foxglove Snow Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093NKY1TS",
+                "variationName": "Color",
+                "variationValue": "Tidal Snow Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4V3X42C",
+                "variationName": "Color",
+                "variationValue": "True Purple",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BF5PJZ6W",
+                "variationName": "Color",
+                "variationValue": "Magenta Agate Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4V548VM",
+                "variationName": "Color",
+                "variationValue": "Pink Glow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVJ5CPX",
+                "variationName": "Color",
+                "variationValue": "Sea Green Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KVJNL8Z",
+                "variationName": "Color",
+                "variationValue": "Basil Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JN1D76Z",
+                "variationName": "Color",
+                "variationValue": "Currant Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B4M3DSML",
+                "variationName": "Color",
+                "variationValue": "Night Blue Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B089KW5F93",
+                "variationName": "Color",
+                "variationValue": "Yellowstone Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JN1KH9Q",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0842X5C3R",
+                "variationName": "Color",
+                "variationValue": "Carhartt Gold Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08PPV2FTX",
+                "variationName": "Color",
+                "variationValue": "Crepe Snow Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TSF2WB3",
+                "variationName": "Color",
+                "variationValue": "Deep Wine",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093NMTF9H",
+                "variationName": "Color",
+                "variationValue": "Dijon Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093NDWLV8",
+                "variationName": "Color",
+                "variationValue": "Earthen Clay Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B3QCC1V1",
+                "variationName": "Color",
+                "variationValue": "Jade Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08PPSCN6Y",
+                "variationName": "Color",
+                "variationValue": "Leaf Green Snow Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093NRGL4X",
+                "variationName": "Color",
+                "variationValue": "Pastel Lime",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08PPVRYQR",
+                "variationName": "Color",
+                "variationValue": "Tourmaline Snow Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B089KWD9XJ",
+                "variationName": "Color",
+                "variationValue": "Claystone Snow Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B089KTW5JV",
+                "variationName": "Color",
+                "variationValue": "Ocean Blue Snow Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B089KTM2SC",
+                "variationName": "Color",
+                "variationValue": "Raisin Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TWMYQ3X",
+                "variationName": "Color",
+                "variationValue": "Burlwood Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08PPTD2B6",
+                "variationName": "Color",
+                "variationValue": "Cantaloupe Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B083TC5YPM",
+                "variationName": "Color",
+                "variationValue": "French Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08PPT5P6Y",
+                "variationName": "Color",
+                "variationValue": "Ginger Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B083XFRFMN",
+                "variationName": "Color",
+                "variationValue": "Hot Coral Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093NGWZL9",
+                "variationName": "Color",
+                "variationValue": "Nocturnal Haze Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07S38V3HY",
+                "variationName": "Color",
+                "variationValue": "Oiled Walnut Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08PPT9LMZ",
+                "variationName": "Color",
+                "variationValue": "Ruby Heather",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093NGS7PB",
+                "variationName": "Color",
+                "variationValue": "Sunset",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B083XTZR9W",
+                "variationName": "Color",
+                "variationValue": "Tinted Sage Heather",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41nr90ktbxL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41ckPsawO-L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51iCKHcoB0L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51gzCfFMuNL.jpg"
+        ],
+        "imagesCount": 4,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Carhartt Store",
+            "link": "https://www.amazon.com/stores/Carhartt/page/4D749FEE-ACA7-4043-8DF6-FCA7CF7BEE1F?ref_=ast_bln"
+        },
+        "brand": "Carhartt",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 5945,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Pull On",
+            "Rib-knit crewneck",
+            "Side-seam construction minimizes twisting",
+            "Left-chest pocket with sewn-on Carhartt label",
+            "Tagless neck label",
+            "Prev. Name: WK87 Workwear Pocket Short-Sleeve T-Shirt"
+        ],
+        "description": "A jobsite essential, this women's t-shirt keeps you comfortable with durable heavyweight cotton. It has a roomy original fit, and it's finished with a Carhartt patch on the chest pocket.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Tops, Tees & Blouses",
+                "link": "https://www.amazon.com/Womens-Tops-Tees/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2368343011"
+            },
+            {
+                "name": "T-Shirts",
+                "link": "https://www.amazon.com/Womens-Knits-Tees/b/ref=dp_bc_aui_C_5?ie=UTF8&node=1044544"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 11.1 x 9.61 x 1.38 inches; 6.7 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 103067"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e November 2, 2021"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Carhartt"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09KVJBCZS"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#3,491 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #89 in Women's T-Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 5,945 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/90819f4b-434a-48ec-a0cd-0601dffd3803.__CR0,0,1940,600_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d455701e-a000-4327-a877-c1a2f93ad5e8.__CR0,0,1940,600_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a67e318-f1ef-433b-b243-07fd0a7c7651.__CR0,0,1940,600_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/91f9ee45-b713-42d2-8e6f-94072f0dd44f.__CR0,0,1940,600_PT0_SX970_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "CB",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF6C4Y3XBHHPFQPNUNWH74JJDZVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RBMVR1EBZ1T93?ASIN=B0BZQPVSKH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable",
+                "reviewText": "I like the weight of the material. It is very thick and nice. I have ordered a small and medium. The small fit great at the hips and the shoulders. The medium was more relaxed fit due to it being bigger.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "NORM",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEFYMS46TGN7Y4HBAINAMYYCAHLQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R7NQMW4AKZPYU?ASIN=B0BZQPVSKH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "5.0 out of 5 stars Carhartt woman\u2019s Teeshirt",
+                "reviewText": "Nice quality heavy-material Carhartt Women's Short-Sleeve Teeshirt with pocket. Wife loves this new color reddish-maroon. Comfortable loose fit.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ms PJ WiseMs PJ Wise",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHSSUD427E4RJG6W2PWJRJ4CEBEA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1RL0QQ45TDD4J?ASIN=B0BZQPVSKH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 14, 2024",
+                "reviewTitle": "5.0 out of 5 stars Carhartt colors are best",
+                "reviewText": "I so enjoy a product that never disappoints. After ripping through the package the color popped and I smiled. The secure feel of the thick, soft cotton told me I was home where I could wash and dry this item that won't fall apart ever.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71324ebR8BL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "strings",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFHCUCFBU573UZKWXPMWTZH6224A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R28S9C6NUG77WN?ASIN=B0BZQPVSKH",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 28, 2023",
+                "reviewTitle": "4.0 out of 5 stars great material. A nice sturdy cotton material",
+                "reviewText": "Good fit. Casual wear. Good color. Well worth the money. It is by far a good quality productIf I can get it in another color, I will buy more.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Susan Donnelly",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEANNZ3KAFUFCPQ6GPYB5G2GULLQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3BM7JD47W3B3O?ASIN=B0BZQPVSKH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 8, 2023",
+                "reviewTitle": "5.0 out of 5 stars Finally Carhartt for women",
+                "reviewText": "The mens are to big and boxy for a woman. These fit great. High quality. Medium weight material. Good for summer and winter. Nice colors.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "P Marie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEFSAAJT4JQXCW4NZCFROJNRPNOA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1LH410BLWMBEZ?ASIN=B0BZQPVSKH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars Finally a Great Carhardt Shirt!",
+                "reviewText": "I knew right when I touched it. It felt so nice and I knew when I looked at it, it was wide enough to have plenty of room. The color is great. Rose/Pink, The length is terrific. it's just so hard to find a decent carhart shirt anymore. I've looked at other stores and they just don't have the right fit, length, & width. This is a keeper, hope to purchase more!!Thanks for getting it right!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rachel Smith",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEPLNIRG7R4EXR7ZMMDWGD7RIQ5A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RAFEYYAPRQ9VW?ASIN=B0BZQPVSKH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 13, 2023",
+                "reviewTitle": "5.0 out of 5 stars Thick and comfortable",
+                "reviewText": "Very durable shirt and comfortable. Fits a little big but I\u2019m good with it.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Heather Leonard",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AETRW66ELHMSVGVK42ZOXEIS5DNA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3QUC02HHR89N1?ASIN=B0BZQPVSKH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 24, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good quality!",
+                "reviewText": "I sized up because I like a little bit of a looser fit!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ll",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 30, 2023",
+                "reviewTitle": "Good",
+                "reviewText": "Good quality, comfortable, love the brand a perfect Christmas gift",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "sergio",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on July 5, 2022",
+                "reviewTitle": "Excelente calidad",
+                "reviewText": "Excelente calidad",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kunde",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on January 28, 2024",
+                "reviewTitle": "Robust und stilvoll",
+                "reviewText": "Normalerweise trage ich Gr\u00f6\u00dfe 48 bei Tops. Hier habe ich XL bestellt, und das T-Shirt ist locker mit einem \u201cBoyfriend\u201d-Look, aber nicht zu weit.Obwohl es ein Arbeitsshirt ist trage ich es nur im Alltag.Ich liebe es! Der Stoff ist dick, undurchsichtig, und wirkt sehr widerstandsf\u00e4hig und robust. Endlich ein T-Shirt, das nicht durchsichtig ist, dank des sehr dicken Stoffs. Es ist sein Geld wirklich wert. Lieber einmal mehr ausgeben, wie mit minderwertigen Shirts anderer Marken rumzulaufen, die sehr d\u00fcnn/ durchsichtig sind und nach kurzer Zeit schon wieder kaputt gehen.Das T-Shirt sieht mega sch\u00f6n aus, und ich werde es mir in anderen Farben holen.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "OoC",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on January 13, 2024",
+                "reviewTitle": "Nice material",
+                "reviewText": "Material is soft but harder wearing than cheaper tops",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Maria Gabriela Sandu",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Italy on January 4, 2024",
+                "reviewTitle": "Bella",
+                "reviewText": "Bella la maglietta, bel cotone, bel colore..veste grande",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

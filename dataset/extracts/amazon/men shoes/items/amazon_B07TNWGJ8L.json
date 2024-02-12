@@ -1,0 +1,629 @@
+{
+    "remaining_requests": 15763,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/PUMA-Mens-Tazon-Sneaker-Black/dp/B07TNWGJ8L",
+    "body": {
+        "name": "PUMA Men's Tazon 6 Sneaker",
+        "price": "$33.00 - $110.00",
+        "originalPrice": "",
+        "rawPrice": 33.0,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/PUMA-Mens-Tazon-6-Sneaker/dp/B0CNLZ4X45",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CNLZ4X45"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B06XW6KC98",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41E3JRzDRaL._SS47_.jpg"
+            },
+            {
+                "asin": "B07TR14ZRL",
+                "variationName": "Color",
+                "variationValue": "Puma Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31JkbAsuVoL._SS47_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "First Mile Black-silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41AMIaG-d+L._SS47_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Puma White/Puma Black/Puma Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NARR8rDWL._SS47_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Periscope-puma Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41bWuliyrQL._SS47_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Puma White/Puma Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413Y+DxwPLL._SS47_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Cyclone White-black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PahLN3GVL._SS47_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Black/Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41QcDvPl+8L._SS47_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Grey-silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41bWuliyrQL._SS47_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Tazon 6 .Black/Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41QcDvPl+8L._SS47_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "White/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PahLN3GVL._SS47_.jpg"
+            },
+            {
+                "asin": "B07TNWGV4W",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TKPS23L",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y39Q6P9",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TNX6681",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y3Q4ZNZ",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TR14ZG8",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y3BYRYW",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TKPRPS1",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y3N4HY9",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TNX3G8H",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01G3LZADG",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TNX3GHX",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00QJ1BZ7G",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TNWS27S",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01G3LZACM",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TNWGJ8L",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00QJ1C7IW",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TQZCK24",
+                "variationName": "Size",
+                "variationValue": "10.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01G3LZFRW",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TMTFKCF",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01G3LZG1C",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TLPVH6H",
+                "variationName": "Size",
+                "variationValue": "11.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01G3LZG8U",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TR14ZRL",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01G3LZFTA",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TNX3GF6",
+                "variationName": "Size",
+                "variationValue": "13 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y3BYVZR",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TJL744G",
+                "variationName": "Size",
+                "variationValue": "14 Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31JkbAsuVoL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51QRB1PCDaL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41PV3qPz4LL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41-erMVHfEL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41KDmrPSRDL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31flq0Xr1oL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31YFV5xkVaL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the PUMA Store",
+            "link": "https://www.amazon.com/stores/PUMA/page/00F6067E-333B-41A4-AC3D-7B2FA69EA1AB?ref_=ast_bln"
+        },
+        "brand": "PUMA",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 47538,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Textile and Synthetic",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Sole material Rubber",
+            "CONTEMPORARY DESIGN: Seasonal fracture graphic on this Tazon Cross-Trainer for a modern look.",
+            "RELIABLE PADDING: Stable cushioning for running and training needs.",
+            "SMOOTH AND SNUG: Sleek, streamlined silhouette with synthetic leather upper and midfoot saddle for maximum fit and comfort.",
+            "SHOCK ABSORPTION: EVA in the heel absorbs impact for added support and comfort."
+        ],
+        "description": "A sleek, streamlined silhouette sets the Puma Tazon 6 shoe apart from the rest. This stylish sneaker sports a synthetic leather upper with midfoot saddle for maximum fit and comfort while EVA in the heel absorbs impact. PUMA is the global athletic brand that successfully fuses influences from sport, lifestyle and fashion. PUMA's unique industry perspective delivers the unexpected in sport-lifestyle footwear, apparel and accessories, through technical innovation and revolutionary design.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/Mens-Shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679255011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Mens-Sneakers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127770011"
+            },
+            {
+                "name": "Fitness & Cross-Training",
+                "link": "https://www.amazon.com/Mens-Cross-Training-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679271011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 12.28 x 7.56 x 4.33 inches; 12.2 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 19117503"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e October 27, 2017"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e PUMA"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B06XW6KC98"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#2,570 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #64 in Men's Fashion Sneakers"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 47,538 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Men's Run/ Train For Everyday Training PUMA men\u2019s activewear is designed to take your workouts to the next level, so you can make the most of everyday. For Speed Think faster, not harder. Our men\u2019s activewear is made with cutting-edge technology that helps you get more out of every step. For Strength PUMA men\u2019s activewear is both lightweight and durable. It works hard, so you can work even harder.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/76384422-5037-47d8-a7b6-fa8e303e24b6.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dfa99fba-2d19-4a46-ada4-595d8d99cb70.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/37f30599-39d5-4b4f-9b6c-788ad64dfdfe.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Make the most of every workout with men\u2019s activewear from PUMA",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0115f87f-6705-43b3-9b51-87113a6654dd.__CR0,26,970,300_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Designed for comfort and built for speed, PUMA activewear for men provides the ultimate in traction, grip and cushioning. Whether you\u2019re looking for the best gym, or running partners, PUMA merges lightweight design with the latest tech to help you reach your goals.",
+                "media_link": []
+            },
+            {
+                "media_text": "Training Push yourself past your limits with the help of PUMA men\u2019s training products. Designed with comfort and performance in mind, we\u2019re your perfect gym partner. Running Every PUMA men\u2019s running shoe is carefully crafted using ultra-comfortable fabrics and materials, ensuring everything from the uniquely cushioned sole to the padded tongue allows you to maximize your performance every step of the way. Recovery Your recovery fuels your next workout. PUMA men\u2019s activewear supports you throughout your workout and leaves you with a better recovery.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/788dcdb0-8f86-45db-b197-3383df01183e.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/93e922df-8177-4119-855e-ed93c12f13b9.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e3230089-8ff2-4046-8575-301f6c225499.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/76384422-5037-47d8-a7b6-fa8e303e24b6.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dfa99fba-2d19-4a46-ada4-595d8d99cb70.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/37f30599-39d5-4b4f-9b6c-788ad64dfdfe.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0115f87f-6705-43b3-9b51-87113a6654dd.__CR0,26,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/788dcdb0-8f86-45db-b197-3383df01183e.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/93e922df-8177-4119-855e-ed93c12f13b9.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e3230089-8ff2-4046-8575-301f6c225499.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "phil10720",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFBVWLMGHBFUANF6IAAQADYHEXAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1EA0Q0BVE6KOL?ASIN=B0CNLZ4X45",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 4, 2024",
+                "reviewTitle": "5.0 out of 5 stars Like Walking On Memory Foam Pillows!",
+                "reviewText": "These are wonderful shoes thus far. They appear to be well-constructed and while I cannot speak for the longevity (because I just purchased them), I can speak on the comfort and fit. They are quite comfortable and very light, yet very supportive and the fit is spot on. Size 10.5 is 10.5. These are a relative bargain regardless of how long they last IMO. \ud83d\ude42",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bob L",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGKFV6APFO3SPAFFR3APAOARDHGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3D2C9WQWUO6EM?ASIN=B0CNLZ4X45",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 17, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love these sneakers. Great fit and comfortable.",
+                "reviewText": "i have to admit I have a bit of a sneaker fetish. I've had almost every major (and not so major) brand you can buy. Played a lot of sports when I was younger, and worked retail for over 20 years when I was older, so I know comfort and support are imperative when purchasing footwear. Having said that, I refuse to spend hundreds of dollars so I can have the latest and greatest. These Puma sneakers fit well (size 12), are very comfortable and have great support. They also look great!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Michael Pirie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGQXJQXCR7TNUGB2GKC3XZ7KVDIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1L1H5GA08JY40?ASIN=B0CNLZ4X45",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great shoes",
+                "reviewText": "Clean look. Very comfortable. Love em.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "miguel gonzalez",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEETTE5CDDLMXM6YHV3WM35TTKAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RO415ZC1UU02G?ASIN=B0CNLZ4X45",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "4.0 out of 5 stars Looks good.",
+                "reviewText": "Fits well. True to size. Not too padded which would require a larger size. Comfortable insole.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Steph",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEMNBVG7RAEKFYCIVFK7BKU57OIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1BJAGTDOS7I5N?ASIN=B0CNLZ4X45",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 18, 2023",
+                "reviewTitle": "5.0 out of 5 stars Pumas are the best!",
+                "reviewText": "I originally bought these for my husband, but they are too snug for him, but it worked out because now I have a pair of pumas and they are so comfortable!!!!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Drew",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHLBOKRIWCDO3YPV4LD7LLVFQGCA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2Y0ZI8VRB64V0?ASIN=B0CNLZ4X45",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Fit and Quality",
+                "reviewText": "I love these. Puma makes great quality footwear and the price was very reasonable. You can't pay this little in any store, so Amazon is the place to go. You know exactly what you're getting.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Anthony ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFRIZIVLEZIM44CBVKSLTCQ6A6ZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RMC2HEWCAH00T?ASIN=B0CNLZ4X45",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "3.0 out of 5 stars They're ok.",
+                "reviewText": "Shoes are nice on the outside, not really good for walking.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Steven powers",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFUQPUHYJOIATZCMJVURVADBJBJQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1RYTARS5P1JLO?ASIN=B0CNLZ4X45",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable shoes",
+                "reviewText": "These shoes fit perfectly and they are very comfortable but I live in Arizona which is very hot here all the time. And you need shoes that are breathable and these shoes do not have a lot of breathing holes on the top of them so your feet will tend to sweat a little bit more. But overall they're very comfortable",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Guillermo",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 5, 2024",
+                "reviewTitle": "Calidad!!",
+                "reviewText": "C\u00f3modos y buen precio!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gregorio Garcia ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 15, 2024",
+                "reviewTitle": "buen dise\u00f1o y muy comodos",
+                "reviewText": "buen dise\u00f1o y muy c\u00f3modos, puma calidad y precio",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bill",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 26, 2023",
+                "reviewTitle": "My mom Loves these",
+                "reviewText": "I bought these runners for my mother........ It has been 2 years today. And they feel like glove and she loves them very much. And they are still going......... They pretty much have full life as they are now still. Perfect condition.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gricelda Hern\u00e1ndez",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 6, 2023",
+                "reviewTitle": "Unos de los mejores tenis del mercado calidad precio",
+                "reviewText": "El Puma Tazon 6 viene equipado con casi todo para brindarte una gran cantidad de apoyo y comodidad en el gimnasio. Ya sea que te guste correr en circuitos y series r\u00e1pidas de entrenamiento cruzado, o que seas un levantador de pesas probado y comprobado, este zapato te brinda la cantidad adecuada de soporte y movimiento donde m\u00e1s lo necesitas. Al m\u00e1s puro estilo Puma, el Tazon 6 recorre esa delgada l\u00ednea entre un zapato casual elegante y un zapato de entrenamiento vers\u00e1til. Adem\u00e1s, tiene un precio que hace que valga la pena intentarlo. Una de las cosas que m\u00e1s me gustan de este zapato es que tiene un tal\u00f3n de EVA que sostiene el pie en su lugar para brindarle mucho apoyo al realizar levantamientos compuestos, y la suela exterior es ligeramente flexible y est\u00e1 hecha para moverse en levantamientos ligeros. d\u00edas o incluso cardio. Tambi\u00e9n tiene una parte superior liviana y c\u00f3moda que mantiene tus pies frescos y secos, mientras que el detallado sistema de cordones realmente fija estos zapatos a tus pies.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jairo BetancourtJairo Betancourt",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 4, 2023",
+                "reviewTitle": "Muy c\u00f3modo!",
+                "reviewText": "Me gusto mucho lo acolchonado que es en la planta de los pies!! Se ve duradero y en lo personal me gusto el dise\u00f1o.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61pTUedQv4L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61-Z7W2WEqL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61fyph5X3hL.jpg"
+                    ],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

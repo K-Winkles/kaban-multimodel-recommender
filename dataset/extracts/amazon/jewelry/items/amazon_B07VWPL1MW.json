@@ -1,0 +1,675 @@
+{
+    "remaining_requests": 14400,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Fesciory-Multi-Layer-Bracelet-Handmade-Wristband/dp/B07VWPL1MW",
+    "body": {
+        "name": "Fesciory Leather Wrap Bracelets for Women, Boho Leopard Multi-Layer Crystal Beads Cuff Bracelet Jewelry",
+        "price": "$11.99",
+        "originalPrice": "",
+        "rawPrice": 11.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Fesciory-Leather-Bracelet-Multi-Layer-Magnetic/dp/B08PCW52LR",
+        "soldBy": {
+            "sellerID": "A3455MC0M10AGL",
+            "name": "Fesciory",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3455MC0M10AGL&asin=B07VWPL1MW&ref_=dp_merchant_link&isAmazonFulfilled=1"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B08PCW52LR"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07WLYGB1W",
+                "variationName": "Color",
+                "variationValue": "A1:Brown Leopard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Y9bRaa8dL._SS36_.jpg"
+            },
+            {
+                "asin": "B07SMPC5KF",
+                "variationName": "Color",
+                "variationValue": "A2:Short Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51EPOumGYCL._SS36_.jpg"
+            },
+            {
+                "asin": "B07QX7BJSP",
+                "variationName": "Color",
+                "variationValue": "A3:Rose Gold Beads",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XYbEiP1SL._SS36_.jpg"
+            },
+            {
+                "asin": "B07QX75F8S",
+                "variationName": "Color",
+                "variationValue": "A4:Black Beads",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41CpaOB5mUL._SS36_.jpg"
+            },
+            {
+                "asin": "B07TRM7WLL",
+                "variationName": "Color",
+                "variationValue": "A5:Silver Beads",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Qmd5ZoxwL._SS36_.jpg"
+            },
+            {
+                "asin": "B07VLHFYNP",
+                "variationName": "Color",
+                "variationValue": "A6:Gold Beads",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51eV93WDObL._SS36_.jpg"
+            },
+            {
+                "asin": "B07VPQK7J1",
+                "variationName": "Color",
+                "variationValue": "A7:Turquoise",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/519pghpGZ8L._SS36_.jpg"
+            },
+            {
+                "asin": "B081F8PR7S",
+                "variationName": "Color",
+                "variationValue": "A8:Gray Leather(Pearl)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41aa2LqZ77L._SS36_.jpg"
+            },
+            {
+                "asin": "B081F8XBWZ",
+                "variationName": "Color",
+                "variationValue": "A9:Gold Leather(Pearl)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51JPeTHQeYL._SS36_.jpg"
+            },
+            {
+                "asin": "B086PC2R6T",
+                "variationName": "Color",
+                "variationValue": "B10:Brown Leather(Pearl)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51QAoWlp+2L._SS36_.jpg"
+            },
+            {
+                "asin": "B089SJMC2Z",
+                "variationName": "Color",
+                "variationValue": "B11:Black Leather(Pearl)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51KKRlYDDyL._SS36_.jpg"
+            },
+            {
+                "asin": "B07TV3MBV3",
+                "variationName": "Color",
+                "variationValue": "B12:Black Stone1",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51bC4RAXCAL._SS36_.jpg"
+            },
+            {
+                "asin": "B07TV6QWSS",
+                "variationName": "Color",
+                "variationValue": "B13:Short Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51sNLaIDEQL._SS36_.jpg"
+            },
+            {
+                "asin": "B07TS3329K",
+                "variationName": "Color",
+                "variationValue": "B14:Short Gold1",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Km0qxAK4L._SS36_.jpg"
+            },
+            {
+                "asin": "B07TV49HWZ",
+                "variationName": "Color",
+                "variationValue": "B15:Silver Rhinestone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51xPKHStAEL._SS36_.jpg"
+            },
+            {
+                "asin": "B07QX7GDTF",
+                "variationName": "Color",
+                "variationValue": "B16:Gold Pearl",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51cCEkF58kL._SS36_.jpg"
+            },
+            {
+                "asin": "B07QX6MRPL",
+                "variationName": "Color",
+                "variationValue": "B17:Gold Circle",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ge1wa6vDL._SS36_.jpg"
+            },
+            {
+                "asin": "B07VMN1M7V",
+                "variationName": "Color",
+                "variationValue": "B18:Colored Rhinestone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Jn82L9BmL._SS36_.jpg"
+            },
+            {
+                "asin": "B07VWPL1MW",
+                "variationName": "Color",
+                "variationValue": "B19:White Leather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41F9TWzhF0L._SS36_.jpg"
+            },
+            {
+                "asin": "B0813995CM",
+                "variationName": "Color",
+                "variationValue": "B20:Black and Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41GCyx20X+L._SS36_.jpg"
+            },
+            {
+                "asin": "B08136SPKJ",
+                "variationName": "Color",
+                "variationValue": "B21:Beige and Champagne",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/513a1SPqjgL._SS36_.jpg"
+            },
+            {
+                "asin": "B07VMMZYSX",
+                "variationName": "Color",
+                "variationValue": "B22:Red Rhinestone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Kxje99etL._SS36_.jpg"
+            },
+            {
+                "asin": "B07VVKHS3V",
+                "variationName": "Color",
+                "variationValue": "B23:Champagne Rhinestone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41V9MjvxDGL._SS36_.jpg"
+            },
+            {
+                "asin": "B07WW3K1YZ",
+                "variationName": "Color",
+                "variationValue": "B24:Tree of Life(Brown)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51fT60QLlOL._SS36_.jpg"
+            },
+            {
+                "asin": "B07WY3Z9R4",
+                "variationName": "Color",
+                "variationValue": "B25:Tree of Life(Grey)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51jb6iVS6-L._SS36_.jpg"
+            },
+            {
+                "asin": "B07WTZD7KB",
+                "variationName": "Color",
+                "variationValue": "B26:Tree of Life(Blue)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51GHPxcLv6L._SS36_.jpg"
+            },
+            {
+                "asin": "B07WW3TKJ2",
+                "variationName": "Color",
+                "variationValue": "B27:Tree of Life(Beige)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41exsYlmBqL._SS36_.jpg"
+            },
+            {
+                "asin": "B07QW8DJ5R",
+                "variationName": "Color",
+                "variationValue": "B28:Short Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51rro9TAObL._SS36_.jpg"
+            },
+            {
+                "asin": "B07QX75H8K",
+                "variationName": "Color",
+                "variationValue": "B29:Short Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51dsNM3o-dL._SS36_.jpg"
+            },
+            {
+                "asin": "B07QY89KMS",
+                "variationName": "Color",
+                "variationValue": "B31:Purple Stone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ebKnYvL9L._SS36_.jpg"
+            },
+            {
+                "asin": "B07TV48YDX",
+                "variationName": "Color",
+                "variationValue": "B32:Gold and Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51kUBpJLxSL._SS36_.jpg"
+            },
+            {
+                "asin": "B07QW8XY3F",
+                "variationName": "Color",
+                "variationValue": "B36:Short White Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51kWndJG+jL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BD5563WD",
+                "variationName": "Color",
+                "variationValue": "B37:Boho Braid(Brown)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51VG9MYKxtL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BD51DJ3B",
+                "variationName": "Color",
+                "variationValue": "B38:Metal Disc(Gold)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41aSYWaWkRL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BD4ZZYR4",
+                "variationName": "Color",
+                "variationValue": "B39:Seed Bead(Silver)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41lLBC2YUiL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BD4XPZYB",
+                "variationName": "Color",
+                "variationValue": "B40:Seed Bead(Khaki)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jq-ta6GAL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BVZCTVH9",
+                "variationName": "Color",
+                "variationValue": "B41:Boho Braid(Blue)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51pJUc2ZzuL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BVZD6M6J",
+                "variationName": "Color",
+                "variationValue": "B42:Boho Braid(Red)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41oiqOmmwPL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C849K6DC",
+                "variationName": "Color",
+                "variationValue": "Short Colorful",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51q4d+Rxd2L._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41F9TWzhF0L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41caoOOOY3L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41SVlYRW9SL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41Ii4mcdtVL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/415XvV7bBnL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/419y vfRj3L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/B1 PmDeCRTS.png"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/93871ec0-18b3-4867-8e6c-076f0b80fe99/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Fesciory Store",
+            "link": "https://www.amazon.com/stores/Fesciory/page/DA3483EF-C58C-4E87-B6D0-7FC38A048626?ref_=ast_bln"
+        },
+        "brand": "Fesciory",
+        "merchantInfo": "Fesciory",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 8023,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Tuesday, February 20 on orders shipped by Amazon over $35",
+            "Or fastest delivery Saturday, February 17. Order within 5 hrs 25 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Material Leather",
+            "Metal type Alloy",
+            "Clasp type Other-clasp-type",
+            "Chain type Cord Chain",
+            "Gem type Agate",
+            "\u3010UNIQUE DESIGN\u3011 This women leather bracelet features white multilayer leather cord and combination with colorful beads and rhinestones. It is made of a strong high-quality alloy clasp so as to easy wear and take off.",
+            "\u3010SUPERIOR QUALITY\u3011 Our Leather Cuff Bracelets is carefully crafted by handmade with environmental leather and high-grade alloy clasp to ensure you get a durable and exquisite bracelet. Wrap around leather bracelet has casual and trend appearance, it will satisfying your taste in fashion.",
+            "\u3010JUST THE RIGHT SIZE\u3011This women leather bracelet measures approximately 7.67\" long with width 0.59\", bring you an amazing comfortable fit. Fit maximum for 5.5''-6.7\" women wrists. You will also like the ultra-light weight without any burden feel while wearing the leather bracelet all day.",
+            "\u3010YOUR PERFECT BRACELET\u3011We handwoven this cuff bracelet with superior crafts and unbelievable attention to detail so you can get a unique yet chic fashion piece. When you are on party, it will bring you unique, beauty and elegant, perfectly fits your formal or casual dress to make you stand out. Also, when you are in daily life, you will feel comfortable to wear this bracelet, bring you pleasant mood whole day.",
+            "\u3010GREAT GIFT & SERVICE\u3011This wrap bracelet is suitable for all age women, perfect as a unique gift to teen girls, wife, girlfriend, mother or friends when Valentine\u2019s Day, Mother\u2019s Day, Birthday, Anniversary, Christmas Day or any special occasions. We are committed to provide the best jewelry and best services to you. If there is any problem with your purchase, please feel free to contact us, we will try our best to help you."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Jewelry",
+                "link": "https://www.amazon.com/Jewelry/b/ref=dp_bc_aui_C_3?ie=UTF8&node=7192394011"
+            },
+            {
+                "name": "Bracelets",
+                "link": "https://www.amazon.com/Womens-Fashion-Bracelets/b/ref=dp_bc_aui_C_4?ie=UTF8&node=7454898011"
+            },
+            {
+                "name": "Wrap",
+                "link": "https://www.amazon.com/Womens-Fashion-Wrap-Bracelets/b/ref=dp_bc_aui_C_5?ie=UTF8&node=7454906011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e FsWJsz002"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e December 1, 2020"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Fesciory"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B08PCW52LR"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#3,902 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #1 in Women's Wrap Bracelets"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 8,023 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Women Handmade Multi-Layer Leather Wrap Bracelet Classic Multi-Layer Leather Bracelet is a special design inspired from our around living would be a great addition to your finely dress or fashion jewelry collection.You can wear it as bracelet, fit for any dress style and any seasons, this Leather charms make you more unique and elegant.",
+                "media_link": []
+            },
+            {
+                "media_text": "High Quality Leather Our Leather Cuff Bracelet is carefully crafted by handmade with environmental leather to ensure you get a durable and exquisite bracelet. Two times wrap around leather bracelet has casual and trend appearance, it will satisfying your taste in fashion. Professional Mold Cutting We handmade our bracelet through genuine leather which texture is delicate and the hand is strong, and the leather is soft to use. According to the style of the bracelet, the leather is cut with the corresponding mold professional tool so as to get the superior bracelet. Handmade Leather Bracelet Our wrap bracelet is hand-woven by experienced craftsmen, they are alway focused enough, so final we can get durable bracelet Through their craft. we aim to the high quality and confortable bracelet.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/0658e4b5-ffa7-403e-ae5c-9cf409c47db0.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/73745dc1-f9eb-4236-b326-ddbecfbe82fe.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/16f3e2ca-783e-4cb9-bb87-f21c77674fde.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "BRAIDED ROPE WRAP BRACELET WITH MAGNETIC BUCKLE",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/b1dcc31e-f56f-4d8a-b58e-79fff7c8307c.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Unique Design This women leather bracelet features multilayer leather cord and combination with rhinestones and natural stone. It is made of a strong high-quality alloy magnetic clasp so as to easy wear and take off.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/5a418f2f-aa25-4d24-9998-28bd9ca549d7.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Your Perfect Bracelet We handwoven this cuff bangle with superior crafts and unbelievable attention to detail so you can get a unique yet chic fashion piece. When you are on party, it will bring you unique\u3001beauty and elegant, perfectly fits your formal or casual dress to make you stand out. Also, when you are in daily life, you will feel comfortable to wear this bracelet, bring you pleasant mood whole day.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/19805111-5e5a-423e-8da7-dca1dd3cba92.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "LEATHER BRACELET FOR WOMEN A Symbol of Everlasting Love Our bracelets are special gifts for sending to someone you love, Let it be your love confession! This is not just a present, but also the monument of love. The perfect gift for yourself/friends On a special day every one, including ourselves all want to receive a mysterious gift. Our leather bracelets surprise you and your friend, as perfect gift for your friend so as to friendship lasts forever. Surprise Gifts to Mom Best Gift on Mother's Birthday and Thanksgiving, express thanks to mom for always being there giving us unconditional love, be grateful to your, dear mother.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/4fa9de5e-71fb-44ee-ae71-aa75cf495aa5.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/ab8c88e1-d906-430d-a67d-a6b288efde10.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/06ef37f2-5ef7-44cb-be72-737881f94b2b.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sc/141c2101-2c07-4a7e-9b9c-8e2a6ab4e37e.__CR0,0,600,180_PT0_SX600_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/0658e4b5-ffa7-403e-ae5c-9cf409c47db0.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/73745dc1-f9eb-4236-b326-ddbecfbe82fe.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/16f3e2ca-783e-4cb9-bb87-f21c77674fde.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/b1dcc31e-f56f-4d8a-b58e-79fff7c8307c.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/5a418f2f-aa25-4d24-9998-28bd9ca549d7.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/19805111-5e5a-423e-8da7-dca1dd3cba92.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/4fa9de5e-71fb-44ee-ae71-aa75cf495aa5.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/ab8c88e1-d906-430d-a67d-a6b288efde10.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/06ef37f2-5ef7-44cb-be72-737881f94b2b.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Theresa Hayes",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH66HG3EUCFSAGRGNRDIEBFKVKMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1E0G33Z1Z6QFW?ASIN=B07VWPL1MW",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 23, 2023",
+                "reviewTitle": "5.0 out of 5 stars Favorite bracelet ever!!!",
+                "reviewText": "I love bracelets especially with the look of leather. These are very well made bracelets with a magnetic clasp. Very dressy and high quality. I work in the fashion industry and need to have a look that speaks trendy but high quality. This was my 1st purchase. I was so impressed I bought 6 more that just arrived. I love them all!!! The red wrap bracelet got the most compliments thus far. I just ordered two more. I highly recommend these bracelets for either casual wear or dressy. All are very high quality and very well priced. The one with the white stone in black & gold leather is exceptionally beautiful. Thank you for producing these gorgeous bracelets!!",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bobbi",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AENLDBRUDMIDIPJUFI2PUHKNVNXA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3TVPJCJ1FZS6J?ASIN=B07VWPL1MW",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love these magnetic bracelets!",
+                "reviewText": "This more casual bracelet goes well with a variety of colors. It\u2019s comfortable on my wrist and draws compliments. Plus the price is very reasonable",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kwana C. Jones-beckerKwana C. Jones-becker",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEG5RBOPEPVELWAYGEAD7BNLYUAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2UMC1QVURM5ZU?ASIN=B07VWPL1MW",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 28, 2023",
+                "reviewTitle": "5.0 out of 5 stars Undervalued Bracelet!",
+                "reviewText": "Beautiful bracelet! Strong magnetic clasp. Perfect shine. Looks more expensive than it is. I would have gladly paid more for it. Very versatile. Looks great dressed up or dressed down. Jeans or evening wear. Probably one of my favorite purchases from Amazon.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81U2icm6Z1L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHGNHAX23E2FPHQL6GOJJDVR2EJA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R25UAA6SNBDCXE?ASIN=B07VWPL1MW",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 7, 2023",
+                "reviewTitle": "4.0 out of 5 stars Easy to clasp",
+                "reviewText": "The magnetic clasp works very well. I tend to reorder this style of bracelet every six months because eventually the bracelet falls apart. It looks nice and is easy to put on and take off.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lursa",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFEFDFF3FOKBZBTPLP2UJSSRLQZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RA3LTB31PVUE3?ASIN=B07VWPL1MW",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very cute!",
+                "reviewText": "Love this. It goes well with anything. The workmanship is good.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mary",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFDZQL2VULZ4FLOZXA2HYQ5E4RVA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1CNKZQBXSD5UW?ASIN=B07VWPL1MW",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Easy to wear",
+                "reviewText": "Love these bracelets! They are easy to wear, look beautiful, & go with many of my outfits!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "1Creeksidegal",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFS74U4DORUHOZP7TAIPSCFJNV6A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1WWSH9URLZBIM?ASIN=B07VWPL1MW",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 11, 2023",
+                "reviewTitle": "3.0 out of 5 stars Cool bracelet but runs extremely small.",
+                "reviewText": "I loved the look of this bracelet, but it runs very small. I do not have large wrists but it was difficult to impossible to clasp & then once you did, there\u2019s no unlatch button so it\u2019s very difficult to remove! I bought this in black, silver & rose color. All were seemingly sturdy, but unfortunately too tight. So I had to send them back.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Billie Jo Forthman",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFHWLC6GW4ZZRIHZMNRLD76C7CBQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RPCBDLBM10PX0?ASIN=B07VWPL1MW",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Beautiful",
+                "reviewText": "Very well made and looks great on!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Vero",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 19, 2023",
+                "reviewTitle": "Bon achat",
+                "reviewText": "Fid\u00e8le aux attentes! Ma m\u00e8re \u00e9tait tr\u00e8s contente",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Terry Angilley",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on December 28, 2021",
+                "reviewTitle": "Too large and looks cheap",
+                "reviewText": "Too large and looks cheap",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Johanne Blais",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 29, 2023",
+                "reviewTitle": "Tr\u00e8s beau",
+                "reviewText": "Tr\u00e8s satisfaite, mieux que je croyais",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "finnsmom",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 16, 2019",
+                "reviewTitle": "I LOVE IT.",
+                "reviewText": "Beautiful bracelet. I\u2019ve had many compliments on it.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Carolyn ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 2, 2022",
+                "reviewTitle": "Nicely made but\u2026..",
+                "reviewText": "It\u2019s nicely made and fits around my wrist just fine but is quite narrow. It doesn\u2019t have much impact.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

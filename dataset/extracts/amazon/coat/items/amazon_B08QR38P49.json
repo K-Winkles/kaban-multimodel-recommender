@@ -1,0 +1,538 @@
+{
+    "remaining_requests": 13176,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/GRACE-KARIN-Womens-Cardigans-Sweater/dp/B08QR38P49",
+    "body": {
+        "name": "GRACE KARIN Essential Solid Open Front Maxi Long Knitted Cardigan Sweater for Women",
+        "price": "$39.99",
+        "originalPrice": "",
+        "rawPrice": 39.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/GRACE-KARIN-Essential-Knitted-Cardigan/dp/B07ZYK5H1C",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B07ZYK5H1C"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0BKVV9VCG",
+                "variationName": "Color",
+                "variationValue": "Hot Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Q2Qodm78L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08QRZWTW1",
+                "variationName": "Color",
+                "variationValue": "Baby Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31YAjuqvcBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08ZMWFJZQ",
+                "variationName": "Color",
+                "variationValue": "Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31VUHJujkjL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZYK3WDD",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31c7Vum4M7L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08QR3RWFD",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41zfRgyemmL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08L5XF154",
+                "variationName": "Color",
+                "variationValue": "Coffee",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31YyFoFJi4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08RC16W29",
+                "variationName": "Color",
+                "variationValue": "Dark Olive Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31T3MnXJ-lL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08L5YPMHP",
+                "variationName": "Color",
+                "variationValue": "Deep Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41lSwZzt9AL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08ZMV91CB",
+                "variationName": "Color",
+                "variationValue": "Deep Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3159kw4qTZL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08RBZS4TF",
+                "variationName": "Color",
+                "variationValue": "Drak Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/412+wKT6wvL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08RC18CFQ",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415UQV57BpL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08QRQTKSB",
+                "variationName": "Color",
+                "variationValue": "Grey Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31SU6n9bzxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZYJLWBV",
+                "variationName": "Color",
+                "variationValue": "Ivory",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31vy5HFr15L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08L5WT93L",
+                "variationName": "Color",
+                "variationValue": "Khaki Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/319uOozxe7L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B085VZ4692",
+                "variationName": "Color",
+                "variationValue": "Light Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41RBz0BhUvL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08ZMV4F4C",
+                "variationName": "Color",
+                "variationValue": "Purple Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31KQYrA2e3L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZYJS8B6",
+                "variationName": "Color",
+                "variationValue": "Royal Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31M89jfNMiL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B085VPGX9K",
+                "variationName": "Color",
+                "variationValue": "Wine",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ZaHBwFMyL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZYH1TCC",
+                "variationName": "Color",
+                "variationValue": "Dark Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41E8MJUx+oL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08ZMW1YZ7",
+                "variationName": "Color",
+                "variationValue": "Denim",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Zr4hvzZ1L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZYJPZLS",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41zJySFz+nL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08ZMVWZ26",
+                "variationName": "Color",
+                "variationValue": "Bondi Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413Cv4dAODL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08ZMVR1V2",
+                "variationName": "Color",
+                "variationValue": "Plum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41SvbTXbxeL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BKVV9VCG",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08QRZWTW1",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08QR38P49",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08QS69Z7R",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08QRBZLGD",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08QRXM3XN",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31YAjuqvcBL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31BYYjZq7cL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31Sjx R42wL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51v52Jty1sL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41Pl4w6guvL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/519wMqSwFbL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51WwLpem7AL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9a8c9b73-78b4-4a8b-a1b7-6c52364e40d8/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6a123da2-3903-4da2-8d58-08454b523fcb/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 2,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the GRACE KARIN Store",
+            "link": "https://www.amazon.com/stores/GRACEKARIN/page/87C34C1F-156A-4E73-AFA0-7C19974B4580?ref_=ast_bln"
+        },
+        "brand": "GRACEKARIN",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 4983,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 75%Viscose,25%Polyester",
+            "Care instructions Hand Wash Only",
+            "Closure type Pull On",
+            "Weave type Rib",
+            "Comfortable and classy Sweater: Be made of stretchy breathable fabric,not too thick or thin,fit well and keep cozy.Drapes nicely and flows beautifully.",
+            "The open front long duster cardigans gives a non-closure approach with outfits, which gives the possibility to pair with more tops than other sweaters. Rib trim on cuffs, hem with two pocket front.",
+            "Basic and Classic:the lightweight fabric is slight enough to wear for light coverage during the warmer months, and great for individually wearing during the cooler months. This is also a great go-to for any casual or formal events you may have.",
+            "Great for on-to go casual looks with your favorite blouse or tank, and jeans or leggings. Just grab and go! For formal events dress it up with statement necklaces with a professional blouseand other fun jewelry with heels.",
+            "Notice and Warn Tips: Please check our size chart rather than Amazon's,Hand Wash in Cold Water Separately, Hang Dry."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Sweaters",
+                "link": "https://www.amazon.com/Womens-Sweaters/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1044456"
+            },
+            {
+                "name": "Cardigans",
+                "link": "https://www.amazon.com/Womens-Cardigans/b/ref=dp_bc_aui_C_5?ie=UTF8&node=1044612"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.54 x 10.28 x 1.85 inches; 13.44 Ounces"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e October 29, 2022"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0BKVV9VCG"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#8,288 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #48 in Women's Cardigans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 4,983 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "reyna downs",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH7WLYS7J3KJ247DJMKICRMAPDDQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1ZXAEPSN13WN0?ASIN=B07ZYK5H1C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars Pretty and comfortable",
+                "reviewText": "I am happy with this sweater. It is just the right length and fits well. I like the bright pink color and the style is great. The quality of the material is also very good.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "T. Babcock",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGK3VE6CSV25S7JPBH2BFKOZROEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R281NP78MN1SZV?ASIN=B07ZYK5H1C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars very nice",
+                "reviewText": "I think this is a very nice cardigan. It's true to size and the quality is decent. I like it. I got the gray.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Beverly Hogue",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEEKP42HJOL7KOXOIK2UDJE4YOGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R19Q5GQRIWDQFU?ASIN=B07ZYK5H1C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 19, 2023",
+                "reviewTitle": "5.0 out of 5 stars Slim Silhouette Is Very Flattering",
+                "reviewText": "I swear I wear this sweater almost daily. I love a long sweater that has a slim silhouette. I was a bit scared about the wash and dry but I have done both.....delicate for the wash and low for the dry and it comes out so soft each time. I like that you can use it to dress up an outfit and you aren't boiling hot in it. My only complaint is that when you hang it up, the front doesn't lay flat unless you fuss with it a little bit. It sort of bends in towards the front. I am not a iron girl. The last time I ironed something I cried out of pure frustration. If you are having that problem also, you can clip the front to force it to stay flat or of course you could air dry it flat. I will most definitely be purchasing more colors in the future.",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Shauna",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFWIN3OCRIYFKBAPU5UDGDE73TDA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R66NO22HOUT8T?ASIN=B07ZYK5H1C",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 18, 2023",
+                "reviewTitle": "4.0 out of 5 stars Fits well",
+                "reviewText": "Buy to your size. Fits well, color and material is accurate to pictures and description.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Janine ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEAJAEHHXEZOVBB5B5T7TZWTBT4A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2WE9SZJ3LY1W2?ASIN=B07ZYK5H1C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 15, 2023",
+                "reviewTitle": "5.0 out of 5 stars Beat sweater coatg",
+                "reviewText": "Arrives as promised always a good thing. The sweater coat is just the right weight, not too thick or thin, perfect length, perfect for Las Vegas Autumn. I love it! It's perfect for going out in the cool evenings.Great price, strong material.Going to get one more in white",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cristi D.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AED5LL4DDGLI6MRUODT56OMJSDNA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3MB9OF79IB35T?ASIN=B07ZYK5H1C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "5.0 out of 5 stars Looks more expensive than it is.",
+                "reviewText": "Nice material, nice cut, soft. Wish pockets were big enough for a cell phone to not fall out of, but regardless, it's great for traveling through airports.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Placeholder",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFOHPTH35IN37CU7FNS7IPKC774A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3EEAVYW9QSW3S?ASIN=B07ZYK5H1C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nicer than in photo",
+                "reviewText": "This cardigan duster looks even better than online. Color is as shown, material is light and soft and the cardigan is so flattering. I didn\u2019t have much luck with clothes ordered from Amazon but this one is a keeper.Will look for another color I like and order it again.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHQWYZTR2ARJUYKF4SGFJ7JWHRKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14K38PS1PKS70?ASIN=B07ZYK5H1C",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 9, 2023",
+                "reviewTitle": "3.0 out of 5 stars Runs Small",
+                "reviewText": "Length + arm length are great. If you are tall, you will love the length and arm length. But the sweater runs small. I am typically an XL. I ordered the XXL to have some extra room and it was still too tight through chest and body.This is also very lightweight. Great for looks, but would not add a layer of warmth if needed.Still, a very pretty cardigan if you are not a plus-sized woman.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "CJayCJay",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 27, 2023",
+                "reviewTitle": "Perfect for campus or office",
+                "reviewText": "This is by far the best long cardigan I own. It is thicker material, very soft, slightly weighted. It looks sharp and would be ideal for fall to winter transition weather. I have wider hips for my frame and I find it can be difficult to find long cardigans that don\u2019t make me lose my shape. I\u2019m really impressed with this item! I\u2019m 5\u20197, maybe a small to medium in tops, a large in bottoms, and a small fits perfectly.",
+                "reviewVotes": "8 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/41gouxNQx0L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "D. E.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 30, 2024",
+                "reviewTitle": "Very nice product",
+                "reviewText": "Great fit, material has an ideal amount of stretch and is surprisingly warm for the thickness. Accessorizes nicely with other clothing. I like it!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Helene Von Besser",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 30, 2023",
+                "reviewTitle": "Quality",
+                "reviewText": "This sweater is so comfortable and look so rich on me? I bought a wrong size but I'm keeping it anyway. Keeps my legs warm at night, love it.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Andrea Stavinga",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 3, 2024",
+                "reviewTitle": "Quality",
+                "reviewText": "I love this long open cardigan. Wore it at Christmas and got lots of compliments. Great quality and it goes with anything",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Steve",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 4, 2024",
+                "reviewTitle": "Very cute!",
+                "reviewText": "This is the second Grace Karin sweater that I have bought, and I adore them. (Susan)",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

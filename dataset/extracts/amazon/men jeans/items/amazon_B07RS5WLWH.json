@@ -1,0 +1,1952 @@
+{
+    "remaining_requests": 16003,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Levis-Mens-Athletic-Castilleja-White/dp/B07RS5WLWH",
+    "body": {
+        "name": "Levi's Men's 541 Athletic Fit Jeans (Also Available in Big & Tall)",
+        "price": "$19.09 - $79.50",
+        "originalPrice": "",
+        "rawPrice": 19.09,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Levis-Mens-Athletic-Jeans-Available/dp/B0CK8HNJLN",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CK8HNJLN"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07RMJ14FV",
+                "variationName": "SpecialSize",
+                "variationValue": "Big & Tall",
+                "price": "",
+                "variationImageURL": ""
+            },
+            {
+                "asin": "B07RR4351T",
+                "variationName": "SpecialSize",
+                "variationValue": "Standard",
+                "price": "",
+                "variationImageURL": ""
+            },
+            {
+                "asin": "B08S7QNFGY",
+                "variationName": "Size",
+                "variationValue": "28W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S7NKV37",
+                "variationName": "Size",
+                "variationValue": "28W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR3XWSF",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S7R2BWT",
+                "variationName": "Size",
+                "variationValue": "30W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RP19JVJ",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZ2X78",
+                "variationName": "Size",
+                "variationValue": "30W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR3RB5Z",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RP1RXM3",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RPZKFHC",
+                "variationName": "Size",
+                "variationValue": "31W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RPZYRSC",
+                "variationName": "Size",
+                "variationValue": "32W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RNZMK22",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S7R6DK2",
+                "variationName": "Size",
+                "variationValue": "32W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZGSPQ",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZF6J6",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S7QYYQM",
+                "variationName": "Size",
+                "variationValue": "32W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZGSXK",
+                "variationName": "Size",
+                "variationValue": "32W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S7SPRQT",
+                "variationName": "Size",
+                "variationValue": "32W x 36L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJS65N",
+                "variationName": "Size",
+                "variationValue": "32W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZPY19Q",
+                "variationName": "Size",
+                "variationValue": "32W x 38L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR4358M",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S7V63NX",
+                "variationName": "Size",
+                "variationValue": "33W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RQ16XGR",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S7P5L53",
+                "variationName": "Size",
+                "variationValue": "33W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZH4YQ",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR4351T",
+                "variationName": "Size",
+                "variationValue": "34W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RS66B1Z",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S7RC2LX",
+                "variationName": "Size",
+                "variationValue": "34W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RPZNYQM",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S7PFLKK",
+                "variationName": "Size",
+                "variationValue": "34W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RS5WLWH",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S7N9WWZ",
+                "variationName": "Size",
+                "variationValue": "34W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZHKG9",
+                "variationName": "Size",
+                "variationValue": "34W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RP1D9Q6",
+                "variationName": "Size",
+                "variationValue": "34W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZBC1Z1",
+                "variationName": "Size",
+                "variationValue": "34W x 38L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMK1ZMX",
+                "variationName": "Size",
+                "variationValue": "35W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RP26866",
+                "variationName": "Size",
+                "variationValue": "35W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR4353G",
+                "variationName": "Size",
+                "variationValue": "35W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RPZNZ7Y",
+                "variationName": "Size",
+                "variationValue": "35W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RNZMKR9",
+                "variationName": "Size",
+                "variationValue": "36W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR43587",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S8VH3JS",
+                "variationName": "Size",
+                "variationValue": "36W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZHK96",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S7NV72M",
+                "variationName": "Size",
+                "variationValue": "36W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR3VZ2W",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S7QCP5T",
+                "variationName": "Size",
+                "variationValue": "36W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RP1XLRG",
+                "variationName": "Size",
+                "variationValue": "36W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMYYM2Q",
+                "variationName": "Size",
+                "variationValue": "36W x 36L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMYJXB4",
+                "variationName": "Size",
+                "variationValue": "36W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZVCMNR",
+                "variationName": "Size",
+                "variationValue": "36W x 38L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RPZRZXZ",
+                "variationName": "Size",
+                "variationValue": "37W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZ2X84",
+                "variationName": "Size",
+                "variationValue": "37W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RQ119CC",
+                "variationName": "Size",
+                "variationValue": "37W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1K9T3QG",
+                "variationName": "Size",
+                "variationValue": "37W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RPZKF7G",
+                "variationName": "Size",
+                "variationValue": "38W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RS5RPNV",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S7NKQWV",
+                "variationName": "Size",
+                "variationValue": "38W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR3XW4T",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08S7V5NNG",
+                "variationName": "Size",
+                "variationValue": "38W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZGSV4",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJP2QD",
+                "variationName": "Size",
+                "variationValue": "38W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KWHMJN",
+                "variationName": "Size",
+                "variationValue": "38W x 36L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR2RYWP",
+                "variationName": "Size",
+                "variationValue": "38W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KMK71Y",
+                "variationName": "Size",
+                "variationValue": "38W x 38L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RQ17BNC",
+                "variationName": "Size",
+                "variationValue": "39W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR3SRXT",
+                "variationName": "Size",
+                "variationValue": "39W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RQ16XBX",
+                "variationName": "Size",
+                "variationValue": "39W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZGTH1",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1K9Z62W",
+                "variationName": "Size",
+                "variationValue": "40W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RPZKDLK",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KLPRYP",
+                "variationName": "Size",
+                "variationValue": "40W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RQ15YVB",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KSGQ6S",
+                "variationName": "Size",
+                "variationValue": "40W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMYWFGG",
+                "variationName": "Size",
+                "variationValue": "40W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KSGQ6W",
+                "variationName": "Size",
+                "variationValue": "40W x 36L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMYW9LJ",
+                "variationName": "Size",
+                "variationValue": "40W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZZ7VF2",
+                "variationName": "Size",
+                "variationValue": "40W x 38L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RP21PQX",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KGT1Z7",
+                "variationName": "Size",
+                "variationValue": "42W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR3SRYS",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KCZ5J5",
+                "variationName": "Size",
+                "variationValue": "42W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RP1SSNF",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KG3DR1",
+                "variationName": "Size",
+                "variationValue": "42W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJP84T",
+                "variationName": "Size",
+                "variationValue": "42W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KR3RLQ",
+                "variationName": "Size",
+                "variationValue": "42W x 36L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMYW921",
+                "variationName": "Size",
+                "variationValue": "42W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZF7YZ3",
+                "variationName": "Size",
+                "variationValue": "42W x 38L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RPYPXGT",
+                "variationName": "Size",
+                "variationValue": "44W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZQG2C3",
+                "variationName": "Size",
+                "variationValue": "44W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJLZDN",
+                "variationName": "Size",
+                "variationValue": "44W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZHP5VN",
+                "variationName": "Size",
+                "variationValue": "44W x 29L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR3K7BG",
+                "variationName": "Size",
+                "variationValue": "44W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KCVPRD",
+                "variationName": "Size",
+                "variationValue": "44W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJ14FV",
+                "variationName": "Size",
+                "variationValue": "44W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KFS6TG",
+                "variationName": "Size",
+                "variationValue": "44W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJSGMS",
+                "variationName": "Size",
+                "variationValue": "44W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KJMXYN",
+                "variationName": "Size",
+                "variationValue": "44W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJP92L",
+                "variationName": "Size",
+                "variationValue": "44W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KP2FPT",
+                "variationName": "Size",
+                "variationValue": "44W x 36L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR2RZ3C",
+                "variationName": "Size",
+                "variationValue": "44W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2Z63CVM",
+                "variationName": "Size",
+                "variationValue": "44W x 38L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RP1VLJH",
+                "variationName": "Size",
+                "variationValue": "46W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZBWB22",
+                "variationName": "Size",
+                "variationValue": "46W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMYYM1Z",
+                "variationName": "Size",
+                "variationValue": "46W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZK1F6W",
+                "variationName": "Size",
+                "variationValue": "46W x 29L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJLYM4",
+                "variationName": "Size",
+                "variationValue": "46W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KH217K",
+                "variationName": "Size",
+                "variationValue": "46W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RPZ5PN2",
+                "variationName": "Size",
+                "variationValue": "46W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KK25WZ",
+                "variationName": "Size",
+                "variationValue": "46W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJSCPX",
+                "variationName": "Size",
+                "variationValue": "46W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1K98ZJP",
+                "variationName": "Size",
+                "variationValue": "46W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMYYLR3",
+                "variationName": "Size",
+                "variationValue": "46W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZGQ28R",
+                "variationName": "Size",
+                "variationValue": "46W x 36L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJPDKP",
+                "variationName": "Size",
+                "variationValue": "46W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZHVDP3",
+                "variationName": "Size",
+                "variationValue": "46W x 38L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMXYPYF",
+                "variationName": "Size",
+                "variationValue": "48W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2Z9WZ3T",
+                "variationName": "Size",
+                "variationValue": "48W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RNZMDJ3",
+                "variationName": "Size",
+                "variationValue": "48W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZVCMP2",
+                "variationName": "Size",
+                "variationValue": "48W x 29L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RNZC5B3",
+                "variationName": "Size",
+                "variationValue": "48W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KKTFMG",
+                "variationName": "Size",
+                "variationValue": "48W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZ7XN6",
+                "variationName": "Size",
+                "variationValue": "48W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KP6HZP",
+                "variationName": "Size",
+                "variationValue": "48W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJPJMT",
+                "variationName": "Size",
+                "variationValue": "48W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KSFSDK",
+                "variationName": "Size",
+                "variationValue": "48W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RPZNFJV",
+                "variationName": "Size",
+                "variationValue": "48W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZGFGST",
+                "variationName": "Size",
+                "variationValue": "48W x 36L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJP86R",
+                "variationName": "Size",
+                "variationValue": "48W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZBH6LR",
+                "variationName": "Size",
+                "variationValue": "48W x 38L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJP2N5",
+                "variationName": "Size",
+                "variationValue": "50W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZS1NKG",
+                "variationName": "Size",
+                "variationValue": "50W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR3K7K2",
+                "variationName": "Size",
+                "variationValue": "50W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZYKD6L",
+                "variationName": "Size",
+                "variationValue": "50W x 29L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RP1SS4J",
+                "variationName": "Size",
+                "variationValue": "50W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KKR6W6",
+                "variationName": "Size",
+                "variationValue": "50W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMHZPDK",
+                "variationName": "Size",
+                "variationValue": "50W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KFR2ZM",
+                "variationName": "Size",
+                "variationValue": "50W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMHZT9M",
+                "variationName": "Size",
+                "variationValue": "50W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1JRKKX5",
+                "variationName": "Size",
+                "variationValue": "50W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMY8PNH",
+                "variationName": "Size",
+                "variationValue": "52W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZPJXB7",
+                "variationName": "Size",
+                "variationValue": "52W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJSGMY",
+                "variationName": "Size",
+                "variationValue": "52W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZBTLKY",
+                "variationName": "Size",
+                "variationValue": "52W x 29L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJSBHM",
+                "variationName": "Size",
+                "variationValue": "52W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KRRMLF",
+                "variationName": "Size",
+                "variationValue": "52W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RPZNJW6",
+                "variationName": "Size",
+                "variationValue": "52W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KD94HX",
+                "variationName": "Size",
+                "variationValue": "52W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RLG6MRP",
+                "variationName": "Size",
+                "variationValue": "52W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KHYN9T",
+                "variationName": "Size",
+                "variationValue": "52W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR2RZ15",
+                "variationName": "Size",
+                "variationValue": "54W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZZJKTM",
+                "variationName": "Size",
+                "variationValue": "54W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZ5M77",
+                "variationName": "Size",
+                "variationValue": "54W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZQFG36",
+                "variationName": "Size",
+                "variationValue": "54W x 29L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJHHPD",
+                "variationName": "Size",
+                "variationValue": "54W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KJPCYF",
+                "variationName": "Size",
+                "variationValue": "54W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RP19VW1",
+                "variationName": "Size",
+                "variationValue": "54W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KMNCK9",
+                "variationName": "Size",
+                "variationValue": "54W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZ5T72",
+                "variationName": "Size",
+                "variationValue": "54W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZQXZW7",
+                "variationName": "Size",
+                "variationValue": "54W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJDPW4",
+                "variationName": "Size",
+                "variationValue": "56W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZFMLQ5",
+                "variationName": "Size",
+                "variationValue": "56W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMYWFFQ",
+                "variationName": "Size",
+                "variationValue": "56W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1K9HHXM",
+                "variationName": "Size",
+                "variationValue": "56W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMYKQVD",
+                "variationName": "Size",
+                "variationValue": "56W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1KCNHKY",
+                "variationName": "Size",
+                "variationValue": "56W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RLG6NCK",
+                "variationName": "Size",
+                "variationValue": "56W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZCHSKZ",
+                "variationName": "Size",
+                "variationValue": "56W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMHZTC2",
+                "variationName": "Size",
+                "variationValue": "58W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZGT9PG",
+                "variationName": "Size",
+                "variationValue": "58W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMYWYH2",
+                "variationName": "Size",
+                "variationValue": "58W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZHRDJ4",
+                "variationName": "Size",
+                "variationValue": "58W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMHZT9N",
+                "variationName": "Size",
+                "variationValue": "58W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZP7ZSJ",
+                "variationName": "Size",
+                "variationValue": "58W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJDPV4",
+                "variationName": "Size",
+                "variationValue": "58W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZVN6VG",
+                "variationName": "Size",
+                "variationValue": "58W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMY9484",
+                "variationName": "Size",
+                "variationValue": "60W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZPHBNR",
+                "variationName": "Size",
+                "variationValue": "60W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJPJRW",
+                "variationName": "Size",
+                "variationValue": "60W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZH3MMM",
+                "variationName": "Size",
+                "variationValue": "60W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZ81BQ",
+                "variationName": "Size",
+                "variationValue": "60W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2Z5QC8D",
+                "variationName": "Size",
+                "variationValue": "60W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJPDL9",
+                "variationName": "Size",
+                "variationValue": "60W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZDV3DP",
+                "variationName": "Size",
+                "variationValue": "60W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZ84FB",
+                "variationName": "Size",
+                "variationValue": "62W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZDSR8V",
+                "variationName": "Size",
+                "variationValue": "62W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMY948W",
+                "variationName": "Size",
+                "variationValue": "62W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B311KTNG",
+                "variationName": "Size",
+                "variationValue": "62W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RLG6NBJ",
+                "variationName": "Size",
+                "variationValue": "62W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2Z1D4ZL",
+                "variationName": "Size",
+                "variationValue": "62W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR3RFDX",
+                "variationName": "Size",
+                "variationValue": "62W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZNLRCB",
+                "variationName": "Size",
+                "variationValue": "62W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZ5L8P",
+                "variationName": "Size",
+                "variationValue": "64W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZM2TSY",
+                "variationName": "Size",
+                "variationValue": "64W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMYWYLG",
+                "variationName": "Size",
+                "variationValue": "64W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZDQD37",
+                "variationName": "Size",
+                "variationValue": "64W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RNZMDP8",
+                "variationName": "Size",
+                "variationValue": "64W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZGW2F9",
+                "variationName": "Size",
+                "variationValue": "64W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RP19VYZ",
+                "variationName": "Size",
+                "variationValue": "64W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZJ7GK3",
+                "variationName": "Size",
+                "variationValue": "64W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B095XBNRXF",
+                "variationName": "Size",
+                "variationValue": "66W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZXKKFL",
+                "variationName": "Size",
+                "variationValue": "66W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMY8Q1B",
+                "variationName": "Size",
+                "variationValue": "66W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZYFTKL",
+                "variationName": "Size",
+                "variationValue": "66W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMXYQ5B",
+                "variationName": "Size",
+                "variationValue": "66W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZP7HF4",
+                "variationName": "Size",
+                "variationValue": "66W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMJSDJ4",
+                "variationName": "Size",
+                "variationValue": "66W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZLY85L",
+                "variationName": "Size",
+                "variationValue": "66W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1JSS76K",
+                "variationName": "Color",
+                "variationValue": "Funkify",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09N66TGB8",
+                "variationName": "Color",
+                "variationValue": "Naval Academy - Twill",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR4351T",
+                "variationName": "Color",
+                "variationValue": "Castilleja White - Stretch",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RQ16WQR",
+                "variationName": "Color",
+                "variationValue": "True Chino - All Seasons Tech - Stretch",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B095X7BBW3",
+                "variationName": "Color",
+                "variationValue": "(New) Twice as Hard - Destructed",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08P53QPWP",
+                "variationName": "Color",
+                "variationValue": "Hawthorne Shocking - Dark Indigo",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00MGBARA4",
+                "variationName": "Color",
+                "variationValue": "The Rich",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QSLV75G",
+                "variationName": "Color",
+                "variationValue": "Manzanita",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QRMM5SK",
+                "variationName": "Color",
+                "variationValue": "Bay Tint - All Seasons Tech - Stretch",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00MGBJOM6",
+                "variationName": "Color",
+                "variationValue": "Midnight",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BN6XNRBP",
+                "variationName": "Color",
+                "variationValue": "Never Give You Up",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01EBPTP28",
+                "variationName": "Color",
+                "variationValue": "Caraway - Twill",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KZ4VPH3",
+                "variationName": "Color",
+                "variationValue": "Seven Reasons",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZHJPT",
+                "variationName": "Color",
+                "variationValue": "Cleaner",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096L6VBLP",
+                "variationName": "Color",
+                "variationValue": "Ancient Ways - Dark Indigo",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RR3VZYQ",
+                "variationName": "Color",
+                "variationValue": "Native Cali",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00XC0OMAE",
+                "variationName": "Color",
+                "variationValue": "Stealth - Stretch",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RP1MHFC",
+                "variationName": "Color",
+                "variationValue": "(New) Native Cali",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B095XCYY2X",
+                "variationName": "Color",
+                "variationValue": "(New) Kota Mid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B095X9XWW2",
+                "variationName": "Color",
+                "variationValue": "Ancient Ways",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BN6XNK6V",
+                "variationName": "Color",
+                "variationValue": "Born to Adapt",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BN6WVFDW",
+                "variationName": "Color",
+                "variationValue": "Catch My Drift",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00MGBK6C8",
+                "variationName": "Color",
+                "variationValue": "(New) Midnight",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QSLNBFF",
+                "variationName": "Color",
+                "variationValue": "Cholla Black Overdye - All Seasons Tech",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09N6PBBS8",
+                "variationName": "Color",
+                "variationValue": "Go Adapt",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QPC1FQG",
+                "variationName": "Color",
+                "variationValue": "Mineral Black - All Seasons Tech - Stret...",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08P53FSTW",
+                "variationName": "Color",
+                "variationValue": "Seven Reasons - Light Indigo",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B095XC44XJ",
+                "variationName": "Color",
+                "variationValue": "(New) Kota Skies",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08P565XB2",
+                "variationName": "Color",
+                "variationValue": "Fremont Drop Shot - Medium Indigo",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0821GP7X6",
+                "variationName": "Color",
+                "variationValue": "Walter - Stretch",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2ZV9DDB",
+                "variationName": "Color",
+                "variationValue": "(New) Abbysal Blob",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09N6R4KFZ",
+                "variationName": "Color",
+                "variationValue": "Cast Iron Soul",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B071WC7F3P",
+                "variationName": "Color",
+                "variationValue": "Husker - Stretch",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RMZGSMT",
+                "variationName": "Color",
+                "variationValue": "(New) Cleaner",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QRMN2P7",
+                "variationName": "Color",
+                "variationValue": "(New) Bay Tint - All Seasons Tech - Stre...",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00V34SUH2",
+                "variationName": "Color",
+                "variationValue": "Timberwolf - Twill",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08P4YXCPF",
+                "variationName": "Color",
+                "variationValue": "Dancing Robot - Grey",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QSLVZ39",
+                "variationName": "Color",
+                "variationValue": "(New) Manzanita",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07L33PNS9",
+                "variationName": "Color",
+                "variationValue": "Asphalt - Grey",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00UV3SPOO",
+                "variationName": "Color",
+                "variationValue": "Black Stonewash",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00V34SUTU",
+                "variationName": "Color",
+                "variationValue": "(New) Timberwolf - Twill",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00MGBAI3U",
+                "variationName": "Color",
+                "variationValue": "(New) the Rich",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00XC2FQXE",
+                "variationName": "Color",
+                "variationValue": "(New) Stealth - Stretch",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B071JF2VFD",
+                "variationName": "Color",
+                "variationValue": "(New) Husker - Stretch",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07G9XRP4P",
+                "variationName": "Color",
+                "variationValue": "Stonewash Stretch",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0821GL2XF",
+                "variationName": "Color",
+                "variationValue": "(New) Walter - Stretch",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096L75ZNJ",
+                "variationName": "Color",
+                "variationValue": "(New) Ancient Ways - Dark Indigo",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QPC1FR1",
+                "variationName": "Color",
+                "variationValue": "Cholla Subtle - All Seasons Tech - Stret...",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08P54DFWZ",
+                "variationName": "Color",
+                "variationValue": "(New) Fremont Drop Shot - Medium Indigo",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01IRQCR86",
+                "variationName": "Color",
+                "variationValue": "(New) Caraway - Twill",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QQH6F14",
+                "variationName": "Color",
+                "variationValue": "Manzanita Subtle - All Seasons Tech - St...",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09N6MFBBZ",
+                "variationName": "Color",
+                "variationValue": "Go Adapt - Medium Indigo Worn in",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RPZKFDR",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BN6WSD2D",
+                "variationName": "Color",
+                "variationValue": "Keep Up Adapt",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01FIK3UQM",
+                "variationName": "Color",
+                "variationValue": "(New) Midnight/Stretch",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07L35M8MJ",
+                "variationName": "Color",
+                "variationValue": "Grey Asphalt - Stretch",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08P55LPL5",
+                "variationName": "Color",
+                "variationValue": "(New) Hawthorne Shocking - Dark Indigo",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31VHwGyxRtL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31PQ QeoVYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31o6iJhSy0L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41bq5ldaV6L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51nthSR6SLL.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Levi's Store",
+            "link": "https://www.amazon.com/stores/Levis/page/7B18FACC-DCB8-4735-B4AC-CDE16CD147DD?ref_=ast_bln"
+        },
+        "brand": "Levis",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 26566,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 99% Cotton, 1% Elastane",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zip fly with button closure",
+            "Extra room through the seat and thigh",
+            "Sits at your waist; Tapered leg",
+            "Please refer to size chart listed on product imagery carousel for accurate measurements",
+            "Front rise: 10.4\", Knee: 17.75\", Leg opening: 15.75\", Measurements based on size 32 (Standard)",
+            "Front rise: 12.5\", Knee: 21.25\", Leg opening: 18.75\", Measurements based on size 46 (Big & Tall)"
+        ],
+        "description": "Levi's Men's 541 Athletic Fit Jeans (Also Available in Big & Tall)",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 15.55 x 12.8 x 1.57 inches; 1.25 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 18181-0734"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e May 17, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Levi's"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0B1KK4C77"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#342 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #15 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 26,566 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "541 Athletic Taper See Details 502 Taper See Details 514 Straight See Details 550 Relaxed See Details 559 Relaxed Straight See Details Customer Reviews 4.5 out of 5 stars 26,566 4.5 out of 5 stars 16,010 4.5 out of 5 stars 16,676 4.5 out of 5 stars 76,240 4.5 out of 5 stars 50,697 Price $48.65$48.65 \u2014 $47.03$47.03 \u2014 $48.65$48.65 Description Perfect fit for muscular build A classic taper for every day Classic straight-fit jeans The original relaxed fit Relaxed, straight-fit jeans Fit Extra room in seat & thigh Regular through seat & thigh Regular through seat & thigh Loose through seat & thigh Extra room in seat & thigh Rise Sits at your waist Sits below your waist Sits below your waist Sits at your waist Sits below your waist Leg Slightly tapered leg Slightly tapered leg Straight leg Straight leg Straight leg Leg Opening 15.75\" 14.5\" 16\" 16.5\" 16.5\" Available in Big & Tall \u2714 \u2714 \u2718 \u2714 \u2714",
+                "media_link": []
+            },
+            {
+                "media_text": "Previous page Next page 1 Find Your Perfect Fit 2 How to Measure 3 Men's Jeans 4 Men's Tops & Truckers",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/367e8ee9-cab9-462a-a281-30bfe04f6015.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ae17d137-45ea-4d08-a4f9-813519022237.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c9622326-40ed-41bf-a8a0-b4c80322e22b.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/303d2888-fba4-4d68-a702-d098e6a0aa1c.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bd8dab48-a324-4eae-a2cf-532d23560903.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/57aabb40-87be-487e-b134-00416e18d7d5.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7b60a298-3915-48bf-b9cd-2a65731cdc5c.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c8f116c5-efac-43f8-9e87-236c36e0755d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c1ef64ca-092d-49da-8095-202f8c966093.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3fe38b7d-fb99-4119-9725-8646a93c253d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cd023c7d-0711-491a-af0f-7a86646ab736.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/864e5ea2-75e1-4545-9ccf-92cda80085e0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/40aae65f-4159-4fc5-b60c-69a6cabb7998.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Brown",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AESU7B3PVSIBMPMV3E65E7KFK2VQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14RU2PDU915NS?ASIN=B0CK8HNJLN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 16, 2023",
+                "reviewTitle": "5.0 out of 5 stars These Might Be The PERFECT Jeans For Guys Like Me!",
+                "reviewText": "UPDATE 9/2023: I finally had to wash these, and was sad to find that they do shrink in the wash. So the 30 inch length that was perfect for me before washing is now too short. They're also less soft now that I've washed them. I will order a new pair in the 32 length and try to get the length tailored since they aren't offered in a 31 inch length.Seriously, finding jeans like these is like finding the pot of gold at the end of the rainbow. It's virtually impossible, so it feels almost miraculous when it does happen.I have decently large thighs (from cycling and other things), and calves, and a decent size rear. Most men's jeans are too straight, so they're too tight across the thighs (showing pocket lines and underwear lines), or too saggy in the butt, or the legs are just plain too tight, or they're too baggy and look messy.I'm a tall, muscular guy with a decently athletic build. I don't claim to be a model or anything, but pants shouldn't look as sloppy on me as they tend to. I shouldn't have to pick between pants that fit like skinny jeans and pants that make me look like I have absolutely no sense of fashion (i.e. the infamous baggy, shapeless, \"dad jean\" fit). I see tall, muscular guys in movies and tv shows that have great fitting jeans that complement their muscular builds without looking like skinny jeans, and I think to myself \"people love this look, so why can't I find that pants that fit like that?\"It turns out, pants like that do exist. These Levi's 541 Athletic Fit pants in the Native Cali color fit, feel, and look amazing. They're beautifully manly pants, without being too \"cowboy\" or too \"hip\". They're very neutral, allow you to wear them with leather dress shoes, boots, or sneakers, without looking too weird.The fit around the hips/but is great, with enough room for them to sit where you want them to (not low-cut skinny jeans or saggy hipster jeans), so you shouldn't have issues with \"plumber's crack\", as long as you get the right fit and wear a belt.The fit around the thighs is also great. Depending on what size you order, they have enough room that they don't show pocket lines or underwear lines, and unlike many pants, they're actually cut in such a way that if the pants fit well at the waist, the thighs aren't too tight. These come in 1 inch sizes, you can experiment to find the right fit for you. I find that both the 36 and the 35 waist fit me well. The 35 I do fold up the pockets to avoid pocket lines, and that size gives me more of a \"custom-made for me\" look. The 36 has a little more room, so the lines aren't an issue so far, but they aren't quite so fitted, but they also aren't straying into \"dad-jean\" territory.I also love that even though they have extra room in the seat and thighs, they aren't too tight in the calves, OR too wide and shapeless at the ankle. As I mentioned, my legs are different widths at the thigh, knees, calves, AND ankles, so finding jeans that fit ok in all places is incredible. The fit being right at the ankles makes for a nice modern look that can work with a variety of footwear. If the ankles were wider, they would splay out at the show and give more a bootcut or dad-jean look that doesn't look good with sneakers or other snappy fits.The one downside is that the length varies. I had to buy two pairs of the same length to find one that fit right. The other pair was slightly too short.I haven't washed these yet, and I'm reluctant to do so until I really have to. It's possible that doing so will change my rating. But right now, they fit perfectly, and the color is so black that I can wear these with a formal black vest and a button down and it looks great. I'm sure the dye will fade over time the more I wear these, and then they'll become more casual-wear jeans. But for now I love these just the way they are.",
+                "reviewVotes": "25 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "J",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFFEPCBHB5BNDORGLHTTBDL4LM7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1K4VL2RH5SFOE?ASIN=B0CK8HNJLN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 29, 2023",
+                "reviewTitle": "5.0 out of 5 stars A Perfect Fit for Active Days!",
+                "reviewText": "Okay, listen up guys, these Levi's Men's 541 Athletic Fit Jeans are the real deal! I've been on the hunt for jeans that give me some breathing room while still looking stylish, and let me tell you, these jeans nailed it. The athletic fit is a game-changer for dudes like me with more muscular thighs. I finally found jeans that don't feel like I'm wearing a straightjacket around my legs!Comfort-wise, these jeans are on another level. The fabric is stretchy enough to move with you, which is awesome for active days. Whether I'm running errands or having a casual hangout, these jeans never hold me back. Plus, they're durable as heck. I've been putting them through the wringer, and they're holding up like champs!Let's talk style \u2013 they got that classic Levi's look that never goes out of fashion. They go well with pretty much anything, from a crisp button-down to a relaxed tee. And you know what's even better? The color doesn't fade away like some other jeans I've had in the past.All in all, I can't recommend Levi's Men's 541 Athletic Fit Jeans enough. They're a game-changer for dudes who need some extra room without sacrificing style. These jeans fit like a glove, move like a dream, and keep me looking good no matter the occasion. If you want the perfect blend of comfort and style, these jeans are definitely the ones to cop!",
+                "reviewVotes": "12 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "EX",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH4GZTFW5JI6BYFJKNBWNHDAPPTA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2NKPY5UPV2D3N?ASIN=B0CK8HNJLN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "5.0 out of 5 stars perfect jeans for my size",
+                "reviewText": "nice and soft with just enough weight to not feel flimsy. wish the fit was slightly looser just for style's sake. very comfortable and my new favorite black jeans.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "J. Bullock",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE6NQDIDSBSEQFRQMQECS3BQLBUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1KKV2N74GMWDS?ASIN=B0CK8HNJLN",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 29, 2023",
+                "reviewTitle": "4.0 out of 5 stars Super fit, lighter in color than shown",
+                "reviewText": "Preface: I live in jeans and prefer Levi\u2019s for my daily IT-casual office wear. These pants are a favorite that I wear a couple days a week as this variety of Levi\u2019s are particularly comfortable.I didn\u2019t factor this into my rating, but include it for other shopper\u2019s benefit: The main picture makes them look darker / more solid than the ones I received, but they still work as a gray on the darker side. This may have been my fault for not looking at pictures on a bigger screen than my phone where I ordered them.The only reason I didn\u2019t give 5 stars is the fabric is just a tad thinner than I expected, which might become an issue as the pants get to their later life. If I get the expected use from them, I will come back and give them 5 stars.Update after one month:The zipper is wearing noticeably, which I\u2019ve never encountered with Levi\u2019s jeans. It\u2019s still functioning, but the teeth aren\u2019t meshing as well as they did when new and I suspect this might become an embarrassing problem. We will continue to monitor this situation closely ; )",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "C. Pruett",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHFIFBXRYR6ZTT7VCW22K2YCUDVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RYQV0UCT0MF6G?ASIN=B0CK8HNJLN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars They're Levi's, the best",
+                "reviewText": "Great fit. Great quality. Levi's quality is proven. Rich black, easy zipper that doesn't unzip on its own.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Robert T. Lenz",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGKQ64L5WAD5RRGAB5DOFYEAZJPQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1HHV7QLMT1FQM?ASIN=B0CK8HNJLN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 24, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very well made, reflecting exceptional craftsmanship.",
+                "reviewText": "These are the best pair I have ever owned. The fit is excellent, they hold their shape, there is \"give\" in the fabric, without stretching, and they are lighter than all cannot jeans. I plan on buying additional pairs.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Carey Chesmore",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFPEFXELHJWU6W2FJYL4KJ5JWCWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1NS9DLBN2WUZT?ASIN=B0CK8HNJLN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 23, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very comfortable fit",
+                "reviewText": "My husband is very picky and doesn\u2019t like the fit of the newer style Levi\u2019s that the younger generations are wearing. He loves these and had me buy a second pair. Not too tight through the thigh not too skinny or too baggy at the ankle.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGSZA77C3F3SEOAD7EO2GONJMU7Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3M26RLGO6CA9H?ASIN=B0CK8HNJLN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 15, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great looking jeans.",
+                "reviewText": "I bought these pants because I was searching for Levis, athletic taper, with the color white. The price listed was $49, besting the Levis online offer of $69.50.The jeans looked great upon removal from the shipping bag. The primary downside, which I accepted initially when ordering, was that the 42\" waist did not come in a 28\" length.I have lost weight over the last few months but not enough to purchase a 40\" waist. When I put the jeans on, I knew for sure that I would not fit a 40\" waist and that these jeans fit well in that capacity. It could well be a function solely of my body makeup, but the pants felt too loose in the seat. Again, this may be just a me thing and not issue with the product. Thus, sadly, I returned them. I look forward to trying other Levis from Amazon.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 4, 2024",
+                "reviewTitle": "Not denim, but a lovely soft stretchy brushed cotton feel",
+                "reviewText": "I love these pants. Great fit, great material. A bit dressier than denim. Super comfortable. Will buy again, highly recommended.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Benny",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 30, 2023",
+                "reviewTitle": "Fit perfect,was not sure about size",
+                "reviewText": "Length & waist was right on. nice stretchy jeans for a comfy fit\ud83d\udc56\ud83d\ude4b",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tom Petty",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 11, 2023",
+                "reviewTitle": "Too long - not as label indicated.",
+                "reviewText": "Easily an extra 2 inches of length in the leg from what the labels says. So useless. It\u2019s not the 80\u2019s and I can roll them up with deck shoes or something. I\u2019ve been the same height for many decades, same pant length for decades. Not a mistake by me but a quality control issue at the shop.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Robert Perrin",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 26, 2023",
+                "reviewTitle": "Appearance and fit",
+                "reviewText": "Great quality material and workmanship",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Fred ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 1, 2023",
+                "reviewTitle": "Came earlier than forecast before Christmas. Fit was just right.",
+                "reviewText": "Great fit with elasticity. Very comfortable",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,684 @@
+{
+    "remaining_requests": 16464,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Columbia-Tamiami-Sleeve-Shirt-X-Large/dp/B0058YR2A4",
+    "body": {
+        "name": "Columbia Men's Tamiami Ii Long Sleeve Shirt",
+        "price": "$33.00 - $55.00",
+        "originalPrice": "",
+        "rawPrice": 33.0,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Columbia-Mens-Tamiami-Sleeve-Shirt/dp/B0BR7TW2H3",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BR7TW2H3"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07J5JKG34",
+                "variationName": "Color",
+                "variationValue": "Beet",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31E7unTkl-L._SS36_.jpg"
+            },
+            {
+                "asin": "B005J3GKVG",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31R9wqRr0lL._SS36_.jpg"
+            },
+            {
+                "asin": "B089K2QGHT",
+                "variationName": "Color",
+                "variationValue": "Black/Realtree Edge",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31HxlDaNTIS._SS36_.jpg"
+            },
+            {
+                "asin": "B07RCCYT24",
+                "variationName": "Color",
+                "variationValue": "Bright Nectar",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41OKIVoCmrL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C62JTL1P",
+                "variationName": "Color",
+                "variationValue": "Canyon Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31+4U4WnLgL._SS36_.jpg"
+            },
+            {
+                "asin": "B07DQ8NTHT",
+                "variationName": "Color",
+                "variationValue": "Carbon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/317rtQ1Jn0L._SS36_.jpg"
+            },
+            {
+                "asin": "B0B1LFCSJV",
+                "variationName": "Color",
+                "variationValue": "Circuit",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41+j+xeDLbL._SS36_.jpg"
+            },
+            {
+                "asin": "B07R82243S",
+                "variationName": "Color",
+                "variationValue": "City Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41H7aZTr3LL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B1VLZD53",
+                "variationName": "Color",
+                "variationValue": "Cocoa Butter",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/416S4eaVmwL._SS36_.jpg"
+            },
+            {
+                "asin": "B00AB0GIW8",
+                "variationName": "Color",
+                "variationValue": "Collegiate Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31eQcn7Dv5L._SS36_.jpg"
+            },
+            {
+                "asin": "B004GJ0FII",
+                "variationName": "Color",
+                "variationValue": "Cool Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sddUgpLuL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B1LSF1L8",
+                "variationName": "Color",
+                "variationValue": "Corange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41x5gYVH81L._SS36_.jpg"
+            },
+            {
+                "asin": "B01GUA2KFG",
+                "variationName": "Color",
+                "variationValue": "Cypress",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41KHpYphK8L._SS36_.jpg"
+            },
+            {
+                "asin": "B001LNCAPS",
+                "variationName": "Color",
+                "variationValue": "Fossil",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61F6cpW5CvL._SS36_.jpg"
+            },
+            {
+                "asin": "B002LKE9H2",
+                "variationName": "Color",
+                "variationValue": "Gulf Stream",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31T6X1N8IzL._SS36_.jpg"
+            },
+            {
+                "asin": "B08CC33NB6",
+                "variationName": "Color",
+                "variationValue": "Gulf Stream/Realtree Edge",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31GBU9M0+ML._SS36_.jpg"
+            },
+            {
+                "asin": "B0C62JVK53",
+                "variationName": "Color",
+                "variationValue": "Icy Morn",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41u3wEfIF2L._SS36_.jpg"
+            },
+            {
+                "asin": "B00ANUAN54",
+                "variationName": "Color",
+                "variationValue": "Key West",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NvrWB-2AL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C62KXLFD",
+                "variationName": "Color",
+                "variationValue": "Minuet",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31nHbe4NG6L._SS36_.jpg"
+            },
+            {
+                "asin": "B0C62LN1TW",
+                "variationName": "Color",
+                "variationValue": "New Mint",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Bw-ymN4VL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B1S1CJ9K",
+                "variationName": "Color",
+                "variationValue": "Ocean Teal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41cATCfmYDL._SS36_.jpg"
+            },
+            {
+                "asin": "B010PT47RW",
+                "variationName": "Color",
+                "variationValue": "Opal Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qkFzxN2cL._SS36_.jpg"
+            },
+            {
+                "asin": "B07J5V2WMV",
+                "variationName": "Color",
+                "variationValue": "Red Spark",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413y5-yWOdL._SS36_.jpg"
+            },
+            {
+                "asin": "B004Z5D11G",
+                "variationName": "Color",
+                "variationValue": "Sail",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wrdKH8ruL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B1L4KQDJ",
+                "variationName": "Color",
+                "variationValue": "Soft Violet",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ASHgzNR2L._SS36_.jpg"
+            },
+            {
+                "asin": "B00AISOAD2",
+                "variationName": "Color",
+                "variationValue": "Sorbet",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ntDiihB8L._SS36_.jpg"
+            },
+            {
+                "asin": "B09KNVF7H9",
+                "variationName": "Color",
+                "variationValue": "Spring Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414mvl0BRYL._SS36_.jpg"
+            },
+            {
+                "asin": "B010Q5S55A",
+                "variationName": "Color",
+                "variationValue": "Sunset Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31MPaHwavIL._SS36_.jpg"
+            },
+            {
+                "asin": "B009RGXWZ8",
+                "variationName": "Color",
+                "variationValue": "Vivid Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ksCBBah0L._SS36_.jpg"
+            },
+            {
+                "asin": "B001SFDINW",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61+RzfxlDeL._SS36_.jpg"
+            },
+            {
+                "asin": "B089K71Z5N",
+                "variationName": "Color",
+                "variationValue": "White/Realtree Edge",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31+M6myy4AS._SS36_.jpg"
+            },
+            {
+                "asin": "B009RGXWZ8",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B008MBKS3I",
+                "variationName": "Size",
+                "variationValue": "2X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0058YR2O0",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0058YR31W",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0058YR380",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0058YR2A4",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0086E6NMG",
+                "variationName": "Size",
+                "variationValue": "X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0058YR3HQ",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B007POK17Q",
+                "variationName": "Size",
+                "variationValue": "1X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B007POI182",
+                "variationName": "Size",
+                "variationValue": "2X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B007G786W4",
+                "variationName": "Size",
+                "variationValue": "3X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B006JYWDJW",
+                "variationName": "Size",
+                "variationValue": "3X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00A2MU54W",
+                "variationName": "Size",
+                "variationValue": "4X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B008MBKSFQ",
+                "variationName": "Size",
+                "variationValue": "4X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B007POLS4Q",
+                "variationName": "Size",
+                "variationValue": "5X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C62H1SB8",
+                "variationName": "Size",
+                "variationValue": "6X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B008MBKT32",
+                "variationName": "Size",
+                "variationValue": "Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07J5TS6D5",
+                "variationName": "Size",
+                "variationValue": "5X",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41ksCBBah0L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31h GHNCyAL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31vc74km8lL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/410DxFh-CUL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31RFMJihpsL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/412VIVvXAkL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51noGz7WheL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a2316f52-9a01-49ac-850c-7d2cf9943fea/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/764f1b7d-ff3e-4317-bb08-dd23228efe84/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/737d9e7e-0a79-4a1c-9eb1-a52c8dd4229b/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3347e8c8-57f0-492d-9398-8b202f8b7e9e/default.vertical.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/04aa8b1a-7490-4ce0-aad1-847bda7fe11e/default.vertical.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e96b4a1e-6923-4d6c-b9b7-111f60198d05/default.vertical.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dd21ee71-a0df-46bd-9752-3a673f4ef73a/default.vertical.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 7,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Columbia Store",
+            "link": "https://www.amazon.com/stores/Columbia/page/E21F2281-2F97-4BDA-B5DC-8F83EA77C1F0?ref_=ast_bln"
+        },
+        "brand": "Columbia",
+        "merchantInfo": "",
+        "customerReview": "5.0 out of 5 stars",
+        "customerReviewCount": 8,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "100% Polyester",
+            "Imported",
+            "Made of Polyester",
+            "ADVANCED TECHNOLOGY: Columbia's PFG Tamiami Long Sleeve shirt features our signature UPF 40 fabric for maximum protection against UVA and UVB rays and our breathable wicking fabric that pulls moisture away to keep you cool and dry.",
+            "HANDY FEATURES: This men's Columbia PFG Tamiami long sleeve fishing shirt features two handy chest pockets for convenient storing and roll-up sleeves adjustable comfort.",
+            "COMFORT & BREATHABILITY: This long sleeve fishing shirt features a mesh-lined vented back for breathability and comfort.",
+            "CLASSIC FIT: With a modern classic fit, this long sleeve shirt is ultra-light and comfortable enough for maximum activity.",
+            "OMNI-SHADE: Be safe and protected. The tight weave construction with UV absorbent yarns block the full spectrum of harmful UV rays."
+        ],
+        "description": "Columbia's PFG line is loved by everyone, but specifically designed with anglers in mind. Its comfort and functionality make this Columbia Men's PFG Tamiami II Long Sleeve Shirt your first choice for enjoying a day out on the water and in the sun. The high quality materials used to craft this men's fishing shirt are what make it so special, while its modern classic fit speak to style and comfort. The Tamiami II Long Sleeve fishing shirt features some of Columbia's safe while outdoors. Our signature wicking fabric in combination with the mesh-lined vented back make the shirt breathable. And lastly, utility features on the shirt makes fishing life a little easier with a rod holder, multiple low-profile pockets, and roll-up sleeves. Columbia's fishing shirt comes in many size categories and colors. To ensure the size you choose is right, utilize our sizing chart and the following measurement instructions: For the sleeves, start at the center back of your neck and measure across the shoulder and down to the wrist. If you come up with a partial number, round up to the next even number.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Item Package Dimensions L x W x H",
+                "value": "\u200e12.1 x 7.2 x 1.2 inches"
+            },
+            {
+                "name": "Package Weight",
+                "value": "\u200e0.18 Kilograms"
+            },
+            {
+                "name": "Brand Name",
+                "value": "\u200eColumbia"
+            },
+            {
+                "name": "Model Name",
+                "value": "\u200eTamiami Ii Long Sleeve Shirt"
+            },
+            {
+                "name": "Color",
+                "value": "\u200eBeet"
+            },
+            {
+                "name": "Material",
+                "value": "\u200ePolyester"
+            },
+            {
+                "name": "Suggested Users",
+                "value": "\u200emens"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "\u200eColumbia (Sporting Goods)"
+            },
+            {
+                "name": "Part Number",
+                "value": "\u200e1286061-607-X-Small"
+            },
+            {
+                "name": "Style",
+                "value": "\u200eTamiami Ii Long Sleeve Shirt"
+            },
+            {
+                "name": "Size",
+                "value": "\u200eX-Small"
+            },
+            {
+                "name": "Sport Type",
+                "value": "\u200eOutdoor Lifestyle"
+            },
+            {
+                "name": "ASIN",
+                "value": "B07J5JKG34"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "5.0 5.0 out of 5 stars 8 ratings 5.0 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#7,044 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #1,023 in Men's Clothing"
+            },
+            {
+                "name": "Date First Available",
+                "value": "July 13, 2019"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Previous page Next page",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c7aa0f99-9855-43fe-b500-281db91fa7c7.__CR0,1,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d5dbbe3d-2e2a-445b-901b-760321218bf7.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b6429439-2344-4b41-9de1-28fde8a53e47.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8c4cf8e1-8096-4b89-af9c-d69c415c2377.__CR0,1,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/104ac3cf-dbd5-46e2-93fb-583aa6bd7555.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bd911fbc-c171-4dec-b4a5-f331276eaa03.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a3afdfbf-811a-47e3-87e9-38f63b6ad56a.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3fdc4d0b-536e-44f0-a416-d39a6a042ed5.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/80b4c9dc-448f-40d5-befd-ea474aa12547.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/72c90a69-dbeb-4490-bbfe-60a463fd29f6.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cc346edf-1177-47ef-b5c8-95f625d4362a.__CR0,0,2034,834_PT0_SX1464_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Marlena Smith",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEG7UF6CG6BS6TL4MESPUXELGU6A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1S46VWF2E5Z9T?ASIN=B0BR7TW2H3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 15, 2020",
+                "reviewTitle": "5.0 out of 5 stars Product as expected!",
+                "reviewText": "Christmas gift for my Son-in-law and he loves it.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "gary steinberger",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFDG6RJWLQMC3CZ5B4NM4FV246NA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1Q7ZY9B3DJOCV?ASIN=B0BR7TW2H3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 11, 2020",
+                "reviewTitle": "5.0 out of 5 stars VERY COMFORTABLE",
+                "reviewText": "fits perfectly, very light fabric",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Scott E. High",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHPUNNPYLLQZSV56MUEOGSHANASQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3VTRDP54FJ8NU?ASIN=B0BR7TW2H3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 27, 2019",
+                "reviewTitle": "5.0 out of 5 stars Careful Shopping Yields A Real Bargain!",
+                "reviewText": "Yesah, I'm older than dirt, have blond hair and blue eyes, and don't go to the dermatologist often enough. That has all changed recently. After 2 years of missing appointments, I decided to see a new dermo with a great reputation. That visit resulted in 4 nitrogen freezes and 2 biopsies. Unfortunately (or fortunately depending on how you look at it) one of the biopsies identified a melanoma on my back.Fifty-five stitches and 2 weeks later the results showed clear margins, meaning that the melanoma had not extended beyond the removal site. Good news overall and something that might trigger you to make that appointment you've missed or been avoiding. It also resulted in me shopping for UPF hats and long-sleeve shirts with UPF protection.So I started shopping on Amazon looking for deals and avoiding several $50.00 shirt purchases. In this case I found this Columbia PFG Tamiami II shirt XXL in Sunset Red for $18.74. It offers UPF 40, wicking material, large oversized pockets, and can be machine washed. It's about as comfortable as you can get in a 105 degree humiture. Southwest Florida in the summer -- you gotta love it!Now that I'm happy with the first one, I can order 4 more to cover my time working in our yard. The XXL is actually large for me but I'd rather have it loose rather than tight while working in this heat.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "dave klebine",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGXYJ2Q3AQZJJSIZZSD2EOWGRLSA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R25NT1GY99LB33?ASIN=B0BR7TW2H3",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 10, 2023",
+                "reviewTitle": "4.0 out of 5 stars Great fishing shirt but run large",
+                "reviewText": "I own 3 of these shirts and love them once I figured out that they run large. I\u2019m 6\u20192\u201d 180 lb with 35\u201d sleeve and the medium size fits me perfectly",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Levi",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGOIQLDGEMHZAK33PMI6REXZCEEA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R26PABDEDF9NV8?ASIN=B0BR7TW2H3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 31, 2020",
+                "reviewTitle": "5.0 out of 5 stars Perfect",
+                "reviewText": "Great shirt",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Robert W Cummins",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFENDUZYWBU3RXNHD7KOCXR53CRQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RYTCO11FM5N6W?ASIN=B0BR7TW2H3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 27, 2016",
+                "reviewTitle": "5.0 out of 5 stars Five Stars",
+                "reviewText": "ok",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alan813",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFB55EVO7GAGI2FILJNIF3SX6NXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1WK9ZPG7C0K8T?ASIN=B0BR7TW2H3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 5, 2019",
+                "reviewTitle": "5.0 out of 5 stars Fast shipping",
+                "reviewText": "Great product",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JMGV",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on May 11, 2023",
+                "reviewTitle": "Camisas perfectas para verano y aventura",
+                "reviewText": "La marca es garantia de calidad, son camisas duraderas, de buena calidad y muy funcionales. Las utilizo para pesca y rutas en moto, en verano la ventilacion y secado rapido que tienen son una gran ayuda para mantenerte fresco. Si hacen caso a la guia de tallas y se toman la medida antes de pedirla no tendran problema, cumple a la perfeccion con la guia.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in India on February 10, 2024",
+                "reviewTitle": "Excellent Shirts. Rare finds prefered fishing gear.",
+                "reviewText": "Excellent Shirts. Rare finds prefered fishing gear.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mauro Fiore",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "2.0 out of 5 stars",
+                "reviewDate": "Reviewed in Australia on November 26, 2019",
+                "reviewTitle": "largest x-large i have ever seen",
+                "reviewText": "massive. had to be returned",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Carmen Castillo",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on September 26, 2021",
+                "reviewTitle": "Excelente calidad",
+                "reviewText": "C\u00f3mo era de esperarse de columbia: excelente calidad.El color est\u00e1 muy bonito, la tela fresca (a pesar de ser sint\u00e9tica), buenos acabados y muy buena protecci\u00f3n contra el sol.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

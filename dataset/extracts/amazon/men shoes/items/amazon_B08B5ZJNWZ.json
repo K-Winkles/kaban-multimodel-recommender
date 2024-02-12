@@ -1,0 +1,869 @@
+{
+    "remaining_requests": 15626,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Lugz-Clipper-Classic-Fashion-Sneaker/dp/B08B5ZJNWZ",
+    "body": {
+        "name": "Lugz Men's Clipper Classic Slip-On Fashion Sneaker",
+        "price": "$28.00",
+        "originalPrice": "",
+        "rawPrice": 28.0,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Lugz-MCLIPRTC-3110-Mens-Clipper-Sneaker/dp/B07S2Y3THP",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B07S2Y3THP"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09MWPR573",
+                "variationName": "Color",
+                "variationValue": "Black/Gum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ycyjyQSsL._SS47_.jpg"
+            },
+            {
+                "asin": "B09MWNMRVL",
+                "variationName": "Color",
+                "variationValue": "Black/White Denim",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310pZjrL8OL._SS47_.jpg"
+            },
+            {
+                "asin": "B09MWP74JD",
+                "variationName": "Color",
+                "variationValue": "Black/White/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31gGNipRf7L._SS47_.jpg"
+            },
+            {
+                "asin": "B09Q5MX8X6",
+                "variationName": "Color",
+                "variationValue": "Alloy/Charcoal/White/Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31hwAD1Lw5L._SS47_.jpg"
+            },
+            {
+                "asin": "B07PML31RC",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21oAa+Oq8KL._SS47_.jpg"
+            },
+            {
+                "asin": "B08Z7X142V",
+                "variationName": "Color",
+                "variationValue": "Black/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312KGxhFwbL._SS47_.jpg"
+            },
+            {
+                "asin": "B0CB6ZG5VP",
+                "variationName": "Color",
+                "variationValue": "Medium Grey/White/Gum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41I60Za-NsL._SS47_.jpg"
+            },
+            {
+                "asin": "B01N6V99UU",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/316CKOQP7DL._SS47_.jpg"
+            },
+            {
+                "asin": "B075MRNR5H",
+                "variationName": "Color",
+                "variationValue": "Black/White Chambray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31CJ1CaQYfL._SS47_.jpg"
+            },
+            {
+                "asin": "B0CB71RN9F",
+                "variationName": "Color",
+                "variationValue": "White/Peacoat Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31DxVCwphEL._SS47_.jpg"
+            },
+            {
+                "asin": "B01N9W0U6W",
+                "variationName": "Color",
+                "variationValue": "Alloy/Charcoal/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31S4xmYTQYL._SS47_.jpg"
+            },
+            {
+                "asin": "B09NQVNXF4",
+                "variationName": "Color",
+                "variationValue": "Black Denim",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31BIluXAToL._SS47_.jpg"
+            },
+            {
+                "asin": "B08Z79WZVH",
+                "variationName": "Color",
+                "variationValue": "Black/Gum/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ycyjyQSsL._SS47_.jpg"
+            },
+            {
+                "asin": "B08NCHX81H",
+                "variationName": "Color",
+                "variationValue": "Black/White/Gum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31wwwDomCoL._SS47_.jpg"
+            },
+            {
+                "asin": "B09NQTSX31",
+                "variationName": "Color",
+                "variationValue": "Charcoal/White Denim",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/319pUxpG76L._SS47_.jpg"
+            },
+            {
+                "asin": "B09NQVMZTF",
+                "variationName": "Color",
+                "variationValue": "Navy/White Denim",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41VLOiYfFsL._SS47_.jpg"
+            },
+            {
+                "asin": "B08NCMLPFK",
+                "variationName": "Color",
+                "variationValue": "Navy/White/Gum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31rakhjDqFL._SS47_.jpg"
+            },
+            {
+                "asin": "B09ST3DXSH",
+                "variationName": "Color",
+                "variationValue": "Charcoal/Gum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/316+2dFzj1L._SS47_.jpg"
+            },
+            {
+                "asin": "B08B61GJMB",
+                "variationName": "Color",
+                "variationValue": "Dark Grey/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31WNhVIWRWL._SS47_.jpg"
+            },
+            {
+                "asin": "B01N4SAY3G",
+                "variationName": "Color",
+                "variationValue": "Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31A75u-ExtL._SS47_.jpg"
+            },
+            {
+                "asin": "B08B5ZM17Y",
+                "variationName": "Color",
+                "variationValue": "Blue/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31s8D0BtYpL._SS47_.jpg"
+            },
+            {
+                "asin": "B09SSBD9LY",
+                "variationName": "Color",
+                "variationValue": "Navy/Gum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31txBIQQv+L._SS47_.jpg"
+            },
+            {
+                "asin": "B07PQSZFKL",
+                "variationName": "Color",
+                "variationValue": "Tan Green Camo/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31pncEao8VL._SS47_.jpg"
+            },
+            {
+                "asin": "B09NQSZJ6G",
+                "variationName": "Color",
+                "variationValue": "White/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21uP+VHLnIL._SS47_.jpg"
+            },
+            {
+                "asin": "B08ND3JPF1",
+                "variationName": "Color",
+                "variationValue": "Black/White Splatter",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31bOeIeNcAS._SS47_.jpg"
+            },
+            {
+                "asin": "B08Z7WRK41",
+                "variationName": "Color",
+                "variationValue": "Black/Charcoal/Whisper White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31QKXlZMI6L._SS47_.jpg"
+            },
+            {
+                "asin": "B07KYC2TX8",
+                "variationName": "Color",
+                "variationValue": "Dk Olive/Black/White/Gum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31wqVbOwEPL._SS47_.jpg"
+            },
+            {
+                "asin": "B08NCR9RP3",
+                "variationName": "Color",
+                "variationValue": "White/Black Splatter",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31L+mW+90TS._SS47_.jpg"
+            },
+            {
+                "asin": "B09KWYYYP6",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Zqe4GUMDL._SS47_.jpg"
+            },
+            {
+                "asin": "B09SSKCG7M",
+                "variationName": "Color",
+                "variationValue": "White/Gum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31JJ8nYEe0L._SS47_.jpg"
+            },
+            {
+                "asin": "B08Z6ZY18H",
+                "variationName": "Color",
+                "variationValue": "Grey/Tan/Whisper White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31HmJnCoTdS._SS47_.jpg"
+            },
+            {
+                "asin": "B08NCCRL69",
+                "variationName": "Color",
+                "variationValue": "White/Black Splash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31BsatBvWaL._SS47_.jpg"
+            },
+            {
+                "asin": "B07CNL2BTQ",
+                "variationName": "Color",
+                "variationValue": "Dark Mushroom/Chocolate/Bone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31BuNuAp2BL._SS47_.jpg"
+            },
+            {
+                "asin": "B07PPPDG83",
+                "variationName": "Color",
+                "variationValue": "Grey Gargoyle Camo/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ShZXKFLWL._SS47_.jpg"
+            },
+            {
+                "asin": "B07PNJKCBG",
+                "variationName": "Color",
+                "variationValue": "Mars Red/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310DxIHMv+L._SS47_.jpg"
+            },
+            {
+                "asin": "B08NCDGHSB",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ZcQyZTcoL._SS47_.jpg"
+            },
+            {
+                "asin": "B07CNL8VWZ",
+                "variationName": "Size",
+                "variationValue": "6.5 M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CNL2BTQ",
+                "variationName": "Size",
+                "variationValue": "12 Women/9.5 Men",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08MT3TWKD",
+                "variationName": "Size",
+                "variationValue": "3.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08MTMZDNC",
+                "variationName": "Size",
+                "variationValue": "4",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08MTV26M2",
+                "variationName": "Size",
+                "variationValue": "4.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08MTLCKZH",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08MTFXZ2W",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08MTD6G6L",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08B5ZFJGY",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PQSW7SW",
+                "variationName": "Size",
+                "variationValue": "6.5 D",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MWQDBTV",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08B5ZF15P",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MX6C4ZZ",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08B5ZHX23",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MWNFGJ8",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08B612D2Z",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MWQ8TRN",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08B5ZJWMP",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MWP74JD",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08B5ZHCH4",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MWRJBXM",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08B5LCFJ9",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MWNQC6R",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08B5ZQD81",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MWP931P",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08B5ZSYJ9",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MX6CNQQ",
+                "variationName": "Size",
+                "variationValue": "10.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08B5ZB35B",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MWQYQY2",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08B5ZFJSD",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MWNJ5WJ",
+                "variationName": "Size",
+                "variationValue": "11.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08B5ZJNWZ",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MWPFB4K",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08B61JBB7",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MWPTR7N",
+                "variationName": "Size",
+                "variationValue": "13 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08D75GPLL",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MWQ7BJP",
+                "variationName": "Size",
+                "variationValue": "14 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08D73DLHT",
+                "variationName": "Size",
+                "variationValue": "15",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MWPN3B6",
+                "variationName": "Size",
+                "variationValue": "15 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09KX6RK9F",
+                "variationName": "Size",
+                "variationValue": "16",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MWQX682",
+                "variationName": "Size",
+                "variationValue": "16 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CPJHYJZ",
+                "variationName": "Size",
+                "variationValue": "8.5 D US",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31gGNipRf7L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/312LM4OTY L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/313egcY6duL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31YYq241KcL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31tawq1aXDL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51jBPe 5hPL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1b55db59-71fe-48b5-85c1-47cb12cba9fd/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Lugz Store",
+            "link": "https://www.amazon.com/stores/LUGZ/page/89F6C6B6-38E6-4144-AEDE-78521D6CE36B?ref_=ast_bln"
+        },
+        "brand": "LUGZ",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 32921,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Canvas",
+            "Care instructions Machine Wash",
+            "Sole material Rubber",
+            "Outer material Rubber",
+            "Cushioned Insole for added comfort",
+            "Canvas Upper",
+            "Vulcanized rubber outsole",
+            "Classic slip-on style with side gore panels that stretch for easy on/off",
+            "Breathable lining with a padded collar for a comfortable fit"
+        ],
+        "description": "Kick back in style with the our best-selling fashion sneaker - the Men's Clipper Denim Slip-On. Made with soft, breathable textiles, the elastic gore on each side provides for a comfortable that you can slip into on the go. So stylish and versatile, you'll want every color in your wardrobe.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/Mens-Shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679255011"
+            },
+            {
+                "name": "Fashion Sneakers",
+                "link": "https://www.amazon.com/Mens-Fashion-Sneakers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=679312011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 11.9 x 7.2 x 4.1 inches; 7.4 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e MCLIPRC-002"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e November 5, 2020"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Lugz"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B08MT3TWKD"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,650 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #6 in Men's Fashion Sneakers"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 32,921 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Versatile Canvas Style Stay on the go with this versatile canvas style and put the exclamation point on your next look! Never Miss a Step With the Clipper The Lugz Clipper is a modern take on the classic twin gore canvas slip-on. This slip-on features a breathable canvas upper and a durable rubber outsole. In addition to men\u2019s, women\u2019s, and kid\u2019s sizing, Lugz also offers the Lugz Clipper in a slip-resistant option for work/occupation! Just because you\u2019re on the clock, doesn\u2019t mean you need to sacrifice your style. Constructed with breathable canvas upper material Vulcanized rubber outsole Cushioned insole for added comfort Classic slip-on style Side gore panels with elastic for easy on/off",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/be3799b7-40e3-459f-a77f-e6a71c434a2a.__CR0,0,300,400_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e001bad2-5ca5-4455-8376-99386ad1d9bc.__CR0,0,350,175_PT0_SX350_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Canvas Upper Durable canvas upper in stylish colorways to amplify or complement your look. Durable Rubber Outsole Vulcanized rubber outsole for on-the go mobility Cushioned Insole/Lining Comfort focused insole, breathable lining, and padded collar for everyday wear",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7b06ea99-623c-4215-ab31-b58880264057.__CR0,0,600,600_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/04c65e10-caa0-4695-ab95-4d63ea6d85a1.__CR0,0,600,600_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ab56888d-5ed8-4253-bb70-8f9af777382d.__CR0,0,600,600_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b8c45846-cd59-4ad0-bd1a-4671ec9ff142.__CR0,0,600,180_PT0_SX600_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d919bb0f-594a-4425-8cb0-b7a3f8e5cac5.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/be3799b7-40e3-459f-a77f-e6a71c434a2a.__CR0,0,300,400_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e001bad2-5ca5-4455-8376-99386ad1d9bc.__CR0,0,350,175_PT0_SX350_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7b06ea99-623c-4215-ab31-b58880264057.__CR0,0,600,600_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/04c65e10-caa0-4695-ab95-4d63ea6d85a1.__CR0,0,600,600_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ab56888d-5ed8-4253-bb70-8f9af777382d.__CR0,0,600,600_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/019c9cf0-be61-4202-9232-d5faba8b86bf.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Compton",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHAO5YA57NPPR63YIYMI4GEPFKJQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3MJPWS037JJON?ASIN=B07S2Y3THP",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Excellent shoes, a little loose but that turned out to be a good thing",
+                "reviewText": "I really like these shoes. I originally bought them to for days I wear all blue but I wear them nearly every day. Originally I considered returning them because I ordered size 13 and usually that's just right but these were not as close, similar to a boot at size 13 than a sneaker but I kept it in hopes they'd be usable with thick socks. I also thought they would be good for an upcoming 1000 mile road trip for 2023 holiday because they would be easy to remove since they're loose. Instead they turned out to be excellent during the trip because I didn't feel the need to take them off while driving for so long. I've never had that before. Additionally for day to day use , I wear them to work most days and they feel great, they won't feel like anything special at first but I'm a big heavy guy and these shoes haven't gotten softer or flatter with constant use. I'm very happy with my purchase.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Aiden",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEGC2QAVYZGT4HMW5UETR5KXONCA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2587NXENNE77Q?ASIN=B07S2Y3THP",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 26, 2024",
+                "reviewTitle": "5.0 out of 5 stars Fit perfect",
+                "reviewText": "I\u2019m new to this brand even though I grew up around it I never purchased one of their shoes but lately I\u2019ve been wanting something slip on. They feel great and comfortable. They also have a little hump perfectly positioned by your feet area that it\u2019s slightly elevates it. The feel great. Nothing negative to say. Will definitely be buying different colors in the future. I like it so much I threw away my old pair of shoes and replacing everything with this brand. They also look stylish. Every day use or casual going out.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Darren",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF44J2EK747BLW3YRAHGXKUCPDLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3HKD1M1KX74WU?ASIN=B07S2Y3THP",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 17, 2023",
+                "reviewTitle": "4.0 out of 5 stars Great looking shoe, but a little tight",
+                "reviewText": "First of all, I really think this is a great shoe and well-made. It was a great price and I think it looks great when I wear them. My only problem is that is seems to be made for skinnier feet. It hurts my feet a little when I walk any distance in them. Overall, it is a good looking shoe and very well made for an inexpensive price. I would have preferred to have tried this one on in a store first, but for the price I am definitely not disappointed.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Steven Brown",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGWY27VHV2XUB2IZAZOFBLGRMGJQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R16DRDN3KB1D29?ASIN=B07S2Y3THP",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good shoes!",
+                "reviewText": "Very well put together. On the same level of Vans shoes. Very comfortable and roomy for the feet. I love simple easy shoes.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Allison",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFIRYOIXQC4JS7CUA4I5LZKMJXBQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R22L7CGDDNR30G?ASIN=B07S2Y3THP",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Inexpensive Shoes",
+                "reviewText": "Just bought my husband his third pair of these shoes. He has trouble finding shoes that fit correctly and has been happy with all 3 pairs. They are comfortable enough for him to be on his feet in the all day. Would definitely recommend, especially for the price!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Scott C. Hart",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGALVKBKGGLZDONUAC4MRZPEGLDQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2BREWWUJB3VDX?ASIN=B07S2Y3THP",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 23, 2023",
+                "reviewTitle": "3.0 out of 5 stars The shoe itself is pretty good. As expected",
+                "reviewText": "The shoe is comfortable. I like canvas slip on type for around the house, yard work or walking shoes so I was looking for a second pair like the ones I like so much. These were similar and a decent price.I like the shoe overall and fits as expected. What was weird and annoying is, you know the tiny balls that are put in silica packs to absorb moisture in some things? These shoes were just littered with tiny brownish colored hard balls that are the same size as in the silica packs. Scattered everywhere! Raked a lot of them out and dumped them. However they keep creeping up into the shoe from the crevices between the shoe and the insert at the bottom. After clearing them out 3-4 times and finding still another or two like a small pebble under my foot I think I've got them all removed. Used in a late stage of manufacturing for some reason? Intended to serve the purpose of silica packs? I don't know but a pain to get rid of. Would have easily given another star but really?",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Steve",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGR254PARZZUQKXX7VNG3VC3T2GQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2YFEUYRA7WDGT?ASIN=B07S2Y3THP",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 15, 2024",
+                "reviewTitle": "5.0 out of 5 stars Just what I needed.",
+                "reviewText": "These are the perfect slip on shoes that I needed to walk around our apartment building. Whether I need to go retrieve a package or go down to the garage, they are the right shoe. They are comfortable and durable. Not sure how they would hold up under heavy usage, but that is not what I was looking for. I am completely satisfied with this purchase.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "S. WOLFF",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEMMMVRKJNKNEZXFGTGE6GK2NEMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R25TUH68N3NZKN?ASIN=B07S2Y3THP",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 20, 2023",
+                "reviewTitle": "3.0 out of 5 stars Cheaply made loafer",
+                "reviewText": "I picked these up wanting a loafer similar to Vans, but not as expensive. That's pretty much exactly what they are. A cheaper knockoff of a Vans skate shoe. These are not as comfortable as Vans. Hopefully as the footbed wears in they will get a little more comfortable.These run a bit larger than other shoes of this same size, so you may want to consider buying a half size down. Or maybe a full size. See some other reviews that also mention this.These are fine to wear around the house and maybe running an errand around town if it doesn't involve much walking. They do not fit well enough for that.I probably should return these for a half size smaller and that might result in a higher rating and a more positive experience. But for the purposes of an honest review, this is exactly what you get. Getting a proper size for shoes should not be a guessing game. The sizing standards were established over a hundred years ago.I won't be buying another pair. I should have stuck with a diff brand that fit my feet better. Starts with an 'M' and rhymes with feral. I tried to get a shoe for half the price as one of those and ended up with a shoe that was half as good.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mark Watkinson",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 7, 2024",
+                "reviewTitle": "Just like vans shoes",
+                "reviewText": "Great fit, look like vans style shoes, but at a lesser cost, and quality/fit is great. Also fast delivery",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 3, 2023",
+                "reviewTitle": "Belle appr\u00e9ciation du produit",
+                "reviewText": "Tr\u00e8s belle chaussure. Elle correspond \u00e0 la description faite sur Amazon. Excellent service de livraison. Satisfait de mon achat.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 19, 2023",
+                "reviewTitle": "2 months later and already falling apart",
+                "reviewText": "The shoes for the first month were great, but after that, the soul is detaching from the rest of the shoe. They're pretty useless now, and going into the trash. I'd expect them to last longer than 2 months... but nope. Consider other options!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jorge E.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 9, 2023",
+                "reviewTitle": "muy buen producto",
+                "reviewText": "muy padres y c\u00f3modos, pero OJO.. compren medio numero mas chico, yo tuve que regresar unos que compre de mi n\u00famero, ya despu\u00e9s que ped\u00ed otros medio numero mas chico asunto arreglado.Les puse una plantilla pq necesitaba un poquito mas de comodidad pero eso ya es a gusto de cada quien.Se ven muy padres tanto con pantal\u00f3n o shorts.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Isaac Colunga",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on September 10, 2023",
+                "reviewTitle": "Comodos",
+                "reviewText": "Muy comodos y se ven de calidad",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,710 @@
+{
+    "remaining_requests": 15793,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Wrangler-Riggs-Workwear-Relaxed-Medium/dp/B005DIIJLQ",
+    "body": {
+        "name": "Men's FR Flame Resistant Relaxed Fit Jean",
+        "price": "$43.60 - $89.99",
+        "originalPrice": "",
+        "rawPrice": 43.6,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Wrangler-Riggs-Workwear-Resistant-Relaxed/dp/B09LP8GX95",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09LP8GX95"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B005DIHU2K",
+                "variationName": "FitType",
+                "variationValue": "Regular",
+                "price": "",
+                "variationImageURL": ""
+            },
+            {
+                "asin": "B005DIDKBA",
+                "variationName": "FitType",
+                "variationValue": "Big & Tall",
+                "price": "",
+                "variationImageURL": ""
+            },
+            {
+                "asin": "B005DIHU2K",
+                "variationName": "Size",
+                "variationValue": "29W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIHUJ8",
+                "variationName": "Size",
+                "variationValue": "29W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIHVA6",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIHW8C",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIHWSC",
+                "variationName": "Size",
+                "variationValue": "30W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIHXAY",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIHXWW",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIHYOE",
+                "variationName": "Size",
+                "variationValue": "31W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIHZ7A",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DII024",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DII0JC",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DII150",
+                "variationName": "Size",
+                "variationValue": "32W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DII1LE",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DII1VY",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DII2X6",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DII3P8",
+                "variationName": "Size",
+                "variationValue": "33W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DII45W",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DII4Q6",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DII6A0",
+                "variationName": "Size",
+                "variationValue": "34W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DII6PU",
+                "variationName": "Size",
+                "variationValue": "35W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DII7C2",
+                "variationName": "Size",
+                "variationValue": "35W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DII8O4",
+                "variationName": "Size",
+                "variationValue": "35W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DII9AC",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIA3S",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIAMO",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIID9E",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIDWG",
+                "variationName": "Size",
+                "variationValue": "38W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIF3S",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIFOM",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIG64",
+                "variationName": "Size",
+                "variationValue": "40W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIGPU",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIH72",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIII0",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIJ34",
+                "variationName": "Size",
+                "variationValue": "42W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIJLQ",
+                "variationName": "Size",
+                "variationValue": "44W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIKH4",
+                "variationName": "Size",
+                "variationValue": "44W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIL6Y",
+                "variationName": "Size",
+                "variationValue": "44W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIILT6",
+                "variationName": "Size",
+                "variationValue": "44W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIMC2",
+                "variationName": "Size",
+                "variationValue": "46W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIMW2",
+                "variationName": "Size",
+                "variationValue": "46W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIINNK",
+                "variationName": "Size",
+                "variationValue": "46W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIONO",
+                "variationName": "Size",
+                "variationValue": "48W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIP7O",
+                "variationName": "Size",
+                "variationValue": "48W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIPVU",
+                "variationName": "Size",
+                "variationValue": "48W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIQJQ",
+                "variationName": "Size",
+                "variationValue": "50W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIR8G",
+                "variationName": "Size",
+                "variationValue": "50W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIRQI",
+                "variationName": "Size",
+                "variationValue": "52W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIIS80",
+                "variationName": "Size",
+                "variationValue": "52W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIDK42",
+                "variationName": "Size",
+                "variationValue": "54W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIDKBA",
+                "variationName": "Size",
+                "variationValue": "54W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIDKH4",
+                "variationName": "Size",
+                "variationValue": "56W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIDKO2",
+                "variationName": "Size",
+                "variationValue": "56W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIDKWO",
+                "variationName": "Size",
+                "variationValue": "58W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIDL2I",
+                "variationName": "Size",
+                "variationValue": "58W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIDL96",
+                "variationName": "Size",
+                "variationValue": "60W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005DIDLIC",
+                "variationName": "Size",
+                "variationValue": "60W x 32L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31LbK92hHCL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31Wdk5iPhaL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/410Obvov hL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41OA1D0LodL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51eaopOa72L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51KlwhbvTOL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51j-8lZWQlL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Wrangler Riggs Workwear Store",
+            "link": "https://www.amazon.com/stores/WranglerRIGGSWorkwear/page/EE723F33-9E8D-4FF5-BAF2-0BBAB78D1F02?ref_=ast_bln"
+        },
+        "brand": "WranglerRIGGSWorkwear",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 1101,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Closure type Zipper",
+            "Inseam 32 Inches",
+            "Fire resistant finish",
+            "Improved fit in the seat, thigh, knee and bottom leg opening",
+            "Nomex flame resistant zipper tape",
+            "Arc resistant button waistband closure with concealed inner tack reduces heat conductivity",
+            "Safety orange outside id for high visibility"
+        ],
+        "description": "ALL TERRAIN GEAR: ATG x Wrangler keeps boys covered with performance outdoor apparel that\u2019s built to take on any terrain. Kids don\u2019t quit, and neither does our gear. We keep them prepared for the next family camp out, a school field trip or their first overnight stay at summer camp. A collection of shirts, shorts and pants with plenty of stretch and moisture-wicking fabric that helps block the sun with UPF protection and repel water for all-day comfort. Any destination. Any terrain. Anytime.WRANGLER RIGGS WORKWEAR: Whatever the job, it\u2019s time to step up. There\u2019s nothing like an honest day\u2019s work done in the right work clothes. Whether you\u2019re a professional electrician, a hobbyist woodworker or construction worker, you\u2019ll find our RIGGS WORKWEAR for men is designed with both comfort and utility in mind. In work conditions near flames and sparks, count on Flame Resistant clothing as your first line of defense. FR workwear helps keep you covered and protected against the unexpected. We\u2019ve designed clothes with a Room2Move Comfort for improved range of motion and have made sure that your clothes are tough enough to withstand anything with features like triple-needle stitching and added reinforcement in high-wear areas. Our Carpenter Jeans, Ripstop Cargo Pants, Ranger Pants and denim come in a variety of colors and a wide selection of men\u2019s long-sleeve shirts, tees, jackets, vests and FR clothing offer versatile, everyday pieces that can be worn mowing the lawn, camping or on the job site. Big and tall sizes deliver a great fit in every size. Made to withstand the toughest work conditions, the most extreme adventures and every casual occasion in between, this collection has your back.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Uniforms, Work & Safety",
+                "link": "https://www.amazon.com/Mens-Uniforms-Work-Safety/b/ref=dp_bc_aui_C_3?ie=UTF8&node=7581682011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Mens-Work-Safety-Clothing/b/ref=dp_bc_aui_C_4?ie=UTF8&node=7606661011"
+            },
+            {
+                "name": "Work Utility & Safety",
+                "link": "https://www.amazon.com/Mens-Work-Utility-Safety-Apparel/b/ref=dp_bc_aui_C_5?ie=UTF8&node=6572900011"
+            },
+            {
+                "name": "Pants",
+                "link": "https://www.amazon.com/Mens-Work-Utility-Safety-Pants/b/ref=dp_bc_aui_C_6?ie=UTF8&node=6572904011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 14.5 x 9.6 x 1.8 inches; 1.81 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e FR3W050R"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e August 7, 2012"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Wrangler - MEN'S"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B005DIHU2K"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#70,117 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #302 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 1,101 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Wrangler FR 31 Relaxed Fit Jean Wrangler FR 47 Regular Fit Lightweight Jean Wrangler FR 13 Original Fit Jean Wrangler FR 36 Slim Fit Jean Wrangler FR Retro Advanced Comfort Slim Boot Jean Fit Relaxed Fit Regular Fit Original Fit Slim Fit Slim Fit Leg Opening Straight Straight Straight Straight Boot Cut Fabric Content 100% Cotton 100% Cotton 100% Cotton 100% Cotton 93% Cotton/6% Polyester/1% Spandex or 100% Cotton FR Specifications CAT2/2112/23 CAL/CM2 CAT2/2112/21 CAL/CM2 CAT2/2112/23 CAL/CM2 CAT2/2112/23 CAL/CM2 CAT2/2112/17 CAL/CM2 Special Features Arc-resistant Button Waistband Closures, Brass Zipper with Nomex FR Zipper Tape, FR Pocketing, Reinforced Back Pockets, Nomex FR Thread Used in Seams Arc-resistant Button Waistband Closures, Brass Zipper with Nomex FR Zipper Tape, FR Pocketing, Reinforced Back Pockets, Nomex FR Thread Used in Seams Arc-resistant Button Waistband Closures, Brass Zipper with Nomex FR Zipper Tape, FR Pocketing, Reinforced Back Pockets, Nomex FR Thread Used in Seams Arc-resistant Button Waistband Closures, Brass Zipper with Nomex FR Zipper Tape, FR Pocketing, Reinforced Back Pockets, Nomex FR Thread Used in Seams 4-Way Flex Technology, Safety Orange Trim for High Visibility",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/0b2fd47b-777d-4fa9-9d5e-51374485c97b.__CR0,0,4042,1250_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/b75e15d0-4c36-4328-ae68-1495ca8db94f.__CR0,0,4042,1250_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/538f7bdb-9ba2-4af3-8ca0-ee818ffc2deb.__CR5,0,307,614_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/fe89928f-247e-4aa9-8110-1eb893769a06.__CR8,0,304,607_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/9c88ca95-731e-4ef1-9ff0-7828967433c5.__CR14,0,308,616_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/89f49d04-2b4a-40ef-807a-1e85ec4cfcdb.__CR17,0,305,609_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/d9d3b822-f2e1-4f76-901a-1ee857ee229e.__CR23,0,298,596_PT0_SX150_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "KFS1967",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH2XUCWCMDSXSJWB23E2JBRXTPEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1OGTQ7YGSAGON?ASIN=B09LP8GX95",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good deal",
+                "reviewText": "Most FR pants are very expensive and the price was decent on these. They fit according to size guide. Well made.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "mlitty",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFWNZVL6G23FTCBNWRTGQIVYV2BA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RSVPX0UIO9DF4?ASIN=B09LP8GX95",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 16, 2014",
+                "reviewTitle": "5.0 out of 5 stars Good fitting Fire resistant leg protection for working long hours with a cutting torch.",
+                "reviewText": "Good looking, a comfortable fit and very good fire protection. After three months of daily and very rough wear, these are worn out but I can't imagine anything else performing better under my conditions. I'm ordering another pare and when those wear out, I'll get more of these.I have a summer job cutting steel at a metal recycler. I work 8-9 hour days in the hot southern summer sun. I wore and sweat soaked these every weekday for over three months, washing them on hot or warm every night. They've held their fire resistance for all that time.Only once did I nearly burn through them and that was when I carelessly turned the cutting torch directly on the pant leg for about three seconds. Even then, they did not catch fire and my leg was not burned. The fibers wore away quickly in that spot so that it looked like they were worn out and a hole developed there a few days later. But that took a direct blow from the torch. Regular streams of hot sparks did not burn through these.Because I'm climbing over piles of scrap steel with a lot of jagged edges, the pants did tear frequently below the knee where they would come into contact with torch-cut steel. I suspect that this would happen to any fabric pants though.I'm ordering another pare of these and may look into leather shin guards to protect them from jagged steel edges. I like the fit and love the fire protection.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Douglas D.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEJ47SDWP5M4RRSKKAWZLODY4ATA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R17XIP4ZOWDM5H?ASIN=B09LP8GX95",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 24, 2021",
+                "reviewTitle": "4.0 out of 5 stars Long story",
+                "reviewText": "So I have gotten a few different FR pants and they all seem to run long in the leg. You may want to go one length shorter than normal or consider having it hemmed up an inch or so. Otherwise, they are quite nice.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rick ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHYZXD2XOBKZ2TTRSMOM5ROXPYIA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3DBHIQE42L33D?ASIN=B09LP8GX95",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 3, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great fit",
+                "reviewText": "Great thick denim that will last a long time with deep pockets.Great fit.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Chris  Gauze",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFQY7FD2Y4JMRHDDAPCS7CSPNDPQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2AFJF8IEDDNN5?ASIN=B09LP8GX95",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 6, 2022",
+                "reviewTitle": "5.0 out of 5 stars True to size best fit in FR",
+                "reviewText": "Have worn the wrangler FR\u2019s for over 10 years they are hard to beat in fit , durability and price point . You can find cheaper but you sacrifice quality . My favorite is actually the wrangler FR cool vantage as they are lighter and more comfortable but they didn\u2019t have them in my size this time . But these are slightly cheaper .",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Fred Davis",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHDOW2P2WWYPIE4TEPBV5DFQ7GJA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RL13NLX0K4MF7?ASIN=B09LP8GX95",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 21, 2021",
+                "reviewTitle": "5.0 out of 5 stars Love these dungarees",
+                "reviewText": "These pants are tougher than a Marine Corp drill sergeant. 5 pockets to boot. Of all the pants that I've bought, these were the best fitting. If you took the carpenter's loop off of them, I believe these would be just like the one Levi Strauss invented in the 1850's for miners except these are more stylish. Love 'em. I wear a 52 x30 and that is a tough size to find. Excellent job Wrangler.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGHHELAPPS4C45ZZTZ7JWRSGAMUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RV693STT3YLPN?ASIN=B09LP8GX95",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 22, 2023",
+                "reviewTitle": "5.0 out of 5 stars These are always great FR workwear.",
+                "reviewText": "Can\u2019t go wrong with these wranglers.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Teresa Phillips",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEUS4ZZWLUC3TEOVNINNP2SLVALQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R6ZX1M2I75WWE?ASIN=B09LP8GX95",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great FR Jeans!",
+                "reviewText": "My husband loves these FR jeans so much, I ordered more! He likes the way they fit much better than the FR pants his company pays for.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dale",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 21, 2020",
+                "reviewTitle": "Fit is bang on",
+                "reviewText": "Fit perfect very comfortable well made will buy again",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dean Mills",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 20, 2020",
+                "reviewTitle": "Good fit, great price.",
+                "reviewText": "They fit well. Very good quality for the price.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 3, 2022",
+                "reviewTitle": "Fit well",
+                "reviewText": "Product is used for work. Very durable for what I do to them.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Randy Mierow",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 31, 2019",
+                "reviewTitle": "Great deal on a proven product",
+                "reviewText": "Like the price and quick servicegood price on a consistent product",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Steve S.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 21, 2019",
+                "reviewTitle": "Great pants",
+                "reviewText": "Best FR pants on the market",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

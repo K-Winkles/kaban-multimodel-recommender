@@ -1,0 +1,571 @@
+{
+    "remaining_requests": 15862,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Carhartt-Mens-Pocket-Tapered-Stonewash/dp/B0001YS2HS",
+    "body": {
+        "name": "Carhartt Men's Slim Fit Heavyweight 5-Pocket Tapered Jean",
+        "price": "$32.67 - $48.99",
+        "originalPrice": "",
+        "rawPrice": 32.67,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Carhartt-Relaxed-Pocket-Tapered-B17/dp/B002G9U92C",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B002G9U92C"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0001YS2SC",
+                "variationName": "Color",
+                "variationValue": "Stonewash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rRVmLfFkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B000CCXCYW",
+                "variationName": "Color",
+                "variationValue": "Dark Stone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410cP6Ll1XL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0001YS2MS",
+                "variationName": "Size",
+                "variationValue": "30W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000CCXCZQ",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2GO",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2P0",
+                "variationName": "Size",
+                "variationValue": "32W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2QY",
+                "variationName": "Size",
+                "variationValue": "32W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000CD3JA8",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2NC",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2NM",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2PK",
+                "variationName": "Size",
+                "variationValue": "36W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2PU",
+                "variationName": "Size",
+                "variationValue": "38W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2RS",
+                "variationName": "Size",
+                "variationValue": "38W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2HS",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2O6",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2Q4",
+                "variationName": "Size",
+                "variationValue": "40W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2LE",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2OG",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2QE",
+                "variationName": "Size",
+                "variationValue": "42W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2SC",
+                "variationName": "Size",
+                "variationValue": "42W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B003IJIS2M",
+                "variationName": "Size",
+                "variationValue": "44W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B003IJCWKG",
+                "variationName": "Size",
+                "variationValue": "44W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2OQ",
+                "variationName": "Size",
+                "variationValue": "44W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2QO",
+                "variationName": "Size",
+                "variationValue": "44W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2IM",
+                "variationName": "Size",
+                "variationValue": "46W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2LY",
+                "variationName": "Size",
+                "variationValue": "46W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08PCGNF5C",
+                "variationName": "Size",
+                "variationValue": "46W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2IW",
+                "variationName": "Size",
+                "variationValue": "48W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000CCXCYW",
+                "variationName": "Size",
+                "variationValue": "48W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2M8",
+                "variationName": "Size",
+                "variationValue": "48W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08PCJK1FT",
+                "variationName": "Size",
+                "variationValue": "48W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2J6",
+                "variationName": "Size",
+                "variationValue": "50W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0001YS2MI",
+                "variationName": "Size",
+                "variationValue": "50W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B001LRLOI8",
+                "variationName": "Size",
+                "variationValue": "52W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B001LRLKZU",
+                "variationName": "Size",
+                "variationValue": "52W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B003IH2XG6",
+                "variationName": "Size",
+                "variationValue": "54W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B003IJEZT2",
+                "variationName": "Size",
+                "variationValue": "54W x 32L Big Tall",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41rRVmLfFkL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41BdL8kOT3L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51D0OWstk4L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/410g5Ae-HzL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31udnFIdjYL.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Carhartt Store",
+            "link": "https://www.amazon.com/stores/Carhartt/page/4D749FEE-ACA7-4043-8DF6-FCA7CF7BEE1F?ref_=ast_bln"
+        },
+        "brand": "Carhartt",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 4065,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Button",
+            "Classic five-pocket jean in 15-ounce denim featuring slightly tapered leg and back pockets with logo patch",
+            "Enough room to move with a closer-to-the-body fit through the seat and thigh and a tapered leg opening",
+            "Sits above the waist",
+            "Two reinforced back pockets",
+            "Strong sewn-on-seam belt loops"
+        ],
+        "description": "Cut for comfort on the job, Carhartt's relaxed fit jean sits at the natural waist and features a relaxed-fitting seat and thigh. Made of tough, 15-ounce 100 cotton denim, it features two reinforced back pockets and a 15.25-inch tapered leg opening.15-ounce, heavyweight, 100 cotton denim sits at the natural waist relaxed-fitting seat and thigh settle, learn why carhartt denim is the best value. If your inseam length falls between sizes, buy the longer size",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 24 x 16 x 12 inches; 1.65 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e B18"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e April 8, 2004"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Carhatt"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0001YS2MS"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#144,826 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #484 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 4,065 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Style Features Tapered Leg Opening Cut for comfort on the job and features a tapered leg opening that fits over boots. Multiple Pockets Five-pocket styling with two reinforced back pockets. Reinforced Belt Loops Stronger sewn-on-seam belt loops adds security from wear and tear.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/8a86c1db-79df-4a6a-98a2-c30d1d678d27._CR0,0,720,720_PT0_SX300__.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/6e54e719-80ed-4e0c-99fa-e8d41d60f971._CR0,0,720,720_PT0_SX300__.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/b81591fd-c31e-4147-b7a3-8dec6e860c75._CR0,0,720,720_PT0_SX300__.jpg"
+                ]
+            },
+            {
+                "media_text": "Straight/Traditional-Fit Tapered-Leg Jean Relaxed-Fit Tapered-Leg Jean Straight/Traditional-Fit Elton Jean Rugged Flex Straight Tapered Jean Straight/Traditional-Fit Straight-Leg Jean Relaxed-Fit Holter Jean Fit Straight Traditional Fit Relaxed Fit Straight Traditional Fit Straight Traditional Fit Straight Traditional Fit Relaxed Fit Fabric 15-ounce, 100% cotton denim. 15-ounce, 100% cotton denim. 12-ounce, 86% cotton, 14% polyester denim. 12-ounce, 85% cotton, 14% polyester, 1% spandex. 15-ounce, 100% cotton denim. 12-ounce, 86% cotton, 14% polyester denim. Tapered Leg Opening \u2713 \u2713 \u2713 Sits At Waist \u2713 \u2713 \u2713 Sits Below Waist \u2713 Sits Above Waist \u2713 \u2713",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/54854791-176c-43aa-a3b5-de66f9ceda27._CR0,0,970,300_PT0_SX970__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/8a86c1db-79df-4a6a-98a2-c30d1d678d27._CR0,0,720,720_PT0_SX300__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/6e54e719-80ed-4e0c-99fa-e8d41d60f971._CR0,0,720,720_PT0_SX300__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/b81591fd-c31e-4147-b7a3-8dec6e860c75._CR0,0,720,720_PT0_SX300__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/27dab30d-c291-47ec-9395-884f5b9cb4bf._CR0,0,970,300_PT0_SX970__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/5bb20dff-4364-473c-be81-8123b3e5ff05._CR0,0,970,300_PT0_SX970__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/549914b5-03ef-4bc6-b271-2e7d08ce2105._CR0,0,150,300_PT0_SX150__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/5c520765-5d57-498f-83c1-49dab8330169._CR0,0,150,300_PT0_SX150__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/d1f5d9d1-657b-4be7-8a0c-645a03b939c3._CR0,0,150,300_PT0_SX150__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/2c44e8d6-19d8-4fd7-8b48-d38827f34048._CR0,0,150,300_PT0_SX150__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/f2d13126-97a9-4c10-8a93-84229415950e._CR0,0,150,300_PT0_SX150__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/1c0f5f09-18a9-486b-8c4d-cf3fc55725fc._CR0,0,150,300_PT0_SX150__.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "neurotome",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF5OECNV7NUVMBMF47RJKLZEHPLQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2MCRZ4HHSKS3U?ASIN=B002G9U92C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 6, 2011",
+                "reviewTitle": "5.0 out of 5 stars At last, a good pair of jeans",
+                "reviewText": "I grew up wearing Levis, both 501s and a zip-fly straight leg version that I think was the 505. So that was the 80's, right. Come back to Levis in 2011 and what you find is that the jeans either fit funny to match some modern style, or they're constructed with really poor quality - like, fall apart in the washing machine quality. Sure, Levis makes a made-in-USA 501s now, for only like a million dollars per pair; if you're like me, though, the years haven't been kind enough to permit you to fit comfortably in those. (Sort of like the mouse who wanted to throw a dance party, but he had no ballroom, if you know what I mean.)Anyway. I figured that at this price, with all these good reviews, something was outta whack here. But I bought a pair anyway - in Dark Stonewash, because I like to lighten them naturally.Totally stoked. So glad I did. They remind me of the comfortable, well-fitting jeans of my youth - they fit right for the middle-aged me, but they look good and feel great. Definitely agree with the other reviewers that they run a size big. In Dockers and Brooks Brothers my waist is a 36; the Carhartt 38s fit me perfectly. My inseam is 32 but these are a really long 32; I suspect they'll shrink up after the first wash.But they were a hit right out of the bag. I was going to come back and buy another pair but these seem tough and well made. I may not *need* another pair for a while.I dunno what people want out of a pair of jeans these days, but if you saw anything that reminds you of yourself in this review, do yourself a favor and buy a pair. You won't regret it.EDIT: It's April 2017. I've been lifting weights for a couple years and I can fit in 501s now. But these are still my go-to \"Dad jeans\" for dad jobs like mowing the lawn, pulling weeds, anything that requires a bit of mobility and flexibility. And this pair, 6 years old, so lightened by washing and rubbing as to be nearly white on the thighs, is just now getting around to fraying at the cuff and wearing out.Time to buy a new pair!",
+                "reviewVotes": "82 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "SellerThink",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE6OEPT3GXHSN3AQE5Z2TAR5SKXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3N5JNN7QYHKRS?ASIN=B002G9U92C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 28, 2023",
+                "reviewTitle": "5.0 out of 5 stars Bought these for motorcycle riding",
+                "reviewText": "Motorcycle pants can be expensive beginning at $100 on average or higher, and normal Levi's and denim jeans are to thin. These jeans are thick, have good room for the flexing required when riding a motorcycle or maxi-scooter. They should hold up longer for riding, especially since If you don't carry anything in the back pockets. They come in sizes for real men. Most jeans and pants are sized for teenagers. I wear a 46 waist 32 length. These jeans were long but didn't drag. The opening at the bottom of the legs went over my motorcycle riding shoes without a problem.They feel good. They look good. They are NOT \"Motorcycle Pants\" however, which have Kevlar and Protective pads, but they should provide a little more wear resistance than a regular pair of denim.I have a pair of actual motorcycle pants coming, but I will also buy another pair of these, because my daily clothes have to be able to double for motorcycle riding too.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MJ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF54DUMUEQXRCONHKU3QPAQRGV6A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1X53YDT23Y6YL?ASIN=B002G9U92C",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 21, 2023",
+                "reviewTitle": "4.0 out of 5 stars Well made jeans",
+                "reviewText": "Fit is true to size and they are durable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "C. Morrow",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG24AR7L6L4KY774SIRL2QJQIDUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/ROKTZXUDSB3V7?ASIN=B002G9U92C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 13, 2023",
+                "reviewTitle": "5.0 out of 5 stars Love these Carhartt men's jeans!",
+                "reviewText": "These Carhartt jeans have been a favorite of mine for several years. They are well made and look and fit great. My only complaint is that they are a little long. All of my pants have a 32-inch inseam. These jeans are labeled as 32 inches but they are a little longer. Not enough to be a deal breaker, I am still very happy with them. The color is perfect with just the right amount of stone wash look.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Grand Inquisitor",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFV3QGLCLAD47DNI7VWAA6BBTTIA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1PRKZZ7JK9CQD?ASIN=B002G9U92C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars This is my third purchase",
+                "reviewText": "This was my third time purchasing these jeans, my first two I wear everyday, I just wanted an extra pair.I like the color, feel, material, strength of these jeans. They are very durable, which is important to me as someone who drives a motorcycle part-time.The first pair I purchased, one of the belt loops broke after two years. That isn't uncommon for Jeans in my experience. Other than that, they are still holding up extremely well, still look good considering I wear them everyday. I am confident my newest pair will do just as well.I appreciate that these are available in American Men sizes, which are difficult to find in retail stores.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Francis E.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AESYNROQJZFKWVCL5LNKPZFNXGMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3N54GEFLAVTTW?ASIN=B002G9U92C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 24, 2023",
+                "reviewTitle": "5.0 out of 5 stars Though",
+                "reviewText": "Fit is great. I love Calhartt products they last a long time for the stuff I put them through. Other jeans last me 6 month I have had calhartt pants last me 2 years, might look bad but still don't have holes in them, maybe small ones!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gig\u2019em ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHAZX55JREI64O2FJXNXLS5SQSGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2UV2COYAC6SPO?ASIN=B002G9U92C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 18, 2012",
+                "reviewTitle": "5.0 out of 5 stars So Long Levi's",
+                "reviewText": "I've been wearing Levi jeans for over 30 years (501 & 550)...they've always fit and have been very durable. I don't mind paying more if I know I'm getting quality. Yes, I'm one of those that stick with a product for decades as long as the quality of the product remains superior and Levi's has always fit into that category ....until now. I recently bought several pairs of Levi's and the stitching on the back pocket \"V's\" started coming undone after a single wash. Not just on one pair ....on all of them. Extremely irritating to say the least ...especially since I paid almost $40 for each pair. In addition, the denim just doesn't seem as rugged/tough as it used to be. I suspect Levi has lost their dedication to quality to cut costs ... unfortunately, not all that unusual with a lot of larger companies these days.After some advice from a co-worker, I decided to try the Carhartt jeans (Traditional Fit) and purchased a single pair on Amazon to try them out. They arrived on Tuesday, I washed them Tuesday night, I wore them all day Wednesday, and today (Thursday) I will buy at least 4 more pair on Amazon. Folks, these are good jeans ...they're what Levi's use to be. As a bonus, they are much more reasonably priced (around $10 less than the Levi's I purchased). I've worn other Carhartt products over the years and have always been impressed ...I'm glad I found these jeans. Here is where you really need to pay attention ..this is my very first review I've ever posted on Amazon and I've bought a lot of products on Amazon. If that doesn't tell you something about these jeans, I don't know what will. My only concern at this point is to see how they perform after a long period of wear and multiple washes ...will update review if they don't perform as I expect they will.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Chief",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 1, 2021",
+                "reviewTitle": "Awesome",
+                "reviewText": "I love these jeans, comfy. Fit loose so there not to tight especially for bigger guys. And they are durabalr",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Carlos b.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on August 8, 2021",
+                "reviewTitle": "No es tan de buena calidad",
+                "reviewText": "Se ve bien es pesado pero no es la misma calidad de antes, no es tan gruesa ni r\u00edgida la mezclilla no se si resista el uso rudo",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JL",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in France on December 21, 2023",
+                "reviewTitle": "impossible de trouver la bonne taille",
+                "reviewText": "le tableau des tailles Carhaart est farfelu ! Trouver l'\u00e9quivalent d'un LEVI's 44/32 se r\u00e9v\u00e8le impossible.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tony Santana",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on April 15, 2021",
+                "reviewTitle": "Carhhart",
+                "reviewText": "Es un pantal\u00f3n excelente para el trabajo rudo, la tela es gruesa y de muy buena calidad.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "RUSSELL TAYLOR",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on July 29, 2023",
+                "reviewTitle": "Great fit",
+                "reviewText": "Lovely jeans, fit good",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

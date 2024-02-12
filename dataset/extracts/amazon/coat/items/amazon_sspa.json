@@ -1,0 +1,33 @@
+{
+    "remaining_requests": 13202,
+    "original_status": 404,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/sspa",
+    "body": {
+        "alert": "A generic web scraper has been selected. Please contact support if you require a more detailed scraper for your given URL.",
+        "title": "Amazon.com Page Not Found",
+        "favicon": "",
+        "meta": {
+            "description": "",
+            "keywords": ""
+        },
+        "content": "",
+        "canonical": "",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/G/01/error/logo._TTD_.png",
+            "https://images-na.ssl-images-amazon.com/images/G/01/error/title._TTD_.png"
+        ],
+        "videos": [],
+        "grouped_images": {
+            "no_class_found": [
+                "https://images-na.ssl-images-amazon.com/images/G/01/error/logo._TTD_.png",
+                "https://images-na.ssl-images-amazon.com/images/G/01/error/title._TTD_.png"
+            ]
+        },
+        "og_images": [],
+        "links": [
+            "https://www.amazon.com/",
+            "https://www.amazon.com/dogsofamazon"
+        ]
+    }
+}

@@ -1,0 +1,949 @@
+{
+    "remaining_requests": 15993,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Dockers-Straight-Seasons-Pants-Black/dp/B077PQVR2V",
+    "body": {
+        "name": "Dockers Men's Straight Fit Jean Cut All Seasons Tech Pants",
+        "price": "$25.76 - $49.99",
+        "originalPrice": "",
+        "rawPrice": 25.76,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Dockers-Mens-Straight-Seasons-Pants/dp/B077PQHH9L",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B077PQHH9L"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B077PNN86Q",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31SmVVRO0qL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B077PHFZTB",
+                "variationName": "Color",
+                "variationValue": "New British Khaki",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XnMLroKDL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B077PN7HV1",
+                "variationName": "Color",
+                "variationValue": "Steelhead",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31SmVVRO0qL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B077PN7J41",
+                "variationName": "Color",
+                "variationValue": "Leather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41y2KaqLlSL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0784B9SPS",
+                "variationName": "Color",
+                "variationValue": "Burma Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31sT-4i7odL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B077PNLZXX",
+                "variationName": "Color",
+                "variationValue": "Deep Depths",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31SMA+6Ew4S._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B077ZG4RHX",
+                "variationName": "Color",
+                "variationValue": "Pembroke",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31c5Tzo4cnL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B077ZCWGB1",
+                "variationName": "Color",
+                "variationValue": "Smokey Hazelnut",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31MFte6giBS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09YBVMKRT",
+                "variationName": "Color",
+                "variationValue": "Oceanview Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31smqwzqH6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B077PV25LW",
+                "variationName": "Color",
+                "variationValue": "Safari Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/315UadqYavS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Blue Fusion",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31AUlukaukL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BL5QR1MD",
+                "variationName": "Color",
+                "variationValue": "Decadent Chocolate Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31zQJ7ZEk1L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Fern Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31G+Vajs6KL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09YBNB3KQ",
+                "variationName": "Color",
+                "variationValue": "Medium Indigo Stonewash (Denim)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/417FDBHfsjL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Oceanview",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31YxIJAMVKL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09YBQFPYC",
+                "variationName": "Color",
+                "variationValue": "Indigo Stonewash (Denim)",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41-EcCvZAuL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09MG3ZXLD",
+                "variationName": "Color",
+                "variationValue": "(New) Beautiful Black - Corduroy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/316lfyTSp1L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B077PHHST4",
+                "variationName": "Size",
+                "variationValue": "29W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PHS485",
+                "variationName": "Size",
+                "variationValue": "29W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PNN86Q",
+                "variationName": "Size",
+                "variationValue": "30W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07848VP9M",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0784B5DZ7",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0784B5DZ6",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PQVS3Q",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0784BGSP2",
+                "variationName": "Size",
+                "variationValue": "32W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07848YXYQ",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PQVR2V",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PHHB9W",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PQT7V5",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PHS4M1",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZG4RJ5",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PNMM8Z",
+                "variationName": "Size",
+                "variationValue": "34W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PHRJ74",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PQR8CH",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PNMNBG",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0785VVPJ5",
+                "variationName": "Size",
+                "variationValue": "34W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PHRJBS",
+                "variationName": "Size",
+                "variationValue": "36W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B078BMTHYB",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0784BGRGK",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PHRGXT",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B078DFKDZR",
+                "variationName": "Size",
+                "variationValue": "36W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PHRJ2D",
+                "variationName": "Size",
+                "variationValue": "38W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0784BG4ZQ",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PQGWQJ",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PQRB74",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZCWHTN",
+                "variationName": "Size",
+                "variationValue": "38W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B078DFJ87R",
+                "variationName": "Size",
+                "variationValue": "38W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PHH37L",
+                "variationName": "Size",
+                "variationValue": "40W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0784B5DQ9",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B078499YMT",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZM21NF",
+                "variationName": "Size",
+                "variationValue": "40W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YBD6H42",
+                "variationName": "Size",
+                "variationValue": "40W x 36L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PHGGD5",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B078BMTHR6",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZCB394",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZCWG97",
+                "variationName": "Size",
+                "variationValue": "42W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YBJ7R6C",
+                "variationName": "Size",
+                "variationValue": "42W x 36L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YC15H4H",
+                "variationName": "Size",
+                "variationValue": "44W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZK5D1G",
+                "variationName": "Size",
+                "variationValue": "44W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077Z6LDWQ",
+                "variationName": "Size",
+                "variationValue": "44W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YBXQCS3",
+                "variationName": "Size",
+                "variationValue": "44W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B078DFKQPD",
+                "variationName": "Size",
+                "variationValue": "44W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YBVLFR8",
+                "variationName": "Size",
+                "variationValue": "44W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZG4G8V",
+                "variationName": "Size",
+                "variationValue": "44W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YBZX9K8",
+                "variationName": "Size",
+                "variationValue": "44W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZGRXGF",
+                "variationName": "Size",
+                "variationValue": "46W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YBYG2JQ",
+                "variationName": "Size",
+                "variationValue": "46W x 29L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZG4G8Z",
+                "variationName": "Size",
+                "variationValue": "46W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YC1KQTP",
+                "variationName": "Size",
+                "variationValue": "46W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0785VVPYB",
+                "variationName": "Size",
+                "variationValue": "46W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YBG42W5",
+                "variationName": "Size",
+                "variationValue": "46W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0785VKS7R",
+                "variationName": "Size",
+                "variationValue": "46W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YC37MR3",
+                "variationName": "Size",
+                "variationValue": "46W x 34L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YC1LB4K",
+                "variationName": "Size",
+                "variationValue": "48W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0785VVPXZ",
+                "variationName": "Size",
+                "variationValue": "48W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YBWS5G3",
+                "variationName": "Size",
+                "variationValue": "48W x 29L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B078DFKQNY",
+                "variationName": "Size",
+                "variationValue": "48W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YBHWF77",
+                "variationName": "Size",
+                "variationValue": "48W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZM21MW",
+                "variationName": "Size",
+                "variationValue": "48W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZG1P37",
+                "variationName": "Size",
+                "variationValue": "48W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YBG5PM1",
+                "variationName": "Size",
+                "variationValue": "50W x 28L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B078DF8GGM",
+                "variationName": "Size",
+                "variationValue": "50W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YC3L1Q1",
+                "variationName": "Size",
+                "variationValue": "50W x 29L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B078DF9X3N",
+                "variationName": "Size",
+                "variationValue": "50W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YC5M4R7",
+                "variationName": "Size",
+                "variationValue": "50W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B078DFJVLY",
+                "variationName": "Size",
+                "variationValue": "50W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YC313P7",
+                "variationName": "Size",
+                "variationValue": "50W x 32L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZK4XL8",
+                "variationName": "Size",
+                "variationValue": "52W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09YBYYP53",
+                "variationName": "Size",
+                "variationValue": "52W x 30L Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077Z992MB",
+                "variationName": "Size",
+                "variationValue": "52W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZCWHX7",
+                "variationName": "Size",
+                "variationValue": "52W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZK5TLS",
+                "variationName": "Size",
+                "variationValue": "54W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZGS77P",
+                "variationName": "Size",
+                "variationValue": "54W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B078DF9RZM",
+                "variationName": "Size",
+                "variationValue": "56W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077ZCWGCP",
+                "variationName": "Size",
+                "variationValue": "58W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B078DFJVLX",
+                "variationName": "Size",
+                "variationValue": "60W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0785VVQ1V",
+                "variationName": "Size",
+                "variationValue": "60W x 32L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31SmVVRO0qL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31d dMOYnDS.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31ffSya2Q0S.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51PkW0L-NLL.jpg"
+        ],
+        "imagesCount": 4,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Dockers Store",
+            "link": "https://www.amazon.com/stores/DockersHome/page/9B5D2D51-7B1E-455B-BFB9-485944B6773F?ref_=ast_bln"
+        },
+        "brand": "DockersHome",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 6538,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 60% Cotton, 37% Polyester, 3% Elastane",
+            "Care instructions Machine Wash",
+            "Origin Made in the USA or Imported",
+            "Closure type Zipper",
+            "Straight Leg Opening",
+            "Low Waist - Low Rise Khaki Pants",
+            "Wash And Dry Inside Out With Like Colors; Remove Promptly"
+        ],
+        "description": "This khaki was made for you. Yes, you. They\u2019re cut like your favorite pair of jeans with a straight fit through the seat and thigh. The All Motion Comfort Waistband and added stretch construction allows for easy movement. And if you're really on the move, the thicker threads in high stress areas have you covered. Thermoregulation technology keeps you comfortable regardless of the season. Now go forth in your new perfect khaki pants.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 15.04 x 11.57 x 1.61 inches; 15.77 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 56790-0008"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e September 6, 2018"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Dockers"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B077PHHST4"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#4,342 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #56 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 6,538 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Compare Similar Straight Fits Jean Cut All Seasons Tech See Details Easy Straight See Details Workday 360 Flex See Details Ultimate Chino 360 Flex See Details Customer Reviews 4.5 out of 5 stars 6,538 4.4 out of 5 stars 2,757 4.5 out of 5 stars 5,504 4.5 out of 5 stars 3,881 Price $39.52$39.52 $34.88$34.88 $43.85$43.85 \u2014 Fabrication: Cotton 60% Cotton 64% Cotton 92% Cotton 95% Cotton Fabrication: Other 37% Polyester, 3% Elastane 34% Polyester, 2% Elastane 8% Elastane 5% Spandex Stretch Stretch Stretch 4-Way Stretch 4-Way Stretch Waistband All Motion Comfort Waistband All Motion Comfort Waistband Flexible waistband Flexible Comfort Waistband Pockets 5-pocket styling Single welt back buttons Zip mobile pocket Invisible security pocket Additional Features Dual action thermoregulation \u2014 \u2014 \u2014 No Wrinkle Technology No Yes Yes No",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/38ef4e16-744a-4079-b701-84a7f0efeafb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/9d6e59b6-5d7b-4d4d-b86e-39d2e953373d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/42d00970-3689-4604-a420-2fe12ab0c4fa.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/6758d95e-83f9-4f52-9dce-39409820abd4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/d494f529-9806-4eb0-8653-c689296c53de.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/17224627-4b4e-4b80-978a-4b11898770bf.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/4944084c-0c7b-407c-8f8a-f6675d710659.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/82430970-56b9-4aec-8d99-d113015657f1.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/eb5d75ce-2af2-4329-9f87-ee52d8c0c93d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/b0c453f6-8e6d-4ecf-ba51-91d77ed94335.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Rabbit the Reader",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGCYW4WWJLSBP4P73FFUDNFW2ICQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RB1YVDY9G07T0?ASIN=B077PQHH9L",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 26, 2023",
+                "reviewTitle": "3.0 out of 5 stars Really small",
+                "reviewText": "I ordered a 38 waist and I think I got a 32 or 34, I realize clothes, especially men's clothes, made in Chinea come smaller than we might expect here (USA), and this was ridiculous.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "VGER",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHUYWWPVLMSUQIMHD3BGCFJ4DTEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R37P2X5DK1VHEX?ASIN=B077PQHH9L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 8, 2021",
+                "reviewTitle": "5.0 out of 5 stars Great khakis that fit similar to Levi's 505 jeans. Great look and fit!",
+                "reviewText": "Great khakis that fit similar to Levi's 505 jeans. Great look and fit for a reasonable cost. My only suggestion would be to offer more availability in a 29\" length. Inventory of the 44x29 pants has been unavailable for several weeks, so mine will have to be hemmed.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF5D7HFMVHZBPN2IKGXCLWLVW32Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RYBND5SZXXV5Q?ASIN=B077PQHH9L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2021",
+                "reviewTitle": "5.0 out of 5 stars Overall I like the pants",
+                "reviewText": "I liked the fact the pant legs are not baggy",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "RuckZero",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AETNBOMUWIJCKBS5XQPJ2R5TQZYA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R19ZZUET2TH8JP?ASIN=B077PQHH9L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars Clean and comfortable style",
+                "reviewText": "From casual with a hoodie to business casual, these pants are perfect for pretty much any style you're going for. The fit is perfect and most importantly... no front pleats. They also have a small amount of stretch that makes moving around in them really smooth.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MARY P",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHARLVSZBWMZE4MEKDCF6FOL6CKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R32OEFLJSZ44M9?ASIN=B077PQHH9L",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 19, 2021",
+                "reviewTitle": "4.0 out of 5 stars Good fit, good quality.",
+                "reviewText": "Good fitting and good quality pants. Thanks!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jetdoc70",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGS54YIGQNWIUOYLP5JWERN76XFQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R21XAF2IKF23A8?ASIN=B077PQHH9L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2020",
+                "reviewTitle": "5.0 out of 5 stars Good alternative to blue jeans.",
+                "reviewText": "Good fit. Looks professional but comfortable.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Adam E.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEQ32BW5A3QYQEY4WYPMLBLUDO6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1EE4X2HGP3YFR?ASIN=B077PQHH9L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 19, 2021",
+                "reviewTitle": "5.0 out of 5 stars More comfortable than slacks or jeans",
+                "reviewText": "I can move in these. The color and size were spot on. They look good dressed up or down. I wear them to work too. Great",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "WhoCares",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEMY3GBO4UCRZLBP3FP23KZW4HZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1EJCDQHXGO12B?ASIN=B077PQHH9L",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 16, 2024",
+                "reviewTitle": "5.0 out of 5 stars They look and fit great",
+                "reviewText": "This is a great pair of jeans or slacks. The material is great, they fit perfectly and the price is ok as well. I am going to try to get all colors.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Robin Gorham",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 12, 2024",
+                "reviewTitle": "Best pants I\u2019ve ever owned.",
+                "reviewText": "These pants are beyond comfy and roomy, I get compliments for them all the time. Will buy them for as long as they make them, the materials just keep getting softer, great alternative to jeans.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gianni",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 19, 2023",
+                "reviewTitle": "Buena compra",
+                "reviewText": "El pantal\u00f3n es de buena calidad, y se viste muy bien. Entrega perfecta.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ray Kellestine",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 16, 2023",
+                "reviewTitle": "Great pants, a classer look for jeans",
+                "reviewText": "Great pants, look great and fit nice",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "AB",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in India on May 4, 2023",
+                "reviewTitle": "Perfect fit",
+                "reviewText": "Very comfortable. The slight bit of stretch makes it all the more comfortable for continuous wear",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Martin_Leonel",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Spain on November 28, 2021",
+                "reviewTitle": "Un Dockers!",
+                "reviewText": "Es un Dockers. Dif\u00edcil que no est\u00e9n bien. La talla es correcta.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,740 @@
+{
+    "remaining_requests": 16484,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Van-Heusen-Regular-Stretch-Painters/dp/B0C5S69SCG",
+    "body": {
+        "name": "Van Heusen Men's Dress Shirt Regular Fit Stain Shield Stretch",
+        "price": "$60.00",
+        "originalPrice": "",
+        "rawPrice": 60.0,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Van-Heusen-Regular-Shield-Stretch/dp/B08FFJL3S6",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B08FFJL3S6"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B08FF3897Q",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31--WDij0JL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08FF3NT9K",
+                "variationName": "Color",
+                "variationValue": "Blue Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HZLxWkyCL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BZ59WJ71",
+                "variationName": "Color",
+                "variationValue": "Cadet Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31dIfVb8MDL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S3R8KN",
+                "variationName": "Color",
+                "variationValue": "Camo Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ygugz0gtL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S6TLYD",
+                "variationName": "Color",
+                "variationValue": "French Violet",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51A1oB1oDTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S513F4",
+                "variationName": "Color",
+                "variationValue": "Grey Clouds",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41esA-jO54L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BZ59M7QQ",
+                "variationName": "Color",
+                "variationValue": "Midnight",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41iLAkswLFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S51KXZ",
+                "variationName": "Color",
+                "variationValue": "Midnight Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41hVQcHLuGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BZ56YKCV",
+                "variationName": "Color",
+                "variationValue": "Night Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/419fhFjrGyL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S6L3WH",
+                "variationName": "Color",
+                "variationValue": "Olive",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415WmDe0dYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S771G2",
+                "variationName": "Color",
+                "variationValue": "Olive Multi",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41hkfYrS7vL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S69SCG",
+                "variationName": "Color",
+                "variationValue": "Painters Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rJnPFF8xL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B099LF1BFD",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41e53kTDZuL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S6281S",
+                "variationName": "Color",
+                "variationValue": "Sand",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41bY8RfHi8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S4SB2X",
+                "variationName": "Color",
+                "variationValue": "Soft Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41CHhUM5aIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08FF48C2M",
+                "variationName": "Color",
+                "variationValue": "Steel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31eAqF+cbwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08FF4TSN8",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/315oUCip6pL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09QV76NYX",
+                "variationName": "Color",
+                "variationValue": "Iceberg",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31T5fiHNuFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09QVQWFDB",
+                "variationName": "Color",
+                "variationValue": "Canary",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31GTTm1mcmL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BHBPDRN9",
+                "variationName": "Color",
+                "variationValue": "Lagoon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41CDB1B8YTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09QVFB86F",
+                "variationName": "Color",
+                "variationValue": "Oat",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21fPlTIukdL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09QVPKFK6",
+                "variationName": "Color",
+                "variationValue": "Blue Cloud",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XSqU4mUrL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B9V1X7X7",
+                "variationName": "Color",
+                "variationValue": "Latte",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41zHjwhVXSL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09QVPRGXC",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31gbET7FJhL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0979KC6CW",
+                "variationName": "Color",
+                "variationValue": "Sailor Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31cFqKsUUuL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09QVKP7CQ",
+                "variationName": "Color",
+                "variationValue": "Yellow Rock",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41I6GbGQn0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09QV61RH3",
+                "variationName": "Color",
+                "variationValue": "Blue Lake",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4191D5eV+fL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B9T7KXFX",
+                "variationName": "Color",
+                "variationValue": "Dotted Ash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41I46rZmTxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0979J676K",
+                "variationName": "Color",
+                "variationValue": "Ink Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51QebDBX9pL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0979J3PRK",
+                "variationName": "Color",
+                "variationValue": "Pool",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41WG7-OvPHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09QVJJQZB",
+                "variationName": "Color",
+                "variationValue": "Sky Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31UWVvPUEDL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08PW6Z8F2",
+                "variationName": "Color",
+                "variationValue": "Almond",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21Xr-k7XMKL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BHBN4X4B",
+                "variationName": "Color",
+                "variationValue": "Ash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41iFsXgXieL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B9V4CY9R",
+                "variationName": "Color",
+                "variationValue": "Bermuda",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41vhbd-+aHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BHBDW4JV",
+                "variationName": "Color",
+                "variationValue": "Cyber Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31VQdLyDclL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08PW3HH21",
+                "variationName": "Color",
+                "variationValue": "Earth",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41eylezz0AL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BHBHVBK3",
+                "variationName": "Color",
+                "variationValue": "Fog",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ik6p+2OJL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08G9ZH9N6",
+                "variationName": "Color",
+                "variationValue": "Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51c8zxZklxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0979JQKGV",
+                "variationName": "Color",
+                "variationValue": "Mahogany",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41SbpPqUVgL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BH9K6WBM",
+                "variationName": "Color",
+                "variationValue": "Marine Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415dKO7nwsL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0979GMV76",
+                "variationName": "Color",
+                "variationValue": "Maroon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51XKIg0kWvL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09QVPJWY7",
+                "variationName": "Color",
+                "variationValue": "Mulberry",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sCMMt2lpL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09QVJ4VMG",
+                "variationName": "Color",
+                "variationValue": "Platinum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/512Wm1RtkBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BH9J289C",
+                "variationName": "Color",
+                "variationValue": "Steel Check",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415++fTDcAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0979HDGMR",
+                "variationName": "Color",
+                "variationValue": "Steel Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51scGJRkuHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S4Z8K8",
+                "variationName": "Size",
+                "variationValue": "14\"-14.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S5NPVM",
+                "variationName": "Size",
+                "variationValue": "15\"-15.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S2F3VL",
+                "variationName": "Size",
+                "variationValue": "15\"-15.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S5Q3PG",
+                "variationName": "Size",
+                "variationValue": "16\"-16.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S69SCG",
+                "variationName": "Size",
+                "variationValue": "16\"-16.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S5NPVP",
+                "variationName": "Size",
+                "variationValue": "16\"-16.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S6L3XT",
+                "variationName": "Size",
+                "variationValue": "17\"-17.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S6HKR6",
+                "variationName": "Size",
+                "variationValue": "17\"-17.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S4HY5Q",
+                "variationName": "Size",
+                "variationValue": "17\"-17.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S6FQW8",
+                "variationName": "Size",
+                "variationValue": "18\"-18.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S1L85B",
+                "variationName": "Size",
+                "variationValue": "18\"-18.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31RYtzEUT7L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41M4Nbw7z9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41rJnPFF8xL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41jluf2GKCL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/415HzE2mqDL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41BOS4epC7L.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Van Heusen Store",
+            "link": "https://www.amazon.com/stores/VanHeusen/page/906C9C4B-D9BF-4FB4-A60C-C226BB100698?ref_=ast_bln"
+        },
+        "brand": "VanHeusen",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 1280,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 60% Cotton, 35% Polyester, 5% Spandex",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Button",
+            "Stain Shield technology blocks tough water- and oil-based stains before they start; just rinse with water & keep going. Stretch: Fabric stretches and moves with you for extra comfort.",
+            "Machine-wash cold with minimal detergent, tumble dry on high; do not use fabric softener or dryer sheets",
+            "Regular Fit: A generous cut through the shoulders, chest and waist for total comfort and a classic fit",
+            "Spread Collar: Modern traditional collar with the tips pointed outwards, allowing for tie knots of all sizes; can be worn with or without neckwear",
+            "Adjustable Cuff: Two button positions allow for a more customized, improved fit. Chest Pocket: Classic design holds all your essentials."
+        ],
+        "description": "Block tough stains before they start with Van Heusen Stain Shield dress shirts. Designed for extreme stain defense even against tough water- and oil-based spills, this innovative button-up will quickly become your new go-to style at work, home, or out to dinner. When accidents happen, just rinse with running water and watch the mess roll off. The quick-drying, soft fabric also has natural stretch for added all-day comfort. The machine washable style is easy to wear right out of the dryer.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Shirts",
+                "link": "https://www.amazon.com/Mens-Shirts/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2476517011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 14.88 x 9.21 x 2.83 inches; 9.88 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 20F6852-001"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e August 7, 2020"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Van Heusen"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B08FF4XFFS"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#41,481 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #975 in Men's Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 1,280 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Van Heusen Men's Stain Shield Dress Shirt",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/904d3888-dfb3-4b4b-bc4f-ac2a4fa17b7c.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Features & Benefits Stretch Fabric Fabric stretches and moves with you for extra comfort. Wrinkle Free Specially treated for less wrinkles and easy care. Soft Touch This special finish makes the fabric softer, allowing for greater comfort. Machine Wash & Dry Easy care at home. Just wash and dry in your machines and wear.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aba98027-681d-4558-8530-6f12199adb56.__CR0,1,604,453_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/779010a2-ff05-420b-95f6-3a6b4f831250.__CR0,1,604,453_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa6d74d7-cbd9-4fc7-a330-63c377069238.__CR0,1,604,453_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7f0df526-44f3-4038-9d25-44aac6652586.__CR0,1,604,453_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Watch Stain Shield in Action",
+                "media_link": []
+            },
+            {
+                "media_text": "Extreme Stain Defense Some spills will not rinse off right away. Follow care instructions carefully. Will not work for every spill. Effective for around 20 washes. Ketchup The more, the better. Load it up and don\u2019t be afraid to get messy. Wine Cabernet, Merlot, Pino Noir? No problem. Sip your favorites without worrying about minor spills. Coffee Perk up! Your morning brew doesn\u2019t stand a chance against Stain Shield.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/3b863618-f505-41f8-ab89-2a057966944f.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/e456ab52-8e0b-41f0-a905-9c3cf82d1136.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/753eac66-f286-4bc1-85b0-382f1a99f0f1.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/1ddd1e29-4897-4739-9ce4-5de65a50d289.__CR0,0,600,450_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Everyday Accidents Don't Stand a Chance Designed for extreme stain defense, even against tough water- and oil-based spills. Our innovative Stain Shield styles will quickly become your new go-tos at work, home, or out to dinner. Accidents Happen When they do, don't worry. Just Rinse with Water Don't rub - just run cool water immediately over the mess and watch it roll off. Wipe off any extra water droplets and keep going.",
+                "media_link": []
+            },
+            {
+                "media_text": "Find the Fit You Need Slim Fit A trim, modern fit that sits closer to the body with slimmer sleeves and waist. Regular Fit A relaxed fit through the shoulders, chest and waist for comfort. Big Fit Designed with extra room throughout with relaxed armholes and sleeve openings for added movement and ease. Tall Fit Designed with a relaxed fit throughout with added length in the sleeves and body for taller men.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/96ea4d27-7974-433f-b18f-5a8dc1c7534b.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b32a23ef-3a35-415e-abcf-05d69b1f9faf.__CR0,0,601,451_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef9bc8b6-80c2-4d09-ad37-95ae5c865e9a.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f69a4c16-d542-4028-a9f1-8a0973b4301d.__CR0,0,600,450_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Discover More Styles From Van Heusen Stain Shield Stretch See Details Stain Shield Stretch See Details Stain Shield Stretch See Details Stain Shield Stretch Add to Cart Flex Collar Stretch See Details Poplin See Details Customer Reviews 4.5 out of 5 stars 1,280 4.4 out of 5 stars 1,221 4.4 out of 5 stars 1,022 4.4 out of 5 stars 749 4.5 out of 5 stars 7,353 4.4 out of 5 stars 34,805 Price $36.83$36.83 $33.06$33.06 $44.99$44.99 $27.00$27.00 $35.53$35.53 $29.06$29.06 FIT(S) Regular Slim Big Tall Regular, Slim, Big, Tall Regular, Fitted, Big, Tall COLLAR Spread Collar Spread Collar Spread Collar Spread Collar Spread Flex Collar Point Collar FABRIC 64% Ctn,32% Rycld Ply,4% Spndx 64% Ctn,32% Rycld Ply,4% Spndx 64% Ctn,32% Rycld Ply,4% Spndx 64% Ctn,32% Rycld Ply,4% Spndx 55% Cttn, 44% Poly, 1% Spandex 65% Polyester, 35% Cotton POCKET \u2714 \u2718 \u2714 \u2714 \u2714 \u2714 STAIN SHIELD TECHNOLOGY \u2714 \u2714 \u2714 \u2714 \u2718 \u2718 STRETCH FABRIC \u2714 \u2714 \u2714 \u2714 \u2714 \u2718 WRINKLE FREE \u2714 \u2714 \u2714 \u2714 \u2714 \u2718 MULTIPLE COLORS & PATTERNS \u2714 \u2714 \u2714 \u2714 \u2714 \u2714",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/904d3888-dfb3-4b4b-bc4f-ac2a4fa17b7c.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aba98027-681d-4558-8530-6f12199adb56.__CR0,1,604,453_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/779010a2-ff05-420b-95f6-3a6b4f831250.__CR0,1,604,453_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa6d74d7-cbd9-4fc7-a330-63c377069238.__CR0,1,604,453_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7f0df526-44f3-4038-9d25-44aac6652586.__CR0,1,604,453_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/3b863618-f505-41f8-ab89-2a057966944f.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/e456ab52-8e0b-41f0-a905-9c3cf82d1136.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/753eac66-f286-4bc1-85b0-382f1a99f0f1.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/1ddd1e29-4897-4739-9ce4-5de65a50d289.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f57b2992-bfeb-4503-8907-17554c383a7c.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4f070827-a9e0-437d-8f33-fe894e013e1c.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9213104e-0ebe-466f-a8ae-ca32b11ee2ac.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/96ea4d27-7974-433f-b18f-5a8dc1c7534b.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b32a23ef-3a35-415e-abcf-05d69b1f9faf.__CR0,0,601,451_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef9bc8b6-80c2-4d09-ad37-95ae5c865e9a.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f69a4c16-d542-4028-a9f1-8a0973b4301d.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/8fe659aa-b0d7-477f-9249-7bc087be9aa4.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/60a02189-3bbd-4f0e-a835-bd9f8bd14418.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/05ee81ea-090e-4c92-bbe5-f80c134584bf.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/163eba1d-a4bd-467b-b9d2-148026581dde.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/6c2f4bd8-05ea-4ef8-8ef5-12ef90497686.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/1555fe08-e684-4ae1-87dc-e7e4d245d6e0.__CR0,0,400,450_PT0_SX200_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Doak Procter",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFEPXW5KNJGJPICKNCJAPK636M7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RI9W5W3AI6SBQ?ASIN=B08FFJL3S6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 26, 2023",
+                "reviewTitle": "5.0 out of 5 stars Excellent Shirt",
+                "reviewText": "This is one of the most comforable shirts I've worn in a long time. The fit across my chest, waist, and shoulders is nearly perfect. I'm not built for a \"slim\" cut shirt (even without the \"Dad gut\" I've developed over the years), so I need the room. However, it's properly cut so that it is not baggy or poofy anywhere. The little bit of stretch allows for a proper fit while remaining incredibly comfortable.It looks good, too!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mimi2610",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AETBPWAFFBDP3EJHB4KXBPNML4FQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1RZWO2469AZ58?ASIN=B08FFJL3S6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 18, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great shirt",
+                "reviewText": "Very well made. The fit is perfect. Really looks good",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Crystal S.  Wright",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGT2UQPSICGV5GW5UAPS2IUXNSPA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1XE40NUIXI138?ASIN=B08FFJL3S6",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 8, 2022",
+                "reviewTitle": "4.0 out of 5 stars Fits kinda big",
+                "reviewText": "I love the item for my guy. It is very high quality and is his favorite brand for work/church shirts. I ordered this one specifically to get his company logo embroidered on it. The embroidery did not ruin the shirt or cause a snag as it would in cheaper or lower quality shirts. Regarding the size, because it is not slim fit, it is quite wide. I had to get the XL because my guy has long arms but if he didn\u2019t, a L would have worked fine.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "217L",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHQLMJ7R37U2XMWZHR2OOORN76ZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3NAXLYZLP22EZ?ASIN=B08FFJL3S6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 22, 2023",
+                "reviewTitle": "5.0 out of 5 stars Gorgeous fit",
+                "reviewText": "Thick enough that you can wear with whatever other color undershirt. Value for money is accurate bc it looks much more expensive. Does not wrinkle easily. Great and precise color. Comfortable. Sleeves are on point! Button\u2019s complement shirt. Very attractive shirt",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Diane",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGT2MZRWYZUJVY3IPJ5RRXPJVF5A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3OOVKP6CIQT6W?ASIN=B08FFJL3S6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 18, 2023",
+                "reviewTitle": "5.0 out of 5 stars Perfect fit and perfect color!",
+                "reviewText": "Oddly, we could not find a yellow button down dress shirt for my husband in any of our local stores - so we looked online and found this one - very soft, comfortable and my husband looked great!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEYG5UWYO6SBJJ2VFCBOZFYGKK7Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1QRBZ37SHAO1B?ASIN=B08FFJL3S6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 6, 2023",
+                "reviewTitle": "5.0 out of 5 stars Not the same sizes as in stores, not same materials",
+                "reviewText": "I have a closet full of Van Heusen shirts. I know what size fits me. I can also take measurements to verify my sizing. I wear a 17.5 with 36/37 sleeves in regular fit... If you order Van Heusen on Amazon versus Macy's or JCPenney I don't think it's the same thing. None of the sizing matches. I can't even button the shirts close and I have the exact same shirts... The sleeves are wrong, the torso is wrong, and the materials are all way off from what you get elsewhere. Look for MADE IN INDONESIA if you want the nicer Van Heusen shirts. The ones made in INDIA or BANGLADESH do not fit. You want them with 5-6% elastane, not 1%. Avoid buying these shirts or you'll just be disappointed and have to return them. If you are skinny like a toothpick, you might be okay, but if you have an American-style body type heed my advice!",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "sam",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG5WBQJUZVKL5WAR6TCWJJHO57BQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3MOFUHM30B1HB?ASIN=B08FFJL3S6",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 17, 2024",
+                "reviewTitle": "3.0 out of 5 stars A little large in the waist",
+                "reviewText": "Nice looking shirt. No obvious construction flaws.But Stafford is better, in my opinion.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHIZQJQOQKOEYK52TPMBVM3XGFUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RZFDADBTGDMAY?ASIN=B08FFJL3S6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 15, 2024",
+                "reviewTitle": "5.0 out of 5 stars Delivery was long. The quality seems to be very good.",
+                "reviewText": "Took a long time to get this shirt. But the material and quality seem to be very good. Improve delivery time frame!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tom ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 3, 2022",
+                "reviewTitle": "Great fitting Shirt",
+                "reviewText": "The material was better than expected, nice and light for an indoor function.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "tlc1969",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 25, 2022",
+                "reviewTitle": "Great quality fits true to size",
+                "reviewText": "Good quality fabric with sizing that is true to size. Used for a Florida outdoor wedding, the material wicks moisture",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,723 @@
+{
+    "remaining_requests": 7124,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/BJPKPK-Insulated-Bottles-Stainless-Paracord/dp/B09ZKSJ59Q",
+    "body": {
+        "name": "BJPKPK Half Gallon Insulated Water Bottles with Straw Lid,64oz Large Water Bottle,Stainless Steel Water Bottles with 3 Lids and Paracord Handle, Water Bottle for Hot & Cold Liquid, Army Green",
+        "price": "$21.80",
+        "originalPrice": "$29.99",
+        "rawPrice": 21.8,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/BJPKPK-Insulated-Bottles-Stainless-Paracord/dp/B09ZKSJ59Q",
+        "soldBy": {
+            "sellerID": "",
+            "name": "Amazon Warehouse",
+            "link": "https://www.amazon.com/b?node=10158976011"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BLJ2TW2J"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Aircraft",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31cGEq6N5DL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Army Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rg1qJoLsL._SS36_.jpg"
+            },
+            {
+                "asin": "B09ZKSJ59Q",
+                "variationName": "Color",
+                "variationValue": "Army-Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41N0lO8LlNL._SS36_.jpg"
+            },
+            {
+                "asin": "B09ZKSTG9C",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Y8sX8YhIL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Blossom",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31qgF4SZy7L._SS36_.jpg"
+            },
+            {
+                "asin": "B09ZKS7NJ3",
+                "variationName": "Color",
+                "variationValue": "Brick Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41WIeN3wUnL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Carrara Marble",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41GqN3YS19L._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Coral",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41vu3WdlSmL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Frozen",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41GoLNR4-0L._SS36_.jpg"
+            },
+            {
+                "asin": "B09ZKRZKRD",
+                "variationName": "Color",
+                "variationValue": "Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qPKB8q1TL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Halloween",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41boE7LE8cL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Midnight",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41iZkDK1WeL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Mint",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LggcJO7aL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Navy Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41tlx4oRIiL._SS36_.jpg"
+            },
+            {
+                "asin": "B09ZKS23DS",
+                "variationName": "Color",
+                "variationValue": "Navy-Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DKp46umnL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "New-Army Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21Je6RDmjsL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "New-Midnight",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31PNkCcYwRL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "New-Mint",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/215rGQt+yoL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "New-Ocean",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31YKwZ2pP-L._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "New-Sakura",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21WZavV48DL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "New-Sapphire",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31DlMN2lM7L._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Oasis",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gpu5gnRtL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Ocean",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41UIHMRW2VL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Ocean Dream",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41s9RIqpQzL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Prussian Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41d0mWx98OL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Rose Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41geK4ROwoL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Sakura",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415VDeGC3TL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Sapphire",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41GavZLbKHL._SS36_.jpg"
+            },
+            {
+                "asin": "B09ZKS6FX1",
+                "variationName": "Color",
+                "variationValue": "Stainless Steel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/412+alEn+pL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Teakwood",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qk5zsgpqL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Turquoise",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41IZVC3qgiL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "White Birch",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Gd540yG8L._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Wood-Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41p8zpUFavL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Yellow Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41mj2vts7ZL._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41N0lO8LlNL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41LhPHds78L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51zVNYbFhpL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41Ci-9P62TL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/415G4kz8PYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51pXS473BKL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91mwb8pSotL.png"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "https://m.media-amazon.com/images/I/91IzbGOz4JL.pdf",
+            "userManualLink": "https://m.media-amazon.com/images/I/91IzbGOz4JL.pdf"
+        },
+        "byLineInfo": {
+            "name": "Visit the BJPKPK Store",
+            "link": "https://www.amazon.com/stores/BJPKPK/page/9DFF182E-2043-4280-B04D-9FFDFD75E5BD?ref_=ast_bln"
+        },
+        "brand": "BJPKPK",
+        "merchantInfo": "Amazon Warehouse",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 7604,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Wednesday, February 21 on orders shipped by Amazon over $35",
+            "Or fastest delivery Sunday, February 18. Order within 3 hrs 25 mins",
+            "FREE delivery Wednesday, February 21 on orders shipped by Amazon over $35. Order within 3 hrs 25 mins",
+            "FREE pickup Wednesday, February 21 on orders shipped by Amazon over $35",
+            "Or fastest pickup Tomorrow, February 17. Order within 3 hrs 25 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "VACUUM INSULATED: BJPKPK insulated water bottle use double-walled vacuum insulation technology to keep your beverage cold for up to 24 hours, or hot for up to 12 hours, make sure you enjoy your favorite beverages at the most suitable temperature all day.",
+            "18/8 PREMIUM STAINLESS STEEL: Made of food-grade 18/8 stainless steel, coated with environmental anti-slip powder at the surface, fully resistant to oxidation, rust and flavor transfer, a perfect water bottle with straw for your daily water drinking.",
+            "FULLY EQUIPPED: We have equipped a flip straw lid, an easy twist spout lid, and a portable handle lid for 64 Oz insulated sports water bottle to meet your needs in different scenarios. With a paracord handle, you can carry it in a comfortable and fashionable way. 2 straws,1 straw brush and dishwasher safe design help you clean it easily.",
+            "BPA FREE & NO-SWEAT DESIGN: This large water bottle insulated is 100% BPA & lead free. No sweat design makes it comfortable and safe to hold. With the durable powder coating, it looks more colorful and stylish. It is perfect for traveling, hiking, cycling, camping, fishing, gym and other activities.",
+            "DISHWASHER SAFE: This metal water bottle is easy to keep clean by hand, and it is dishwasher safe. Please wash it thoroughly with a mild dish soap and warm water before your first use."
+        ],
+        "description": "BJPKPK 64oz Insulated Water Bottles,Stainless Steel Water Bottle with Straw,Thermo Insulated Water Bottles with 3 Lids and Paracord Handle,Half Gallon Water Bottle,Army Green",
+        "breadCrumbs": [
+            {
+                "name": "Home & Kitchen",
+                "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_aui_C_1?ie=UTF8&node=1055398"
+            },
+            {
+                "name": "Kitchen & Dining",
+                "link": "https://www.amazon.com/kitchen-dining/b/ref=dp_bc_aui_C_2?ie=UTF8&node=284507"
+            },
+            {
+                "name": "Storage & Organization",
+                "link": "https://www.amazon.com/kitchen-storage-organization/b/ref=dp_bc_aui_C_3?ie=UTF8&node=510136"
+            },
+            {
+                "name": "Thermoses",
+                "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_4?ie=UTF8&node=21613418011"
+            },
+            {
+                "name": "Insulated Beverage Containers",
+                "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_5?ie=UTF8&node=21613420011"
+            },
+            {
+                "name": "Thermoses",
+                "link": "https://www.amazon.com/thermoses/b/ref=dp_bc_aui_C_6?ie=UTF8&node=13880501"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Brand",
+                "value": "BJPKPK"
+            },
+            {
+                "name": "Capacity",
+                "value": "64 Fluid Ounces"
+            },
+            {
+                "name": "Color",
+                "value": "Army-Green"
+            },
+            {
+                "name": "Recommended Uses For Product",
+                "value": "Water"
+            },
+            {
+                "name": "Special Feature",
+                "value": "Sweat Resistant, Cold 24 Hours, Double Wall Vaccum, Leak Proof, Dishwasher Safe"
+            },
+            {
+                "name": "Age Range (Description)",
+                "value": "Adult"
+            },
+            {
+                "name": "Product Dimensions",
+                "value": "4.7\"W x 11\"H"
+            },
+            {
+                "name": "Model Name",
+                "value": "64A-armygreen"
+            },
+            {
+                "name": "Item Weight",
+                "value": "14 ounces"
+            },
+            {
+                "name": "Theme",
+                "value": "Sport"
+            },
+            {
+                "name": "Material",
+                "value": "Stainless Steel"
+            },
+            {
+                "name": "Number of Items",
+                "value": "1"
+            },
+            {
+                "name": "Included Components",
+                "value": "Straw X 2, Insulated water Bottle X 1, Lid X 3, Straw Cleaner X 1, Paracod Handle X1"
+            },
+            {
+                "name": "Product Care Instructions",
+                "value": "Dishwasher Safe"
+            },
+            {
+                "name": "Base Diameter",
+                "value": "4.7 Inches"
+            },
+            {
+                "name": "Cap Type",
+                "value": "Straw Cap"
+            },
+            {
+                "name": "With Lid",
+                "value": "Yes"
+            },
+            {
+                "name": "Is Dishwasher Safe",
+                "value": "Yes"
+            },
+            {
+                "name": "Department",
+                "value": "Unisex-Adult"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "BJPKPK"
+            },
+            {
+                "name": "ASIN",
+                "value": "B09ZKSJ59Q"
+            },
+            {
+                "name": "Country of Origin",
+                "value": "China"
+            },
+            {
+                "name": "Item model number",
+                "value": "64A-armygreen"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 7,604 ratings 4.6 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#273 in Kitchen & Dining (See Top 100 in Kitchen & Dining) #14 in Insulated Bottles"
+            },
+            {
+                "name": "Date First Available",
+                "value": "May 5, 2022"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "BJPKPK is committed to design and produce high-quality water bottles. We hope to bring fashionable, portable, reusable and safe products to more families and continue to work in this direction.Our insulated water bottles are made of 18/8 Food Grade Stainless Steel, coated with environmental anti-slip powder at the surface, fully resistant to oxidation, rust and flavor transfer, BPA and lead free, a perfect metal water bottle for your daily water drinking.Keeping hydrated is essential for our health, this large water bottle holds enough liquid to help you stay hydrated throughout the day, allows you to replenish water anytime and anywhere.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4eebe282-78d6-4a14-8418-2422df98b966.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Paracord Handle The paracord handle allowing you to enjoy its convenience and fashion while obtaining an excellent sports water bottle! Handle Lid Handle lid is convenient to carry. Comes with 2 straws and 1 straw brush, you can sip easily, clean it regularly and drink water healthily. Spout Lid Spout lid allows you to drink like a fish when you thirst for water. This large water bottle is perfect for climbing, hiking. Straw Lid The straw lid easily flips up and down to keep you hydrated when you\u2019re on the move. This insulated water bottle is great for working out. (Two set of lids will be shipped randomly.)",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b40d7320-226f-4ba1-a26c-09d5bd0f7d05.__CR0,0,1600,1600_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa7e6312-bfe7-4bf6-9fbd-9b947b627d57.__CR0,0,1600,1600_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/57f12af9-ae77-4213-8576-baef8e3423c6.__CR0,0,1600,1600_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/88242d84-4b4f-464f-a6a2-03a271d24fdb.__CR0,0,300,300_PT0_SX220_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "15oz Insulated Water Bottles 40oz Insulated Tumblers 25oz Stainless Steel water bottles 17oz Stainless Steel water bottles 20 oz Stainless Steel Insulated Water Bottle Tumbler Mug 20 oz Skinny Stainless Steel Insulated Water Tumbler Capacity 15oz 40oz 25oz 17oz 20oz 20oz Lid \u2713 \u2713 \u2713 \u2713 2 Lids \u2713 Bottle Width 2.9 in 2.67 in 3.0 in 2.75 in 3.4 in 2.8 in Bottle Height 6.5 in 8.7 in 12.2 in 10.5 in 6.6 in 8.0 in",
+                "media_link": []
+            },
+            {
+                "media_text": "12oz Stainless Steel Wine Tumbler with Lid-2 Pack 14oz Stainless Steel Coffee Mug with Spill Proof Lid-2 Pack 30oz Stainless Steel Double Wall Insulated Tumbler 20oz Kids Insulated Water Bottles 128oz Stainless Steel Water Bottles with Ergonomic Handle 18oz Stainless Steel Water Bottles Capacity 12oz 14oz 30oz 20oz 128oz 18oz Lid \u2713 \u2713 2 Lids \u2713 \u2713 \u2713 Bottle Width 3.5 in 3.4 in 3.9 in 4.3 in 6.5 in 2.8 in Bottle Height 4.7 in 4.2 in 7.7 in 6.3 in 12.8 in 9.4 in",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4eebe282-78d6-4a14-8418-2422df98b966.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b40d7320-226f-4ba1-a26c-09d5bd0f7d05.__CR0,0,1600,1600_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa7e6312-bfe7-4bf6-9fbd-9b947b627d57.__CR0,0,1600,1600_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/57f12af9-ae77-4213-8576-baef8e3423c6.__CR0,0,1600,1600_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/88242d84-4b4f-464f-a6a2-03a271d24fdb.__CR0,0,300,300_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9ea8969c-4f04-4772-815d-c2d5f6f61bab.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/038c1b01-bea4-48f7-b260-68f497f6d86b.__CR0,0,300,600_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3ba4b775-724f-43d6-b58b-73f1e400e9ea.__CR0,0,300,600_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8b860d2b-3df1-4358-a463-7e4bf8d0597b.__CR0,0,600,1200_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/72ab8a0c-2b9c-41c0-8910-bc6e58c33e1a.__CR0,0,600,1200_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ee3bc5f0-3f51-43a2-a540-8faa9afbad69.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a09e14ef-0b99-4bc0-9b19-9647409e052e.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4a3a15fb-8d0a-4ad0-a023-bb5af39599f3.__CR0,0,600,1200_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/370ab505-8789-4b07-93d8-2b762066a18c.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/46f7b51e-ee8f-49ae-ae02-79c6f9970cf5.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2aa4b143-1484-488f-9477-343f2edf9491.__CR0,0,1106,2212_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f534dce8-7766-4898-b1a5-64295fb46cfa.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/22967924-8583-43d2-93ff-32e23f133157.__CR1,0,772,1544_PT0_SX150_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Joe",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHN756D7SLAM4RMQYN7XKXSPO6JA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RD7FSZ340IVG5?ASIN=B09ZKSJ59Q",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars Exceptional quality at a great price!!",
+                "reviewText": "Love the dark green color, looks sleek and is not too wide, yet holds 40 oz!! Stays nice and cold and no leaks. Comes with 3 lid options. Wide mouth for filling, and even a straw cleaner!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alysia Scherger",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE4GAJJKE7ZHB2DD22NVYCYAXY3A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1I44AJ3C8KSSK?ASIN=B09ZKSJ59Q",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 6, 2023",
+                "reviewTitle": "5.0 out of 5 stars Daily Water Bottle",
+                "reviewText": "I was looking for a larger water bottle to use daily to help with my water intake. I like that this one is taller than the others and has a nicely printed design.ProsCan take a beatingMultiple lids for different usesholds temperatureConsMake sure the lid is on tight! It leaked on me once when the lid was just slightly lost (might be a user error)Does not fit in the cup holder (not a deal breaker for me but just a note)",
+                "reviewVotes": "10 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Melisa B",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHBZTDDLFC4WCLV6ZMHKLQCMWIKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3LGOF8YR1O13X?ASIN=B09ZKSJ59Q",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love this water bottle.",
+                "reviewText": "Great water bottle. I use it daily as my gym water bottle. Love the fact that you can choose from 3 different types of tops for this bottle. Has a hook on the top to carry it. Great colors to choose from. Keeps my water cold and you can\u2019t beat the price.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHXB2RXWQ5NMQ23GDQBBCVWBKM2A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1BL996K3GFQM7?ASIN=B09ZKSJ59Q",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "4.0 out of 5 stars Good Bottle, Bad Lid",
+                "reviewText": "I really like the color and price of the bottle and it's well insulated, but the \"chug\" lid has a really small opening. The good news is this bottle is compatible with Hydroflask lids and I found a nice upgrade.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Desert Consumer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEGZZYN72XQKOTIGJUP6GNZ6DLMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R16W86IWW9GI6R?ASIN=B09ZKSJ59Q",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 23, 2023",
+                "reviewTitle": "5.0 out of 5 stars Best value. Great bottle. No leaks.",
+                "reviewText": "I carry this 64oz jug, plus a 32oz, plus a 40oz blenderbottle. The carry handle let's me do all that with 1 hand thanks to a carabiner clip. You might want to upgrade your carabiner.The ferro rod shoots monster sparks. Compass works. Whistle works. And paracord seems strong (unsure if 550 or not). If you wanted to buy these things separate, you'd spend more than you did on the bottle. So it's cool you can get them included with a metal insulated jug like this. Very convenient for campouts.No leaks with the straw lid and Spout Lid. Both are more sturdy than my previous ones (stays closed, won't over tighten and skip a thread). And the 64oz lids fit my wide mouth 32oz hydroflasks perfectly.Cheaper to buy a new bottle with 3 lids+accessories instead of just buying a replacement lid set. 10/10 recommend.Keeps that drink COLD. I use this 64oz as a water Buffalo for my easier to carry 32oz. Refill with the pour Spout Lid and enjoy the cold bev. My hydroflask has dents and can't keep anything cold. This 64oz refills ICY cold drinks all day long.Customer service is excellent too. Quick response and great solution. Will be coming back!",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Arturo Alarcon",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGECT5F6ZCRN6F3C3PSA7N725NHQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1B3BQ7GBIDTSF?ASIN=B09ZKSJ59Q",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 21, 2023",
+                "reviewTitle": "5.0 out of 5 stars Keeps drinks cold for hours",
+                "reviewText": "Large capacity, keeps drinks cold, looks good but has a purple tint that doesn't come through on the product images which you may or maynot like. If you have smaller hands like my wife you may not like it since she can't drink from it one handed. Part of the reason I purchased this particular bottle was because of the included extra lids, I was hoping they'd fit an Amazon Basics bottle whose lid broke, sadly they do not. I use the flip top lid and compared to the basics lid it's great since it's one handed operation to open and close. The other lids are just taking up space in storage but at least if this one breaks I'll have backups instead of having to buy a whole nother bottle. I've dropped it a few times and the finish seems to have held up great, though upon closer inspection there is a small scratch that I only noticed because I was looking for it. On a solid color it may be more obvious. Wide mouth makes it easy to fill and clean.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Charis",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEYE7IDRYHQBJ7SSZ6KSEE5MPBIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1827UEYNSLLQ?ASIN=B09ZKSJ59Q",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "5.0 out of 5 stars Best water bottle i\u2019ve purchased",
+                "reviewText": "This water bottle is AMAZING! First of all it\u2019s huge, 40 oz, and for a GREAT price! There\u2019s no leakage and comes with everything as shown. It stays nice and cold all day long. 10/10 would recommend. My friends are already ordering their own.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cody SmithCody Smith",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHGFZGHE3SXS2RMCW2NGOPE3GRGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1FTMA3TYSDVDF?ASIN=B09ZKSJ59Q",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 27, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great Product/Great Value",
+                "reviewText": "I purchased the black 64oz bottle and have been using this bottle daily for about two months now. It has great and has met all my expectations. I\u2019m currently living in a tropical climate which means it\u2019s hot and humid all the time. So I needed a large bottle to keep my beverages cold and so I could stay hydrated throughout the day. Since I\u2019ve gotten this bottle I\u2019ve been drinking over a gallon a day.I love that this bottle does not sweat, leaving rings or pools of water behind like non-insulated bottles do. The coating on the bottle looks nice and adds grip which makes holding it easy even when full. This bottle comes with lots of accessories for using and clean adding to the quality and value of this product vs the last one I owned from a different brand.Lids:I love that it comes with multiple caps/lids that are easy to swap out depending on the use. I use the flip straw lid while at school where the bottle sits on my desk and im taking frequent sips. When I\u2019m at home I set it down a lot and so I\u2019m drinking from it less frequently but at greater volume so that\u2019s where the spout lid comes in handy.The paracord handle: It\u2019s a great addition that my previous bottle from a different brand didn\u2019t have and makes carrying it very easy and convenient. Additionally, im apprehensive about carrying the bottle by the lid all the time while it\u2019s full because i can only imagine the nightmare it would be if the lid popped off and the bottle hit the ground causing denting it and then having to deal with half a gallon of fluids all over the floor. Now with that being said I have on occasion held the bottle by the lid and I\u2019ve had no issues.Thermo regulation(hot/cold): I\u2019ve never used it with any hot fluids so unfortunately I can\u2019t share any insight on that. As far as keeping beverages cold I have a little insight. Based on how much I\u2019m drinking I\u2019m refilling this bottle more than once a day. So with that being said testing the limits of how long it keeps beverages cold isn\u2019t something I\u2019m doing. The longest I\u2019ve kept fluid in the bottle is about 12 hours. I filled it up a bit before bed and in the morning it seemed just as cold as when it went in.Potential improvements: Due to the structure, size, and weight when it makes contact with another surface it can be a bit clunky or noisy. This can be resolved with foam/fabric cover or another option I\u2019ve seen is a silicone cap that goes over the bottom of the bottle. Both these options aid in shock absorption and reduces any noise. I know people who have each of these on their bottles and they love them.TLDR: This bottle has lots of great features, it\u2019s a good value and has met or exceeded all my expectations. Based on my experience I\u2019d recommend it to family and friends.",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61AKjGzxw2L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ingrid Pamela caballero Aguilar",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 11, 2024",
+                "reviewTitle": "BUENO",
+                "reviewText": "Tiene muchos popotes extras con su limpiador es s\u00faper para aventuras en exteriores",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "YOLI G.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 28, 2024",
+                "reviewTitle": "Best bottle ever !!",
+                "reviewText": "It\u2019s really good to keep your drinks cold or hot!! It\u2019s best I have ever had",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "felippe ferrante",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Brazil on January 18, 2024",
+                "reviewTitle": "Gostei!",
+                "reviewText": "Muito boa, conserva bem e as tres tampas permitem varios tipos de uso tipo individual ou coletivo!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Astrid RunnerAstrid Runner",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 15, 2024",
+                "reviewTitle": "EXCELENTE",
+                "reviewText": "Es grande, pero resulta ser una manera f\u00e1cil de tomar la cantidad de agua requerida por d\u00eda. La correa de transporte es s\u00f3lida y f\u00e1cil de poner y quitar. Trae tres tapas diferentes, para servir, para tomar como chug y con popote. La verdad es una buena compra.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61kQ8K7vhBL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jhonatan LJhonatan L",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Brazil on January 15, 2024",
+                "reviewTitle": "Excelente. nota 10/10",
+                "reviewText": "Muito bom, entrega exatamente o que promete. usei recentemente em uma viagem e manteve a \u00e1gua geladinha. N\u00e3o chega a manter a \u00e1gua muito gelada por um longo tempo, mas mantem em uma \u00f3tima temperatura por muito tempo. Al\u00e9m de ter uma apar\u00eancia muito charmosa, tamb\u00e9m fornece tr\u00eas op\u00e7\u00f5es de tampas extremamente funcionais e praticas.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71YRhK-QMML.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71KcMLh91bL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/716AZKhwp7L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81sNiSF7-3L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61KjfnsdJxL.jpg"
+                    ],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

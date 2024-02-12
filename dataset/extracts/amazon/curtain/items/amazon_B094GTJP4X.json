@@ -1,0 +1,658 @@
+{
+    "remaining_requests": 32890,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Estelar-Textiler-Blackout-Curtains-Bedroom/dp/B094GTJP4X",
+    "body": {
+        "name": "Estelar Textiler Blackout Curtains & Drapes 84 Inches Length 2 Panels Set for Living Room with Gold Palm Leaf Drapes for Bedroom, 52Wx84L, Dark Grey, 1Pair",
+        "price": "$28.99",
+        "originalPrice": "",
+        "rawPrice": 28.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Estelar-Textiler-Blackout-Curtains-Bedroom/dp/B094GTJP4X",
+        "soldBy": {
+            "sellerID": "A1LUY9UPZEDPS5",
+            "name": "Estelar Textiler",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1LUY9UPZEDPS5&asin=B094GTJP4X&ref_=dp_merchant_link&isAmazonFulfilled=1"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09V5KHV7V"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B094GVHJFV",
+                "variationName": "Color",
+                "variationValue": "Beige/Gold Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413ylHqnwsL._SS36_.jpg"
+            },
+            {
+                "asin": "B09G32CLZR",
+                "variationName": "Color",
+                "variationValue": "Beige/Silver Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41huLJ0oJlL._SS36_.jpg"
+            },
+            {
+                "asin": "B094GVQWMT",
+                "variationName": "Color",
+                "variationValue": "Black/Gold Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HYcJffY4L._SS36_.jpg"
+            },
+            {
+                "asin": "B09G316YJ2",
+                "variationName": "Color",
+                "variationValue": "Black/Silver Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413IaNBYfiL._SS36_.jpg"
+            },
+            {
+                "asin": "B094GSDRWJ",
+                "variationName": "Color",
+                "variationValue": "Cream Beige/Gold Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51w0d43yRiL._SS36_.jpg"
+            },
+            {
+                "asin": "B09G31L44V",
+                "variationName": "Color",
+                "variationValue": "Cream Beige/Silver Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZsOz0eT2L._SS36_.jpg"
+            },
+            {
+                "asin": "B094GTJP4X",
+                "variationName": "Color",
+                "variationValue": "Dark Grey/Gold Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41IM95swA0L._SS36_.jpg"
+            },
+            {
+                "asin": "B09G2Z9JJ4",
+                "variationName": "Color",
+                "variationValue": "Dark Grey/Silver Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51QCTFRR1uL._SS36_.jpg"
+            },
+            {
+                "asin": "B094GSW1XV",
+                "variationName": "Color",
+                "variationValue": "Grey/Gold Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51mIrJcrGvL._SS36_.jpg"
+            },
+            {
+                "asin": "B09G32MM5G",
+                "variationName": "Color",
+                "variationValue": "Grey/Silver Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415HjdMk6hL._SS36_.jpg"
+            },
+            {
+                "asin": "B094GTCK8M",
+                "variationName": "Color",
+                "variationValue": "Greyish White/Gold Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PpQktBJDL._SS36_.jpg"
+            },
+            {
+                "asin": "B09G2ZXLTH",
+                "variationName": "Color",
+                "variationValue": "Greyish White/Silver Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41MBVtIY85L._SS36_.jpg"
+            },
+            {
+                "asin": "B09Y4DH298",
+                "variationName": "Color",
+                "variationValue": "Light Grey/Gold Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Q6MoTNuRL._SS36_.jpg"
+            },
+            {
+                "asin": "B09Y4CQTYS",
+                "variationName": "Color",
+                "variationValue": "Light Grey/Silver Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41mMgXx2HaL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B83ZSF43",
+                "variationName": "Color",
+                "variationValue": "Lilac/Gold Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41G7N5AxLwL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BPC4MY1H",
+                "variationName": "Color",
+                "variationValue": "Lilac/Silver Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51WWHZqMvkL._SS36_.jpg"
+            },
+            {
+                "asin": "B094GTF193",
+                "variationName": "Color",
+                "variationValue": "Navy Blue/Gold Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41pSCqFGMCL._SS36_.jpg"
+            },
+            {
+                "asin": "B09G32S3K4",
+                "variationName": "Color",
+                "variationValue": "Navy Blue/Silver Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jgY+L6VjL._SS36_.jpg"
+            },
+            {
+                "asin": "B09Y4F9Z2Y",
+                "variationName": "Color",
+                "variationValue": "Purple/Gold Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41hWnT5CnlL._SS36_.jpg"
+            },
+            {
+                "asin": "B09Y4FYX35",
+                "variationName": "Color",
+                "variationValue": "Purple/Silver Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413Yucn0ISL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B8493ZYY",
+                "variationName": "Color",
+                "variationValue": "Sky Blue/Gold Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414Z9us7O6L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BPC43H4B",
+                "variationName": "Color",
+                "variationValue": "Sky Blue/Silver Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qmXGju2OL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B84Q1NCR",
+                "variationName": "Color",
+                "variationValue": "Stone Blue/Gold Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41xFTMap-ZL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BPC4S94Q",
+                "variationName": "Color",
+                "variationValue": "Stone Blue/Silver Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41mMBgV7G0L._SS36_.jpg"
+            },
+            {
+                "asin": "B0B84PTXWW",
+                "variationName": "Color",
+                "variationValue": "Teal/Gold Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51QRacKTuBL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BPC4CDTW",
+                "variationName": "Color",
+                "variationValue": "Teal/Silver Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Sotwpv0sL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B843BZKC",
+                "variationName": "Color",
+                "variationValue": "Yellow/Gold Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41iMHabVYyL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BPC6HV32",
+                "variationName": "Color",
+                "variationValue": "Yellow/Silver Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NsDJilr3L._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "50",
+        "stockDetail": "In Stock",
+        "couponInfo": "Apply 20% coupon",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/519qMxJ9AiL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51tA0mIaANL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51fHhv6ODQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41hQzjrDv8L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51JPxc41rsL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/415oC3-CNhS.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/A1oiOR6jeJL.png"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Estelar Textiler Store",
+            "link": "https://www.amazon.com/stores/ESTELARTEXTILER/page/6DFC9EF6-FFF0-48BF-98CE-CD616B69B7A5?ref_=ast_bln"
+        },
+        "brand": "ESTELARTEXTILER",
+        "merchantInfo": "Estelar Textiler",
+        "customerReview": "4.7 out of 5 stars",
+        "customerReviewCount": 3840,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Monday, February 19 on orders shipped by Amazon over $35. Order within 43 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "PACKAGE INCLUDES: Each package includes 2 blackout panels and 2 tassel ropes. Each panel measures 52W x 84L inch with 8 silver anti-rust grommets (1.6 inch inner diameter)",
+            "ELEGANT DESIGN\uff1aOriginal gold wheat and palm leaf was designed on these blackout drapes, adorn your windows more natural, elegant and sparkly. Which perfect for bedroom, living room, kids room,dining room and nursery.",
+            "BLACKOUT: These blackout curtains block out 85-99% sunlight and UV rays. Owe to the triple weave technology, which make them thermal insulated, soundproof, energy efficient. Offer you a better afternoon nap or morning sleep-in (Dark colors work better).",
+            "AMAZING MATERIAL: These thick and soft wheat and leaf printed room darkening curtain panels are very upmarket and made of 100% imported high quality polyester. Ensure the hand touch silky and has a pleasant feel to it that complements most decor.",
+            "HASSLE FREE: Recommended hand wash and dry quickly. Wash them in cold water, not bleached, iron at low temperatures."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Home & Kitchen",
+                "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_aui_C_1?ie=UTF8&node=1055398"
+            },
+            {
+                "name": "Home D\u00e9cor Products",
+                "link": "https://www.amazon.com/home-d%C3%83%C2%A9cor/b/ref=dp_bc_aui_C_2?ie=UTF8&node=1063278"
+            },
+            {
+                "name": "Window Treatments",
+                "link": "https://www.amazon.com/window-treatments/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1063302"
+            },
+            {
+                "name": "Curtains & Drapes",
+                "link": "https://www.amazon.com/draperies-curtains/b/ref=dp_bc_aui_C_4?ie=UTF8&node=3736141"
+            },
+            {
+                "name": "Panels",
+                "link": "https://www.amazon.com/panels/b/ref=dp_bc_aui_C_5?ie=UTF8&node=3736151"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Opacity",
+                "value": "Blackout"
+            },
+            {
+                "name": "Special Feature",
+                "value": "Room Darkening, Thermal Insulated, Window decoration, Block out sunlight, Blackout"
+            },
+            {
+                "name": "Room Type",
+                "value": "Kitchen, Bedroom, Living Room, Home Office, Dining Room"
+            },
+            {
+                "name": "Curtain Form",
+                "value": "Drapes"
+            },
+            {
+                "name": "Recommended Uses For Product",
+                "value": "Outdoor, Indoor"
+            },
+            {
+                "name": "Specific Uses For Product",
+                "value": "Room Darkening, Privacy, Sun Protection, Decorative"
+            },
+            {
+                "name": "Closure Type",
+                "value": "Grommet"
+            },
+            {
+                "name": "Product Dimensions",
+                "value": "84\"L x 52\"W"
+            },
+            {
+                "name": "Size",
+                "value": "52Wx84L"
+            },
+            {
+                "name": "Package Weight",
+                "value": "1.56 Kilograms"
+            },
+            {
+                "name": "Item Thickness",
+                "value": "0.28 Inches"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.7 4.7 out of 5 stars 3,840 ratings 4.7 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#13,265 in Home & Kitchen (See Top 100 in Home & Kitchen) #141 in Window Curtain Panels"
+            },
+            {
+                "name": "Brand",
+                "value": "Estelar Textiler"
+            },
+            {
+                "name": "Included Components",
+                "value": "Grommet, Tie Back"
+            },
+            {
+                "name": "Number of Items",
+                "value": "2"
+            },
+            {
+                "name": "Material",
+                "value": "Polyester, Polyester Blend"
+            },
+            {
+                "name": "Product Care Instructions",
+                "value": "Hand Wash Only"
+            },
+            {
+                "name": "Fabric Type",
+                "value": "Polyester"
+            },
+            {
+                "name": "Color",
+                "value": "Dark Grey/Gold Print"
+            },
+            {
+                "name": "Style",
+                "value": "Modern, Classic"
+            },
+            {
+                "name": "Pattern",
+                "value": "Leaf"
+            },
+            {
+                "name": "Theme",
+                "value": "Leaves"
+            },
+            {
+                "name": "Top Style",
+                "value": "Grommet"
+            },
+            {
+                "name": "Seasons",
+                "value": "All Season"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Estelar Textiler Blackout Curtains with Gold Pattern Print These light blocking blackout curtains with modern design use the process of gold foil print. With the combination of palm tree and wheat pattern, which is printed on the blackout curtains, create an elegant and beautiful artistic conception. Our curtains are made of soft and thick shading fabric, which has good effects in shading, thermal insulation and noise reduction.",
+                "media_link": []
+            },
+            {
+                "media_text": "Previous page Next page 1 Blackout Effect 2 Thermal Insulated 3 Unique Pattern Design 4 Wrinkle Removal 5 Measurement Guide",
+                "media_link": []
+            },
+            {
+                "media_text": "Previous page Next page 1 Bedroom 2 Dining Room 3 Living Room",
+                "media_link": []
+            },
+            {
+                "media_text": "Are they blackout or just room darkening? Yes, dark-colored curtains can make room blackout, such as black, dark grey, navy blue, grey, purple. As for light-colored curtains, they can also make the room darkening. Why is the color of the curtains i received a slight different color than the pictures on the website? Yes, actually there is a slight difference in the color of the curtains due to different display devices, screen brightness, or light brightness. Do they have wrinkles or how do I get the wrinkles out? Most of them come out of the packaging have no obvious wrinkles. Some of them will have wrinkles due to packing squeeze during shipping. You can remove wrinkles by steaming or ironing on the low temperature before hanging. How many pieces in a package\uff1f Are the panels 52W per panel or do they measure 52W together? 2 panels with 2 cute tie backs in a package. Each Panel measures 52 inches wide, so 104\" wide total.",
+                "media_link": []
+            },
+            {
+                "media_text": "Estelar Textiler Other Style Blackout Curtains Dark Grey Gold Print Add to Cart Grey Gold Print Add to Cart Light Grey Gold Print Add to Cart Navy Blue Gold Print Add to Cart Dark Grey Silver Print Add to Cart Black Gold Print Add to Cart Customer Reviews 4.7 out of 5 stars 3,840 4.7 out of 5 stars 3,840 4.7 out of 5 stars 3,840 4.7 out of 5 stars 3,840 4.7 out of 5 stars 3,840 4.7 out of 5 stars 3,840 Price $28.99$28.99 $39.58$39.58 $39.58$39.58 $39.58$39.58 $39.99$39.99 $37.59$37.59 Fabric Blackout fabric Blackout fabric Blackout fabric Blackout fabric Blackout fabric Blackout fabric Pattern Palm Leaf and Wheat Palm Leaf and Wheat Palm Leaf and Wheat Palm Leaf and Wheat Palm Leaf and Wheat Palm Leaf and Wheat Package 2 Panels 2 Panels 2 Panels 2 Panels 2 Panels 2 Panels Privacy 100% 100% 100% 100% 100% 100% Top Style Grommet Grommet Grommet Grommet Grommet Grommet Touch Feeling Thick and Soft Thick and Soft Thick and Soft Thick and Soft Thick and Soft Thick and Soft",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f547112b-8937-4983-a748-4b5273afdb80.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a69488c-28e9-4fbe-a00c-345438f2693e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0c86b5d7-2140-4d35-8933-9afd7cf68855.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bf13bac7-7b5f-4432-ac0b-09500d159d91.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0e967912-096b-49a9-b4cd-a5f48deaf8d9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e5a961eb-2a0b-4a2c-94ef-895bfd7b889e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f4a1bc57-23a2-4b5d-a135-43ceae89d68c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f6f4abd4-75fb-47d3-9add-84fc405b196c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2038fdd7-3fa5-45dd-9a5c-4ce22327fdba.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d12ee958-6fd8-45c1-b608-b731bd689090.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f47f1150-7676-48c5-a3f4-b908bc97a3e7.__CR89,0,1422,1600_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/64c5db65-879d-4027-8aab-adbfcf2cfed9.__CR89,0,1422,1600_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/67bcd5cc-efd9-447b-b76f-102f7ac3530b.__CR89,0,1422,1600_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b41127ef-630d-4b18-9b9c-f48240a864e4.__CR89,0,1422,1600_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4bf60666-6bf4-4569-a797-90e3ccc5e485.__CR89,0,1422,1600_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d4eb07ce-af5a-42ee-ba70-373a284e4508.__CR89,0,1422,1600_PT0_SX200_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Cozy Fox Boutique",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFCEYUACLKJNUSTH7WNBEEQYJPYQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R4FSB75UVPU13?ASIN=B094GTJP4X",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 30, 2023",
+                "reviewTitle": "5.0 out of 5 stars Luxury look and excellent thick satin fabric!",
+                "reviewText": "These curtains are absolutely BEAUTIFUL.I am a professional seamstress, quilter & fiber artist who works with many types of fabrics, and I am impressed by the quality of these curtains! The satin sheen is perfect, and the gold foil design is stamped perfectly, evenly and has a beautiful look.They were packed very well, and out of the package the seams did look a little off but you just need to iron them and everything smooths out. Iron on LOW heat, and put a light cloth or cotton pillowcase over the gold foil when you iron those sections.No light comes through these! Definitely light-blocking and also keeps the hot sun or cold air out where you hang them.This is a fantastic buy for the money! I love these curtains so much I am buying a second set to make matching pillows for our living room.I work with fabric all day long and have no hesitation recommending these!!",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kim Campbell",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHNY2QLN4CND6YIUFM3LGHYGA2TQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R9P2OZ7QNST6W?ASIN=B094GTJP4X",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 14, 2023",
+                "reviewTitle": "5.0 out of 5 stars Beautiful!",
+                "reviewText": "The quality of the curtains is wonderful. They are beautiful hanging up in my living room. The feel is sheer luxury. They completely block the light from coming in the window. The sheen is beautiful. I would buy these curtains again if I needed them. They are exactly what I was looking for. Luxury quality at an affordable price.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Courtney",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGSKS3VYJ5EC3IDTTWGSI4XBWZ7Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R332BB0AC1ZQHZ?ASIN=B094GTJP4X",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 17, 2023",
+                "reviewTitle": "5.0 out of 5 stars Really nice quality",
+                "reviewText": "I really enjoy these curtains the fabric is nice and not too heavy. I also think they do an amazing job of making the room very dark. The design is very cute as well.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tammy Webb",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGFTG2253VYOZWX3PVNJIW43J4PQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R16KGQCYPNXB2R?ASIN=B094GTJP4X",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 4, 2024",
+                "reviewTitle": "5.0 out of 5 stars Black out",
+                "reviewText": "We have full sun on our living room, these block all the lights and keep it cool in the summer they also are very beautiful, I have gotten so many compliments from visitors, I would highly recommend them, also ordered the cushion for the couch can't wait to use them, they are also high quality.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Julie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEOFYUZGRDG35S7LWSTDNDHYACBA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R37DF77KGOYLH4?ASIN=B094GTJP4X",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 3, 2023",
+                "reviewTitle": "4.0 out of 5 stars Good quality",
+                "reviewText": "Very pretty curtains. I wish they made the circles at top the same color as the details in the curtain pattern. I\u2019m impressed by the quality too! Over all happy with purchase.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "TevsTevs",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH5SHMXOY6GS57KQCHSY7UZJR4MQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R9OLRKG7BA1VM?ASIN=B094GTJP4X",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars Perfect blackout curtains",
+                "reviewText": "Bought these for my bedroom because the sun sits mainly on that side of my apartment. Love that these aren\u2019t super heavy too and are nice and long for my big windows. Great buy!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/719757FNT6L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Akeya Wade",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGLRASWLSFMGHOLGKVI4ZG7GE2ZQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1Y6RS4SEOHPFX?ASIN=B094GTJP4X",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love them",
+                "reviewText": "One of my favorite items in my new apartment. I feel in love at first sight. The quality is out of this world heavy well made. The color pops and the blackout is great. No one will be disappointed if they buy this curtains. On of my Best Buy\u2019s.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Deborah KnowlesDeborah Knowles",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFXIBLU3VHVHZHLBAYW6YCRB3OLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R29WL00G3PZKW9?ASIN=B094GTJP4X",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Purchase!",
+                "reviewText": "Just thrilled with these curtains. They look beautiful. I am pleasantly happy with the amount of light that is not getting through. For the money, these were a great value.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71AuH9WToGL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Victor H.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 13, 2024",
+                "reviewTitle": "Muy bonitas",
+                "reviewText": "De muy buen precio y calidad de ven muy bien en mis ventas y no dejan pasa la luz",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "LorraineLorraine",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on May 10, 2023",
+                "reviewTitle": "They are lovely quality",
+                "reviewText": "The colour was perfect for what I wanted the length was also perfect I didn\u2019t have to take them up. Pattern very nice material also perfect. The only criticism was the tie backs didn\u2019t do them justice so I purchased new ones myself",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81cZ50YZM2L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/715o42dInYL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mazen4you",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on June 17, 2022",
+                "reviewTitle": "Gute ware",
+                "reviewText": "The media could not be loaded.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": "https://m.media-amazon.com/images/I/E1uiY44 llL.mp4"
+                }
+            },
+            {
+                "reviewerName": "Sylvia Browning",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Australia on August 20, 2023",
+                "reviewTitle": "Estelar Curtains arrived in perfect condition",
+                "reviewText": "The curtains are exactly what I wanted also they arrived quickly and safely.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "FREDESMINDA CARVAJAL MARTINEZ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 21, 2023",
+                "reviewTitle": "Cortinas",
+                "reviewText": "Las cortinas son de muy buena calidad, se ven muy bonitas ya en mi ventana",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

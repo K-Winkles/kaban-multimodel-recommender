@@ -1,0 +1,579 @@
+{
+    "remaining_requests": 7423,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/YETI-Rambler-Vacuum-Insulated-Stainless/dp/B0CF7191KB",
+    "body": {
+        "name": "YETI Rambler 25 oz Straw Mug, Vacuum Insulated, Stainless Steel, Power Pink",
+        "price": "$38.00",
+        "originalPrice": "",
+        "rawPrice": 38.0,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/YETI-Rambler-Vacuum-Insulated-Stainless/dp/B0CF7191KB",
+        "soldBy": {
+            "sellerID": "A3VZHMRV3J141P",
+            "name": "YETI Authorized",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3VZHMRV3J141P&asin=B0CF7191KB&ref_=dp_merchant_link&isAmazonFulfilled=1"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BZZWRKC2"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0BTTWDHN5",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XEjF7eNBL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Black Stone-Textured",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41tFA7ILztL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CCJV4MJT",
+                "variationName": "Color",
+                "variationValue": "Camp Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41bTnGQVeeL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BTTWSHW4",
+                "variationName": "Color",
+                "variationValue": "Canopy Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41yoUc8tGuL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BTTWMHSX",
+                "variationName": "Color",
+                "variationValue": "Charcoal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41s1iK-3-+L._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Chartreuse",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41tE6r3jWvL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CCJV3D31",
+                "variationName": "Color",
+                "variationValue": "Cosmic Lilac",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/317e0ZH1eIL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Grey Stone-Textured",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41YIvRXBkNL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BTTW9C7R",
+                "variationName": "Color",
+                "variationValue": "High Desert Clay",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PzwSlTBaL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BPQ2FRNX",
+                "variationName": "Color",
+                "variationValue": "King Crab",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/416Rcjxa1zL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BTTVMTMM",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Rp9C5mKRL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Peak Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Ina0WTzmL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CF7191KB",
+                "variationName": "Color",
+                "variationValue": "Power Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31JyiEhzhJL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Reef Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4117J6lTpfL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BTTWGZ2H",
+                "variationName": "Color",
+                "variationValue": "Rescue Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sCXxADS9L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BTTVZ9GY",
+                "variationName": "Color",
+                "variationValue": "Seafoam",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31wu7i0ZJ4L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BTTWBMMB",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31-Hn0y86qL._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "100",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41sjkDDkCxL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51LcHttGKjL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/510h69UdJWL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31VMUsrgVzL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51bspQMhWgL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51JtepXdhQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31Jjr6JNJzL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the YETI Store",
+            "link": "https://www.amazon.com/stores/YETI/page/0BF716C7-CB12-40DB-8134-D4D29DC0E768?ref_=ast_bln"
+        },
+        "brand": "YETI",
+        "merchantInfo": "YETI Authorized",
+        "customerReview": "4.8 out of 5 stars",
+        "customerReviewCount": 4531,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Wednesday, February 21",
+            "Or fastest delivery Sunday, February 18. Order within 4 hrs 12 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Grip it and sip it with this supremely insulated mug. With an elevated handle and cup holder-compatible design, it\u2019s built for off-road trips, golf cart cruises, and iced caffeine kicks",
+            "18/8 STAINLESS STEEL - Resists dents and drops and the Double-Wall Vacuum Insulation keeps drinks cold to the last drop",
+            "NO SWEAT DESIGN - prevents condensation, keeping hands dry",
+            "DISHWASHER SAFE - Because no one needs more work to do",
+            "STRAW LIDS - are built to last and have a molded-in stopper that holds your straw safely in place. And just like all YETI Rambler Lids, it\u2019s shatter-resistant, dishwasher-safe, and BPA free. Do not use the Rambler Tumbler Straw Lid with hot beverages"
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Home & Kitchen",
+                "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_aui_C_1?ie=UTF8&node=1055398"
+            },
+            {
+                "name": "Kitchen & Dining",
+                "link": "https://www.amazon.com/kitchen-dining/b/ref=dp_bc_aui_C_2?ie=UTF8&node=284507"
+            },
+            {
+                "name": "Dining & Entertaining",
+                "link": "https://www.amazon.com/dining-entertaining/b/ref=dp_bc_aui_C_3?ie=UTF8&node=13162311"
+            },
+            {
+                "name": "Glassware & Drinkware",
+                "link": "https://www.amazon.com/glassware/b/ref=dp_bc_aui_C_4?ie=UTF8&node=13217501"
+            },
+            {
+                "name": "Tumblers & Water Glasses",
+                "link": "https://www.amazon.com/Tumblers/b/ref=dp_bc_aui_C_5?ie=UTF8&node=13218451"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Brand",
+                "value": "YETI"
+            },
+            {
+                "name": "Color",
+                "value": "Power Pink"
+            },
+            {
+                "name": "Special Feature",
+                "value": "Insulated"
+            },
+            {
+                "name": "Style",
+                "value": "25oz"
+            },
+            {
+                "name": "Included Components",
+                "value": "Straw Lid"
+            },
+            {
+                "name": "Shape",
+                "value": "Round"
+            },
+            {
+                "name": "Pattern",
+                "value": "Solid"
+            },
+            {
+                "name": "Product Care Instructions",
+                "value": "Dishwasher Safe"
+            },
+            {
+                "name": "Age Range (Description)",
+                "value": "Adult"
+            },
+            {
+                "name": "Material Feature",
+                "value": "Insulated"
+            },
+            {
+                "name": "Reusability",
+                "value": "Reusable"
+            },
+            {
+                "name": "Unit Count",
+                "value": "1.0 Count"
+            },
+            {
+                "name": "Item Weight",
+                "value": "1.12 pounds"
+            },
+            {
+                "name": "Product Dimensions",
+                "value": "4.4\"W x 9\"H"
+            },
+            {
+                "name": "Number of Items",
+                "value": "1"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "YETI"
+            },
+            {
+                "name": "ASIN",
+                "value": "B0CF7191KB"
+            },
+            {
+                "name": "Item model number",
+                "value": "21071502073"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.8 4.8 out of 5 stars 4,531 ratings 4.8 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#45 in Kitchen & Dining (See Top 100 in Kitchen & Dining) #7 in Tumblers & Water Glasses"
+            },
+            {
+                "name": "Date First Available",
+                "value": "September 14, 2023"
+            },
+            {
+                "name": "Material Stainless Steel",
+                "value": "Capacity 1.6 Pounds"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Previous page YETI TUMBLERS Keep your coffee hot for hours, smoothies nice and chilled, or iced tea...iced. YETI STRAW TUMBLERS & MUGS Ditch the single-use iced coffee or smoothie cup with YETI's cold-holding straw drinkware. YETI WATER BOTTLES & JUGS YETI Bottles and Jugs are a necessary addition to morning hikes, kayak trips, and daily commutes. YETI COFFEE & MUGS Built for the wilds of camp, YETI's capped mugs keep your morning joe or oatmeal piping hot. YETI BARWARE When it comes to having a good time, cold drinks are non-negotiable. Next page 1 TUMBLERS 2 STRAW DRINKWARE 3 WATER BOTTLES & JUGS 4 COFFEE & MUGS 5 BARWARE",
+                "media_link": []
+            },
+            {
+                "media_text": "Bestselling Tumblers & Mugs 10 oz Tumbler See Details 10 oz Stackable Lowball See Details 14 oz Stackable Mug See Details 20 oz Tumbler See Details 20 oz Travel Mug See Details 25 oz Straw Mug See Details 30 oz Tumbler See Details Customer Reviews 4.6 out of 5 stars 7,804 4.7 out of 5 stars 1,875 4.7 out of 5 stars 523 4.8 out of 5 stars 115,847 4.6 out of 5 stars 45 4.8 out of 5 stars 4,531 4.8 out of 5 stars 66,162 18/8 Stainless \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 Vacuum Insulation \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 Dishwasher Safe \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 Lid Style MAGSLIDER LID MAGSLIDER LID MAGSLIDER LID MAGSLIDER LID STRONGHOLD LID STRAW LID MAGSLIDER LID Cupholder Compatible \u2714 \u2718 \u2718 \u2714 \u2714 \u2714 \u2714",
+                "media_link": []
+            },
+            {
+                "media_text": "Bestselling Colsters, Bottles & Jugs Yonder Water Bottle See Details 12 oz Standard Colster See Details 12 oz Kids Water Bottle See Details 18 oz Hotshot Bottle See Details 26 oz Chug Cap Bottle See Details 64 oz Chug Cap Bottle See Details 1 Gallon Jug See Details Customer Reviews 4.7 out of 5 stars 1,910 4.8 out of 5 stars 26,628 4.8 out of 5 stars 26,004 4.7 out of 5 stars 4,927 4.8 out of 5 stars 24,608 4.8 out of 5 stars 3,380 4.6 out of 5 stars 527 18/8 Stainless \u2718 \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 Vacuum Insulation \u2718 \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 Dishwasher Safe \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 Cap/Lid Style YONDER CHUG CAP GASKET LID STRAW CAP HOTSHOT CAP CHUG CAP CHUG CAP MAGDOCK FAT LID No Sweat Design \u2718 \u2714 \u2714 \u2714 \u2714 \u2714 \u2714",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b2a58590-6e43-4661-a1d1-a1408e514ffa.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a4c6a816-f8d5-4811-bde6-ba46bf12260b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5e672edb-53d6-433b-b94a-e3be94a46a39.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1852e539-c25f-4de2-a5eb-c3167a9c9314.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e848e5f4-25b4-46f9-bb40-5e61ee4d47b9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2758c2ab-dd13-42db-ab84-2060b86a92ec.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1ebb1bac-6fd0-4f8f-9cd6-85371a92fe51.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/918e7dd2-5a6b-4daa-9a8a-da56b7e196b4.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9b514e83-c498-4e10-8ee5-594afe14900a.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d061d5b3-d436-4445-9891-4c5f2ae3c7e8.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ff0cabab-20db-491b-bfad-62eba9c0ed23.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/abff2634-a952-452a-aec3-ac14ea57c519.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0dd78eeb-c505-4bff-b207-7db94c86a076.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f84c173c-71eb-41ca-9bfb-4a923a6f6b39.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6458eb81-7016-406b-8594-54e4f41d13d1.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/758b0da6-07a9-4715-9b43-c21e7d1a8250.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9b88f2e6-6978-47e7-b675-8bba043d2ba8.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6f82449c-2076-4051-a535-aadd4cf6d778.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7acd4b1e-c107-4629-9731-ba5a82b5c589.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/295903f5-8acd-45d6-9cf0-74c65a8fc22a.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e1e57a6e-ee91-49a6-a27a-349e499da426.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Ayax Serrato",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHQQJDUQJ4TUBKVGYBMH3G2Q6BYA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RDRTPXM23P1QN?ASIN=B0CF7191KB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 25, 2023",
+                "reviewTitle": "5.0 out of 5 stars Keeps everything cold",
+                "reviewText": "Title: A Game-Changer for Beverage Enthusiasts!I recently purchased the YETI Rambler 35 oz Straw Mug in Navy, and I couldn't be happier with my decision. This mug has quickly become my go-to for staying hydrated on the go. The vacuum insulation keeps my drinks at the perfect temperature for hours, whether it's a piping hot coffee or an ice-cold beverage.The stainless steel construction not only ensures durability but also gives it a sleek and stylish look. The navy color adds a touch of sophistication, making it a versatile accessory for any occasion. The size is just right \u2013 large enough to hold a substantial amount of liquid but still fits comfortably in my hand and cup holders.The addition of the straw is a game-changer. It makes sipping easy and mess-free, and the fact that it's reusable is a bonus for the environment. The lid seals tightly, preventing any spills, and the straw is a breeze to clean.YETI's attention to detail and commitment to quality are evident in every aspect of this mug. While the price may be a bit higher than some alternatives, the performance and durability justify the investment. If you're looking for a reliable, stylish, and functional travel mug, the YETI Rambler 35 oz Straw Mug is worth every penny. Five stars without a doubt!",
+                "reviewVotes": "23 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ShopaholicShopaholic",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEFQV2ZDHLLU52AUTNF4ICLOXECQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1AGDI87OYPW4X?ASIN=B0CF7191KB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Top Tier!!! Get it before they are gone!",
+                "reviewText": "The media could not be loaded. Skip a Stanley and a Hydroflask when you can have this baby!This 42oz keg will hold your ice water cold for over 12 hours! This 42oz Yeti will hold 2,16.9 oz water bottles. Fits in all cup holders, sturdy, durable. And has such a vibrant color. No, I\u2019m not Turing it upside down to see if the water leaks\u2026 all of them leak, let\u2019s be real. As far as the suction however, it\u2019s very strong and won\u2019t wiggle loose. The straw is nice and thick. Not flexible and has a ring around the end of one side so in case it does knock over, you\u2019re not losing your straw with it. When filled it is a bit heavy but hey, it\u2019s just a weapon in disguise lol!",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/51pGxltxy5L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/51pGxltxy5L.jpg"
+                    ],
+                    "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f8cf175a-a196-4b47-9b40-ad364140b833/default.vertical.jobtemplate.mp4.480.mp4"
+                }
+            },
+            {
+                "reviewerName": "SamanthaSamantha",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEHXF74JOSSHN3EJDO4WYXALB2TA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R18TG4U8YRU944?ASIN=B0CF7191KB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "5.0 out of 5 stars Pure Awesomeness \ud83d\udc4c",
+                "reviewText": "I love this. I usually have a regular water bottle thinking these are not not worth the price but I was wrong. It holds a lot of water and the ice lasts all day. It is so convenient to refill only twice a day. I love this beautiful lilac colour, it is definitely durable without a doubt. It doesn't come with a straw cover, the leaves through the straw hole and is a little heavy but I love everything else.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/610QmSBAgRL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61oNHZ609IL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71vpUl2TS0L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jaymie-Lyn D.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHSCYMUIVVPQWSATOWWCAUMKXLDQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14N5LGPWINW7N?ASIN=B0CF7191KB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Awesome and sturdy!",
+                "reviewText": "The handle is great to hold. Large size, will be the best companion while on a long job or travel. Keep the hot stuff hot and the cold things cool. Highly recommend. Great to engrave designs onto, as well.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ian",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGJ5MW4KKW5ZGNQYDP5FBYCEQ2IQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3RFY18Z3VTPZB?ASIN=B0CF7191KB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 16, 2024",
+                "reviewTitle": "5.0 out of 5 stars Perfect Yeti cup that actually fits in your car's cup holder",
+                "reviewText": "The Yeti Rambler 35 oz Straw Mug is a game-changer. It keeps beverages refreshingly cold for hours, making it perfect for road trips or hot days. Its ideal size fits seamlessly into car cup holders, eliminating spills and adding convenience to daily commutes. The wide mouth ensures easy cleaning, while the durable stainless steel construction guarantees long-lasting use. In summary, the Yeti Rambler is a top-tier insulated mug that delivers on its promise of keeping drinks cold, fitting in your car, and providing a hassle-free cleaning experience.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jerrilyn Stover",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG2AJ675JOFBWW6PXAOP5OHOJXUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3L5LRBFNW6GHL?ASIN=B0CF7191KB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "5.0 out of 5 stars Perfectly Pink",
+                "reviewText": "This Yeti is a super cute pinky Pink! It keeps my ice water cold for hours! Love that it has a handle & love that it is the newer 40 oz size.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Steve Clines",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEKQ5APWVVTIKDMAGU4HNXSSKMFA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1KMSICTJW3XD?ASIN=B0CF7191KB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 13, 2024",
+                "reviewTitle": "5.0 out of 5 stars Awesome mug",
+                "reviewText": "This mug holds plenty of liquid and it stays cold for a long time. Well worth the price even if it is a little pricey.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MikeJA",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AENJKF2L7ZYBLSK57XFNOMWNWBDA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RZKKW0WPPR3GV?ASIN=B0CF7191KB",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very good product",
+                "reviewText": "This size is just right to hold 16 oz. drinks plus ice without being too big. It fits in my cup holders and the straw makes it easier take a sip while driving. It's a Yeti so it's very well made and it maintains the temperature of your drink.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 7, 2024",
+                "reviewTitle": "It keeps my water cold all day,just love it,.",
+                "reviewText": "Best yetti,it keeps your drinks,cold all day,so sturdy,love the colors they come it.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Erika AnyoerErika Anyoer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 2, 2024",
+                "reviewTitle": "S\u00faper encantada \ud83e\udd29",
+                "reviewText": "Me encant\u00f3oooo el color incre\u00edble es verde lim\u00f3n, est\u00e1 hermoso \ud83e\udd29 y si es original viene con c\u00f3digo QR Para darte de alta en la p\u00e1gina oficial de Yeti, todo hermoso \ud83e\udd29 esta marca me encanta, tengo m\u00e1s peque\u00f1o al de 35 onzas y de verdad mi caf\u00e9 caliente me dura casi 12 horas y lo fr\u00edo ni que decir lo doble\ud83e\udef6\ud83c\udffby la verdad el precio s\u00faper incre\u00edble no en tienda hay una promoci\u00f3n as\u00ed.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71h5K5j5QHL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71IwCXBzCIL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on October 19, 2023",
+                "reviewTitle": "Great item",
+                "reviewText": "Looks the part, quality is second to none. Kept my coffee hot for a couple of hours. Had minimal leakage from the lid. All in all great mug",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tom Martinello",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 2, 2024",
+                "reviewTitle": "Yeti 42 oz Travel Mug",
+                "reviewText": "I really like it. It\u2019s solid steel construction, with a strong, steel handle. It fits great in the cup holders I use it in. It has a very long straw. It keeps ice from melting for the entire day. Without the ice, your beverage remains cold for the entire day.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "C. S. Thomas",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 1, 2024",
+                "reviewTitle": "Beautiful quality.. Love the white",
+                "reviewText": "It's heavy to hold.. But keeps my water so cold",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": [
+            {
+                "price": "$38.00",
+                "sellerName": "YETI Authorized",
+                "sellerRating": "5"
+            }
+        ]
+    }
+}

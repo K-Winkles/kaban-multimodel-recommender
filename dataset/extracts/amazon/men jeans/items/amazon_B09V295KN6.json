@@ -1,0 +1,507 @@
+{
+    "remaining_requests": 15831,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/GAP-Mens-Soft-Jeans-Light/dp/B09V295KN6",
+    "body": {
+        "name": "GAP Men's Soft Wear Stretch Slim Fit Denim Jeans",
+        "price": "$34.38 - $41.49",
+        "originalPrice": "",
+        "rawPrice": 34.38,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/GAP-Mens-Stretch-Denim-Jeans/dp/B0C6HKGN65",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0C6HKGN65"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09V29X71G",
+                "variationName": "Color",
+                "variationValue": "Light Wash Willie",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31nZ2ABrRkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09V32LN8C",
+                "variationName": "Color",
+                "variationValue": "Medium Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qNe6RAJ+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09V32DGRQ",
+                "variationName": "Color",
+                "variationValue": "Midnight Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312ueaDfJGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09V33JHBD",
+                "variationName": "Color",
+                "variationValue": "Dark Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31CTzRv2WKL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09V295WTL",
+                "variationName": "Color",
+                "variationValue": "Light Wash Elena",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/317o1xL6KgL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09V29HVTK",
+                "variationName": "Size",
+                "variationValue": "28W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V29Z4TN",
+                "variationName": "Size",
+                "variationValue": "28W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V29QGRD",
+                "variationName": "Size",
+                "variationValue": "29W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V29PC96",
+                "variationName": "Size",
+                "variationValue": "29W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V29867M",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V2BFCMP",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V29PJJ2",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V29G3G7",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V289127",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V29GQ58",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V295WTL",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V28M8B9",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V28ZV9D",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V29D8PM",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V296TBK",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V29LFHB",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V29LFYR",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V29RY7N",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V28BT17",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V295KN6",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V29WS1G",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09V28T6WM",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/317o1xL6KgL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31eVERmEdtL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41dlxVox4fL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31hHazqeydL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51lR76TyeYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41TS 3t40WL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41KkFhr9TRL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the GAP Store",
+            "link": "https://www.amazon.com/stores/GAP/page/24BB2C96-D999-4A3D-A127-9B0AF9691CBF?ref_=ast_bln"
+        },
+        "brand": "GAP",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 619,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 69% Cotton, 27% Polyester, 3% Rayon, 1% Spandex",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Pull On",
+            "THE PERFECT SLIM FIT: Cut slim throughout, these jeans are made from super soft premium denim with GapFlex stretch technology that\u2019s engineered to upgrade your comfort and elevate your every day",
+            "CLASSIC DETAILS: Each pair features five-pocket styling, a button closure, and a heavy duty zipper fly",
+            "SIZES FOR ALL: Gap jeans are made for every body and are available in a wide range of fits, sizes, washes, and styles",
+            "BETTER DENIM FOR A BETTER PLANET: This pair of denim pants is part of our water conserving Washwell program dedicated to finding more responsible ways to creating the styles we all know and love",
+            "AMERICAN STYLE FOR ALL AGES: Gap champions a uniquely American sense of style with apparel that bridges the gaps between individuals, generations, and cultures"
+        ],
+        "description": "Our best-selling slim jeans are lean, but never tight. Versatile enough to wear day or night, work or weekend. This is real denim. Made to last. Made so you can be you.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 11.97 x 11.69 x 2.68 inches; 1.04 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 413712"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e March 8, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Gap"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09V28ZH4D"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#135,210 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #464 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 619 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "WE MAKE SURE EVERY PAIR FITS JUST RIGHT. AUTHENTIC NON-STRETCH Denim that gets better with every wear. Made to wear all day & break in over time. STRETCH Innovative stretch with high recovery. Made to move & always bounces back.\u200b",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2d1e1cdc-75bd-4853-9d20-889193f81402.__CR0,0,650,350_PT0_SX650_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2f94dae6-b1b8-470f-b059-e8724c3f5529.__CR0,0,650,350_PT0_SX650_V1___.png"
+                ]
+            },
+            {
+                "media_text": "Previous page Next page 1 BETTER DENIM 2 BETTER PLANET 3 WASHWELL 4 WATER QUALITY PROGRAM",
+                "media_link": []
+            },
+            {
+                "media_text": "BUILD A WARDROBE THAT ALWAYS FITS YOUR STYLE. Original Straight Fit Denim Soft Wear Stretch Slim Denim GapFlex Stretch Slim Denim STRAIGHT FIT A favorite for a reason. Versatile enough to wear day or night, work or weekend. SOFT WEAR Our softest, easiest denim. Imagine your sweats \u2013 in denim form. SLIM FIT WITH STRETCH Our best-selling slim fit that\u2019s lean but never tight, made with GapFlex. CLASSIC 5-POCKET STYLING Each pocket is reinforced with interlock stitching. CLASSIC 5-POCKET STYLING Each pocket is reinforced with interlock stitching. CLASSIC 5-POCKET STYLING Each pocket is reinforced with interlock stitching. BUTTON CLOSURE AND ZIP FLY Features a heavy duty zipper and button closure designed to last. BUTTON CLOSURE AND ZIP FLY Features a heavy duty zipper and button closure designed to last. BUTTON CLOSURE AND ZIP FLY Features a heavy duty zipper and button closure designed to last.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/db827a34-ecf9-4cb3-8cda-e98754aa7718.__CR0,0,300,225_PT0_SX300_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fe844eca-6dab-4010-b69e-2220db6c74a4.__CR0,0,300,225_PT0_SX300_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0beb6a40-e29e-49cc-8df2-75b116f2cfd5.__CR0,0,300,225_PT0_SX300_V1___.png"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3ac6baca-d4b3-4999-9c06-5e366113ecb3.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3a7a56e9-9f7b-4c7b-824b-0598d83ee0f6.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2d1e1cdc-75bd-4853-9d20-889193f81402.__CR0,0,650,350_PT0_SX650_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2f94dae6-b1b8-470f-b059-e8724c3f5529.__CR0,0,650,350_PT0_SX650_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b393f184-c463-4e47-8c7d-bdc7b1c651e5.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a9e39f3e-f35d-4230-8319-18e06ade1bf4.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f7d35044-d9a7-41c0-820c-183a3a4d4627.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5086757e-ea1a-4783-bedd-34f63ece51e3.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/db827a34-ecf9-4cb3-8cda-e98754aa7718.__CR0,0,300,225_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fe844eca-6dab-4010-b69e-2220db6c74a4.__CR0,0,300,225_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0beb6a40-e29e-49cc-8df2-75b116f2cfd5.__CR0,0,300,225_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b4969001-7509-48b2-a12e-d01e0b081ed4.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "eli gazit",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFEN2ZNDKWKMYGM2E6U53DVQ3UEA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R151JD7JQYQF8V?ASIN=B0C6HKGN65",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars nice jeans",
+                "reviewText": "very good jeans nice and fit good on the boday",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JasonL",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGNMVK5LQYDXDZG4MQEBP3RFX44A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R21DA5J9VY3ISQ?ASIN=B0C6HKGN65",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 3, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great Jeans - 36x30",
+                "reviewText": "These are great jeans! I initially ordered them because I needed a pair of light was jeans for a Daddy-Daughter Dance Recital, expecting them to become my lawn mowing / house painting jeans afterward. I was pleasantly surprised at how comfortable they are. They are soft and have a really good stretch to them. I wear them regularly now, and they will not be demoted to mowing/painting.They fit well. I ordered a 36x30 and I am 5'10\" and 210 lbs. They are a good length and fit perfectly at the waist (not tight, but won't fall down).",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jodi",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AERECZ3UAOKSFRRQB4T77DRR62YA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1AC35W8KQWGJX?ASIN=B0C6HKGN65",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 29, 2023",
+                "reviewTitle": "5.0 out of 5 stars Soft!",
+                "reviewText": "Bought for my husband. They look great, are really soft and wash up nicely. The fit well too.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Milton Burgess",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFTHSB777I3ISM474OTRFDRH7S5Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R11OH8L8YO5EMU?ASIN=B0C6HKGN65",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 9, 2023",
+                "reviewTitle": "4.0 out of 5 stars Light weight",
+                "reviewText": "Light and fits well , slim fitting",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Preston B.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFMN2CA3D33LVQ2TTVGTDCCUNOIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RWVLFNGRGNXVO?ASIN=B0C6HKGN65",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 2, 2023",
+                "reviewTitle": "5.0 out of 5 stars Makes an excellent tourniquet",
+                "reviewText": "Broke my kneecap wearing these pants. The impact caused a pretty severe laceration. The stretchy material in these jeans allowed me to quickly cut off circulation by using the leg of the pants as a tourniquet. I'm well aware this is an obnoxious review, but\u2026 How else would you know?",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tweak48",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEC5ZH77YXLA57KJ4RKXQI4XSEMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1WWSWV7BQUHE9?ASIN=B0C6HKGN65",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 29, 2023",
+                "reviewTitle": "5.0 out of 5 stars Fits exactly as described.",
+                "reviewText": "Higher rise fits perfectly.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Joanne Przybylowski",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGLEQGXY5MLPCNUWVM3UID2VXHPQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3CFR5P4F966NO?ASIN=B0C6HKGN65",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 8, 2023",
+                "reviewTitle": "3.0 out of 5 stars Easy to use.",
+                "reviewText": "They are tighter than expected, they fit like leggings.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "loneliness \ud83d\ude14",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHMAJ4GONXYKSBAUS3CLA6WMZEIA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2KMTM33U3K3QE?ASIN=B0C6HKGN65",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 12, 2023",
+                "reviewTitle": "5.0 out of 5 stars pretty nice for the money",
+                "reviewText": "I like them they look pretty good",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Victor",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 2, 2024",
+                "reviewTitle": "Baja calidad",
+                "reviewText": "La tela es m\u00e1s delgada de lo normal",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on November 24, 2023",
+                "reviewTitle": "good looking low quality",
+                "reviewText": "They look ok but are really thin and look a lot like a good copy? there is no label at the back and the one inside it's stiched quite lightly. I really think that they're fakeGood looking, low quality",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Buddy [AUA]",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on September 18, 2023",
+                "reviewTitle": "Gute Hose aber...",
+                "reviewText": "Ich habe die GAP Herren V-Slim Soft Weka Pass Jeans vor kurzem erworben und m\u00f6chte meine Erfahrungen mit diesem Produkt teilen. Hier ist meine Bewertung:Passform und Komfort (4/5): Die V-Slim Soft Weka Pass Jeans bietet eine moderne, schlanke Passform, die meiner Meinung nach gut aussieht und bequem ist. Die Hose sitzt eng an den Oberschenkeln und wird gegen die Kn\u00f6chel hin etwas schmaler. Sie bietet ausreichend Bewegungsfreiheit, ohne zu eng oder zu locker zu sein. Der Stoff f\u00fchlt sich weich und angenehm auf der Haut an, was den Tragekomfort erh\u00f6ht.Materialqualit\u00e4t (3.5/5): Das Material der Jeans ist zwar angenehm weich, aber es k\u00f6nnte etwas robuster sein. Ich habe Bedenken, dass es m\u00f6glicherweise schneller Verschlei\u00dferscheinungen zeigt, insbesondere an stark beanspruchten Stellen wie den Knien. Die Qualit\u00e4t der N\u00e4hte ist jedoch solide, und die Jeans sieht insgesamt gut verarbeitet aus.Stil und Design (4/5): Das Design der V-Slim Soft Weka Pass Jeans ist schlicht und vielseitig. Sie ist in verschiedenen Waschungen erh\u00e4ltlich, sodass man je nach Anlass und Stilpr\u00e4ferenz w\u00e4hlen kann. Das schlanke, zeitgem\u00e4\u00dfe Design macht sie zu einer guten Wahl f\u00fcr verschiedene Outfits, sowohl f\u00fcr den Alltag als auch f\u00fcr etwas formellere Anl\u00e4sse.Preis-Leistungs-Verh\u00e4ltnis (3.5/5): Der Preis dieser Jeans liegt im mittleren Segment, was f\u00fcr GAP typisch ist. Obwohl die Qualit\u00e4t und das Design solide sind, gibt es vergleichbare Jeans auf dem Markt, die m\u00f6glicherweise etwas preiswerter sind. Wenn Ihnen die Marke GAP wichtig ist und Sie die Passform und das Design m\u00f6gen, ist diese Jeans jedoch eine solide Investition.Fazit (4/5): Die GAP Herren V-Slim Soft Weka Pass Jeans bietet eine moderne Passform, angenehmen Tragekomfort und ein vielseitiges Design. Obwohl die Materialqualit\u00e4t vielleicht etwas verbessert werden k\u00f6nnte, erf\u00fcllt sie insgesamt ihre Aufgabe als stilvolle Alltagsjeans. Wenn der Preis f\u00fcr Sie akzeptabel ist und Sie die Marke GAP m\u00f6gen, sollten Sie diese Jeans in Betracht ziehen.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

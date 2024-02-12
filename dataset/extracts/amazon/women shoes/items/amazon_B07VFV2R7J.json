@@ -1,0 +1,633 @@
+{
+    "remaining_requests": 17002,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Merrell-Siren-Edge-Black-Blustone/dp/B07VFV2R7J",
+    "body": {
+        "name": "Merrell Women's Siren Edge 3 Hiking Shoe",
+        "price": "$48.54 - $103.31",
+        "originalPrice": "",
+        "rawPrice": 48.54,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Merrell-Womens-Siren-Edge-Hiking/dp/B08D17FLHV",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B08D17FLHV"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07VGVQ2V1",
+                "variationName": "Color",
+                "variationValue": "Black/Acai",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413PpyC5bmL._SS47_.jpg"
+            },
+            {
+                "asin": "B087381GZ1",
+                "variationName": "Color",
+                "variationValue": "Rock/Bluestone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LBY1mHtUL._SS47_.jpg"
+            },
+            {
+                "asin": "B07VDTMD3C",
+                "variationName": "Color",
+                "variationValue": "Aluminum/Boulder",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51W3KEgtlBL._SS47_.jpg"
+            },
+            {
+                "asin": "B07VBNV52D",
+                "variationName": "Color",
+                "variationValue": "Navy/Wave",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jCu5GcIQL._SS47_.jpg"
+            },
+            {
+                "asin": "B082Y3NZ86",
+                "variationName": "Color",
+                "variationValue": "Polar/Wave",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41+yqKuVAGL._SS47_.jpg"
+            },
+            {
+                "asin": "B07VCTMK89",
+                "variationName": "Color",
+                "variationValue": "Black/Bluestone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Ee+AUcxPL._SS47_.jpg"
+            },
+            {
+                "asin": "B091J7WZS1",
+                "variationName": "Color",
+                "variationValue": "Granite",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41a7L76rPiL._SS47_.jpg"
+            },
+            {
+                "asin": "B091HTCXYG",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4112xFgC8dL._SS47_.jpg"
+            },
+            {
+                "asin": "B091J8PL3Y",
+                "variationName": "Color",
+                "variationValue": "Charcoal/Paloma",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jmgk0sLaL._SS47_.jpg"
+            },
+            {
+                "asin": "B09FNLTJ5X",
+                "variationName": "Color",
+                "variationValue": "Fanfare",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HCF9EGrAL._SS47_.jpg"
+            },
+            {
+                "asin": "B091J7R73Y",
+                "variationName": "Color",
+                "variationValue": "Turbulence",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41WNLxy1g7L._SS47_.jpg"
+            },
+            {
+                "asin": "B07VGWMYQL",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VGXHFQ1",
+                "variationName": "Size",
+                "variationValue": "5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VBNTXVV",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VGXC6NQ",
+                "variationName": "Size",
+                "variationValue": "5.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VFXC58G",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VFTSKYW",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VGYPMTK",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VCTM5BM",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VBNTYQ2",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VFXDL5S",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VGXQG94",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VGYBMQW",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VFWC5YD",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VH19YCG",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VFV2R7J",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VDTN2FK",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VBNTN13",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VBNTC1C",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VCTMK89",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VGVQ2V1",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VGY82WN",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VCTLZPD",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VGXX6WG",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VFX6XHC",
+                "variationName": "Size",
+                "variationValue": "10.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VFW388D",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07VFXCR56",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B084JPSP9J",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B084JFB967",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31Ee AUcxPL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/3130jMM2zDL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31sI7NHc0CL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31xG-Kd1ieL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/318wiCwkfgL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41ShYZTHLcL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41-eX5aIurL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "https://m.media-amazon.com/images/I/81xdUwkl8uL.pdf",
+            "userManualLink": "https://m.media-amazon.com/images/I/81xdUwkl8uL.pdf"
+        },
+        "byLineInfo": {
+            "name": "Visit the Merrell Store",
+            "link": "https://www.amazon.com/stores/Merrell/page/8EB91A58-EE97-4FE3-8892-99D4449E8B33?ref_=ast_bln"
+        },
+        "brand": "Merrell",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 3194,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type Mesh",
+            "Origin Made in USA or Imported",
+            "Sole material Rubber",
+            "Outer material Rubber",
+            "Mesh and TPU upper",
+            "Traditional lace closure",
+            "Bellows tongue keeps out debris",
+            "Breathable mesh lining",
+            "Kinetic Fit BASE removable contoured insole for flexible support"
+        ],
+        "description": "This capable hiker is designed around the unique shape of a woman's foot and features an extremely sticky Vibram Megagrip sole for traction even when it's wet. FEATURES Mesh and 3D-printed TPU upper Traditional lace closure Kinetic Fit TRI removable contoured insole provide light support to all three arches of the foot Molded nylon arch shank Vibram TC5+ Vegan-friendly 3.5mm lug depth Weight: 1lb 2oz / 516g",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Outdoor",
+                "link": "https://www.amazon.com/Womens-Outdoor-Shoes/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127767011"
+            },
+            {
+                "name": "Hiking & Trekking",
+                "link": "https://www.amazon.com/Womens-Hiking-Trekking-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=3412237011"
+            },
+            {
+                "name": "Hiking Shoes",
+                "link": "https://www.amazon.com/Womens-Hiking-Shoes/b/ref=dp_bc_aui_C_6?ie=UTF8&node=679357011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 10 x 15 x 6 inches; 1.41 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e J034438"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e August 18, 2019"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Merrell"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07VGWMYQL"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#5,278 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #1 in Women's Hiking Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 3,194 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Sharing the Simple Power of Being Outside With Everyone At Merrell, we believe in sharing the simple power of being outside. No matter who you are, where you came from, who you love or how you move \u2014 Everyone should be welcome in the outdoors and wherever life takes us. We strive to inspire everyone because, together, we can help protect the trail we love.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/95a60098-01c3-409b-ae0c-dacf1aa3f28d.__CR0,0,1940,1200_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Product Categories Hike From day trips to week-long backpacking treks, we have the best hiking shoes and boots to support your next outdoor excursion. Trail Running Hit the trails and explore beyond the beaten path with training and trail running shoes that fit your needs and your environment. Casual Style meets outdoor performance with versatile casual shoes and sandals with trail-built comfort you can trust. Work Protect your feet from the daily grind with work boots designed to meet the toughest demands while being comfortable enough to wear every day.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/9c1cec9a-5b2a-430d-961a-3f60bed6d581.__CR5,176,1033,1033_PT0_SX220_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/d5988ebd-fc74-4a60-8ae4-a34ab9ef614f.__CR0,79,1498,1498_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/a66455e6-48f2-4605-a9c2-463530844f6e.__CR1876,909,4546,4546_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/5097ba0f-f823-4970-9452-a3dc7f444093.__CR734,0,1667,1667_PT0_SX220_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "The Trail Is For Everyone As a team, Merrell is committed to take action to drive systematic change within our own walls and across the outdoor industry in order to make the outside a more welcoming and safe space for everyone. We are dedicated to the work it will take to create lasting change for a more equitable and inclusive tomorrow.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03545062-b062-48a4-b1bc-2568efca0c4a.__CR1838,577,3200,3200_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Preserving & Protecting The Trail We believe through the materials we select, to the processes we use, to the organizations we partner with, our business can be a force for good. \"At Merrell, we believe in the profound power of the trail and we strive to be a dedicated steward of our environment. We exist to inspire everyone to explore the outdoors, and we need a healthy home in order to do that.\" -Chris Hufnagel, Merrell President",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cffd4ecf-84a1-4d85-bfc2-6769eac161bb.__CR477,325,675,675_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/95a60098-01c3-409b-ae0c-dacf1aa3f28d.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/9c1cec9a-5b2a-430d-961a-3f60bed6d581.__CR5,176,1033,1033_PT0_SX220_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/d5988ebd-fc74-4a60-8ae4-a34ab9ef614f.__CR0,79,1498,1498_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/a66455e6-48f2-4605-a9c2-463530844f6e.__CR1876,909,4546,4546_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/5097ba0f-f823-4970-9452-a3dc7f444093.__CR734,0,1667,1667_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03545062-b062-48a4-b1bc-2568efca0c4a.__CR1838,577,3200,3200_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cffd4ecf-84a1-4d85-bfc2-6769eac161bb.__CR477,325,675,675_PT0_SX300_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "elaine",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFU5BORSTENRKUSXBMBRIYZPZMLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2R974H2ZWYGB4?ASIN=B08D17FLHV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 22, 2023",
+                "reviewTitle": "5.0 out of 5 stars Replace an old favorite",
+                "reviewText": "I'm so happy to find these hiking shoes. I wear and 8 1/2 Narrow shoe and it is so difficult to find a hiking shoe that works for me, if the shoe is too wide my foot slides around and I get shin splints and back pain. Even though these are labelled as medium width, they fit me perfectly. I purchased what is basically the same shoe 10 or 12 years ago, I wore them and wore them both for daily walks and hiking. Recently they just weren't usable anymore. I tried six other shoes and they were all too wide and didn't hold my feet securely enough for lots of walking. So excited to find I could buy basically the same shoe. They are sturdy and give my feet great support, I can lace them firmly enough that they give me the Narrow fit. Soles have ridges which grip the ground. I chose the Polar Wave color, pretty jazzy, I wonder what my adult children will think when they see their 71 year old mom wearing such a stylish shoe.",
+                "reviewVotes": "16 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEVGQGT2QNQDSHNOL7GMJ4DSZMOQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3L76WU1OQJISI?ASIN=B08D17FLHV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 25, 2021",
+                "reviewTitle": "5.0 out of 5 stars Well made, comfortable and durable.",
+                "reviewText": "Well made, very good quality.. Comfortable and light. Merrell makes the best walking shoes and they last a long time. I have several Merrell shoes in different style.",
+                "reviewVotes": "8 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Days",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGMIHMQ5ML63NAG764BFSOXCFXXA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RPYFP3TG7DPVB?ASIN=B08D17FLHV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars Tried & Tested",
+                "reviewText": "This is my 2nd pair. Just like my 1st pair in blue color, you can take this shoes for a long walk as soon as you get it. Right out of the box. No need for break ins. I got my 1st pair a few days before I left for my 10-days mediterranean cruise. Wore it straight from the box for my flight out to Rome and had a good time walking around Europe\u2019s cobble stoned streets without pain.This can be worn in the rain without worry. I used to wear size 7 but I usually get a size 7.5 now for my own comfort. This has a good snug fit in the heel so it works well with my plantar fasciitis. My heel is very comfortable in it. It\u2019s light weight too. You may use your own insoles if preferred. The original insoles are good by itself.",
+                "reviewVotes": "13 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Midwest mom of 3",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEXCERUWWNGN5UTIKEPZJU4O7SJQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R272MA12EIJ82D?ASIN=B08D17FLHV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "5.0 out of 5 stars True to size, comfy hiker",
+                "reviewText": "I personally love the bright color of the hiking shoe I purchased. It is true to size with wool sock for me. Great soles, and very comfortable",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "HeatherHeather",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEDPEUALQ5R4GJWMECJHU2Z7NG6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3C7L6Z42U33A3?ASIN=B08D17FLHV",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 12, 2022",
+                "reviewTitle": "4.0 out of 5 stars Perfect lightweight flexible great traction.",
+                "reviewText": "The media could not be loaded. Expectations met After hiking in my Merrell Mids hiking boots past 2 years close to 300 miles on them I decided to stick with what I knew worked and fit me. And I\u2019m glad I did these couldn\u2019t be closer to what I expected from Merrell. Perfect for warmer weather on the trails Super flexible good traction light breathable material but yet enough protection and sturdy to be a good hikers not to mention stylish they have a wide toebox area and the heel part really hugs your heel (also helps keep out debris)if it wasn\u2019t for that it Kind of feels like I\u2019m wearing sandals hiking compared to my boots. they\u2019re so light. First hike in them was 7mi with creek crossing no problem just kept on hiking they hardly got wet on inside set them out with the early morning sun dry and like new within a hour they have a waterproof version but I figure since these are so light and are made out of mesh (mostly)some foam (heel area)they would dry super fast and they do no point in paying the $30 extra for waterproof.Only thing is where the tongue is sewed on underneath when you wear no socks the seams scratches you when putting on but don\u2019t after tounge is adjusted. And whatever that material is that overlays the mesh? It doesn\u2019t scruff or scratch easily and repels water. the mesh also repels water and debris. I would say unless you\u2019re going to submerge them they\u2019re pretty water resistant nothing is waterproof. They\u2019re made small so I\u2019d say stick to the same size if you own Merrells and you don\u2019t plan on wearing thick socks. if you don\u2019t have Merrells go up a half size than what you usually are. For 90 bucks I\u2019m very happy with them I\u2019m going to put them through a lot the next couple years and I am sure they they\u2019re going to hold up just as much. I\u2019ll add pics soon!Update! Here\u2019s pics and a motion sickness video\ud83d\ude09 of first hike In review.Have done about 55 more miles still nothing wrong I would have more pics of them a little more beaten up and used but they\u2019re in the car that\u2019s where they live!Update October 2023OK so after breaking them in good, with about 100 miles on them now. And I had hoped to get a couple hundred more out of them, which is not going to happen, hoped to use them to start trail running in this fall that is not going to happen either. They just are not holding up .I can only get 4-5 miles in them before they start hurting my feet! Had I have gotten a bigger size maybe I could\u2019ve had room for a gel insole. That would defeat the purpose of what I was looking for. Where as my Merrill mids boots I can still do 16 miles in them still easy! Maybe Merrill should just stick to boots.",
+                "reviewVotes": "35 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81A71k5mUDL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81Wct6ejrEL.jpg"
+                    ],
+                    "video": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2cd42750-4103-456e-be0d-249456a5a3e2/default.vertical.jobtemplate.mp4.480.mp4"
+                }
+            },
+            {
+                "reviewerName": "Sue",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEKPX7SBPYW5U3ETIDXZPUMBIIRA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R11P0P9GU9LXSJ?ASIN=B08D17FLHV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Looking Shoe",
+                "reviewText": "This is my second pair of Merrell Siren Edge Hiking shoe. My first pair lasted several years, hiking in places like Machu Picchu, Thailand, Cambodia and many trails in the USA. They just started to show some wear this year so I bought my second pair. They have been very comfortable right out of the box. Good arch support and a nice roomy toe box without looking overly large. I got the Charcoal/Paloma in size 8.5. The color is beautiful and it is true to size.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mary M",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGZJ3CTZGR5VKBGPXNTUVJH6U4XA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2TCUXULNX2U6V?ASIN=B08D17FLHV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very comfortable",
+                "reviewText": "I bought them right before a trip to Europe where I needed a show that would be at home on the street or the trails. I hiked in them, I went sight seeing, I walked 25,000 steps a day for two weeks, and I still loved them. Unless the puddle is too deep, my feet don't get wet. The insole has decent arch support. They're good for wider feet.No negatives!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MAE",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGWDBRUOIZCKBTP3DTPVG6P4NYTA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RZD44TH435DBJ?ASIN=B08D17FLHV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 30, 2024",
+                "reviewTitle": "5.0 out of 5 stars Merrell can always be guaranteed to fit your regular size",
+                "reviewText": "Great shoe. Merrell never disappoints. Great quality make! Shoe laces are well made and constructed to prevent unlacing (laces are always a key issue for me for longevity and unlacing while walking). Soles are well made, rugged for hiking, and appear to be made to last. The shoe insole is comfortable and is ready for long term walking. Took it out for a 5K hike today and no problems with heels.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 15, 2023",
+                "reviewTitle": "Tellement beau et confortable!",
+                "reviewText": "Je les ai achet\u00e9s avant de partir en vacances et pas eu besoin de les casser avant! Tr\u00e8s satisfaite de mon achat!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 25, 2023",
+                "reviewTitle": "Quality",
+                "reviewText": "Fantastic shoes, use them for walking every day on walking track. Very comfortable!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "cindy t",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 12, 2023",
+                "reviewTitle": "They fit and are comfortable.",
+                "reviewText": "Good shoes and good support.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Susana Cuellar",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 18, 2023",
+                "reviewTitle": "Bonitos y C\u00f3modos",
+                "reviewText": "Cuando se trata de Merrell, no hay duda de que ser\u00e1 un buen producto.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alma Gabriela Estrada Novales",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on August 16, 2023",
+                "reviewTitle": "C\u00f3modos",
+                "reviewText": "Me gust\u00f3 mucho el modelo, es muy est\u00e9tico, son c\u00f3modos y ligeros.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

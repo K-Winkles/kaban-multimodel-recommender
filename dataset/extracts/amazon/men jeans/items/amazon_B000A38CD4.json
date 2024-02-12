@@ -1,0 +1,632 @@
+{
+    "remaining_requests": 15943,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Wrangler-Rugged-Woodland-Thermal-Stonewashed/dp/B000A38CD4",
+    "body": {
+        "name": "Wrangler Rugged Wear Men's Woodland Thermal Jean",
+        "price": "$39.99 - $68.97",
+        "originalPrice": "",
+        "rawPrice": 39.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Wrangler-Rugged-Wear-Woodland-Thermal/dp/B000A822PS",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B000A822PS"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B000A38CKC",
+                "variationName": "Color",
+                "variationValue": "Stonewashed Denim",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41zR69l5uvL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B000A38C1G",
+                "variationName": "Color",
+                "variationValue": "Night Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41S4fJDRucL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B000A38CB6",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CBQ",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CCA",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CD4",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CDO",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CE8",
+                "variationName": "Size",
+                "variationValue": "32W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CEI",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CFC",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CFW",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CGG",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CH0",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CHK",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CHU",
+                "variationName": "Size",
+                "variationValue": "34W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CIO",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CJ8",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CJS",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CKC",
+                "variationName": "Size",
+                "variationValue": "36W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CKW",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CLG",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CLQ",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38C3Y",
+                "variationName": "Size",
+                "variationValue": "38W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CN4",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CNO",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CO8",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38COS",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CPC",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CPM",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CQ6",
+                "variationName": "Size",
+                "variationValue": "44W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CR0",
+                "variationName": "Size",
+                "variationValue": "44W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CRK",
+                "variationName": "Size",
+                "variationValue": "44W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CRU",
+                "variationName": "Size",
+                "variationValue": "46W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CSE",
+                "variationName": "Size",
+                "variationValue": "46W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000A38CT8",
+                "variationName": "Size",
+                "variationValue": "46W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00PR4SA5Q",
+                "variationName": "Size",
+                "variationValue": "48W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00PR4SA60",
+                "variationName": "Size",
+                "variationValue": "48W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00PR4S1PU",
+                "variationName": "Size",
+                "variationValue": "50W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00PR4S092",
+                "variationName": "Size",
+                "variationValue": "50W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00PR4RZT8",
+                "variationName": "Size",
+                "variationValue": "52W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00PR4RZZ2",
+                "variationName": "Size",
+                "variationValue": "52W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00PR4RRDC",
+                "variationName": "Size",
+                "variationValue": "54W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00PR4RQ9W",
+                "variationName": "Size",
+                "variationValue": "56W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00PR4RQCO",
+                "variationName": "Size",
+                "variationValue": "56W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00PR4RQ5G",
+                "variationName": "Size",
+                "variationValue": "58W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00PR4RUGG",
+                "variationName": "Size",
+                "variationValue": "58W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00PR4RKS4",
+                "variationName": "Size",
+                "variationValue": "60W x 32L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41zR69l5uvL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41JE6d2VfzL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/411RkGbz2DL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41puuehTJEL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51r3KdOMVnL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51ALMCDDhPL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Wrangler Store",
+            "link": "https://www.amazon.com/stores/Wrangler%C2%AE/page/447486A1-7264-4DFF-9C66-7F69EB4AA55B?ref_=ast_bln"
+        },
+        "brand": "Wrangler\u00ae",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 4555,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Closure type Button",
+            "Inseam 30 Inches",
+            "Rise style Mid Rise",
+            "Relaxed straight-leg jean with quilted-thermal lining and five-pocket styling",
+            "W-stitched back pockets",
+            "Zip fly with button closure"
+        ],
+        "description": "The Thermal Jean from Wrangler Rugged Wear. The relaxed fit shell of 100% cotton denim is slightly oversized for added comfort and freedom. The lining is 100 grams of genuine Thinsulate insulation. The result is incredible warmth without bulk, weight, or For nearly 70 years, Wrangler has staked its claim as a global leader in jeanswear, casual apparel and fashion-forward western inspired attire. Built upon the nostalgic undercurrent of Americana heritage, the brand celebrates a rich legacy of authentic products consumers crave. Wrangler continues to preserve their American legacy while continuously developing innovative products that harness traditional roots, while expanding on its mainstream appeal as a fashion-forward label. Wrangler will prepare you for whatever the day may hold. So go ahead, be bold. Be adventurous. Be comfortable in your own jeans.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 41 x 0.5 x 21.5 inches; 1.1 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 33213SW"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e October 10, 2007"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Wrangler"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B000A38CB6"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#18,932 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #128 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 4,555 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Previous page Next page",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f49a3d59-cc75-4639-bd2b-ef865ebc8031.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f5c31cec-f453-4337-b992-71b583f4fe37.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9ee2b0a9-3b07-48be-929f-b286d620801b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/003da6da-5593-4a42-b323-950fa78d7d06.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9578b216-56e5-4212-a7a4-359baecd6e1b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2e5a453f-0a61-42dc-9deb-60fe4dd5541a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Linds Davis",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEXOT7VZRBRROZTHONSFV4PDVQCA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R22AFVCUYQ702B?ASIN=B000A822PS",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 8, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great pants, and great fit even if you're a woman!",
+                "reviewText": "I love these! I ordered them as where i live, it's very cold especially during the winter. I work outside most days and needed something to help keep me warm instead of wearing long johns. Unfortunately, I have a really hard time finding pants that fit my size and my inseam. I'm a 6'2 plus size woman. These have a slightly bigger waist that I need, but with a belt they fit great. Comfy, warm and durable. Highly recommend especially for the price!!!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Delaine C. Bates",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AECQKKSA4SGAVVXJLHFDBHUDWZCA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2IJYABG8DK9JJ?ASIN=B000A822PS",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 24, 2024",
+                "reviewTitle": "5.0 out of 5 stars Perfect cold weather pants!",
+                "reviewText": "Living in cold weather with animals, these pants do the trick! Made well, Durable, and fit to size. If you do outdoor sports, they are warm and comfortable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Howard Meyers",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHSCA5IHCJJG7H4NYZN3ANVS66MQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RDEPF0VHW7GOM?ASIN=B000A822PS",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great insulation in cold weather",
+                "reviewText": "The Wranglers are tough, fit well to size and feels great while keep you warm in sub zero weather",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gretchen Steffan",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEYP2EAKZNJIC2LSH5ZLQK54BPFA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1SO92NWWHGSZ8?ASIN=B000A822PS",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 23, 2024",
+                "reviewTitle": "4.0 out of 5 stars Fits differently than other wranglers",
+                "reviewText": "Good jeans, warm and comfortable. A little tight in the waist compared to two other Wrangler lined jeans that I purchased recently. If a 35 waist was available,it would've been better.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Michelle B.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHEQOWK26WJTVLAKYSSWNWFIYRMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1UIIDGJUYWG0P?ASIN=B000A822PS",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 4, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great and warm!",
+                "reviewText": "These pants are a great value. They have a nice lining that helps keep you warm even in freezing temperatures. The fit just right and are very comfortable. I highly recommend them!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tom",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFIQCP3S3ZXO5RBQ6XO6E7FCI6KA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RAC1SJ1FU74QZ?ASIN=B000A822PS",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable and warm",
+                "reviewText": "I normally wear Levi 505 but wanted to try these. Overall, they seem better made, heavier duty, and they're of course very warm. They're a little more baggy/loose, but that comes with the relaxed fit and that is appropriate to me for insulated jeans. Going to buy another pair.To the folks talking about quality/durability, I hate to say it but it's 2024, and nothing is made as well as it was 30 years ago. These seem better than the current average.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JaG",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEIDDMOEJETQPPFLMJPLRYNX6G6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1V3YSUCX8INQV?ASIN=B000A822PS",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars Warm and durable",
+                "reviewText": "Bought two pair of these pants 10 years ago. I love them so much I bought two pair again. When I finally wear out my new pants, I\u2019ll buy them again. There\u2019re warm, durable and fit well.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Don C.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHWPFGM53DZ47RAWNTKLWZYMAB3Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R17W901IDCUDZ4?ASIN=B000A822PS",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars Best, Warmest, Jeans Available.",
+                "reviewText": "I've bought these for Years wherever I could find them. Unbeatable for Comfort, Toughness and Warmth. I wear these all Fall and Winter each year.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lluvia Natividad",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 12, 2023",
+                "reviewTitle": "Esta genial se los recomiendo",
+                "reviewText": "Esta muy padre la mezclilla es flexible y el forro es muy suave y t\u00e9rmico",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Peter Swan",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on December 30, 2023",
+                "reviewTitle": "Ideale \u201cB\u00fcx\u201d f\u00fcr harte Anforderungen",
+                "reviewText": "Diese Hose besteht aus einem sehr festen und leicht rauen Stoff und kann sicherlich einiges \u201ewegstecken\u201c. Sie ist mit einem schwarzen Innenfutter ausgestattet, das prima warm h\u00e4lt. Die Verarbeitung macht einen sehr guten Eindruck. Die Gr\u00f6\u00dfenangaben passten zu 100%. Aber Vorsicht, wegen des festen Stoffs ist die Hose nicht dehnbar. Die Farbe ist braun, nach meinem Farbempfinden mit einem leichten Stich ins Olive. Weil mir die Hose so gut gef\u00e4llt, habe ich mir auch die blaue Variante davon gekauft.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bencek",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on November 28, 2023",
+                "reviewTitle": "Jeden euro wert",
+                "reviewText": "diese termojeans sind sehr gutt und schutzen von keltejeden euro sind wert gerne wieder kaufen",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Charlie",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on January 24, 2023",
+                "reviewTitle": "Best Insulated Jeans Ever!",
+                "reviewText": "I'm 5'8\" tall, 34 waist and 30\" inside leg. Fits perfect. So perfect that I bought a second pair! The colour is good the denim feels great and what the advert didn't say was that the lining is 3M Thinsulate. Out on even the coldest days I remain oh so comfortable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bernhard Sattler",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on January 22, 2023",
+                "reviewTitle": "Inch Angabe stimmt hier genau",
+                "reviewText": "Ich behalte die Hose, weil ich am Abnehmen bin und in hoffentlich einem bis zwei Monaten reinpasse. Erstaunlich ist, dass mir andere Wrangler Texas Jeans mit gleicher Gr\u00f6\u00dfenangabe super bequem passen.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,674 @@
+{
+    "remaining_requests": 13833,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Under-Armour-Womens-Stretch-Hipster/dp/B07815C2GL",
+    "body": {
+        "name": "Under Armour Women\u2019s Pure Stretch Hipster 3 Pack",
+        "price": "$18.53 - $18.97",
+        "originalPrice": "",
+        "rawPrice": 18.53,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Under-Armour-Womens-Stretch-Hipster/dp/B0BMK6WXY5",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BMK6WXY5"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0BGVTDJK6",
+                "variationName": "Color",
+                "variationValue": "(044) Downpour Gray / Harbor Blue / Harbor Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Z1eFW-DfL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09JJXH5P4",
+                "variationName": "Color",
+                "variationValue": "(249) Beige / Beige / White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41UK2UYW+sL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09WCNTG9S",
+                "variationName": "Color",
+                "variationValue": "(495) Baja Blue / Sonar Blue / Sonar Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DuKogHVsL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09JJM3SVC",
+                "variationName": "Color",
+                "variationValue": "(592) Illusion Green / Halo Gray / Flamingo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41xqo23eZhL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09WD38SJN",
+                "variationName": "Color",
+                "variationValue": "(697) Pink Elixir / Halo Gray / Rebel Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41pWXnnkG9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07CZLNJ8Q",
+                "variationName": "Color",
+                "variationValue": "Aubergine (696)/Jet Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41bAImeVyYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B077ZXNHS8",
+                "variationName": "Color",
+                "variationValue": "Black (001)/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41q34cnPnHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B081FX6J8X",
+                "variationName": "Color",
+                "variationValue": "Black (004)/Dash Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31OVG6YhVYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B086ZNB115",
+                "variationName": "Color",
+                "variationValue": "Black (005)/Mineral Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41W4d1xOC3L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08LMZT3CT",
+                "variationName": "Color",
+                "variationValue": "Blue Flannel (597)/Blue Flannel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/311FcegToVL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C28VS8ZH",
+                "variationName": "Color",
+                "variationValue": "Celeste",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/311pKULVVrL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07YXPMWMF",
+                "variationName": "Color",
+                "variationValue": "Crystal Lilac (570)/Polar Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41nd7ykOakL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07RFYYYWX",
+                "variationName": "Color",
+                "variationValue": "Dash Pink (667)/Hushed Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Bg7VAkVNL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07J3DLPNQ",
+                "variationName": "Color",
+                "variationValue": "Fractal Pink (692)/Fractal Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Kl6x-9DGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C28WLRYZ",
+                "variationName": "Color",
+                "variationValue": "Harbor Blue Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41aYrOvbu8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C28WWD3T",
+                "variationName": "Color",
+                "variationValue": "Hue 500",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31rY3jpAUFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C28VV183",
+                "variationName": "Color",
+                "variationValue": "Hue 600",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31zYfVMvQZL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C28VWTWZ",
+                "variationName": "Color",
+                "variationValue": "Hue 625",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31KCzbIA5pL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08LMNVV6R",
+                "variationName": "Color",
+                "variationValue": "Mauve Pink (698)/Ash Plum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31iRJ2FX39L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0872MJB1R",
+                "variationName": "Color",
+                "variationValue": "Mineral Blue/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NM504yK0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07CZJPZW6",
+                "variationName": "Color",
+                "variationValue": "Mod Gray (011)/Coded Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4178ip6ZKcL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B077YP6T1X",
+                "variationName": "Color",
+                "variationValue": "Nude (295)/Nude",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31El6tOKMXL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C28Y9BN9",
+                "variationName": "Color",
+                "variationValue": "Pink Elixir Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/314cqGMChIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C28WT9CQ",
+                "variationName": "Color",
+                "variationValue": "Purple Ace",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312LTQFB8vL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07RJ5PF7H",
+                "variationName": "Color",
+                "variationValue": "Rift Blue (462)/Blue Haze",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31x-MP+WnGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07YXPC7DT",
+                "variationName": "Color",
+                "variationValue": "Seaglass Blue (403)/Enamel Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Mkipch0HL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07YXP585S",
+                "variationName": "Color",
+                "variationValue": "Slate Purple (585)/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41X3Y0fUouL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0872M8HDB",
+                "variationName": "Color",
+                "variationValue": "Stardust Pink (649)/Beta Tint",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21K4U+cW8NS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C28WK2H8",
+                "variationName": "Color",
+                "variationValue": "Black - Core",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31vqmo5hNsL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07QWMYG5W",
+                "variationName": "Color",
+                "variationValue": "Calla (689)/Blush Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41igvkWgDYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07J3C8VJD",
+                "variationName": "Color",
+                "variationValue": "Pink Fog (694)/Pink Fog",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51sob+wbRsL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0794PMQ48",
+                "variationName": "Color",
+                "variationValue": "Black (002)/Peach Horizon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31lK4SY-86L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07JVC4M3X",
+                "variationName": "Color",
+                "variationValue": "Blue Heights (448)/Downpour Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ib0LwOmBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07FYB4YV6",
+                "variationName": "Color",
+                "variationValue": "Brown/ Nude",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41tK-kQ3hOL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B093J6WBV7",
+                "variationName": "Color",
+                "variationValue": "Club Purple (530)/Opal Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31kHbIsl67L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07CZ93DMV",
+                "variationName": "Color",
+                "variationValue": "Purple Ace (543)/Mod Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41-TiZS2dCL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07FY9VBMJ",
+                "variationName": "Color",
+                "variationValue": "Black/ Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41p2uNDph8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0794WFVKT",
+                "variationName": "Color",
+                "variationValue": "Black/Nude/Peach Horizon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41vG5jF7PjL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B093JJ9X54",
+                "variationName": "Color",
+                "variationValue": "Knock Out (656)/Purple Switch",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31TPKuA7XVL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B077YDWZK3",
+                "variationName": "Color",
+                "variationValue": "After Burn (877)/Static Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51OG59FncfL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B093J6WBV8",
+                "variationName": "Color",
+                "variationValue": "Retro Pink (676)/Pink Note",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3197QSWpokL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B077ZXNHS8",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07815C2GL",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B078159B9V",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07815SBYF",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0785XKTVC",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41q34cnPnHL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31Z7zTQ0-wL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31s4HwI8FzL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/21yOTv2ZWaL.jpg"
+        ],
+        "imagesCount": 4,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Under Armour Store",
+            "link": "https://www.amazon.com/stores/UnderArmour/page/4750579C-0CF4-4BF9-B7E8-F782E52D7683?ref_=ast_bln"
+        },
+        "brand": "UnderArmour",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 4552,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Polyester",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Updated alpha sizing!",
+            "New super-soft stretch fabric delivers excellent all-day comfort for any activity",
+            "Laser cut edges offer a hem-free construction for a smoother, more flattering silhouette",
+            "4-way stretch construction moves better in every direction",
+            "Under Armour\u2019s mission is simple: to make you better."
+        ],
+        "description": "Updated alpha sizing!.Under Armour\u2019s mission is to make all athletes better through passion, design and the relentless pursuit of innovation.Where we started? It all started with an idea to build a superior T-shirt.The technology behind Under Armour's diverse product assortment for men, women and youth is complex, but the program for reaping the benefits is simple: wear HeatGear when it's hot, ColdGear when it's cold, and AllSeasonGear between the extremes.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Lingerie, Sleep & Lounge",
+                "link": "https://www.amazon.com/Lingerie-Sleepwear-and-Loungewear/b/ref=dp_bc_aui_C_4?ie=UTF8&node=9522931011"
+            },
+            {
+                "name": "Lingerie",
+                "link": "https://www.amazon.com/Lingerie/b/ref=dp_bc_aui_C_5?ie=UTF8&node=14333511"
+            },
+            {
+                "name": "Panties",
+                "link": "https://www.amazon.com/Womens-Panties/b/ref=dp_bc_aui_C_6?ie=UTF8&node=1044958"
+            },
+            {
+                "name": "Hipsters",
+                "link": "https://www.amazon.com/Womens-Hipster-Panties/b/ref=dp_bc_aui_C_7?ie=UTF8&node=673144011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 7 x 9 x 1 inches; 2.4 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 1325616"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e September 30, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Under Armour"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0BGVTDJK6"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#10,272 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #19 in Women's Hipster Panties"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 4,552 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Women's UA Pure Stretch Hipster 3-Pack Good underwear goes unnoticed. Super-soft laser-cut edges offer a smooth, virtually invisible fit under everything from a pair of run shorts to our most body-hugging compression leggings. SOFT: Ultra-soft and stretchy, so you can move without bunching or shifting. BREATHABLE: Mesh fabric also wicks sweat and dries fast, so you can work out. VIRTUALLY INVISIBLE: Laser cut edges offer a smoother, more seamless silhouette. Super-soft stretch fabric delivers excellent all-day comfort4-way stretch material moves better in every directionFuller back for the perfect amount of coverageSoft cotton gussetTagless",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d36bdd1f-9803-4780-b41f-475666cf9fca.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d36bdd1f-9803-4780-b41f-475666cf9fca.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7d8e652d-823f-45c8-933a-955f617ba6fd.__CR138,0,1164,720_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Harry ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AELUZ4IIDBETBOOHUO6IOFX7EXTA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RCAIP1O8352BI?ASIN=B0BMK6WXY5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good quality",
+                "reviewText": "As someone who gifted the Under Armour Women\u2019s Pure Stretch Hipster 3 Pack, I'm delighted to hear that they were well received. These hipster underwear are a fantastic choice for anyone looking for comfort and performance in their undergarments.The pure stretch fabric is incredibly soft and smooth, providing a luxurious feel against the skin. The hipster style offers the perfect combination of coverage and comfort, with a low-rise waistband that sits comfortably on the hips.The seamless construction ensures a smooth and flattering fit, with no digging or irritation. Additionally, the pack of three provides excellent value for money, ensuring that the recipient always has a fresh pair on hand.Overall, I'm pleased with my choice of gift and happy to hear that they have become a favorite in the recipient's wardrobe. The Under Armour Women\u2019s Pure Stretch Hipster 3 Pack is a practical and thoughtful gift that anyone would appreciate.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "wendy Sullivan",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFFYQXOLZOB6IOMIGV3YYCOQHYLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1S50QKDDA3QRK?ASIN=B0BMK6WXY5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars True to size",
+                "reviewText": "True to size, great and soft for wearing all day or during exercises highly recommend.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Trisha",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGN2SHEYUNVFHA3HCT3HJSSZKMQA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1YK6OARB7H7X8?ASIN=B0BMK6WXY5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 28, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great for travel",
+                "reviewText": "Comfortable. Lightweight and very packable. Quick to hand wash and dry. I brought them to the tropics and when everything else stayed wet these dried in a few hours after hand washing. Hooray.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "e",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH7AI5P3RUYYLMW53KH3A3WZVTIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R23TJVVZ0QC17U?ASIN=B0BMK6WXY5",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 30, 2023",
+                "reviewTitle": "4.0 out of 5 stars Won't stay up!",
+                "reviewText": "Love how silky soft they are and how small they pack. Feel great against skin BUT these doggone things slide down when I hike! No no no. I bought the size as recommended per the size chart. (XL 180 bs) I might try going down a size to see if that helps because everything else seems so promising but as they are they won't be traveling (down) with me hiking with the boys. So disappointed!",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gabrielle Hildreth",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF6FIATOV7DZJWDNGGGGBCB53V5A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2UH61WDNNUSIR?ASIN=B0BMK6WXY5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars best underwear I've purchased!",
+                "reviewText": "Very comfortable and cannot see panty lines. love the underwear.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "AJ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGXI3ICYNYS2YUBJGEN23K7LUHCA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3TJDWL311W16U?ASIN=B0BMK6WXY5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 30, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfortable and have held up well",
+                "reviewText": "I\u2019m 5\u20194, 120 lbs and the small fits great. I have had these for about a month, so they\u2019ve been washed numerous times with no issues. They\u2019re not completely invisible in jeans, leaving some panty-lines. For the comfort alone I would purchase again.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "nekoastume",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH2KH2V7SSOWEZAJ2REARKAYDBGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RZGWD97XSYFKR?ASIN=B0BMK6WXY5",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "1.0 out of 5 stars Quality Issues",
+                "reviewText": "I was initially happy with the purchase. It is seamless and I do not see a panty line under leggings. Despite choosing the right size, the magenta/pink one fell apart in the middle of a barre class. It was a low impact workout which didn't involve any intensive movement. I also did not use a heavy pad. Just a lightweight panty liner. Very embarrassing.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ostergal31",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH56E2YUWSM5CZUMI5QHQZIDBN7Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1MUYSPGG61YJ3?ASIN=B0BMK6WXY5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 15, 2024",
+                "reviewTitle": "5.0 out of 5 stars No-show",
+                "reviewText": "I wear these underwear everyday, they are flattering to wear with leggings because you cannot see panty lines.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cristina",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 8, 2024",
+                "reviewTitle": "Excelente compra",
+                "reviewText": "La tela es muy suave, los he comprado varias veces porque es muy buen producto. Duran bastante.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "\ud83c\udde8\ud83c\udde6 987654321",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 5, 2023",
+                "reviewTitle": "Go-to-choice",
+                "reviewText": "These are always the first choice out of the drawer. They are comfortable and functional to wear with any outfit, including leggings! I always reach for these first and have purchased them multiple times now.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Andrea Werner",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 25, 2023",
+                "reviewTitle": "Invisible",
+                "reviewText": "Totally invisible under yoga pants, and don't shift around.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "BONOJJB",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 24, 2023",
+                "reviewTitle": "Horrible - save your $",
+                "reviewText": "I purchased these for activities like hiking, skiing, where you\u2019re moving a lot. Even though they\u2019re hipsters, they don\u2019t stay out AT ALL. The fabric is cheap and flimsy and yeah, save your money.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cinthia Karina Valencia Bravo",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 2, 2023",
+                "reviewTitle": "Excelente compra.",
+                "reviewText": "He comprado en un par de ocasiones este producto y son de muy buena calidad, se ajustan genial al cuerpo y son s\u00faper c\u00f3modos al momento de entrenar.Los recomiendo mucho.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

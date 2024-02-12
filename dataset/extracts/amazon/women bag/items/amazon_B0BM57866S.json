@@ -1,0 +1,640 @@
+{
+    "remaining_requests": 15290,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Vera-Bradley-Womens-Cotton-Weekender/dp/B0CNLXN4N9",
+    "body": {
+        "name": "Women's Cotton Weekender Travel Bag",
+        "price": "$73.50",
+        "originalPrice": "$140.00",
+        "rawPrice": 73.5,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Vera-Bradley-Womens-Cotton-Weekender/dp/B0CNLXN4N9",
+        "soldBy": {
+            "sellerID": "",
+            "name": "Amazon.com",
+            "link": "https://www.amazon.com"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CNLXN4N9"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0BM54WSFR",
+                "variationName": "Color",
+                "variationValue": "Amethyst Plaid - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61dKbGkzapL._SS36_.jpg"
+            },
+            {
+                "asin": "B07VK43FBB",
+                "variationName": "Color",
+                "variationValue": "Blue Aster - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01hl7yE9uML._SS36_.jpg"
+            },
+            {
+                "asin": "B0C8WJK2SD",
+                "variationName": "Color",
+                "variationValue": "Botanical Paisley",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61FSTWoZSiL._SS36_.jpg"
+            },
+            {
+                "asin": "B07TTCF1B2",
+                "variationName": "Color",
+                "variationValue": "Cardinal Red - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LgjRrbsGL._SS36_.jpg"
+            },
+            {
+                "asin": "B07TS7YSD6",
+                "variationName": "Color",
+                "variationValue": "Classic Navy - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01LU9luh2rL._SS36_.jpg"
+            },
+            {
+                "asin": "B07TS7XLVP",
+                "variationName": "Color",
+                "variationValue": "Climbing Ivy Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41iBOHM8IjL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BM54H9BQ",
+                "variationName": "Color",
+                "variationValue": "Climbing Ivy Green - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41+XJO99qvL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BM55995M",
+                "variationName": "Color",
+                "variationValue": "Cloud Vine Multi - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/71gjTl3O04L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BM56KMXN",
+                "variationName": "Color",
+                "variationValue": "Dreamer Paisley - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/71zElESUZfL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BM56KMWF",
+                "variationName": "Color",
+                "variationValue": "Enchanted Mandala - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61MFiznskzL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C8W619DV",
+                "variationName": "Color",
+                "variationValue": "Enchantment",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/71A4dyuppfL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C8W42RQ8",
+                "variationName": "Color",
+                "variationValue": "Fireplace Plaid",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61PXtY2eIqL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CQGGS2K4",
+                "variationName": "Color",
+                "variationValue": "Flamingo Garden",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51EWyVD6OQL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BM574WXH",
+                "variationName": "Color",
+                "variationValue": "Forever Green - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51zC0DdVHtL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C8VQC85V",
+                "variationName": "Color",
+                "variationValue": "Fresh-Cut Floral Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61fMi779ZvL._SS36_.jpg"
+            },
+            {
+                "asin": "B07TXHB7XY",
+                "variationName": "Color",
+                "variationValue": "Galaxy Gray - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01lAmA+ClpL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BM55PZST",
+                "variationName": "Color",
+                "variationValue": "Island Garden - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/611FKM6A8eL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BM56MN58",
+                "variationName": "Color",
+                "variationValue": "Island Tile Blue - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/71DMleFyBsL._SS36_.jpg"
+            },
+            {
+                "asin": "B00WIP5G90",
+                "variationName": "Color",
+                "variationValue": "Katalina Blues",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61dDNu900FL._SS36_.jpg"
+            },
+            {
+                "asin": "B07W5FZ27K",
+                "variationName": "Color",
+                "variationValue": "Kingbird Plaid",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/616jaVglD2L._SS36_.jpg"
+            },
+            {
+                "asin": "B0C8WQMYJ7",
+                "variationName": "Color",
+                "variationValue": "Orchard Plaid",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61EXEHzhPjL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B64BHTFH",
+                "variationName": "Color",
+                "variationValue": "Paisley Jamboree - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61EpRnYryYL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CQGX47ZV",
+                "variationName": "Color",
+                "variationValue": "Paradise Coral",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/510aSiGU2LL._SS36_.jpg"
+            },
+            {
+                "asin": "B07TZHYQRF",
+                "variationName": "Color",
+                "variationValue": "Pastel Plaid - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61bqMyq+dDL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B64C7DX8",
+                "variationName": "Color",
+                "variationValue": "Perennials Gray - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61GY6mcO05L._SS36_.jpg"
+            },
+            {
+                "asin": "B0C8WJ5YMW",
+                "variationName": "Color",
+                "variationValue": "Perennials Noir",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61g-K9H86WL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C8WBGRVR",
+                "variationName": "Color",
+                "variationValue": "Provence Paisley",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/71u6C3pJYaL._SS36_.jpg"
+            },
+            {
+                "asin": "B07W4BZMNY",
+                "variationName": "Color",
+                "variationValue": "Rose Toile - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61N7EjuyQQL._SS36_.jpg"
+            },
+            {
+                "asin": "B07VB85WQF",
+                "variationName": "Color",
+                "variationValue": "Rouge Rose - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21pzagl72zL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BM557MZL",
+                "variationName": "Color",
+                "variationValue": "Sea Air Floral - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61MeF5pu2JL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B648GCBJ",
+                "variationName": "Color",
+                "variationValue": "Snow Globe Motifs - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ISufiGCFL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C8VZF2TX",
+                "variationName": "Color",
+                "variationValue": "Soft Sky Paisley",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/617BTUV+uNL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BM549QD5",
+                "variationName": "Color",
+                "variationValue": "Sunlit Garden Sage - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61GqXydHfiL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B64BR3VX",
+                "variationName": "Color",
+                "variationValue": "Tartan Plaid - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51brCaaSsRL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BM55F3RZ",
+                "variationName": "Color",
+                "variationValue": "Terra Cotta Rose - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21aQv5YfOnL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BM54HPD1",
+                "variationName": "Color",
+                "variationValue": "Tranquil Medallion - Recycled Cotton",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61um1DnED+L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BM564BWB",
+                "variationName": "Color",
+                "variationValue": "True Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41mgQyDPbyL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BM57866S",
+                "variationName": "Color",
+                "variationValue": "True Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/417Y3v9Tm8L._SS36_.jpg"
+            },
+            {
+                "asin": "B0754KN2ZQ",
+                "variationName": "Color",
+                "variationValue": "Winter Berry",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/61zLLRcYcDS._SS36_.jpg"
+            }
+        ],
+        "isPrime": false,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41PiCm-cIbL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/515Os-9bJsL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51zG B5oOWL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51Oam5xArSL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51cTIishwhL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61dKbGkzapL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/B1xV4CbJebL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fd136fef-4310-4d20-8dc4-57d8447983dd/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Vera Bradley Store",
+            "link": "https://www.amazon.com/stores/VeraBradley/page/411AF527-C86A-42CB-87F8-4BA8F06F0CE3?ref_=ast_bln"
+        },
+        "brand": "VeraBradley",
+        "merchantInfo": "",
+        "customerReview": "4.8 out of 5 stars",
+        "customerReviewCount": 2302,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Wednesday, February 21. Order within 6 hrs 8 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type Cotton,Mesh",
+            "Origin Imported",
+            "Outer material Cotton",
+            "Inner material Polycotton",
+            "Country of Origin Indonesia",
+            "MACHINE WASHABLE RECYCLED COTTON \u2013 The cotton fabric that you\u2019re familiar with has been reimagined; the exterior fabric is made with 50% recycled cotton fibers and has all of the comfort, softness, and vibrancy that you know and love.",
+            "BE MOBILE WITH MULTIPLE BAGS -- With a 6 inch strap drop & a 53 inch removable, adjustable strap - you can grab the dual straps on the go or throw over your shoulder for hands-free attention - or utilize the trolley sleeve to attach to your luggage handle",
+            "PACK IN STYLE -- Skip the extra carry on & take advantage of the interior pockets of this spacious travel bag featuring 5 mesh pockets to organize your cosmetics hair products jewelry & other toiletries",
+            "ESSENTIALS AT YOUR FINGERTIPS -- The exterior features 1 slip pocket & 2 zip pockets - ideal for stowing wallets boarding passes reading material or snacks to keep them quick to access & soundly fastened for your flight",
+            "STYLISH LIGHTWEIGHT & SIZED RIGHT -- The Weekender Travel Bag measures 13 inches high, 19 inches wide & 8 inches deep - giving you a spacious carryon compliant travel bag for your next getaway"
+        ],
+        "description": "Signature cotton is colorful and lightweight. Exterior features one slip and two zip pockets. Interior features five mesh pockets. Trolley sleeve. Carry-on compliant. Removable strap. Zip closures. Capacity 29 L.. Remove strap before laundering; machine wash cold, gentle cycle, only non-chlorine bleach when needed; line dry. Vera Bradley is known for our travel bags for women and men alike with our duffel bags for traveling. We offer cosmetic travel bag, make up travel bag, toiletry travel bag for women, duffle bag for men, travel bags for men, travel duffel bags for women, duffle bag for travel, rolling duffle bag with wheels, small duffle bag, travel duffel bags, and travel bags for packing. Our assortment of travel bags includes travel essentials like duffels, overnight bags, lugagge, weekender bags, make up organizers, travel organizers, luggage tags, and more!",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Luggage & Travel Gear",
+                "link": "https://www.amazon.com/Luggage-Travel-Gear/b?ie=UTF8&node=9479199011"
+            },
+            {
+                "name": "Luggage",
+                "link": "https://www.amazon.com/luggage-suitcase/b?ie=UTF8&node=15743251"
+            },
+            {
+                "name": "Carry-Ons",
+                "link": "https://www.amazon.com/Carry-On-Luggage/b?ie=UTF8&node=15743261"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e November 18, 2023"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Vera Bradley"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0CNLXN4N9"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#19,764 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #74 in Carry-On Luggage"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.8 4.8 out of 5 stars 2,302 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "PERFORMANCE The Weekender Travel Bag has all of the features you want in a great travel bag (and a few you didn't know you needed)! FEATURES Exterior features include slip pockets, two zip pockets, a trolley sleeve, removable strap, and zip closure. INTERIOR Five mesh pockets and a spacious main compartment allow for easy packing for a long weekend away. OPTIONS Find the Weekender Travel Bag in seasonal patterns and colors from Vera Bradley.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/514119ea-6ef8-4c29-8161-489ce379a33f.__CR0,0,1800,1800_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1adc09d0-e379-4923-b8ea-7de671a61182.__CR0,0,1800,1800_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/09cbe0f9-fc89-4f44-b8a9-9821a485c183.__CR0,0,1800,1800_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/37ce03fe-68a2-4f8f-a65d-6f47cb53a297.__CR0,0,1800,1800_PT0_SX220_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Signature Cotton Weekender Travel Bag Recycled Cotton Weekender Travel Bag Microfiber Weekender Travel Bag Performance Twill Weekender Travel Bag ReActive Weekender Travel Bag Signature Cotton Large Travel Duffel Fabric Signature Cotton Recycled Cotton Microfiber Performance Twill Recycled Lighten Up Signature Cotton Fabric Attributes Durable & Lightweight Durable, Lightweight, & Made from recycled cotton fibers Sleek & Lightweight Water-repellent & Lightweight Water-repellent, Lightweight, & Made from repurposed bottles Durable & Lightweight Dimensions 18.50\" w x 12.50\" h x 7.50\" d 18.50\" w x 12.50\" h x 7.50\" d 18.50\" w x 12.50\" h x 7.50\" d 18.50\" w x 12.50\" h x 7.50\" d 18.00\" w x 12.75\" h x 7.50\" d 22.00\" w x 11.50\" h x 11.50\" d Solids vs Patterns Patterns Patterns Solids Solids & Patterns Solids & Patterns Patterns Organization Exterior - 4 pockets; Interior - 5 pockets Exterior - 4 pockets; Interior - 5 pockets Exterior - 4 pockets; Interior - 5 pockets Exterior - 3 pockets; Interior - 5 pockets Exterior - 3 pockets; Interior - 6 pockets Exterior - 4 pockets; Interior - 3 pockets Strap Details 6.50\" strap drop; Additional 52.50\" removable, adjustable strap 6.50\" strap drop; Additional 52.50\" removable, adjustable strap 6.50\" strap drop; Additional 52.50\" removable, adjustable strap 6.50\" strap drop; Additional 52.50\" removable, adjustable strap 10.00\" strap drop; Additional 52.50\" removable, adjustable strap 15.00\" strap drop; Additional 52.50\" removable, adjustable strap Additional Colors Available \u2713 \u2713 \u2713 \u2713 \u2713 Special Features Trolley Sleeve; Carry-on compliant Trolley Sleeve; Carry-on compliant Trolley Sleeve; Carry-on compliant Trolley Sleeve; Carry-on compliant Trolley Sleeve Side pockets with trim detail",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/3e7042a0-6650-40f2-82ef-347fa84b96cd.__CR0,0,600,180_PT0_SX600_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2d84f56d-abaa-41eb-aff7-a4bc135b0aa9.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/514119ea-6ef8-4c29-8161-489ce379a33f.__CR0,0,1800,1800_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1adc09d0-e379-4923-b8ea-7de671a61182.__CR0,0,1800,1800_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/09cbe0f9-fc89-4f44-b8a9-9821a485c183.__CR0,0,1800,1800_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/37ce03fe-68a2-4f8f-a65d-6f47cb53a297.__CR0,0,1800,1800_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/220a4970-e251-4ab6-9bb2-6043d4fa9f7c.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b887f2a5-2ab2-461e-8970-62faf5349555.__CR0,900,1800,3600_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a9f0acf6-125c-4600-9481-7f042db0940b.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f68e3c32-5fb6-4f65-91d5-22d6dde828ce.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2075ef72-1225-4f25-8327-382e7900657e.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/374dc046-8e1c-4c82-9e24-1950fa333064.__CR0,0,150,300_PT0_SX150_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Savvy Style Cat",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHUNYOP4MMWUSIQEVDFVIMEJBYRQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1AY3IP8CABQSF?ASIN=B0BM54WSFR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 1, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great airport bag!",
+                "reviewText": "Think material and good quality. I got the bright pink and the color was perfect! I needed a mid sized duffle bag to carry on while traveling. It fit perfectly on top of my suitcase with the luggage sleeve! Lots of pockets inside for organizing but I do wish there was a laptop pocket inside.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Susan Wain",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEW4ENXJH7HEU46UOLGIQEWJGVFA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RON1EO0QW10M8?ASIN=B0BM54WSFR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 8, 2023",
+                "reviewTitle": "5.0 out of 5 stars Easy carry all",
+                "reviewText": "For the past few years, I have been purchasing my bags from Vera Bradley and this particular bag did not disappoint. Besides the bright floral print, it is convenient to use with all the open zipper pockets and, it is washable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Chiara",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGKGE6L3SWMRXT2QZLTA5NFJJK6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R37A41IT7SCFP7?ASIN=B0BM54WSFR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 27, 2016",
+                "reviewTitle": "5.0 out of 5 stars My favorite piece of luggage!",
+                "reviewText": "I do a good bit of 2-day trips for work, and I got so tired of lugging around a rolling bag. Plus, I wanted some luggage that made me happy to look at it! I'm so pleased with this purchase. Here's why:STRAP: I love that this has a long strap, so that I can drape this over my shoulder to carry it. It's much more comfortable that carrying it on one shoulder, and it keeps my hands free.WASHABLE: One of the most important things for me, in deciding to buy a cloth bag, was that I be able to put it in the laundry. I try to treat my luggage well, but I'm sure there's going to come a time that this bag goes on a gross airport floor, or I accidentally spill some shampoo, or something. This bag can be washed. There's a big rectangular piece of plastic at the bottom, and I'll have to figure out how to get it out without bending it too much. So, it won't be the easiest thing in the world, but I will be able to put this through the washing machine. That makes me happy.PRETTY: I just love this bag. I use it on work trips, and even though I work in a conservative field, I decided \"screw it,\" I want to get a pattern that makes me happy. I have this bag in the blue/white pattern, and it is just so pretty.DURABLE AND USEFUL: The bag is made of thick material. There are 5 inside pockets, which is where I keep all of my toiletries neatly organized. (I have a set of \"travel\" toiletries that stay in there all the time, so that I don't have to spend much time packing.) Also, there is the sleeve on the back, so that this bag can hook onto the handle of a rolling suitcase. This bag is a good size. I can put two pairs of shoes, a few changes of clothes, and my toiletries in it. It has enough room for a multi-day trip. It would probably be tight if you wanted to pack it for a whole week, but I think that would be manageable if you're strategic.So all in all, I'm really happy with this! Recommended!",
+                "reviewVotes": "42 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Carrie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFUTILO26R7UGAXW3CYT6QF3UNAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RWWXMAVKZTM94?ASIN=B0BM54WSFR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 12, 2023",
+                "reviewTitle": "5.0 out of 5 stars Greta travel bag",
+                "reviewText": "Great for an airline carry on travel bag. Took this on vacation and it expands and can hold a lot and is cute too!",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alyssa M",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE4BTQ7SXQZ7F2NBTO2ECY3BNNSA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2P2D5G159E5ZX?ASIN=B0BM54WSFR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love!",
+                "reviewText": "This is a great purchase and well worth the money. I have the matching backpack and love the pattern / material of the bag. It is a great size for a weekend's worth of stuff when traveling. Very sturdy straps and clips as well. Highly recommend",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nikki",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGQ3YAKZXXERZ2LWOGBJ3HBAW2AA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/ROV00J2HY5EO1?ASIN=B0BM54WSFR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 28, 2023",
+                "reviewTitle": "5.0 out of 5 stars Trolly sleeve!!!",
+                "reviewText": "I got tired of fighting my suitcase and backpack and ordered this little cutie! Perfect size for under the seat in the airplane and I can slip it right onto the handle of my suitcase! Even better - it matches my suitcase perfectly and It doesn\u2019t have a gazillion different pockets - easy access!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Caryn F",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH6SP5AWHAFFYACVSDAHF5OSVDXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2QHN3E9H8DVKR?ASIN=B0BM54WSFR",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2023",
+                "reviewTitle": "4.0 out of 5 stars Simple bag",
+                "reviewText": "I purchased this in the recycled cotton Galaxy Grey. I have owned many Vera bags over the years, but have not made a new purchase in the last 4 or 5. The material is soft cotton, and lightweight. I like that they skipped the traditional quilting for this particular style. Honestly it does not look like a Vera Bradley bag. Depending on your personal taste that may be a good or bad thing. Even the zipper pulls are non descriptive. For me, I am pleased with the aesthetic.My plan is to use this as a gym bag, and for short overnights. I\u2019m a size Large/ 12, and I can pack 2 jeans, tops, and a sweatshirt, 2 PJ (all rolled) as well as a small toiletries/ makeup bag. Just enough for 2 nights.For the gym, I can pack sneakers, and clothing with ease, fits a water bottle as well.The interior pockets are great for organizing those small items. The front pocket was large enough for my iPad and charging cables.I took off one star for the structure, Vera Bradley never puts any structure into the sides of its bags. It would make packing easier if it stood up on its own.Overall I\u2019m pleased with this purchase and am looking forward to using it.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Michele",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHA4VRYLG4RXEKBA3H2TGRNJP62A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1Y1F3X9XERF42?ASIN=B0BM54WSFR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 13, 2023",
+                "reviewTitle": "5.0 out of 5 stars Carry-on bag",
+                "reviewText": "This bag is perfect carry on travel bag. It has plenty of room for all I need to keep close.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 12, 2024",
+                "reviewTitle": "Damaged easily",
+                "reviewText": "One of the rings on the side ripped out. No idea how this happened.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "S and A",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on July 16, 2023",
+                "reviewTitle": "Beautiful bag",
+                "reviewText": "This was a beautiful bag. Although I love the print and size, I only returned the product as I found another that suited my purpose better. Definitely nothing wrong with the item, it was great quality!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Stephanie perry",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on June 14, 2023",
+                "reviewTitle": "Travel bag",
+                "reviewText": "Go for a short couple of days away.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Paulina",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on September 25, 2021",
+                "reviewTitle": "Perfecta y espaciosa !",
+                "reviewText": "Le cabe todo!! No la uso para viajar pero soy profesora y le caben todas mis cosas de uso personal, la compu, ipad, y bote de agua. En realidad es muy c\u00f3moda.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Marie-Laure Beauchemin",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 22, 2021",
+                "reviewTitle": "Beautiful and light!",
+                "reviewText": "This bag is so spacious and has tons of little pockets for your phone and charger and things! I\u2019m impressed how light it is considering how big it is! Perfect for travels or for bringing pyjamas and clothes somewhere.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

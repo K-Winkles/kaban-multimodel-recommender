@@ -1,0 +1,550 @@
+{
+    "remaining_requests": 17809,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Gildan-Blank-T-Shirt-Unisex-Style/dp/B079BDGBZ3",
+    "body": {
+        "name": "Gildan Blank T-Shirt - Unisex Style 5000 Adult",
+        "price": "$7.14 - $9.29",
+        "originalPrice": "",
+        "rawPrice": 7.14,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Gildan-Blank-T-Shirt-Unisex-Style/dp/B079BDGBZ3",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B079BDGBZ3"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B079B4XX8P",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31uTASOzagL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079B98JJ2",
+                "variationName": "Color",
+                "variationValue": "Charcoal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31bEy6fvmZL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079B652X8",
+                "variationName": "Color",
+                "variationValue": "Dark Heather Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PyEpiT+uL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079BDS9PM",
+                "variationName": "Color",
+                "variationValue": "Maroon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41eKVJtVM5L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079B9PS5W",
+                "variationName": "Color",
+                "variationValue": "Safety Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41-zbvcu9wL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079BBSWLC",
+                "variationName": "Color",
+                "variationValue": "Sports Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41txYBAUl0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079B8ZTJZ",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01F4cfDs1MS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDYYWXQC",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31S2BymDc0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079BCZ6RW",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31d0V1bVyFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079B4TJXF",
+                "variationName": "Color",
+                "variationValue": "Safety Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41mCOKI7VpL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079BCVWDW",
+                "variationName": "Color",
+                "variationValue": "Sapphire",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31M2prm2fUL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079BG1VCS",
+                "variationName": "Color",
+                "variationValue": "Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/311Tf1USNmL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079BMFCVQ",
+                "variationName": "Color",
+                "variationValue": "Heleconia",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/311s5v0l4pL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079B6QPFZ",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/316ZMT5btwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079B4N49P",
+                "variationName": "Color",
+                "variationValue": "Safety Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41t-w3rtylL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079BFFKMH",
+                "variationName": "Color",
+                "variationValue": "Military Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Z0IxMN8ML._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CCFBLC3Q",
+                "variationName": "Color",
+                "variationValue": "Azalea",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41kFGsVOdfL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDYZKG6X",
+                "variationName": "Color",
+                "variationValue": "Dark Chocolate",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21ESdidLg3L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDZ7RL2F",
+                "variationName": "Color",
+                "variationValue": "Dark Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EIQEyf5zL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDYP5PDD",
+                "variationName": "Color",
+                "variationValue": "Ice Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31oF9OmrDlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDYQ51YM",
+                "variationName": "Color",
+                "variationValue": "Indigo Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EbiyHoyQL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDYQSLCM",
+                "variationName": "Color",
+                "variationValue": "Irish Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41b0TUrdwdL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDYLYJG1",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41pVWjZh3dL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDYRTKW2",
+                "variationName": "Color",
+                "variationValue": "Light Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3180+HWuM6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDYMCTY9",
+                "variationName": "Color",
+                "variationValue": "Royal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Un29KXMIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDYYR4CQ",
+                "variationName": "Color",
+                "variationValue": "Texas Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41+jNaQRoAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDYVCSMC",
+                "variationName": "Color",
+                "variationValue": "Cardinal Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41cOTkvFNAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDYW756N",
+                "variationName": "Color",
+                "variationValue": "Carolina Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41tB32V8JXL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDZ1ZKPV",
+                "variationName": "Color",
+                "variationValue": "Ash Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/416Vtt37+gL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CDYZS67P",
+                "variationName": "Color",
+                "variationValue": "Cornsilk",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41BjPUvGRxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CCFDM5C6",
+                "variationName": "Color",
+                "variationValue": "Natural",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41SlgdjJGsL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B1CMH4XN",
+                "variationName": "Color",
+                "variationValue": "Lightblue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/113aLPljRxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B1CNH4JY",
+                "variationName": "Color",
+                "variationValue": "Turf Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Ja-uF3aIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00DS2TI1O",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31EqC+WxUtS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CCFWN15C",
+                "variationName": "Color",
+                "variationValue": "Kiwi",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31suJxjEdlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079B5TG6P",
+                "variationName": "Color",
+                "variationValue": "Daisy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31CH9QTXEcL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079B9J2DN",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B079B8KPWM",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B079B6FN8V",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B079B4XX8P",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B079BB4Z9N",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B079BFZQNW",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B079B8477R",
+                "variationName": "Size",
+                "variationValue": "4X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B079B57QWY",
+                "variationName": "Size",
+                "variationValue": "5X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31uTASOzagL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51-WfNv4KeL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41hPkcntjuL.jpg"
+        ],
+        "imagesCount": 3,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Gildan Store",
+            "link": "https://www.amazon.com/stores/Gildan/page/D5CBBFE7-8298-44BE-A526-1B584C2B5DE3?ref_=ast_bln"
+        },
+        "brand": "Gildan",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 568,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type Jersey Knit",
+            "Care instructions Machine Wash",
+            "Origin Made in the USA or Imported",
+            "Closure type Pull On",
+            "Preshrunk jersey knit",
+            "Taped neck and shoulders",
+            "Double-needle bottom hem",
+            "Quarter-turned to eliminate centre crease"
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Shirts",
+                "link": "https://www.amazon.com/Mens-Shirts/b?ie=UTF8&node=2476517011"
+            },
+            {
+                "name": "T-Shirts",
+                "link": "https://www.amazon.com/Mens-T-Shirts/b?ie=UTF8&node=1045624"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Item Weight \u200f",
+                "value": "\u200e 1.6 Ounces"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e January 26, 2018"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B079B9J2DN"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#10,505 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #269 in Women's T-Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 568 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Latoyia G",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG62VIMNHI5YY3WRPI6JD6D73FCQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R6XFRROOAXCST?ASIN=B079BDGBZ3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 24, 2023",
+                "reviewTitle": "5.0 out of 5 stars Awesome",
+                "reviewText": "Although this shirt is plain and nothing extravagant. The feel and fabric was on point.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Solyneth Chneang",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH3TLT7FR7D6BP5HXYHTZ2LM4KHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R9CKA4Y1544A1?ASIN=B079BDGBZ3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 15, 2023",
+                "reviewTitle": "5.0 out of 5 stars Durable!",
+                "reviewText": "We bought the T-shirt for my daughter to wear at her dance show. It needed to be comfortable and stretchy, and it was just that! It\u2019s a great buy for the money!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Connie Harris",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEVV7AP2MICG3YK3MMZNDQVSKYBA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3OMP0KNO2Z8DM?ASIN=B079BDGBZ3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 13, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great quality",
+                "reviewText": "Fits great",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "John and CC",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE5ZPSAKKL32D5PPPV7NUVTXLTFA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R24YC6UXW1T188?ASIN=B079BDGBZ3",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 19, 2023",
+                "reviewTitle": "4.0 out of 5 stars Scratchy fabric and no free returns plus update",
+                "reviewText": "This fabric is stiff and not soft at all. The sizing is unisex so difficult to figure. Men have no hips so hard to fit women. One size was huge and the other fit except the neck was choking me. Their free returns are not free. They have a label that comes in the package. You can use that and send it back for free. Then they take off the shipping charges from your return credit. So very deceiving on their free returns. I wasn't expecting a high end T shirt. I just wanted to make a inexpensive Halloween T Shirt for a party, so I didn't set the bar very high. Didn't matter, they couldn't even meet my low expectations. Update....Customer service was excellent. They were quick to resolve my return question . That speaks volumes to me and completely changes my mind about a seller.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "William Burns",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE5BAJKX7LCKMGDEXZEJH4LFLVOA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1Q6NJWRBTSPV?ASIN=B079BDGBZ3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 7, 2023",
+                "reviewTitle": "5.0 out of 5 stars worth it!",
+                "reviewText": "this shirt is so comfy but it also so simple and pairs well with anything.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gladys",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH2E3Z7ZBTZ37HK466Q7C4ATDP3Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R388UPFREMIN1U?ASIN=B079BDGBZ3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 18, 2023",
+                "reviewTitle": "5.0 out of 5 stars Right fit",
+                "reviewText": "This t shirt is true to the size.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Moe",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGIM2TBDRCTKFRSB765KPK35ZJJQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2AWS0J708FEQX?ASIN=B079BDGBZ3",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 17, 2023",
+                "reviewTitle": "3.0 out of 5 stars Red t-shirt",
+                "reviewText": "I like the t-shirt, but it is way too long. I will have to cut and sew it.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "KT the Smart Consumer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE24CI2LKSLT3FL3DQPBSACLDAZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3G10SP3J54489?ASIN=B079BDGBZ3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 31, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great quality",
+                "reviewText": "Perfect length, great quality, correct sizing and color",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

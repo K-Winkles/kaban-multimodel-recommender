@@ -1,0 +1,616 @@
+{
+    "remaining_requests": 12891,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Sunzel-Nunaked-Crossover-Workout-Control/dp/B0CMDD3GK1",
+    "body": {
+        "name": "Softmax Crossover Biker Shorts for Women, V Criss Cross High Waist Yoga Workout Gym Shorts with Tummy Control",
+        "price": "$19.19 - $23.99",
+        "originalPrice": "",
+        "rawPrice": 19.19,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Sunzel-Nunaked-Crossover-Workout-Control/dp/B0BXDMRVKD",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BXDMRVKD"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0CRDQ9B1Y",
+                "variationName": "Color",
+                "variationValue": "Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31nOWYi0KlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CMDGDVSF",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31LZRviMfGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CMDFS1JY",
+                "variationName": "Color",
+                "variationValue": "Bubblegum Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31kUGF3BxwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CMDH7RHW",
+                "variationName": "Color",
+                "variationValue": "Charcoal Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31PyqPN48+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CMDC2FC5",
+                "variationName": "Color",
+                "variationValue": "Chocolate Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31dx8i3V7hL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CMDFTMBQ",
+                "variationName": "Color",
+                "variationValue": "Periwinkle",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31NfKDg1JHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CP5TMBCD",
+                "variationName": "Color",
+                "variationValue": "Petunia",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31gZqWpPdQL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CMDDTVHF",
+                "variationName": "Color",
+                "variationValue": "Deep Lagoon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/311RtqxmBvL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Blue Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3119jWVUFWL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CMDGZ2S4",
+                "variationName": "Color",
+                "variationValue": "Classic Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31g1wL+d1fL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "French Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3150qudJToL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Greenery",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31rKvFP-wfL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Lilac Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31z2cXGETsL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Milkshake Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3198ERaYuHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Mint Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31BQXrhREOL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Olive Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31qQX199hdL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Seal Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31K2mSex6TL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XAlIlgpkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Wine Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/311fwjI4BBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CMDD3GK1",
+                "variationName": "Color",
+                "variationValue": "Hot Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31RKtu9g7+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Light Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31pgp383NbL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/418brYRAPAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Orange Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313F2pjodIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Purple Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/311yXJNuEQL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31E9ySvLX4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BSGZMHFG",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CMDCPHKB",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CMDD3GK1",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CMDJ9NJD",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BSH2YS35",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BSGZVJN4",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31OnO8VbxeL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/312nJeFzOpL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/314BvaPJSjL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31OAVFZB1DL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31RgMG-lZcL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31 8kmYgr3L.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Sunzel Store",
+            "link": "https://www.amazon.com/stores/Sunzel/page/43513305-3B69-4FBC-9C7B-6C525383A7C3?ref_=ast_bln"
+        },
+        "brand": "Sunzel",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 1399,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 70% Nylon, 30% Spandex",
+            "Care instructions Hand Wash Only",
+            "Origin Imported",
+            "Closure type V Crossover Waist",
+            "[ Yoga Shorts With Crossover Waistband ] - These Softmax v waisted shorts features a subtle V-shaped front waistband and glute-flattering back waistband that perfectly show off your curves!",
+            "[ Double Brushed Fabric ] - These medium compression shorts are made with our custom durable, ultra-soft, and breathable fabric for a soft, second skin feel and high stretch retention.",
+            "[ The Moves ]: Designs that will keep you comfortable all day long, no matter what you may be up to. Your go-to, do-everything, go-everywhere bike short.",
+            "[ Must-have features] They don\u2019t ride up, naked feeling, non see-through, side pockets, squat proof, tummy control, high waist, seamless waistband, compression and super stretchy.",
+            "[Inseam Length] Designed with 4-inch inseam length, plain designs that are classic but never boring."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Active",
+                "link": "https://www.amazon.com/Womens-Activewear/b/ref=dp_bc_aui_C_4?ie=UTF8&node=3456051"
+            },
+            {
+                "name": "Active Shorts",
+                "link": "https://www.amazon.com/Womens-Athletic-Shorts/b/ref=dp_bc_aui_C_5?ie=UTF8&node=1046590"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 10.08 x 8.82 x 0.79 inches; 3.21 Ounces"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e February 17, 2023"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Sunzel"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0BSGZMHFG"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#3,436 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #25 in Women's Athletic Shorts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 1,399 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Stay comfortable and stylish with Sunzel irresistibly soft biker shorts Biker Shorts for Women: Casual, Sexy and Comfortable",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c6d4521d-1413-4b12-ad19-1ac5575d709b.__CR0,0,4575,1875_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Buttery Soft That'll Provide Easy, Breezy Comfort! Naked Feeling Experience Comfort Beyond Imagination with Sunzel Biker Shorts V Seam Design V-seam is a unique seam located on the back of these shorts, providing a flattering fit",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ace828f0-a42e-47c1-a374-0eef5550539b.__CR0,0,2031,1094_PT0_SX650_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/170bc5e4-d97e-4557-8d2c-397a63303014.__CR0,0,2031,1094_PT0_SX650_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Crossover Biker Shorts For Exercising and Everything Else Comfortable and versatile enough to wear during a workout or under an oversized T-shirt and blazer during brunch with friends High Waist Biker Shorts To Move Freely These shorts have breathable fabric, comfortable elastic, good fit, stretchable waistband, and more to ensure optimal comfort. They allow you to move freely without restrictions to help you exercise properly Squat Proof Biker Shorts Buttery Soft Biker Shorts To Sweat In This Summer Tummy Control Shorts Will Be Your Ultimate Workout Buddy. With a high-rise waistband and ergonomic seams, these shorts enable a wide range of moves. Baby Blue Biker Shorts High waist and full coverage with fabric softer than clouds This high waist biker short combines comfort and style in our stunning Baby Blue",
+                "media_link": []
+            },
+            {
+                "media_text": "Beat the heat with our ultra-comfortable shorts for the perfect summer practice",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8a78998b-f2a0-48bb-8d7d-f97ed8ae098a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Sunzel's New Line: Where Elegance Meets Edge Cropped Tops with Ruffles Add to Cart High Neck Halter Crop Top Add to Cart Hidden Scrunch Leggings Add to Cart Mini Flare Leggings Add to Cart Ribbed Flare Leggings Add to Cart Customer Reviews 4.6 out of 5 stars 247 4.5 out of 5 stars 48 4.3 out of 5 stars 351 4.3 out of 5 stars 136 4.3 out of 5 stars 158 Price $19.99$19.99 $23.99$23.99 $23.79$23.79 $27.99$27.99 $27.99$27.99 Fabric Soft Ribbed Texture Soft Ribbed Texture Nylon Blend Fabric Nylon Blend Fabric Soft Ribbed Texture Buttery Soft \u2714 \u2714 \u2714 \u2714 \u2714 Stretchy \u2714 \u2714 \u2714 \u2714 \u2714 Breathable \u2714 \u2714 \u2714 \u2714 \u2714 Perfect For Workout, Yoga & Daily wear Workout, Yoga & Daily wear Workout, Yoga & Daily wear Workout, Yoga & Daily wear Workout, Yoga & Daily wear",
+                "media_link": []
+            },
+            {
+                "media_text": "Thumbs Up! They\u2019re Squat-Proof to Boot and Won't Slid Down Or Ride Up! Cropped Tank Top Add to Cart Biker Shorts with Pockets Add to Cart No Front Seam Bike Shorts Add to Cart Seamless Scrunch Shorts Add to Cart 10 Inch Biker Shorts Add to Cart Customer Reviews 4.5 out of 5 stars 1,392 4.5 out of 5 stars 19,013 4.5 out of 5 stars 3,492 4.4 out of 5 stars 3,220 4.5 out of 5 stars 1,340 Price $28.99$28.99 $23.99$23.99 $23.99$23.99 $25.99$25.99 $19.99$19.99 Buttery Soft \u2714 \u2714 \u2714 \u2714 \u2714 Pockets \u2014 Yes No No Yes Breathable \u2714 \u2714 \u2714 \u2714 \u2714 Sweat Wicking \u2714 \u2714 \u2714 \u2714 \u2714 Stretchy \u2714 \u2714 \u2714 \u2714 \u2714",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c6d4521d-1413-4b12-ad19-1ac5575d709b.__CR0,0,4575,1875_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ace828f0-a42e-47c1-a374-0eef5550539b.__CR0,0,2031,1094_PT0_SX650_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/170bc5e4-d97e-4557-8d2c-397a63303014.__CR0,0,2031,1094_PT0_SX650_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8a78998b-f2a0-48bb-8d7d-f97ed8ae098a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/93670f5d-073b-44be-b1c3-c44deb5b327c.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9365bc78-44f1-417c-a60a-794644615d33.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/472e7bc4-1eef-455b-9870-2df76e8e93c6.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/865241b1-8adb-45dc-a219-d856b330adf7.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/56814921-e0ad-47df-8970-ff9f099884eb.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c058ad87-6197-4b28-88a8-75a9dab924c2.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/204f6ccd-97d0-4a5d-9458-de7af15780ee.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/06e352e1-0757-429b-bc0f-19792b7f3fb5.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/898e4c61-0bfc-4482-be2f-a3bec9d7e86e.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/409222dc-5afd-455f-b1d1-4707c145df89.__CR0,0,200,225_PT0_SX200_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Jonathan S.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AELF2JSI2RLUHLQIWUND3S6OX7DQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RIUFKYR4L10AZ?ASIN=B0BXDMRVKD",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 24, 2023",
+                "reviewTitle": "5.0 out of 5 stars Cloud comfort",
+                "reviewText": "These shorts are perfect since I was looking for longer ones. They\u2019re great biker shorts but the top is flattering since it\u2019s the cross v type. You do have to pull it up sometimes to adjust but I didn\u2019t find it rolling for the majority of the night. It\u2019s buttery soft and thin, comfortable material. It\u2019s an A for me",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "vee",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFYX33YWLJI4LD64HTJLAU654FDA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3NYM8T68MJKCK?ASIN=B0BXDMRVKD",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 19, 2023",
+                "reviewTitle": "5.0 out of 5 stars GET EM",
+                "reviewText": "I absolutely love these. they are soft, thick, snug, and very flattering",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "arf2027",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH2Z64EXNLOJ3BVHZUGAMANXTNUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3LXLAMPP7PAXK?ASIN=B0BXDMRVKD",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 22, 2023",
+                "reviewTitle": "4.0 out of 5 stars Comfy, cute, very short.",
+                "reviewText": "These were very cute and comfy. True to size. I\u2019m a 4-6 and got a Medium. Had to return because they were just too short for my personal liking.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Leslie aguilarLeslie aguilar",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGSACO7XP7YMIWDIRI7I5KS7I64Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RM9LATQFLIUC1?ASIN=B0BXDMRVKD",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars you have to get!!!",
+                "reviewText": "i have a mom belly (small apron belly) and absolutely loved these shorts!!! it hid my belly so well and was so flattering. i got a size medium but should have gotten a small for better compression! but i LOVE and already have in my cart 4 other colors. im 4\u201911 and 128 lbs and they mediums feel good!! next time i will be going with a size small :))",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/713sxoJqEyL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71OywTzI89L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Coach Genia",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEFFMJVXYYXPYA6LDZ33AJGRDE4Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3OGIBZVNNIA1C?ASIN=B0BXDMRVKD",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars THESE FIT AMAZING",
+                "reviewText": "These shorts are not see through at all. The fit is great and are so soft.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "God loves you!",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF5MUYPSZK2AUWNFZGDZKJFPHUSA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1CO7CXOZYXYBC?ASIN=B0BXDMRVKD",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 31, 2023",
+                "reviewTitle": "3.0 out of 5 stars Cute and comfy shorts, but not for working out",
+                "reviewText": "These shorts are really cute! I am 5\u20197\u201d, ~145 lbs, and my usual size Medium fit perfectly. The crossover waist stays in place and looks very flattering. However, the legs of the shorts do ride up constantly, and the shorts are pretty short to begin with. Unless I am adjusting them frequently, they will ride all the way up to the bottom of my butt. For this reason, I would not wear them to the gym (which is what I was hoping to use them for), but because of how cute and otherwise comfortable they are I have worn them with oversized t shirts for casual outfits outside of the gym. Would love if Sunzel made a crossover waist without scrunch in a little bit longer length!",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "annaanna",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEHUK2YLMDUJAMKLU67PBEZSJLVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2KR5CDLXMSPBR?ASIN=B0BXDMRVKD",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars So soft and comfy",
+                "reviewText": "The tummy control is on point. These are super soft and squat proof. They do not ride up. I\u2019m 150 and about 5\u20198. I got a medium in several colors :)",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61OuABU5MML.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61VVwkSszNL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "CandaceLea",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFOPXB5GUTAWDIFCCQEZPDQSMERQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RQ2D9WJ7LWC4Z?ASIN=B0BXDMRVKD",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars TTS",
+                "reviewText": "Super soft",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cole",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 19, 2023",
+                "reviewTitle": "Comfiest most flattering shorts",
+                "reviewText": "I absolutely love these shorts, they\u2019re everything I wanted and more. The cross over detail in the front snatches your waist and really flatters your figure. The colours are beautiful and I absolutely love the quality of the fabric. It is so soft and thick enough that they are squat proof. Love the seamless front. I will be buying these in every colour. Love sunzel\u2019s stuff!!",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tammy Lynn Tammy Lynn ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on April 6, 2023",
+                "reviewTitle": "The best type of shorts",
+                "reviewText": "I am in love with the fit of these shorts - for reference I got a size medium and I am usually 125 pounds and 5\u20197 and they fit like a dream! I love them so much and super stretchy and comfortable. I would recommend so much if you like comfortable shorts!",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71EfQeUCnML.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71dQ2U8eO-L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71D5iYDYNxL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Christina de Sa",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 27, 2023",
+                "reviewTitle": "Love them",
+                "reviewText": "Bought a pair for my daughter as well. They look so good on her. I love mine, wore them all summer. Super soft, excellent quality, stretchy material. They don\u2019t really suck in the belly though",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Hana",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 18, 2023",
+                "reviewTitle": "So cute & soft",
+                "reviewText": "These shorts are like Lulu Align dupes. Really soft and cute. The V cross waistband is flattering",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "CaitCait",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 23, 2023",
+                "reviewTitle": "Love these shorts!",
+                "reviewText": "These shorts are so soft and flattering! Smooth soft fabric (similar to align).",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/710LfGN9svL.jpg"
+                    ],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

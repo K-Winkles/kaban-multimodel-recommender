@@ -1,0 +1,576 @@
+{
+    "remaining_requests": 17333,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Amazon-Essentials-Womens-High-Rise-Skinny/dp/B0CTZVXSV5",
+    "body": {
+        "name": "Women's High-Rise Skinny Jean",
+        "price": "$27.90 - $33.20",
+        "originalPrice": "",
+        "rawPrice": 27.9,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Amazon-Essentials-Womens-High-Rise-Skinny/dp/B0CTZVXSV5",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CTZVXSV5"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07QTDKS4G",
+                "variationName": "Color",
+                "variationValue": "Black Rinse",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31LKGPgFFUL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07QTVQNXR",
+                "variationName": "Color",
+                "variationValue": "Dark Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31fW10v4xHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07QTVR9YC",
+                "variationName": "Color",
+                "variationValue": "Light Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31W2kzx3-rL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07QNZ3SLH",
+                "variationName": "Color",
+                "variationValue": "Medium Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41SSp3fgbzL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07QQ2XPSJ",
+                "variationName": "Size",
+                "variationValue": "0 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QSC945Y",
+                "variationName": "Size",
+                "variationValue": "0",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QTDKS3G",
+                "variationName": "Size",
+                "variationValue": "0 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QSC7CTR",
+                "variationName": "Size",
+                "variationValue": "2 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QTDKQH6",
+                "variationName": "Size",
+                "variationValue": "2",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QQ2X4M3",
+                "variationName": "Size",
+                "variationValue": "2 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QR73X3Y",
+                "variationName": "Size",
+                "variationValue": "4",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QQ2Y17S",
+                "variationName": "Size",
+                "variationValue": "4 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QVTT8T8",
+                "variationName": "Size",
+                "variationValue": "4 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QTVKXY5",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QR73X54",
+                "variationName": "Size",
+                "variationValue": "6 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QNZ3L8K",
+                "variationName": "Size",
+                "variationValue": "6 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QR73T59",
+                "variationName": "Size",
+                "variationValue": "8 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QTVRF56",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QTDKS4G",
+                "variationName": "Size",
+                "variationValue": "8 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QR747W2",
+                "variationName": "Size",
+                "variationValue": "10 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QVSSM6M",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QTVLKSQ",
+                "variationName": "Size",
+                "variationValue": "10 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QR73W1J",
+                "variationName": "Size",
+                "variationValue": "12 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QTDFJZ2",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QQ2X4K1",
+                "variationName": "Size",
+                "variationValue": "12 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QR6Z1HM",
+                "variationName": "Size",
+                "variationValue": "14 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QTDKQJC",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QTDKS2M",
+                "variationName": "Size",
+                "variationValue": "14 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QTDKQJN",
+                "variationName": "Size",
+                "variationValue": "16 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QR74633",
+                "variationName": "Size",
+                "variationValue": "16",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QR73T53",
+                "variationName": "Size",
+                "variationValue": "16 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QTVLKTZ",
+                "variationName": "Size",
+                "variationValue": "18 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QVSSM8V",
+                "variationName": "Size",
+                "variationValue": "18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QNZ3L71",
+                "variationName": "Size",
+                "variationValue": "18 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QTVQ5YV",
+                "variationName": "Size",
+                "variationValue": "20 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QR73W18",
+                "variationName": "Size",
+                "variationValue": "20",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07QSC98TF",
+                "variationName": "Size",
+                "variationValue": "20 Long",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31LKGPgFFUL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/515hhNE20CL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41nR3tgdD1L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41YNJSEs51L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41gnKTodN-L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/419Yc 54j-L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51qP htTP3L.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9533b77b-a11b-4800-96cd-15c152ca179a/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Amazon Essentials Store",
+            "link": "https://www.amazon.com/stores/AmazonEssentials/page/F8FB6F3C-F896-455C-BC52-7879F4CEF0CF?ref_=ast_bln"
+        },
+        "brand": "AmazonEssentials",
+        "merchantInfo": "",
+        "customerReview": "4.2 out of 5 stars",
+        "customerReviewCount": 7052,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": true,
+            "details": "OEKO-TEX STANDARD 100 requires textiles-based products to be tested against a list of 1,000+ chemicals, to limit those which may be harmful to human health. Certification focus: #ProductSafety and #ChemicalsUsed."
+        },
+        "features": [
+            "Fabric type 79% Cotton, 18% Polyester, 3% Elastane",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Button",
+            "SKINNY FIT: Snug fit through hip, thigh, and leg. Mid rise, sits below the natural waist.",
+            "HIGH STRETCH DENIM: Cut from cotton-blend denim with added stretch for all-day comfort and better fit.",
+            "ESSENTIAL SKINNY JEAN: These high-rise skinny jeans will be your go-to wardrobe essential. The slim and flattering silhouette allows for endless styling options. High rise waist allows for easy pairing with cropped silhouettes.",
+            "DETAILS: Authentic five-pocket styling, zip fly, shank button closure, and skinny leg. Available in short, regular, and tall inseam lengths. All denim is unique and will vary in color due to wash, finish, and dye.",
+            "INSEAM: Offered in 3 lengths - Short 27\", Regular 29\", & Long 31\" each with a 5\" leg opening on US size 6."
+        ],
+        "description": "Amazon Essentials is focused on creating affordable, high-quality, and long-lasting everyday clothing you can rely on. Our line of women's apparel includes cashmere sweaters, fleece and down jackets, and more, including plus-size options. Our consistent sizing takes the guesswork out of shopping, and each piece is put to the test to maintain the highest standards in quality and comfort.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Womens-Jeans/b?ie=UTF8&node=1048188"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 14.72 x 8.5 x 1.93 inches; 13.44 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e AE1906536"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e December 13, 2019"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Amazon Essentials"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07QQ2XPSJ"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#719 in Our Brands (See Top 100 in Our Brands) #42 in Women's Jeans #208 in Climate Pledge Friendly: Apparel"
+            },
+            {
+                "name": "#208 in Climate Pledge Friendly",
+                "value": "Apparel"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.2 4.2 out of 5 stars 7,052 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "shoeaholic",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFEQ5MJSS74RDS7HYCH5LOK7FEHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3OLKPCB69GVUA?ASIN=B0CTZVXSV5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 17, 2023",
+                "reviewTitle": "5.0 out of 5 stars Fabulous at first try-on!!",
+                "reviewText": "Although reviews are varied, I decided to take a swing at these \"curvy skinny jeans\" - a first for me. I am 58, 5'5\" and 178 lbs. Kinda pear-shaped - thick in the legs and no longer as small in the waist as I used to be. Was looking for a jean look that would fit my fuller calves to wear with boots. After reading the reviews wasn't sure what to expect, but when I tried them on I was very pleasantly surprised in most ways.PROS: A trim jean look, small enough waist to not slide down, but not so small that I can't breathe, enough stretch for comfort, and best of all, a perfect fit for my slightly heavy legs to tuck into boots.CONS: the black rinse isn't black at all. Very deep denim blue instead.The material seems ok now, but it's just flimsy enough that I wonder how long they will look good. I will wash them in cold with woolite and hang them to dry. Anyone drying a fabric this stretchy in the dryer is just asking for their clothing to disintegrate.Also, if you are very slender in the legs and bigger around the middle, these probably won't be ideal if you are looking for something form-fitting.Will update this in a few weeks as I see how these jeans perform.:-)",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kellin Scott",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGXU3AJ7A42LGYDTYHVR6PA5DJUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R302ODEL4RLMFM?ASIN=B0CTZVXSV5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "5.0 out of 5 stars The only jeans that have ever fit me right!",
+                "reviewText": "I am 5'6\" and about 120 lbs. I have very long legs and typically jeans are too big around my waist and do not reach anywhere near my ankles. These are PERFECT with a good amount of stretch so they don't suffocate me when I sit down. I wish the pockets were a bit bigger but that's my only complaint.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tanya R",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEGBYH2MLA325MWNC6Z2PVWE7AQQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1V8ZOOXNAKOUC?ASIN=B0CTZVXSV5",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 30, 2023",
+                "reviewTitle": "4.0 out of 5 stars Good inexpensive jean - nice color and fit",
+                "reviewText": "Jeans are so hard to fit, plus my size has been changing as I recently lost a lot of weight. But when a self-described apple shaped and short \"mid sized\" influencer suggested these jeans, I decided to try them.Pluses:-Shorter inseam perfect for those of us that are less than 5' 2\"-Good waist to hip ratio (for those of us who have hips and curves)-Enough stretch to fit around the lumps, but not too much to stretch out and sagFlattering dark wash (and per the instructions on the packaging, I washed them first to avoid color rubbing off)Minuses-Not the softest material (don't expect them to feel like those high-end brands)-Feels like it won't last a super long time (but priced accordingly) - I will update my review if I find it wears out too quickly",
+                "reviewVotes": "11 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHRSQHRWM5KJJ3FRYYFLDUJ25NZQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1D1SVZEWOVM4B?ASIN=B0CTZVXSV5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 10, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfy fit",
+                "reviewText": "I was skeptical about ordering jeans from Amazon. However, I liked the style, color, price, and texture of these as described. I\u2019ve worn them and really like everything about them. (I have long legs, and the inseam fit well.)",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ShannonShannon",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE5F4QNZDUZY63YXUCLAMBS65IYA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RWSFOHHN83UOJ?ASIN=B0CTZVXSV5",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 19, 2020",
+                "reviewTitle": "3.0 out of 5 stars Dark Wash and Rinse are the same color",
+                "reviewText": "I started off only buying the one pair, but was so pleased with the fit that I ordered another 2 in \"different\" colors. All together, I've got the \"light wash\", \"rinse\", and \"dark wash\".One thing I really really love about these pants is the consistent sizing. Whenever I find a pair of jeans that fit good, I tend to buy all the colors. But I've never had a brand before where the fit was perfectly the same on every pair. However, that is absolutely the case here. Very impressed. Personally I find the sizing spot on. I'm between a 14 and a 16, I ordered the 16, and I could probably size down if I really wanted to, but I'm happy with how these fit as a 16.I only wear jeans to work in, and I'm extremely happy with how comfortable these are. The stretch is unbelievable. Definitely closer to jeggings than denim jeans, but with better support and a more comfortable waist than typical jeggings (plus actual pockets!!!). But squatting all day in these is not a problem at all. They move with me so effortlessly.As for my complaints. Unfortunately because the material is so extremely not denim, after just one day of wear, the inner thighs started pilling. So I don't really have high hopes that they'll last very long before they rub so thin they rip. But even in actual denim, that's always the fate of my jeans after about 4 months anyways. And these are pretty cheap, so I'm definitely willing to see how well they compare.And weirdly enough (this is not a problem I've ever had, so I don't know what causes this), you have to be very careful to pull them on straight. Otherwise, for me, the back seam ends up a solid inch too far to the left of my crack. Which, since these are so form fitting to the booty, is very noticeable. Maybe I would be better off with a 14? Like if they were tighter, they could only go on straight? I don't know. But, worth the mention.And my final complaint is that two of their colors, rinse and dark wash, are IDENTICAL. I've included photos as proof, where I've labeled which leg is which \"color\". (For the record, the \"rinse\" side is only baggy looking because I'm wearing it overtop the dark wash). So. Maybe don't bother getting both colors. I'm also thinking \"light wash\" and \"medium wash\" may be the same, because their photos looked as similar as the \"rinse\" and \"dark wash\" did. But I'm so sure that that's the case that I have no interest in ordering the \"medium wash\", so I'll never know.",
+                "reviewVotes": "73 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/61OFbZlNsLL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/61rSo-22llL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Julie C-B",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEVY5A2ZCJRLED3XDBR6JFB7GTKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R18L03ID83XRXM?ASIN=B0CTZVXSV5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great fitting and comfortable",
+                "reviewText": "Love these jeans. They fit like a dreamand are so comfortable I cd wear them to gym class. Would LOVE a pair in straight leg and another in bootcut.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Willow",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH2H6UTBKQQI6PV2BA7IUVLRZOMQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RQH88027RJSJ2?ASIN=B0CTZVXSV5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 14, 2022",
+                "reviewTitle": "5.0 out of 5 stars OMG, SOOOOOO Comfortable!",
+                "reviewText": "I have bought this same brand in just the regular skinny (not high waisted) in 2 colors. The dark blue ones, which fit great though slightly tight in the calves and black ones, which are, for some reason, really tight on the calves (seem to be cut differently, not so comfy). I just received the High Rise ones in the medium wash. These are SO Fabulous! VERY comfortable, not overly tight, so if you're looking for a tight-tight skinny jean, these aren't it. These are soft, medium high-waisted (over the belly button), flattering to my figure (5'0 and around 127 lbs, and a bit hipp-y). I've worn them 2 days in a row I love them so much. The length of short is perfect for a 5' person, they're stretchy enough to flatter though too much stretch isn't really needed since they aren't super tight, they just move with you without pinching or clinging to your legs. They are absolutely perfect. I'm definitely going to order more in this cut! Highly recommend!",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Zoe Burke",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF3SBI3WTOVOTIKK5WAVLX7VD4KA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3U3742JQQ8FPX?ASIN=B0CTZVXSV5",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "4.0 out of 5 stars Nice quality, too big in hips and stomach area",
+                "reviewText": "I really like the color and rise of these jeans; they fit well over my legs themselves but are weirdly loose over my stomach/hips/butt. I typically wear a 4 in stretchy jeans but sometimes have to size down to a 2\u2026 I\u2019ve ordered another pair in a smaller size to see if that fixes the issue.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Pam",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 11, 2024",
+                "reviewTitle": "Love these jeans",
+                "reviewText": "I'm 5'7 most of my hight is in my legs. So finding jeans long enough is always a challenge. I ordered size 6 tall and they fit perfectly. They are a bit darker blue than the picture which I liked instantly. They are very comfortable.. definitely recommend \ud83d\udc4c",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Carolyn B",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 30, 2024",
+                "reviewTitle": "New favourite jeans",
+                "reviewText": "I can't believe I'm going to say this about an Amazon basics item, but these jeans are mt new favourites. They're very, very comfortable. They're holding up well to wear and washing. They're soft snd flexible but hold their shape. I genuinely feel good when I pull them on and that's hard to come by when I'm postpartum after baby number 3. I'm buying more.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lise",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 27, 2023",
+                "reviewTitle": "Tr\u00e8s bien",
+                "reviewText": "Tr\u00e8s bien",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "auntie sherr",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 6, 2023",
+                "reviewTitle": "Comfortable",
+                "reviewText": "Very comfortable",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mireille S.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 26, 2023",
+                "reviewTitle": "Arriver rapidement",
+                "reviewText": "Et s'ajuste tr\u00e8s bienJe recommande vraiment bien dedansAller commander ! Il y en aura plus",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

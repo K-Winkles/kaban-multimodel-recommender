@@ -1,0 +1,482 @@
+{
+    "remaining_requests": 13613,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Allegra-Womens-Casual-Ruched-Dresses/dp/B08CMTZMP7",
+    "body": {
+        "name": "Allegra K Women's Casual Shirt Dress Ruched 3/4 Sleeve Button Up Mini Dresses",
+        "price": "$34.99 - $36.99",
+        "originalPrice": "",
+        "rawPrice": 34.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Allegra-Womens-Casual-Ruched-Dresses/dp/B088TCWQ8T",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B088TCWQ8T"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B08CMJZNFQ",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/318H1lwuiwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0923RP1K5",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rOVDXTkWL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09785XR66",
+                "variationName": "Color",
+                "variationValue": "Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41he8xWRyKL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CRSST124",
+                "variationName": "Color",
+                "variationValue": "Dark Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31V+NXqV7aL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08Q42N5XB",
+                "variationName": "Color",
+                "variationValue": "Dark Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415wWpvz7IL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B1TRJ43T",
+                "variationName": "Color",
+                "variationValue": "Dark Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310TGmjPKUL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09783B7NP",
+                "variationName": "Color",
+                "variationValue": "Fuchsia",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sWzXq3kwS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B1TM2VZ8",
+                "variationName": "Color",
+                "variationValue": "Grass Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31n92OD21ML._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B083XCZNJ7",
+                "variationName": "Color",
+                "variationValue": "Lemon Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310VsNAZp8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0923QKV54",
+                "variationName": "Color",
+                "variationValue": "Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31TO-Pm89bL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0923PWY3M",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41aIVb3v59S._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09KNS6L7S",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41zpR4KqOIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B089QFQKQW",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31NRjGIei4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09785ZBWM",
+                "variationName": "Color",
+                "variationValue": "Dark Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313YvEEY-hL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B1TDSSN2",
+                "variationName": "Color",
+                "variationValue": "Fresh Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31WU5QGj0vL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08CZ47QXT",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31TDPHjKTLL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08CZ1G8D4",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31BYsmctfYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09KNWQQJK",
+                "variationName": "Color",
+                "variationValue": "Dark Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31kysfDXqtL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09KNVD6TY",
+                "variationName": "Color",
+                "variationValue": "Olive Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/316UnZ19AKL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09784J5XD",
+                "variationName": "Color",
+                "variationValue": "Blue Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31HfB6Wk9JL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09KNTNFP9",
+                "variationName": "Color",
+                "variationValue": "Light Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31q5OQhdayL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08CMY34L2",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08CMJZNFQ",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08CMTZMP7",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08CN3LDP7",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08CMWL576",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/318H1lwuiwL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41 P93aOsaL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41l0MADHeML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/411kk0o2LCL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41D8UwA8DEL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41sfzlvInIL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Allegra K Store",
+            "link": "https://www.amazon.com/stores/AllegraK/page/6F3603F0-6ED1-4654-97F6-8A4CF37AAC6C?ref_=ast_bln"
+        },
+        "brand": "AllegraK",
+        "merchantInfo": "",
+        "customerReview": "4.0 out of 5 stars",
+        "customerReviewCount": 322,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type Shell:100%Cotton Lining:100%Polyester",
+            "Care instructions Machine Wash",
+            "Closure type Button",
+            "Neck style Point Collar",
+            "Point Collar, 3/4 Sleeve with Button Cuffs, Button Front, Ruched Detail, Elastic Empire Waist, Unlined, Cotton Shirtdress",
+            "Occasion: Daily Casual, School, Work, Shopping, Walk the Dog, Going Out, Weekend Gathering, etc",
+            "Pair with plimsolls and crossbag for weekend style",
+            "Machine Wash Cold with Like Colors",
+            "Designed dress length: Mini. Hemline falls above knee for 5\u20191\u2019\u2019/at mid-tight for 5\u20194\u2019\u2019 or above. Model Size is 5\u20199\u2019\u2019 and 115 lbs wearing XS."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Dresses",
+                "link": "https://www.amazon.com/Dresses/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045024"
+            },
+            {
+                "name": "Casual",
+                "link": "https://www.amazon.com/Casual-Dresses/b/ref=dp_bc_aui_C_5?ie=UTF8&node=2346727011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 10.87 x 4.88 x 1.73 inches; 7.37 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e a20061100ux0104"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 9, 2020"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Allegra K"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B08CMY34L2"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#135,063 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #1,301 in Women's Casual Dresses"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.0 4.0 out of 5 stars 322 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Other Casual Outfits can Choose Here Cotton Frilled Top See Details Tie Waist Pleated Dress See Details Wide Leg Romper Jumpsuit See Details Midi Smocked Floral Dress See Details Denim Pencil Skirt See Details Cropped Denim Jacket See Details Button Up Shirt Dress See Details Customer Reviews 4.0 out of 5 stars 111 \u2014 \u2014 4.2 out of 5 stars 143 4.4 out of 5 stars 14 4.4 out of 5 stars 10 4.0 out of 5 stars 322 Price \u2014 \u2014 \u2014 $33.08$33.08 $33.99$33.99 \u2014 \u2014 Type Top Dress Jumpsuits Dress Skirt Jacket Dress Sleeves Short Sleeve Cap Sleeve Sleeveless Short Sleeve / Short Sleeves Long Sleeve Pattern Solid Solid Solid Floral Solid Solid Solid Style Casual Casual Casual Casual Casual Casual Casual Features Button Down Pleated Wide Leg Smocked Denim Denim Button Up",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a22e7c9c-4b6f-44b3-b0c4-0abb17dd3fb1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e46f4008-a798-4936-afb2-888541b0e12d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/244eae7a-ad4c-4a98-9db3-b2e7cebaae69.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2950b22c-236c-43a7-8934-abf9cd820871.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2de1884e-a18d-4442-aa06-4d22cb978f01.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/55426823-252e-494a-8cfb-41fe229a8872.__CR0,0,1720,1935_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fef1c481-3f38-4d7f-8eb8-875cbb061660.__CR0,0,1500,1688_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/533d3597-ad13-4d95-bfe4-d85399e7f636.__CR0,0,1500,1688_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a3edcc5a-9557-4ba7-882b-83ae160d66ca.__CR0,0,2963,3333_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/66842443-ce8a-4402-88f9-17e081095a28.__CR0,0,1500,1688_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/38213708-cc31-4a62-a109-64ff9e319cad.__CR0,0,2363,2658_PT0_SX200_V1___.jpeg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d47d8f5a-33be-49af-ab0c-8bb8696725cb.__CR0,237,1744,1962_PT0_SX200_V1___.jpeg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "JimmyBamBamJimmyBamBam",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHYSKR4AKDPVS47CTUILB37GQOMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1M9XGTY6EJZ6F?ASIN=B088TCWQ8T",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 28, 2021",
+                "reviewTitle": "5.0 out of 5 stars Love this dress",
+                "reviewText": "For reference, 53 years old, 5'6 125. Purchased a size small. Plenty of room but not too big. I would not have sized down. I would say TTS. Material is not super soft but not scratchy or anything either. Thicker material so the darker colors will not see through.. not sure about lighter colors. It was hot outside and we had been sitting for a couple of hours so it did wrinkle but so would cotton or linen so I was totally fine. Super cute ruffle cuff. Great length. I will buy in additional colors. I love wearing dresses in the summer when it is super hot in Texas. Give it a try.",
+                "reviewVotes": "10 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/71LFHEzisZL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alexandra Akins",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFUC7SLRGN6MA6XUHUIZ36QSNUAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2U0RZPR2D5JHL?ASIN=B088TCWQ8T",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 4, 2023",
+                "reviewTitle": "4.0 out of 5 stars Wish I had more",
+                "reviewText": "This did take a long time to get ordered and get to me and by the time it got to me it was a little too big. I contacted the company who helped with a return but told me to just keep the dress. They were very helpful and kind. Who knows maybe I will continue my learning of sewing and see if I can tailor the dress a little to fit better.But other than it not fitting perfectly - I really like the dress. It is comfortable and flattering. I just wish it had pockets. Then I would have found the next dress I am going to live in! <3",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Enamel",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEFWWTUBIEQQE334TR6KIDBNA7RQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1QX39H0B92ZX8?ASIN=B088TCWQ8T",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 6, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great Quality for the Price",
+                "reviewText": "Such a cute dress & much nicer than expected for the price & cotton material - was expecting something much thinner. It is lightweight & breathable for warmer weather but the skirt on the yellow one is lined to prevent see-thru. Appreciated the size options & it fit as expected: not too small/big. Thinking of buying another in a different color. This is such a flattering style esp for creating a waistline & hiding a tummy pooch.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MR",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AENYFSU4U6CHWDRCWPQKBNKDYFRQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3HWZ3JHVMCOXT?ASIN=B088TCWQ8T",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 23, 2022",
+                "reviewTitle": "3.0 out of 5 stars Great dress, but \u2026",
+                "reviewText": "I love the style of this dress. Can be worn in winter with boots. Spring and summer w sandals. Fall with heels. Very versatile. Can be dressed up or down. Butttttt\u2026 the material is super wrinkly. Even my dry cleaner can\u2019t get all the wrinkles out.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alex",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEMSKWI6BZCZIIMJFCU53UXSHSHQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RJT9AJT0PIKU1?ASIN=B088TCWQ8T",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 20, 2023",
+                "reviewTitle": "5.0 out of 5 stars I wasn't expecting to love this dress, but I was pleasantly surprised!",
+                "reviewText": "I am 16 weeks pregnant and was looking for a formal work dress and decided to give this one a shot. I am normally a size M (8) pre-pregnancy, but decided to go with a L. I thought it looked a bit \"stuffy\" on the model, but gave it a shot. Its surprisingly adorable. Good quality fabric that feels thick enough and not cheap or see through. I didn't button the dress all the way up like the model, of course. The sleeves are 3/4 and have a cute little ruffle on the bottom. I am 5'10\" and it was a tad short but not in appropriate for work. Love this one.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sarah O\u2019Neal ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFO3K34JIKNHSGQVQ3Z2UQTZMONQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1F8CLZRXDTCXD?ASIN=B088TCWQ8T",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 23, 2023",
+                "reviewTitle": "1.0 out of 5 stars Ripped before I could even wear",
+                "reviewText": "Poor quality. Ripped before I could even wear it right on the front (and not the seam). Loved the style and the fit was true to size. Would not recommend.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "@laurenoggsgee@laurenoggsgee",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHD7TAEPJ3BPX6O5PGUMJQIENOPQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1JDWZLYZWUX8G?ASIN=B088TCWQ8T",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 27, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great look for less",
+                "reviewText": "This dress is SO much like dresses I have from Tuckernuck and Avara but for a fraction of the cost. What a great alternative and the price allows you to get multiple colors! Will be great with boots as the weather gets cooler.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71QhmOvJYKL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Leah C.Leah C.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHWYQ75DCFV46OPUUIKV4VF4XSKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3JJKETJKTE0I0?ASIN=B088TCWQ8T",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 30, 2023",
+                "reviewTitle": "4.0 out of 5 stars Wrinkles galore!",
+                "reviewText": "This is a nice cute dress, good quality and fit well. But the material gets so wrinkled. Coming out of the dryer it literally looks like a balled up piece of paper. I spent 30 minutes meticulously ironing it for it to just look like a piece of paper that had been balled up and then laid out flat. I think I need to go buy starch just for this dress.I'm keeping it tho cause it's cute and comfy and it fits over my 7 month baby bump.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/714xWn9yBkL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Maria Marcela Chavez Guijosa",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 1, 2024",
+                "reviewTitle": "CASUAL",
+                "reviewText": "Seca r\u00e1pido la tela y del pecho luce muy discreto muy bien .",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

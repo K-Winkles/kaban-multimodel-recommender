@@ -1,0 +1,626 @@
+{
+    "remaining_requests": 29951,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Urban-Shop-Swivel-Chair-Black/dp/B00LXCN8PS",
+    "body": {
+        "name": "Urban Shop Swivel Mesh Desk Chair, Black",
+        "price": "$39.92",
+        "originalPrice": "",
+        "rawPrice": 39.92,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Urban-Shop-Swivel-Chair-Black/dp/B00LXCN8PS",
+        "soldBy": {
+            "sellerID": "",
+            "name": "Amazon Warehouse",
+            "link": "https://www.amazon.com/b?node=10158976011"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09BPMN21D"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B00LXCN8PS",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41SHsC8encL._SS36_.jpg"
+            },
+            {
+                "asin": "B07PVPTRS5",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31pvzeyGzsL._SS36_.jpg"
+            },
+            {
+                "asin": "B084Q814PM",
+                "variationName": "Color",
+                "variationValue": "Blush",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3137pCDaMGL._SS36_.jpg"
+            },
+            {
+                "asin": "B09CHM7CYB",
+                "variationName": "Color",
+                "variationValue": "Buffalo Check",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51iVT3XlwhL._SS36_.jpg"
+            },
+            {
+                "asin": "B09CHMBCKM",
+                "variationName": "Color",
+                "variationValue": "Good Vibes",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ybNqldayL._SS36_.jpg"
+            },
+            {
+                "asin": "B084YY1MZ9",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Swo1TMkPL._SS36_.jpg"
+            },
+            {
+                "asin": "B0747ZVQBY",
+                "variationName": "Color",
+                "variationValue": "Grey Chevron",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/411Ip7pHXSL._SS36_.jpg"
+            },
+            {
+                "asin": "B0748148JZ",
+                "variationName": "Color",
+                "variationValue": "Hello Gorgeous Logo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31rXqbDMBIL._SS36_.jpg"
+            },
+            {
+                "asin": "B0747XRP8Z",
+                "variationName": "Color",
+                "variationValue": "Leopard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41djpdjxtgL._SS36_.jpg"
+            },
+            {
+                "asin": "B0747ZKPT4",
+                "variationName": "Color",
+                "variationValue": "Love Logo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41b9ABPBzHL._SS36_.jpg"
+            },
+            {
+                "asin": "B09CJ68JPJ",
+                "variationName": "Color",
+                "variationValue": "Marble",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51CxyLBbj0L._SS36_.jpg"
+            },
+            {
+                "asin": "B084YWXXHZ",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31hXyqZD2IL._SS36_.jpg"
+            },
+            {
+                "asin": "B00LXCN8QW",
+                "variationName": "Color",
+                "variationValue": "Neon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31G8zSTGn7L._SS36_.jpg"
+            },
+            {
+                "asin": "B0747XVZR2",
+                "variationName": "Color",
+                "variationValue": "Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31OOgCeu7+L._SS36_.jpg"
+            },
+            {
+                "asin": "B00LXCN8OO",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31sWsPC+ovL._SS36_.jpg"
+            },
+            {
+                "asin": "B00LXCN57Y",
+                "variationName": "Color",
+                "variationValue": "Pink Chevron",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Xy15DdKTL._SS36_.jpg"
+            },
+            {
+                "asin": "B07458B6MG",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31uQWPk1NOL._SS36_.jpg"
+            },
+            {
+                "asin": "B00J8PKG20",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31aGYn3MZkL._SS36_.jpg"
+            },
+            {
+                "asin": "B00LXCNBLE",
+                "variationName": "Color",
+                "variationValue": "Royal Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31sQ+CZQHRL._SS36_.jpg"
+            },
+            {
+                "asin": "B00IGIUCRO",
+                "variationName": "Color",
+                "variationValue": "Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31pEDxoQcFL._SS36_.jpg"
+            },
+            {
+                "asin": "B09CHML6C1",
+                "variationName": "Color",
+                "variationValue": "Tiedye",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31scBtfFFdL._SS36_.jpg"
+            },
+            {
+                "asin": "B084Z2FWXW",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31w9T9me1CL._SS36_.jpg"
+            },
+            {
+                "asin": "B0747ZP6FF",
+                "variationName": "Color",
+                "variationValue": "Wild and Free",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41vSbtE8ixL._SS36_.jpg"
+            },
+            {
+                "asin": "B00LXCN5IS",
+                "variationName": "Color",
+                "variationValue": "Zebra",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41bHaL-DseL._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "4",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://m.media-amazon.com/images/I/71fGWwM3vIL._AC_SY355_.jpg",
+        "images": [],
+        "imagesCount": 1,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Urban Shop Store",
+            "link": "https://www.amazon.com/stores/UrbanShop/page/E2148DAD-B81B-4C60-9198-9BA879E8880D?ref_=ast_bln"
+        },
+        "brand": "UrbanShop",
+        "merchantInfo": "Amazon Warehouse",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 7268,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Monday, February 19",
+            "Or fastest delivery Sunday, February 18. Order within 6 hrs 34 mins",
+            "FREE delivery Thursday, February 22 on orders shipped by Amazon over $35"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "DESIGN: Black swivel mesh chair to upgrade the look of your home, office or bedroom. Place in any room of your choice to upscale any design. This chair features a mesh back and a padded upholstered cushion.",
+            "ADJUSTABLE: This swivel chair can be adjusted to your preferred height with its lever and pneumatic system. Pneumatic lever allows you to raise and lower your seat to the height you need. Mesh back is curved to provide support and comfort to your back.",
+            "MULTI-PURPOSE USE: This computer chair is good for studying in your dorm or working at your desk in your home office. A perfect chair for everyday use and suitable for home offices, dorms, student desks or as an accent chair.",
+            "CASTER WHEELS: Designed with caster wheels for easy mobility. This chair features 5 caster wheels to hold upright at all times. Supportive and easy to transport around the house.",
+            "DIMENSIONS AND EASY ASSEMBLY: This decorative mesh chair measures 21\"W x 21\"D x 33\"H. Pneumatic lever to adjust the height from 28\" -33\". This chair is easy to assemble and is available in various colors."
+        ],
+        "description": "Work more comfortably with the Urban Shop Swivel Mesh Chair. Suitable for the home or office, it features a mesh back and a padded upholstered cushion. The mesh backrest will keep your back cool and it tilts to a relaxing position. This Swivel Office Chair can be adjusted to your preferred height with its easy-to-use lever and pneumatic system. A swivel base means you can easily move around while you are seated and wheel casters ensure mobility. With its adjustable height and comfortable cushion this computer chair is good for studying in your dorm or working at your desk in your home office. This item is easy to assemble and is available in various colors.",
+        "breadCrumbs": [
+            {
+                "name": "Home & Kitchen",
+                "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_aui_C_1?ie=UTF8&node=1055398"
+            },
+            {
+                "name": "Furniture",
+                "link": "https://www.amazon.com/Furniture/b/ref=dp_bc_aui_C_2?ie=UTF8&node=1063306"
+            },
+            {
+                "name": "Home Office Furniture",
+                "link": "https://www.amazon.com/Home-Office-Furniture/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1063312"
+            },
+            {
+                "name": "Home Office Chairs",
+                "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_4?ie=UTF8&node=18682064011"
+            },
+            {
+                "name": "Home Office Desk Chairs",
+                "link": "https://www.amazon.com/Home-Office-Desk-Chairs-Furniture/b/ref=dp_bc_aui_C_5?ie=UTF8&node=3733721"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Brand",
+                "value": "Urban Shop"
+            },
+            {
+                "name": "Color",
+                "value": "Black"
+            },
+            {
+                "name": "Product Dimensions",
+                "value": "21\"D x 21\"W x 33\"H"
+            },
+            {
+                "name": "Back Style",
+                "value": "Solid Back"
+            },
+            {
+                "name": "Special Feature",
+                "value": "Adjustable"
+            },
+            {
+                "name": "Unit Count",
+                "value": "1.0 Count"
+            },
+            {
+                "name": "Recommended Uses For Product",
+                "value": "Office"
+            },
+            {
+                "name": "Pattern",
+                "value": "Chevron"
+            },
+            {
+                "name": "Room Type",
+                "value": "Office"
+            },
+            {
+                "name": "Age Range (Description)",
+                "value": "Adult"
+            },
+            {
+                "name": "Included Components",
+                "value": "Chair"
+            },
+            {
+                "name": "Shape",
+                "value": "L-Shaped"
+            },
+            {
+                "name": "Model Name",
+                "value": "Swivel Mesh"
+            },
+            {
+                "name": "Surface Recommendation",
+                "value": "Indoor"
+            },
+            {
+                "name": "Furniture base movement",
+                "value": "Swivel"
+            },
+            {
+                "name": "Indoor/Outdoor Usage",
+                "value": "Indoor"
+            },
+            {
+                "name": "Form Factor",
+                "value": "Mesh"
+            },
+            {
+                "name": "Furniture Finish",
+                "value": "Black"
+            },
+            {
+                "name": "Seat Depth",
+                "value": "21 inches"
+            },
+            {
+                "name": "Is Electric",
+                "value": "No"
+            },
+            {
+                "name": "Item Weight",
+                "value": "11 pounds"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "Idea Nuova - LA"
+            },
+            {
+                "name": "ASIN",
+                "value": "B00LXCN8PS"
+            },
+            {
+                "name": "Country of Origin",
+                "value": "China"
+            },
+            {
+                "name": "Item model number",
+                "value": "WK659225"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 7,268 ratings 4.3 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#45,855 in Home & Kitchen (See Top 100 in Home & Kitchen) #134 in Home Office Desk Chairs"
+            },
+            {
+                "name": "Is Discontinued By Manufacturer",
+                "value": "No"
+            },
+            {
+                "name": "Assembly required",
+                "value": "No"
+            },
+            {
+                "name": "Warranty Description",
+                "value": "No warranty."
+            },
+            {
+                "name": "Batteries required",
+                "value": "No"
+            },
+            {
+                "name": "Material Mesh",
+                "value": "Item Weight 11 Pounds"
+            },
+            {
+                "name": "Maximum Weight Recommendation 225 Pounds",
+                "value": "Style Urban"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Compact Folding Desk Swivel Mesh Desk Chair Faux Fur Backrest Round Knit Pouf 3 Tier Rolling Cart Faux Fur Saucer Chair Pair with other items from the Urban Lifestyle Collection",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/05c28172-bf2d-476f-b248-f6f3af3d1901.__CR0,0,4042,1250_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/9de437a6-7b98-4c83-b035-383bd11f95cf.__CR22,0,1125,348_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0c9a389a-7bb2-489d-a35e-0e4c7b7823ce.__CR334,0,750,1500_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/580abac4-7fcc-4817-8258-40503440564a.__CR457,0,750,1500_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d3527a3a-e918-4095-a082-7a9c9c4dfddd.__CR443,0,750,1500_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/61b3c9b4-4c14-44bb-aece-9ae073e7ea80.__CR275,250,625,1250_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/56783894-e67a-4cab-8adc-4a668d4f29e2.__CR125,0,250,500_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/82e3e717-babe-4767-9820-8e4f7055d640.__CR252,0,750,1500_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7ab0f8f4-78a8-452a-b0ed-4788897dd13b.__CR0,0,2021,625_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG4BXXEHQ4XMMKP2B2WSK7UL3PEA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3G3V6E0GAEHGR?ASIN=B00LXCN8PS",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 23, 2024",
+                "reviewTitle": "5.0 out of 5 stars Must buy",
+                "reviewText": "Omg if u have kids this chair u want easy to setup and sturdy less expensive than other and sooo cute",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Abbas",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGWEDUXSY7JSVFYIZWAOOT5RV63A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RDPQDAH8AQ0ME?ASIN=B00LXCN8PS",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2024",
+                "reviewTitle": "5.0 out of 5 stars Seems sturdy",
+                "reviewText": "Great chair for the price! Rolls well and adjusts smoothly. Seems sturdy.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "HilaryHilary",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG2ZFRECYWWQRDZPXVJSSFTCLO5A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1QYUSY2VC3I1X?ASIN=B00LXCN8PS",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 17, 2023",
+                "reviewTitle": "4.0 out of 5 stars Seems good...",
+                "reviewText": "I like it, but it seems like it won't last too long. It already had like a split in the surrounding of the sitting area. Thankfully it can't be seen, is cool I guess and the color matched the room. Hopefully it does last.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71OZxEjfmXL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "K. Toth",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEBJHYLPMZBGARRAJW3X5PG7UK2A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1JJHIXID2QV2K?ASIN=B00LXCN8PS",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 18, 2023",
+                "reviewTitle": "5.0 out of 5 stars Easy Assembly Great Chair!",
+                "reviewText": "This chair is adorable and comfortable! It stopped all the pain I was having working from home with inappropriate furniture! And it was reasonably priced as well. Arrived in perfect shape with an Allen wrench for the screws. A plus!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gretchen",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGRRDBYU567ELXK4TBQGGIXHJ7NQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1UXS0TEI9PS6U?ASIN=B00LXCN8PS",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 1, 2023",
+                "reviewTitle": "5.0 out of 5 stars Small, comfortable, attractive",
+                "reviewText": "If you want a super cushiony chair, this isn\u2019t the one for you. For my purposes it works as it should, doesn\u2019t have arms so there are no issues with the arms touching my keyboard (big problem with my old chair), no pleather so I think the materials will last longer, and it was easy to assemble.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "E. P. F.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AECFQ4ME7RHZWDO3AMAKBPDCOHZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RBTPRVZSDWI6T?ASIN=B00LXCN8PS",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 9, 2023",
+                "reviewTitle": "3.0 out of 5 stars Adjusting height",
+                "reviewText": "Chair is nice, sturdy and comfortable, but I can\u2019t adjust the height to fit under the desk. Not high enough, since I can\u2019t adjust the table height I was hoping this chair would work for that, but doesn\u2019t go high enough",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "WiseIce",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEBVR2ODEUOIVQVOG62MM43IKTVA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3A11VJ13K5UEP?ASIN=B00LXCN8PS",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Oh yea, Love it!",
+                "reviewText": "What an easy chair to put together, and it is perfect for my craft room. I just love it!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "FromSC",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFOAHG73GYFTC7ANMNGIIK3PK75Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RDDON1YYASMOU?ASIN=B00LXCN8PS",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "5.0 out of 5 stars Totally Cute!",
+                "reviewText": "Chair was assembled by a teenager. Cute task chair, totally fits the youth aesthetic. The rose color is actually a bit more gold than pictured. Really good buy.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Teresa Lopez",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 23, 2022",
+                "reviewTitle": "Muy buena compra",
+                "reviewText": "La silla en si me encanta! Es bonita y super super comoda. PERO es una chi*ga armarla! Necesitas tener titulo de ingeniero! Aun asi, la volveria a comprar, a fin de cuentas, una vez armada esta muy muy bien. Supero mis espectativas.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "SALUTAIRE",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 21, 2021",
+                "reviewTitle": "UNE CHAISE SUR 5 ROUES",
+                "reviewText": "POUR LES FUTURS ACHETEURS, NOTEZ QUE CETTE CHAISE EST PETITE. MOI C EST CET ARTICLE DONT J AVAIS BESOIN POUR LA GROSSEUR DE MON BUREAU D ORDINATEUR. LE ROUGE EST FRANC ET JE SUIS TRES SATISFAITE DE MON ACHAT. SALUTAIRE",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "905Canuck",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on July 21, 2021",
+                "reviewTitle": "You'll need a cushion.",
+                "reviewText": "Nice enough chair, but even my teen, who weighs about 100 lbs, finds the seat hard. Very thin padding in the seat.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amar514",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 30, 2021",
+                "reviewTitle": "Easy to assemble and does the job",
+                "reviewText": "Easy to assemble and does the job",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Some user",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 12, 2021",
+                "reviewTitle": "Compact and decent quality",
+                "reviewText": "It's not the most comfortable chair out there (not that much padding,) but it's pretty close and the perfect size, good quality casters and the mesh back feels great",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,718 @@
+{
+    "remaining_requests": 34221,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/KitchenAid-RRK150PT-Qt-Artisan-Pistachio/dp/B0001ZYYPQ",
+    "body": {
+        "name": "KitchenAid RRK150PT 5 Qt. Artisan Series - Pistachio (Renewed)",
+        "price": null,
+        "originalPrice": "",
+        "rawPrice": null,
+        "currency": null,
+        "canonicalUrl": "https://www.amazon.com/KitchenAid-RRK150PT-Qt-Artisan-Pistachio/dp/B0001ZYYPQ",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B016RYVXHQ"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0001ZYYKG",
+                "variationName": "Color",
+                "variationValue": "Almond Cream",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415jv19KA7L._SS36_.jpg"
+            },
+            {
+                "asin": "B01FV6IOG4",
+                "variationName": "Color",
+                "variationValue": "Azure",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41G15QW+1FL._SS36_.jpg"
+            },
+            {
+                "asin": "B071JZXYQC",
+                "variationName": "Color",
+                "variationValue": "Black Matte",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/519VewDCUML._SS36_.jpg"
+            },
+            {
+                "asin": "B01FV9P2ZM",
+                "variationName": "Color",
+                "variationValue": "Blue steel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41amIE7lsFL._SS36_.jpg"
+            },
+            {
+                "asin": "B01FV3I17E",
+                "variationName": "Color",
+                "variationValue": "Bordeaux",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41BHVIfhARL._SS36_.jpg"
+            },
+            {
+                "asin": "B007W2EH62",
+                "variationName": "Color",
+                "variationValue": "Boysenberry",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21I+6fLEpHL._SS36_.jpg"
+            },
+            {
+                "asin": "B01FV9SHQ8",
+                "variationName": "Color",
+                "variationValue": "CANOPY GREEN",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51uQyWXguDL._SS36_.jpg"
+            },
+            {
+                "asin": "B00AFNRS7K",
+                "variationName": "Color",
+                "variationValue": "Candy Apple Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41oylwonKAL._SS36_.jpg"
+            },
+            {
+                "asin": "B01CRMY2B6",
+                "variationName": "Color",
+                "variationValue": "Champagne Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51fz+OFtmvL._SS36_.jpg"
+            },
+            {
+                "asin": "B01MF54RIZ",
+                "variationName": "Color",
+                "variationValue": "Cocoa Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41cDBUtOqPL._SS36_.jpg"
+            },
+            {
+                "asin": "B007W2EEEW",
+                "variationName": "Color",
+                "variationValue": "Countor Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51UEUXBl3GL._SS36_.jpg"
+            },
+            {
+                "asin": "B0001ZYYLK",
+                "variationName": "Color",
+                "variationValue": "Crystal Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51po6Po5aXL._SS36_.jpg"
+            },
+            {
+                "asin": "B07H14YMKM",
+                "variationName": "Color",
+                "variationValue": "Dark Pewter",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ghhZC5n4L._SS36_.jpg"
+            },
+            {
+                "asin": "B01FV4V3U0",
+                "variationName": "Color",
+                "variationValue": "Frosted pearl",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41+WfTp9kYL._SS36_.jpg"
+            },
+            {
+                "asin": "B007W2EM76",
+                "variationName": "Color",
+                "variationValue": "Gloss Cinnamon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Xl-psDm0L._SS36_.jpg"
+            },
+            {
+                "asin": "B01MDK68F5",
+                "variationName": "Color",
+                "variationValue": "Green Apple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51TX7Fyzc6L._SS36_.jpg"
+            },
+            {
+                "asin": "B0001ZYYN8",
+                "variationName": "Color",
+                "variationValue": "Imperial Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41aMuZzyj-L._SS36_.jpg"
+            },
+            {
+                "asin": "B07HGH1DJD",
+                "variationName": "Color",
+                "variationValue": "Ink Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ENFsJjzFL._SS36_.jpg"
+            },
+            {
+                "asin": "B01CF99EP0",
+                "variationName": "Color",
+                "variationValue": "Latte",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ltXSnADEL._SS36_.jpg"
+            },
+            {
+                "asin": "B0001ZYYO2",
+                "variationName": "Color",
+                "variationValue": "Lavender",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41JEb9RMKwL._SS36_.jpg"
+            },
+            {
+                "asin": "B00B1KYWE8",
+                "variationName": "Color",
+                "variationValue": "Liquid Graphite",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZJWFAN+8L._SS36_.jpg"
+            },
+            {
+                "asin": "B079PMVDFZ",
+                "variationName": "Color",
+                "variationValue": "Matte White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rtfpw-6-L._SS36_.jpg"
+            },
+            {
+                "asin": "B07D8KV46N",
+                "variationName": "Color",
+                "variationValue": "Matte grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41-K+J6vtkL._SS36_.jpg"
+            },
+            {
+                "asin": "B079N5JYTP",
+                "variationName": "Color",
+                "variationValue": "Medallion Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41x4kzEIl5L._SS36_.jpg"
+            },
+            {
+                "asin": "B0001ZYYOC",
+                "variationName": "Color",
+                "variationValue": "Metallic Chrome",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41r3b2LH1CL._SS36_.jpg"
+            },
+            {
+                "asin": "B07H14JD8Z",
+                "variationName": "Color",
+                "variationValue": "Milkshake",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414DaI8WNrL._SS36_.jpg"
+            },
+            {
+                "asin": "B07Q8CL8WM",
+                "variationName": "Color",
+                "variationValue": "MistyBlue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41STVQKhbgL._SS36_.jpg"
+            },
+            {
+                "asin": "B072K7DM7Q",
+                "variationName": "Color",
+                "variationValue": "Ocean Drive",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Lq9hWEaAL._SS36_.jpg"
+            },
+            {
+                "asin": "B01FVA0Q66",
+                "variationName": "Color",
+                "variationValue": "Pear",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rZ5h6D4ML._SS36_.jpg"
+            },
+            {
+                "asin": "B01FV85H0I",
+                "variationName": "Color",
+                "variationValue": "Pearl Metallic",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41L4RMc4zHL._SS36_.jpg"
+            },
+            {
+                "asin": "B00MFWPS94",
+                "variationName": "Color",
+                "variationValue": "Persimmon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51mHmcBEwIL._SS36_.jpg"
+            },
+            {
+                "asin": "B0001ZYYPQ",
+                "variationName": "Color",
+                "variationValue": "Pistachio",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410E4O1Pp8L._SS36_.jpg"
+            },
+            {
+                "asin": "B01FV45OWI",
+                "variationName": "Color",
+                "variationValue": "Plumberry",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41V13a+QQPL._SS36_.jpg"
+            },
+            {
+                "asin": "B07Z9RWRZG",
+                "variationName": "Color",
+                "variationValue": "Signature Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41S+NjrrgAL._SS36_.jpg"
+            },
+            {
+                "asin": "B007W2EF46",
+                "variationName": "Color",
+                "variationValue": "Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41K61fqN3eL._SS36_.jpg"
+            },
+            {
+                "asin": "B007W2EJPG",
+                "variationName": "Color",
+                "variationValue": "Silver Metallic",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51x5Jvs-SHL._SS36_.jpg"
+            },
+            {
+                "asin": "B01FVA7PNS",
+                "variationName": "Color",
+                "variationValue": "Sugar Pearl",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41VDWjvaP1L._SS36_.jpg"
+            },
+            {
+                "asin": "B01FV6C0OQ",
+                "variationName": "Color",
+                "variationValue": "Toffee",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ksTMdGNzL._SS36_.jpg"
+            },
+            {
+                "asin": "B01MF4UC06",
+                "variationName": "Color",
+                "variationValue": "Truffle Dust",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/412DwYKVvVL._SS36_.jpg"
+            },
+            {
+                "asin": "B01FV8BD9M",
+                "variationName": "Color",
+                "variationValue": "Twilight Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51cG+PP-eNL._SS36_.jpg"
+            },
+            {
+                "asin": "B07H12MFXW",
+                "variationName": "Color",
+                "variationValue": "Violet",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41l1PlG9WyL._SS36_.jpg"
+            },
+            {
+                "asin": "B01M22FJ1D",
+                "variationName": "Color",
+                "variationValue": "Watermelon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41d9vn918nL._SS36_.jpg"
+            },
+            {
+                "asin": "B0001ZYYQU",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LWVArzixL._SS36_.jpg"
+            },
+            {
+                "asin": "B0123K1QCA",
+                "variationName": "Color",
+                "variationValue": "Yellow Citrus",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41fvZsHXztL._SS36_.jpg"
+            },
+            {
+                "asin": "B0123K1P80",
+                "variationName": "Color",
+                "variationValue": "Yellow Pepper",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51oyUovmmVL._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": null,
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/410E4O1Pp8L.jpg",
+        "images": [],
+        "imagesCount": 1,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Amazon Renewed Store",
+            "link": "https://www.amazon.com/Amazon-Renewed/b/ref=bl_dp_s_web_12653393011?ie=UTF8&node=12653393011&field-lbr_brands_browse-bin=Amazon+Renewed"
+        },
+        "brand": "Amazon Renewed",
+        "merchantInfo": "",
+        "customerReview": "4.7 out of 5 stars",
+        "customerReviewCount": 5205,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": true,
+            "details": "Pre-owned Certified: Electronics products are inspected, cleaned and (if applicable) repaired to excellent functional standards. Buying Pre-owned extends a product's life, reducing e-waste and raw material extraction."
+        },
+        "features": [
+            "This Certified Refurbished product is tested & certified by KitchenAid to look and work like-new. The product includes original accessories, and is backed by a 6-month warranty",
+            "This Certified Refurbished product is tested & certified by [Manufacturer Name] to look and work like-new. The product includes all original accessories, and is backed by a [Warranty-Length] warranty",
+            "325-watt mixer with 10 speeds; 5-quart stainless steel bowl",
+            "Tilt-back head for easy access to mixture",
+            "Includes flat beater, dough hook, and wire whip; pouring shield not included",
+            "Measures 14 by 8-2/3 inches by 14 inches"
+        ],
+        "description": "Product Description KitchenAid Artisan Series Refurbished 5 Qt. Tilt Head Stand Mixer model has a 325-watt motor, stainless steel bowl with comfort handle and a tilt-head mixer design that provides easy access to bowl and beaters. Burnished or coated beater included with purchase dependent on availability. Amazon.com KitchenAid's Artisan stand mixer is a substantial piece of equipment: 325 watts of mixing power make child's play of creaming butter, kneading dough, and whipping cream. The kid in you will appreciate how quick and easy it is to mix up a batch of cookie dough. This model comes with three attachments: a flat beater for making batter, meat loaf, and all textures in-between; a wire whip for egg whites, mayonnaise, and more air-infused creations; and a hook for mixing and kneading yeast doughs. All three are solidly constructed and easily secured to the beater shaft with a simple twist. The bowl itself locks tight to the base. Standing about 15 inches high, jutting out a foot, and weighing more than a grown woman's bowling ball, this stand mixer isn't the sort of appliance you'll wipe down and put away. Better to find a square foot of free counter space for easy access; besides, this machine is as pretty as it is rugged--you'll want to show it off. --Betsy Danheim Editor's note: This is a reconditioned small appliance. Reconditioned generally means that the appliance has been returned to the manufacturer, who brings the appliance back to like-new condition. Some appliances may contain cosmetic blemishes.",
+        "breadCrumbs": [
+            {
+                "name": "Home & Kitchen",
+                "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_aui_C_1?ie=UTF8&node=1055398"
+            },
+            {
+                "name": "Kitchen & Dining",
+                "link": "https://www.amazon.com/kitchen-dining/b/ref=dp_bc_aui_C_2?ie=UTF8&node=284507"
+            },
+            {
+                "name": "Small Appliances",
+                "link": "https://www.amazon.com/kitchen-small-appliances/b/ref=dp_bc_aui_C_3?ie=UTF8&node=289913"
+            },
+            {
+                "name": "Mixers",
+                "link": "https://www.amazon.com/mixers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=289929"
+            },
+            {
+                "name": "Stand Mixers",
+                "link": "https://www.amazon.com/Stand-Mixers-Small-Appliances-Kitchen/b/ref=dp_bc_aui_C_5?ie=UTF8&node=289932"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Brand",
+                "value": "KitchenAid"
+            },
+            {
+                "name": "Color",
+                "value": "Pistachio"
+            },
+            {
+                "name": "Product Dimensions",
+                "value": "16\"D x 16\"W x 11\"H"
+            },
+            {
+                "name": "Blade Material",
+                "value": "Stainless Steel"
+            },
+            {
+                "name": "Special Feature",
+                "value": "Dishwasher Safe Jars"
+            },
+            {
+                "name": "Capacity",
+                "value": "5 Quarts"
+            },
+            {
+                "name": "Controls Type",
+                "value": "Knob"
+            },
+            {
+                "name": "Item Weight",
+                "value": "22.8 Pounds"
+            },
+            {
+                "name": "Is Dishwasher Safe",
+                "value": "No"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "KitchenAid"
+            },
+            {
+                "name": "ASIN",
+                "value": "B0001ZYYPQ"
+            },
+            {
+                "name": "Item model number",
+                "value": "RRK150PT"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.7 4.7 out of 5 stars 5,205 ratings 4.7 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#99,005 in Kitchen & Dining (See Top 100 in Kitchen & Dining) #146 in Household Stand Mixers #217 in Renewed Home & Kitchen"
+            },
+            {
+                "name": "Is Discontinued By Manufacturer",
+                "value": "No"
+            },
+            {
+                "name": "Date First Available",
+                "value": "March 26, 2004"
+            },
+            {
+                "name": "Material Stainless Steel",
+                "value": "Number of Speeds 10"
+            },
+            {
+                "name": "Voltage 120 Volts",
+                "value": "Wattage 325 watts"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "KitchenAid Artisan Series 5-Quart Tilt-Head Stand Mixer Choose from over 20 different colors of the KitchenAid Artisan Series Tilt-Head Stand Mixer for the one that perfectly matches your kitchen design or personality.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/mg/a13302f6-8ee1-4e7d-9ce1-783b081d9cd8._SR970,300_.jpg"
+                ]
+            },
+            {
+                "media_text": "Top Features Over 20 Colors Available and 10 Speed Settings Choose from all the color options to find the one that best matches your style and personality. Powerful enough for nearly any task or recipe, whether you\u2019re stirring wet and dry ingredients together, kneading bread dough or whipping cream. Power Hub (Over 12 Attachments Available) The power hub turns your stand mixer into a culinary center. With more than 12 optional attachments use the power of your stand mixer to help you make fusilli pasta from scratch, shred a block of Parmesan cheese in seconds and so much more. 10 Speeds Powerful enough for nearly any task or recipe, whether you\u2019re stirring wet and dry ingredients together, kneading bread dough or whipping cream. 59-Point Planetary Mixing Action 59-Point Planetary Mixing Action means 59 touchpoints per rotation around the bowl for thorough ingredient incorporation. The beater, dough hook or wire whip rotates around the bowl, giving incredible bowl coverage for comprehensive mixing.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/mg/739c9cd7-b7b3-4ea8-a0e2-709bb8d35c48._SL220__.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/mg/ae53e1b3-19f9-4680-96c1-34a8c12ba3f5._SL220__.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/476558ba-3af4-431d-9a3b-e9e6bf8aa2ae._CR171,0,258,258_PT0_SX220__.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/mg/904ca349-b3e0-4678-a1a1-67135b4fa7a9._SL220__.jpg"
+                ]
+            },
+            {
+                "media_text": "Accessories Included Nylon Coated Flat Beater The nylon-coated flat beater is perfect for quickly and thoroughly mashing potatoes, mixing cake batter and cookie dough and so much more. The flat beater is top-rack dishwasher safe. Fits models K45SS, KSM75, KSM95, KSM150PS, KSM152PS and KSM155GB. Nylon Coated Dough Hook The nylon-coated C-dough hook mixes and kneads yeast dough with ease, saving you both the time and effort of hand kneading. The dough hook is top-rack dishwasher safe. Fits models K45SS, KSM75, KSM95, KSM150PS, KSM152PS and KSM155GB. Wire Whip The 6-wire whip quickly incorporates air into ingredients for fluffy whipped cream, perfect boiled frostings and cakes with whipped egg whites. Fits models K45SS, KSM75, KSM95, KSM150PS, KSM152PS and KSM155GB. 5-quart Stainless Steel Bowl with Comfortable Handle 5-quart stainless steel bowl with comfortable handle offers enough capacity to mix dough for 9 dozen cookies, 4 loaves of bread or 7 pounds of mashed potatoes in a single batch. The bowl is also dishwasher-safe for quick and easy cleanup.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/mg/bb62e2c7-e86c-4c27-980b-9c93125e0021._SL220__.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/mg/d80d488b-216b-4704-ba46-6eeeb64cebb9._SL220__.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/mg/cc305a1a-f8cc-40f8-8754-4ee9791249c7._SL220__.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/5cb877a9-ab44-4a02-9091-01f3f8edfe64._CR16,0,300,300_PT0_SX220__.jpg"
+                ]
+            },
+            {
+                "media_text": "Professional 600 Design Series Professional 600 Series Custom Metallic Series Artisan Design Series Artisan Series Classic Plus Capacity 6-Quart 6-Quart 5-Quart 5-Quart 5-Quart 4.5-Quart Bowl Material Glass with Handle Polished Stainless Steel with Comfortable Handle Polished Stainless Steel with Comfortable Handle Glass with Handle Polished Stainless Steel with Comfortable Handle Brushed Stainless Steel (No Handle) Flat Beater F Series Coated Burnished Aluminium Coated Burnished Aluminium Coated Coated Dough Hook F Series Spiral-Shaped Coated Spiral-Shaped Burnished Aluminium C-Shaped Coated C-Shaped Burnished Aluminium C-Shaped Coated C-Shaped Coated Wire Whip \u2713 \u2713 \u2713 \u2713 \u2713 \u2713 Pouring Shield - \u2713 \u2713 - \u2713 - Wattage 550 575 325 325 325 275 Color 3 Colors Available Over 10 Colors Available 3 Colors Available Over 5 Colors Available Over 20 Colors Available 1 Color Available Usage Cookie Yield - 13 Dozen Cookie Yield - 13 Dozen Cookie Yield - 9 Dozen Cookie Yield - 9 Dozen Cookie Yield - 9 Dozen Cookie Yield - 6.75 Dozen",
+                "media_link": []
+            },
+            {
+                "media_text": "Flex Edge Beater Glass Bowl with Measurement Markings & Lid Ceramic Bowl 2-Pack Stand Mixer Bowl Liners Fitted Stand Mixer Cover 1-Piece Pouring Shield Dishwasher Safe \u2713 \u2713 \u2713 \u2713 - \u2713 Options - Available in Regular Glass, Hammered Glass, or Frosted Glass 5 Colors Available - 3 Colors Available - Details Reduce mixing time and the need to scrape ingredients down the side of the bowl when you\u2019re mixing with this beater, which features a flexible edge that thoroughly scrapes ingredients into the bowl. Adds an extra touch of elegance to your kitchen. The glass bowl features a convenient pouring spout and easy-to-read, graduated measurement markings. Customize your stand mixer the ceramic bowl, available in 5 colors that compliment any stand mixer color. Dishwasher, freezer and microwave safe. Keep your stand mixer bowl clean or switch from one mixture to another easily with the reusable stand mixer bowl liner accessory. Two bowl liners are included for greater efficiencies. Protect your KitchenAid Tilt Head Stand Mixer with the modern and form fitting cover for Tilt-Head Stand Mixers. Heavyweight quilted construction and tailor fitted to your stand mixer. The one-piece pouring shield fits onto your mixing bowl to help you add ingredients without making a mess. It also helps keep lightweight ingredients like flour from flying out of the bowl when you\u2019re mixing. The pouring shield is dishwasher safe.",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/mg/a13302f6-8ee1-4e7d-9ce1-783b081d9cd8._SR970,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/739c9cd7-b7b3-4ea8-a0e2-709bb8d35c48._SL220__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/ae53e1b3-19f9-4680-96c1-34a8c12ba3f5._SL220__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/476558ba-3af4-431d-9a3b-e9e6bf8aa2ae._CR171,0,258,258_PT0_SX220__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/904ca349-b3e0-4678-a1a1-67135b4fa7a9._SL220__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/bb62e2c7-e86c-4c27-980b-9c93125e0021._SL220__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/d80d488b-216b-4704-ba46-6eeeb64cebb9._SL220__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/cc305a1a-f8cc-40f8-8754-4ee9791249c7._SL220__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/5cb877a9-ab44-4a02-9091-01f3f8edfe64._CR16,0,300,300_PT0_SX220__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/a99cedbf-65ed-4b29-996c-2ecf21c382d5._SR150,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/61b81a45-605a-4f7c-b09e-71872e7c7fd8._SR150,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/1fb39723-5903-468a-9192-77f35575e3c2._SR150,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/3b0be432-50d6-476c-be1f-534da5e23749._SR150,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/7569f190-85aa-4252-baba-3c887f12db36._SR150,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/e315959a-288e-4393-8493-ddba3b06caeb._SR150,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/5a21219b-7c52-4c1c-af9b-1aca92c7d335._SR150,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/2a7358c1-6cce-40c8-9212-2af2f8008ddb._SR150,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/5b40ac21-b3a9-431b-9ae3-ddc5e93c7cf0._SR150,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/683c023d-0829-49ee-97b9-011a6c473da6._SR150,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/157d9bf3-268c-479f-9f95-fc2ef573b905._SR150,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/mg/338e850c-d8b1-45bf-93f9-1ecb07ac815d._SR150,300_.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "renaissance man",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFFGWMUZ4KEE3TE24PYL7KRAPFDQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R15DDW1SR3Z472?ASIN=B0001ZYYPQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 24, 2005",
+                "reviewTitle": "5.0 out of 5 stars An excellent product",
+                "reviewText": "The mixer I had before was ok. It did the job, until the electronic controls broke and the speed was kind of random.This mixer on the other hand is vastly superior than my previous Oster stand mixer, or my moms old Sunbeam (but she can't complain, she used it for 50 years).The biggest pros are the sturdiness and power of this mixer. It is also quiet and can do any job without lamentations.The standard stailess bowl is a plus too. I no longer have to worry about breaking it like I had with the old glass bowls. The 5.5 qt. bowl is a good size for me. I don't think I have any recipe that would exceed its capacity. Its smaller cousing may be too limited for weekend baker.The attachments are also easy to clean, and will probably never rust. My old attachments rusted a bit near the rivets because, I often will just let the dishes to dry in the dish rack. This is no longer a worry.If you think that you need the special chute to avoid messes, think again. This accessory is not at all needed. The refurb. model that I purchased did not have it. I had reservations about this when I placed my order, but after using the mixer, I soon realized that not only did I not need it, but it is probably a nuisance.This device greatest quality, sturdiness, is also the cause of its greatest defect; it is heavy. A frail person would not be able to handle it. This is not the kind of device that you can easily store in the cubboards. It is much better if you can devote counter space for it.I still have an unresolved question? Basically kitchen aid has two basic designs: one where the top part of the mixer pivots (my mixer) and one where the bowl goes up and down. I still wonder if one design is superior? I think that should be your only question when buying a kitchen aid mixer.I hope you enjoy this product as much as I did.",
+                "reviewVotes": "11 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Thom",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHFW756ZK535MELPVMPHS7AJA3CQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RMCPDQI4GIBF0?ASIN=B0001ZYYPQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 18, 2005",
+                "reviewTitle": "5.0 out of 5 stars Exactly what I'd expect- Quality, Performance, and Value",
+                "reviewText": "I write this enjoying an oatmeal cherry cookie, fresh from the double batch just whipped up in the new Kitchenaid. It arrived today- 4 days after I ordered it- Talk about SUPER saver shipping! You all know what a Kitchenaid is- so I'm not gonna sing the praises of the mixer in general- but I'll tell ya about mine:It arrived double boxed- and tightly packed. The inner box, the Kitchenaid box, was plain white with green \"Factory Reconditioned\" letters on the side. I was nervous about how close to new this really would be...I opened it up and set it on the counter- Yes, there are two small blemishes on it- on the side of the unit- they look just like two #2 pencil points. Not bad- I expected far worse to be honest. And I plan on making this a workhorse anyway- the Kitchenaid, to me, isn't a showpiece (if it were, I'd buy NEW.) Two small dots aren't enough to make me want to pay twice what I did on this one.I inspected the paddle (what I use most) blade- perfect- The dough hook was also perfect. Both came nested tightly in the inner styrofoam. The whisk attachment, which arrived attached to the unit, was, indeed, a little bent out of shape. A little pressure on two sides put it right back to normal. I remember the first Kitchenaid I bought (a base-power plain white one) had the same issue. Really, not a big deal at all.The bowl was perfect as well- no scrapes- solid handle.It took me a little while to unknot the plug- was wound up in the bowl.I prepped everything and set to work- a double recipe of oatmeal cookies. This is the recipe that would bring the lesser Kitchaid to its knees- it would do it, but it would complain the whole time. The mixer did just fine with it. I'm happy to report- all operation is perfectly normal.Fron the for-what-it's-worth department- I've owned 3 Kitchenaids now- they have ALL definitely made a different sound running at lower speeds than at the higher speeds.I would purchase again without reservation.Again, I make my appliances work for me, rather than just look pretty. Expect a blemish here or there- Expect the performance and quality of a KitchenAid- and expect it to arrive a lot sooner than you'd think.",
+                "reviewVotes": "18 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lico Villagran",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEJICEHBNISDJZHZLECF66UML7NA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1VSJPQXZNI20?ASIN=B0001ZYYPQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 29, 2023",
+                "reviewTitle": "5.0 out of 5 stars Exactly what I expected",
+                "reviewText": "I was a little concerned that as I purchased it as refurbished that there would be material defects such as scratches or dents. However it came in pristine condition and works beautifully!",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Paulette Amarantes",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHPJKN5ONPUJZOQVLDBRHIIMHFGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2EBOY9C68KUMY?ASIN=B0001ZYYPQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 13, 2022",
+                "reviewTitle": "5.0 out of 5 stars LOVE the color!!!",
+                "reviewText": "I've wanted this color (Bluberry) since I first saw it in 2016. I dreamed of buying it but I had a white 4.5 qt. Kitchenaid mixer already. I finally decided to upgrade and I couldn't find one ANYWHERE. I even called Kitchenaid and they told me this color had been retired. I was told to look for a refurbished one or a used one. The minute I saw this for sale on Amazon I jumped at it. It works beautifully and looks brand new. I LOVE it. I had my white one for 30 yrs. I gave it to someone who didn't own one, so now we are both happy!!!!",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Marie2375",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEBWEXJSDDS2OQEMRWFQSBN35ILA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2AS86HDA0339?ASIN=B0001ZYYPQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 5, 2023",
+                "reviewTitle": "5.0 out of 5 stars I've been using my refurbished one for almost 20 years",
+                "reviewText": "I need a new beater for my mixer so I searched my old orders to see what model I have. It looks like I bought my 5qt Artisan in November 2005. I've used it several times a week since then with no problems. I've never even had it serviced! It's been a great mixer. I gave it a 4 for cleaning because there are few crevices where the bowl sits that you actually have to pay attention to to clean. Otherwise, it's perfect.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "AlexZAlexZ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJ3W2OWGT3NDFWQYWQZMNSXMGVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3JMA7P5Q6I4ZK?ASIN=B0001ZYYPQ",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2024",
+                "reviewTitle": "4.0 out of 5 stars Color is exactly what I envisioned!!!",
+                "reviewText": "So happy with the color of misty blue, ended up purchasing a ceramic bowl as well! Seen in picture! Did have a little oil on the back of unit when I pulled it out of the box, also has a small scratch on back but can overlook. Purchased the extended warranty. Looking forward to making lots of cookies with it!! Also was expecting the 100 year anniversary emblem on front but it didn\u2019t have it. Still happy with it overall!!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71R6b9pcoqL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71ZFbWYR0hL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71rtDspyMmL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nancy Gingras",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 15, 2018",
+                "reviewTitle": "Vraiment satisfaite",
+                "reviewText": "Quel super achat..Je ne m\u2019en passerai plus.Aucune diff\u00e9rence entre le reconditionn\u00e8 et un neuf...",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Betty L Llamas",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on August 13, 2017",
+                "reviewTitle": "Impresionante calidad de sus materiales",
+                "reviewText": "Mi batidora anterior era una marca y econ\u00f3mica pero sacaba bastante bien el trabajo de una pastelera aficionada; sin embargo, nada que ver con mi nueva KitchenAid Artisan, los materiales son de excelente calidad y aparenta que tendr\u00e1 una larga vida \u00fatil, espero que as\u00ed sea. Eso si, el peso es considerable para estarla guardando y sacando cada vez que la utilizas, como es mi caso, eso extra\u00f1ar\u00e9 de mi batidora econ\u00f3mica. A\u00fan no he tenido oportunidad de utilizarla, pero presiento que no me decepcionar\u00e1. Por cierto, compr\u00e9 un modelo reconstruido e importado y lleg\u00f3 en perfectas condiciones, ning\u00fan ray\u00f3n ni falla, y me ahorr\u00e9 bastante dinero.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Irais",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 29, 2018",
+                "reviewTitle": "Me encanta",
+                "reviewText": "La consegu\u00ed a un muy buen precio comparando con el de tiendas f\u00edsicas en M\u00e9xico.Es super practica y bonita.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 22, 2018",
+                "reviewTitle": "Mint condition!",
+                "reviewText": "Great machine. Brand new mint condition. Works like a charm. Love it!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Wendy",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on August 21, 2017",
+                "reviewTitle": "100% confiable",
+                "reviewText": "Es mi primera compra por Internet y lleg\u00f3 antes de lo esperado, adem\u00e1s en excelentes condiciones, trabaja de maravilla!!!!! Perfecto para el hogar!!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,556 @@
+{
+    "remaining_requests": 13186,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Just-Love-Zipper-Lounger-6729-PUR-XL/dp/B07D6WHXKW",
+    "body": {
+        "name": "Just Love Plush Zipper Lounger Solid Robe",
+        "price": "$29.99",
+        "originalPrice": "",
+        "rawPrice": 29.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Just-Love-Plush-Zipper-Lounger/dp/B09V1VMXVQ",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09V1VMXVQ"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07TVFP1TC",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31M8BaRcyXL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07D6WG3W5",
+                "variationName": "Color",
+                "variationValue": "Coral",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41r+4LDw22L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07TXMJR5P",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31vsTsYrgWL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07TXJS582",
+                "variationName": "Color",
+                "variationValue": "Lilac",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ivXiIxJxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07D6XGJSD",
+                "variationName": "Color",
+                "variationValue": "Mint",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41a5ITiGlSL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07TTF26JK",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31C1oBfAmFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07D6WHXKW",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wFtmSGW7L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07TYJS1SN",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3195md8kH4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07TXMB9H4",
+                "variationName": "Color",
+                "variationValue": "Wine",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31IPGLyyo4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07D6WX5LB",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31IR0jEUyxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07D6WT4RP",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/317ILDTwOFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0914LSD7W",
+                "variationName": "Color",
+                "variationValue": "Black Jacquard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41cguW0Ph1L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07D6X6743",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41dv6HixseL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0914Z8CFK",
+                "variationName": "Color",
+                "variationValue": "Purple Jacquard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41yvfQ0f4WL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07TVFNB4P",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31dCmJQhhAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07W4M58HH",
+                "variationName": "Color",
+                "variationValue": "Grey Jacquard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Mu8X-OQFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07W8Y4W65",
+                "variationName": "Color",
+                "variationValue": "Lilac Jacquard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31+FMLxNsnL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07W5R6B1Q",
+                "variationName": "Color",
+                "variationValue": "Mint Jacquard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31shFvQ4GrL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07W8Y9V9G",
+                "variationName": "Color",
+                "variationValue": "Coral Jacquard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31shaVBa09L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07W8Y4ND5",
+                "variationName": "Color",
+                "variationValue": "Light Blue Jacquard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31eLdba2yuL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0915LQ4FF",
+                "variationName": "Color",
+                "variationValue": "Navy Jacquard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sNbeGoO6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07W5R6YP5",
+                "variationName": "Color",
+                "variationValue": "Pink Jacquard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31nHRayY8mL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09159X4NK",
+                "variationName": "Color",
+                "variationValue": "Wine Jacquard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41kcV-DjvZL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07D6WFBLM",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D6XCL4C",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D6W6S9K",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D6WHXKW",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D6WT1B8",
+                "variationName": "Size",
+                "variationValue": "1X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D6XH6CB",
+                "variationName": "Size",
+                "variationValue": "2X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07D6WHTLV",
+                "variationName": "Size",
+                "variationValue": "3X",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41wFtmSGW7L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41jH35kgYpL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41nAFg9dUbL.jpg"
+        ],
+        "imagesCount": 3,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Just Love Store",
+            "link": "https://www.amazon.com/stores/JustLove/page/DBD823AC-1CDD-4E58-8D34-516F8CC86EA7?ref_=ast_bln"
+        },
+        "brand": "JustLove",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 13116,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Polyester",
+            "Care instructions Hand Wash Only",
+            "NEXT LEVEL COZINESS: Lounge away in swoon-worthy softness. We\u2019ve used 100% polyester microfleece fabric to make this plush lounger robe. The result? A zip front robe that makes every moment in it extra soft, snug, warm, and cozy; you won\u2019t want to slip out of it!",
+            "ALWAYS LOOK CUTE: You\u2019ll love the jacquard leaf-inspired pattern that creates an eye-catching textured aesthetic. This comfortable zippered lounger for women comes in a choice of pretty colors to suit any taste: from mint, navy, black, grey, coral, to purple.",
+            "GREAT FIT; MORE COMFORT: Petite, plus size, or anywhere in between, you\u2019ll find a great-fitting zip house dress from our size range. The loose fit allows you to move freely, the zipper makes slipping into it a breeze, and the long cut gives you the confidence to wear it around company.",
+            "DESIGNED TO LAST: Wash after wash, this cozy lounger dress retains its snug softness and cute color. We also pride ourselves on strict quality control and great attention to detail. This means beautifully-done hems and a clean look for a zip up housedress you\u2019ll love to rock.",
+            "ENJOY GREAT VALUE: Just Love is all about giving you the latest fashion at the best prices around. Click \u2018Add to Cart\u2019 now to get lounge wear for women created with supreme comfort, great quality, and unique style in mind, all without breaking the bank!"
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Lingerie, Sleep & Lounge",
+                "link": "https://www.amazon.com/Lingerie-Sleepwear-and-Loungewear/b/ref=dp_bc_aui_C_4?ie=UTF8&node=9522931011"
+            },
+            {
+                "name": "Sleep & Lounge",
+                "link": "https://www.amazon.com/Womens-Loungewear-and-Sleepwear/b/ref=dp_bc_aui_C_5?ie=UTF8&node=2376202011"
+            },
+            {
+                "name": "Robes",
+                "link": "https://www.amazon.com/Womens-Robes/b/ref=dp_bc_aui_C_6?ie=UTF8&node=1045012"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 0.5 x 0.5 x 0.5 inches; 8 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 6729-BLU-S"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e August 22, 2019"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07TVFP5TD"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#5,502 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #12 in Women's Robes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 13,116 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "MAKE LOUNGING AN INCREDIBLY COZY AFFAIR Standout Comfort We just love giving you the comfiest and coziest clothing to lounge in! It\u2019s one of our lives\u2019 calling really. And this zippered lounger robe highlights our passion for plush. We\u2019ve designed it using 100% polyester microfleece fabric that\u2019s known for its supreme softness, and given it a loose-fitting cut for unhampered movement. Slip into it after a long day\u2019s work, snuggle in it on the couch, or don it as a housedress when doing those chores and experience grin-worthy comfort all through. Lounging Made Stylish You might take a break, but we believe cuteness shouldn't! We\u2019ve brought this plush lounger house dress to life with a leaf jacquard pattern that creates a beautiful textured effect. And there is a little something in the color department to suit any taste: black, grey, and navy for a timeless touch, and mint, coral, and purple for ladies who love their lounge wear with a splash of character. Pick your favorite colors and start chilling in style. Here are more reasons to love this cozy lounger: - Comes with a full-length front zipper for easy wear. - Comes in XS-3X to fit the petite to the plus size. - Long cut lends a modest touch to lounging. - Washes well without losing softness or color. - Two pockets to store your phone and other essentials Click now for an extra-soft zip up lounger you\u2019ll want to live in!",
+                "media_link": []
+            },
+            {
+                "media_text": "Just Love Embossed Lounger Robe Just Love Stretch Velour Lounger Robe Just Love Floral Jaquard Lounger Robe Just Love Buffalo Plaid Lounger Robe Just Love Animal Print Lounger Robe Pockets 2 2 2 2 2 Length Long Long Long Long Short Fabric Feature Jaquard Leaf Pattern Stretch Velour Floral Jaquard Buffalo Plaid print & more Animal print & more Full Length Zipper \u2713 \u2713 \u2713 \u2713 \u2713",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sc/1355e528-d7e9-463c-a896-93049e96f7b9.__CR0,0,600,180_PT0_SX600_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/7f6af883-e21f-48af-878c-fb1d3078e7f8.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/0f6255f3-6371-4db6-b279-aaab33c3c765.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/9ce429f5-e0fb-40bb-bce0-7311148e27fe.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/53b12852-902b-4834-aded-33d68f585968.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/c1416fc2-443b-43af-9d3c-257b76b97e4c.__CR0,0,150,300_PT0_SX150_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "D. Ledford",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFNBUXPOXNKOGCT7XLQ3JHGRI5DQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R21GM5991SSIG?ASIN=B09V1VMXVQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 2, 2024",
+                "reviewTitle": "5.0 out of 5 stars I am 100 % satisfied.",
+                "reviewText": "This robe is great. It fits perfectly, soft, lightweight but yet warm, the color purple is beautiful, and it has pockets, a feature that I always want for convenience.",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "LUVBGNS",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE63F67UC2WLAVJIIZ3VLZT3EVKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RX9K9FZDP6K6D?ASIN=B09V1VMXVQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "5.0 out of 5 stars Just as advertised.",
+                "reviewText": "I ordered my regular size and it fits fine. It is very lightweight and silky soft. I think it will be adequate at keeping me warm. The mint color is beautiful. I also like the pattern in the weave. All good, as long as it holds up.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "heimbuks",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEFYPWSS3FAV3E2FABH6WR6SSVZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1SUXYC661MVO8?ASIN=B09V1VMXVQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars So soft",
+                "reviewText": "I\u2019m 5\u201910\u201d tall, 218 lbs. 67 yrs. Old. I bought a size 2x which fits perfect. The tag on neck says \u201cJust Love\u201d and I just love this too!!! It is so soft and I love the rich color purple. It is light weight yet warm. You can zip it up or leave it open. Wear it if you have to go to hospital because you can just zip it part way if needed. It is equally soft on the inside. I haven\u2019t washed it yet but being a seamstress it will wash up nicely in cold or warm water. Hope this review helps.",
+                "reviewVotes": "8 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHABTR7WC34TZ3YVRBYLPJTRLGFQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2RKVQWC33KNCY?ASIN=B09V1VMXVQ",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 25, 2023",
+                "reviewTitle": "4.0 out of 5 stars So soft",
+                "reviewText": "After reading all the reviews I was a little hesitant in ordering this robe, but I am so glad I did order it. It came with no issues. The size was perfect, the sleeves were a little long, but since I sew, it was no big deal. The length was perfect. It is nice an warm on a cool morning or evening. I LOVE it and I'm sure you will too. I've washed it a couple of times with no shrinkage and it comes out even softer.",
+                "reviewVotes": "11 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "CathyPerkins",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEMJDYV6L3N7BYETCV5EZ7XODIKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1HYAFAMB5WQBN?ASIN=B09V1VMXVQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 16, 2024",
+                "reviewTitle": "5.0 out of 5 stars Better than expected.",
+                "reviewText": "This was better than I expected. Soft, warm, lightweight. I really like it. Sleeves were nice and long but have a nice cuff to roll up when washing hands. Nice pockets. Good length. Plastic zipper but so far, so good (but I haven't washed it in a washing machine yet, only by hand). Would buy again.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Will Bhandary",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHSFOX2OFGCM76QRRVCBBG3TC2EQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RO80TZTY0TFTV?ASIN=B09V1VMXVQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "5.0 out of 5 stars Soft, comfortable bathrobe love it",
+                "reviewText": "Very comfortable and keeps me warm but not too hot for the winter. It\u2019s easy to wash and comes out great in the dryer. Thank you. It looks so pretty on to.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lissa Soria",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGUCEZHS7XQOEUYTOBG54EQMJZKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3MVAVUMGPVFHM?ASIN=B09V1VMXVQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 28, 2024",
+                "reviewTitle": "5.0 out of 5 stars So soft and warm",
+                "reviewText": "Ok, I have finally reached my \"extra\" stage with this robe! I have never liked robes because of the belt. If you have a little pudge, the belt never stays closed and exposes what you're trying to keep hidden and warm. But this winter has been especially cold and I had enough. I read the reviews and decided to take the leap. Let me tell you... I'm 4'11, the sleeves are a little long and this robe goes all the way down to my ankles. It is so soft and comfy. Warm but not too heavy. It does shorten my stride walking and my black fuzzy slippers complete the penguin walk or the Fester Addams look. But I am finally warm and in my own darn house so I don't care. It even has pockets to carry tissues, for the rom coms I watch and no one can tell I was crying. You will love this robe! Go buy yourself one.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lady in black",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGXXHMWJUUAG2CGRRRXJLIBMTDMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R31TQPW9AXZS1V?ASIN=B09V1VMXVQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Soft and warm robe",
+                "reviewText": "This robe is true to size and very soft, warm and comfortable. I bought the blue for my Mom and it's very pretty. The material is very luxurious and the zipper front makes it easy for her.",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "mackenzie ross",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 13, 2024",
+                "reviewTitle": "Absolutely lovely robe!!",
+                "reviewText": "It fits very well and is super soft and comfy. I went on the site to buy another one in a different colour but of the stock was down and there were no sizes available . I will chect again in a few months because I would really like another one. A really really lovely robe.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Judy",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 15, 2023",
+                "reviewTitle": "Perfect",
+                "reviewText": "This robe is just what I was looking for. The material is soft and cozy and the blue colour is lovely. It\u2019s kind of turquoise. I am 5 feet tall and 155 pounds and the medium fit well. Roomy enough to feel comfortable. The sleeves are long enough for a taller person but I sometimes just turn up the cuffs if need be. The length reaches my ankles. I love putting this on in the evening. Keeps me warm in our Canadian winter. Definitely recommend.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Colleen ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on July 13, 2023",
+                "reviewTitle": "Zipper housecoat",
+                "reviewText": "Love it comfortable easy washing good zipper",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Princesa",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 1, 2020",
+                "reviewTitle": "buen producto",
+                "reviewText": "lleg\u00f3 antes de tiempo, pero bien, me encant\u00f3. buenos materiales, muy c\u00f3moda, acogedora y calientita. lo lamentable es que es la talla m\u00e1s grande y no es tan grande, yo soy talla 38 mexicana y me qued\u00f3 c\u00f3moda. le gusto a mi hermana que es dos tallas m\u00e1s grande y no le qued\u00f3. hay que pensar en tallas extras. Este tipo de prendas son m\u00e1s de gusto de personas mayores con tallas muy grandes.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Abraham Alejandro",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 5, 2020",
+                "reviewTitle": "Muy bonita y c\u00f3moda",
+                "reviewText": "Super calientita",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

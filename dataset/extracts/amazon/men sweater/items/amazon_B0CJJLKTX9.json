@@ -1,0 +1,502 @@
+{
+    "remaining_requests": 16374,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Nautica-Classic-Lightweight-Sweater-OldGoldHtr/dp/B0CJJLKTX9",
+    "body": {
+        "name": "Nautica Men's Classic Fit Navtech Soft V-Neck Sweater",
+        "price": "$32.82 - $39.03",
+        "originalPrice": "",
+        "rawPrice": 32.82,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Nautica-Classic-Lightweight-Jersey-Sweater/dp/B07MY1RTJ5",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B07MY1RTJ5"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B08BZRXXGT",
+                "variationName": "Color",
+                "variationValue": "Sandy Bar Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/417vwOemprL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08BTW1SLG",
+                "variationName": "Color",
+                "variationValue": "Deep Anchor Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41eFQFJSXbL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07G5J1SF2",
+                "variationName": "Color",
+                "variationValue": "Grey Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41RO8-NkCcS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJJL8XCW",
+                "variationName": "Color",
+                "variationValue": "(Fall/Winter 2024) Biking Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414tg1oVAEL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJJM6B9N",
+                "variationName": "Color",
+                "variationValue": "(Fall/Winter 2024) Blue Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31xR2vlTEBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJJGK5R2",
+                "variationName": "Color",
+                "variationValue": "(Fall/Winter 2024) Camel Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ekcxP3uXL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJJP7BW2",
+                "variationName": "Color",
+                "variationValue": "(Fall/Winter 2024) Crimson",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31rTHOI-Q8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJJM857G",
+                "variationName": "Color",
+                "variationValue": "(Fall/Winter 2024) Limoges Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41MnXqFRD8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJJL5RLP",
+                "variationName": "Color",
+                "variationValue": "(Fall/Winter 2024) Navy Seas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31+9broR63L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJJLKTX9",
+                "variationName": "Color",
+                "variationValue": "(Fall/Winter 2024) Old Gold Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313IAvhiFRL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJJJD3DM",
+                "variationName": "Color",
+                "variationValue": "(Fall/Winter 2024) Smoke Grey Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31euRkLO+qL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07HJK2T2V",
+                "variationName": "Color",
+                "variationValue": "Marshmallow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31jwMtXN7mL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07G5LJZ4B",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31f75UmfNML._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07G5JHVFJ",
+                "variationName": "Color",
+                "variationValue": "True Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31pAZnZcn2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CL6HDZGF",
+                "variationName": "Color",
+                "variationValue": "(Fall/Winter 2024) Hunter Green Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/318gxWDiWtL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08BTRMJCW",
+                "variationName": "Color",
+                "variationValue": "Royal Burgundy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/314joaXb8JL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CL6HL8GZ",
+                "variationName": "Color",
+                "variationValue": "(Fall/Winter 2024) Violet Wave Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XjLqUlNVL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08BTRMJCW",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08BZRXXGT",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CJJLKTX9",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CJJKX1R5",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CJJK2T76",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CJJKD9WN",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08BZSG86T",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/313IAvhiFRL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31qbn0Nz24L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51EbYJgW3nL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31mDW-HWpsL.jpg"
+        ],
+        "imagesCount": 4,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Nautica Store",
+            "link": "https://www.amazon.com/stores/Nautica/page/AE6F8A7E-6EEF-4FB0-8A5D-0ACDEA2E0DE4?ref_=ast_bln"
+        },
+        "brand": "Nautica",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 1184,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 60% Cotton, 40% Polyester",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type No Closure",
+            "V-neck; ribbed collar",
+            "Long sleeve with ribbed cuffs; ribbed hem.",
+            "Classic-fit",
+            "J-class logo at chest"
+        ],
+        "description": "This v-neck sweater is made from temperature-controlled, mechanical-stretch fabric that helps regulate body heat and moves with you throughout the day. From Nautica\u2019s Navtech collection, it is the perfect sweater for life\u2019s daily adventures.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Sweaters",
+                "link": "https://www.amazon.com/Mens-Sweaters/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1044442"
+            },
+            {
+                "name": "Pullovers",
+                "link": "https://www.amazon.com/Mens-Pullover-Sweaters/b/ref=dp_bc_aui_C_5?ie=UTF8&node=2476516011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 12.5 x 7.2 x 2.5 inches; 10.41 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e S03000"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e June 29, 2020"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Nautica"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B08BZRXXGT"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#24,296 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #29 in Men's Pullover Sweaters"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 1,184 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sota/0d3711ab-0587-4859-a0ab-64445c13d1af.__CR0,3,1920,594_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "D. Wilson",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEVJCPX274CUYMVLV75E4AFXSIUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2UVSPXCAWDJW0?ASIN=B07MY1RTJ5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars Looks great. Excellent value",
+                "reviewText": "Good fit, very comfortable. Several compliments on the look!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sherry L Nadler",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEQ3BEORIE77WDV6ZRBSQ62JUC5Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R21MG93ND3C3BS?ASIN=B07MY1RTJ5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 30, 2023",
+                "reviewTitle": "5.0 out of 5 stars Very Nice Sweater",
+                "reviewText": "Nice, soft fabric. Fits true to size. I followed the wash instructions and I\u2019m concerned it may have shrunk a little.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Angela",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFGIJSVH3AWL2QIRLNEGCUFQRZJQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R28SRAQX1I5F0Q?ASIN=B07MY1RTJ5",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 17, 2023",
+                "reviewTitle": "4.0 out of 5 stars Simple but classy",
+                "reviewText": "I love the style of the sweater. It looks great for more dress occasions but also for a dinner out with jeans. The fabric is soft and fit is great.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Debra Maynor",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHAISEEYX645YTXG6D5VGADJZM4A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2Q6FE6I2CS3QP?ASIN=B07MY1RTJ5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very nice sweater.",
+                "reviewText": "Soft, well made.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Big arsenal fan",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHHIRAH6UFWOB5I3EQB56KIFO2NQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2J2K14NJR3VYI?ASIN=B07MY1RTJ5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nautical Makes the Best",
+                "reviewText": "Stylish and a nice fit, the men\u2019s v-neck sweater is a winner.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "agb1z",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGNP3JRTCCBQNG3X3QSU3RD5REMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3FOMAT5650AWR?ASIN=B07MY1RTJ5",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 29, 2023",
+                "reviewTitle": "3.0 out of 5 stars V neck is much deeper than photo.",
+                "reviewText": "If going for the shaven chested teen boy look or wearing an undershirt it might work... V is way too deep for an adult male to wear by itself without looking very silly.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tahira Wade",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGHDDEZ5LYO4J5WLQWNQOKXXVP6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RPHMUWR5QBV6W?ASIN=B07MY1RTJ5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars As advertised",
+                "reviewText": "Nice color, well made!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rollin Strode",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH3QTZWCWMCGQJYC5JLCMTRJOKDA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R295658KKAFHHW?ASIN=B07MY1RTJ5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 25, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great fitting lightweight sweater.",
+                "reviewText": "I love the fit and the color. Very comfortable sweater.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "joann",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 13, 2024",
+                "reviewTitle": "Very nice",
+                "reviewText": "Good fit and great sweater",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "El Lerma",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 30, 2023",
+                "reviewTitle": "..Buen producto en general.",
+                "reviewText": "..Muy buen su\u00e9ter como toda la ropa de esta marca. Es c\u00f3modo y bonito.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JUAN MANUEL ARJONA",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 4, 2021",
+                "reviewTitle": "llego el producto manchado, solicite la devolucion y hoy 4 de enero no han pasado por el",
+                "reviewText": "era un regalo que NO pude entregar tuve que reemplazarlo con otra compra",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Juan Carlos Olmedo Estrada",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 14, 2023",
+                "reviewTitle": "Estupenda compra",
+                "reviewText": "Estupendo su\u00e9ter con la calidad de Na\u00fatica y con un excelente precio",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Paulyann",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 6, 2023",
+                "reviewTitle": "Awesome",
+                "reviewText": "It's awesome , washes well. This is a nessety.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,927 @@
+{
+    "remaining_requests": 16696,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Under-Armour-Mens-Tech-Golf/dp/B0CFFZ9ZYV",
+    "body": {
+        "name": "Under Armour Men's Tech Golf Polo",
+        "price": "$39.99 - $52.99",
+        "originalPrice": "",
+        "rawPrice": 39.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Under-Armour-Mens-Tech-Golf/dp/B0CFFZ9ZYV",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CFFZ9ZYV"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09WD5LWVC",
+                "variationName": "Color",
+                "variationValue": "(044) Downpour Gray / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGW8752N",
+                "variationName": "Color",
+                "variationValue": "(057) Ash Taupe / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09X6KWXXD",
+                "variationName": "Color",
+                "variationValue": "(236) Sahara / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JNFRX1X",
+                "variationName": "Color",
+                "variationValue": "(331) Intensity / Pitch Gray / Pitch Gra...",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JNFY6LS",
+                "variationName": "Color",
+                "variationValue": "(334) Key Lime / Pitch Gray / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WCW4458",
+                "variationName": "Color",
+                "variationValue": "(369) Lime Surge / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WD3LF3W",
+                "variationName": "Color",
+                "variationValue": "(390) Marine Od Green / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WCSVFVZ",
+                "variationName": "Color",
+                "variationValue": "(418) Static Blue / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JNG7QJX",
+                "variationName": "Color",
+                "variationValue": "(419) Capri / Pitch Gray / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGWZ5VC4",
+                "variationName": "Color",
+                "variationValue": "(426) Varsity Blue / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WCWJ134",
+                "variationName": "Color",
+                "variationValue": "(433) Glacier Blue / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JNFK8LK",
+                "variationName": "Color",
+                "variationValue": "(456) Bauhaus Blue / Pitch Gray / Pitch ...",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WD37JP7",
+                "variationName": "Color",
+                "variationValue": "(465) Harbor Blue / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BJ7TGMGM",
+                "variationName": "Color",
+                "variationValue": "(466) Cosmic Blue / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WD4GHK8",
+                "variationName": "Color",
+                "variationValue": "(468) Sonar Blue / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BJ7SY9BM",
+                "variationName": "Color",
+                "variationValue": "(469) Water / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WCMLWM5",
+                "variationName": "Color",
+                "variationValue": "(471) Blue Mirage / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGWGHWMM",
+                "variationName": "Color",
+                "variationValue": "(504) Grove Green / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WCYGVLS",
+                "variationName": "Color",
+                "variationValue": "(508) Birdie Green / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JNDJ2BK",
+                "variationName": "Color",
+                "variationValue": "(514) Rivalry / Pitch Gray / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WD4S2TT",
+                "variationName": "Color",
+                "variationValue": "(522) Galaxy Purple / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WD4XT73",
+                "variationName": "Color",
+                "variationValue": "(541) Tux Purple / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JNFZDDX",
+                "variationName": "Color",
+                "variationValue": "(558) Tin / Black / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JNJ4NZ2",
+                "variationName": "Color",
+                "variationValue": "(559) Tempered Steel / Pitch Gray / Pitc...",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WD2DZV4",
+                "variationName": "Color",
+                "variationValue": "(572) Purple Stone / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGVTT687",
+                "variationName": "Color",
+                "variationValue": "(601) Dark Maroon / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JNF71YF",
+                "variationName": "Color",
+                "variationValue": "(691) Chestnut Red / Pitch Gray / Pitch ...",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C12NDY9K",
+                "variationName": "Color",
+                "variationValue": "(727) Sonic Yellow / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGWDJVJG",
+                "variationName": "Color",
+                "variationValue": "(743) Lime Yellow / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JNGNSZG",
+                "variationName": "Color",
+                "variationValue": "(781) Opal Green / Pitch Gray / Pitch Gr...",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JNHHLRW",
+                "variationName": "Color",
+                "variationValue": "(782) Rise / Pitch Gray / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WD4SHDQ",
+                "variationName": "Color",
+                "variationValue": "(799) Starfruit / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGWTJGHQ",
+                "variationName": "Color",
+                "variationValue": "(802) Formula Orange / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C12W6699",
+                "variationName": "Color",
+                "variationValue": "(814) Red Solstice / / Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WCZPT7J",
+                "variationName": "Color",
+                "variationValue": "(866) Orange Blast / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WD1JGQL",
+                "variationName": "Color",
+                "variationValue": "(877) After Burn / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JNDJMWH",
+                "variationName": "Color",
+                "variationValue": "(891) Radio Red / Pitch Gray / Pitch Gra...",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077XLRS13",
+                "variationName": "Color",
+                "variationValue": "Artillery Green (357)/Graphite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07J3DLLWW",
+                "variationName": "Color",
+                "variationValue": "Baroque Green (310)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07NTWP31G",
+                "variationName": "Color",
+                "variationValue": "Beta (628)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CZLNZCZ",
+                "variationName": "Color",
+                "variationValue": "Black (001)/Graphite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GBM3P42",
+                "variationName": "Color",
+                "variationValue": "Blue Circuit (436)/Graphite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01GH5GGJU",
+                "variationName": "Color",
+                "variationValue": "Blue/ Graphite/ Graphite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093KFYTBT",
+                "variationName": "Color",
+                "variationValue": "Breaker Blue (478)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07YXPMBWQ",
+                "variationName": "Color",
+                "variationValue": "Carolina Blue (475)/Graphite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0942Z5278",
+                "variationName": "Color",
+                "variationValue": "Carolina Blue (475)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0872CR2MZ",
+                "variationName": "Color",
+                "variationValue": "Cosmos (476)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093K7ZFWP",
+                "variationName": "Color",
+                "variationValue": "Fresco Blue (481)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08LPQ8KSB",
+                "variationName": "Color",
+                "variationValue": "Gala (692)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07KGK86FT",
+                "variationName": "Color",
+                "variationValue": "Graphite (040)/Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0872D46P7",
+                "variationName": "Color",
+                "variationValue": "Isotope Blue (438)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08LJNKDRY",
+                "variationName": "Color",
+                "variationValue": "Lichen Blue (424)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CZFP1PC",
+                "variationName": "Color",
+                "variationValue": "Mango Orange (492)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CZRBG17",
+                "variationName": "Color",
+                "variationValue": "Maroon (609)/Graphite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CZCTMF6",
+                "variationName": "Color",
+                "variationValue": "Midnight Navy (410)/Graphite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CZFSSN5",
+                "variationName": "Color",
+                "variationValue": "Neo Turquoise (361)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07YXKLRW3",
+                "variationName": "Color",
+                "variationValue": "Orange Spark (841)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0872FC737",
+                "variationName": "Color",
+                "variationValue": "Pale Moonlight (911)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08LNZTWL7",
+                "variationName": "Color",
+                "variationValue": "Phoenix Fire (296)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0872DGFZD",
+                "variationName": "Color",
+                "variationValue": "Pink Shock (683)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093KBPV9R",
+                "variationName": "Color",
+                "variationValue": "Quirky Lime (752)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CZHXNB9",
+                "variationName": "Color",
+                "variationValue": "Red (600)/Graphite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CZLWL5M",
+                "variationName": "Color",
+                "variationValue": "Royal (400)/Graphite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01GH5FS9Y",
+                "variationName": "Color",
+                "variationValue": "Royal / Graphite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0872DGLXC",
+                "variationName": "Color",
+                "variationValue": "Starlight (561)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0872DLWTR",
+                "variationName": "Color",
+                "variationValue": "Summer Lime (162)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0719L2JZX",
+                "variationName": "Color",
+                "variationValue": "Team Orange (800)/Graphite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08LP1KQ4Z",
+                "variationName": "Color",
+                "variationValue": "Tech Blue (432)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093K4T9D7",
+                "variationName": "Color",
+                "variationValue": "Tech Blue/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0872DK4K7",
+                "variationName": "Color",
+                "variationValue": "Venom Red (690)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07Q7M3ZQH",
+                "variationName": "Color",
+                "variationValue": "Versa Blue (486)/Pitch Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FZJXLHB",
+                "variationName": "Color",
+                "variationValue": "White (100)/Graphite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WD5LWVC",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WDRY1N1",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09X6LHY26",
+                "variationName": "Size",
+                "variationValue": "Small Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WD9KLH1",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09X6JF26K",
+                "variationName": "Size",
+                "variationValue": "Medium Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGWYGN9S",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09X6JSJHJ",
+                "variationName": "Size",
+                "variationValue": "Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WCL55CH",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09X6HHH16",
+                "variationName": "Size",
+                "variationValue": "X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WCL2HTT",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGW3SFS1",
+                "variationName": "Size",
+                "variationValue": "XX-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGW6GD6M",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGWDDHCN",
+                "variationName": "Size",
+                "variationValue": "3X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGWGLCRM",
+                "variationName": "Size",
+                "variationValue": "4X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGW8752N",
+                "variationName": "Size",
+                "variationValue": "4X-Large Tall",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/413vMIrvZJL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41zIKda7XQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41qJpJM6O0L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31bqx-Sgx4L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31FBMsL7 qL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51QDAqNl IL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41fAIjYYnCL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Under Armour Store",
+            "link": "https://www.amazon.com/stores/UnderArmour/page/4750579C-0CF4-4BF9-B7E8-F782E52D7683?ref_=ast_bln"
+        },
+        "brand": "UnderArmour",
+        "merchantInfo": "",
+        "customerReview": "4.7 out of 5 stars",
+        "customerReviewCount": 50836,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "100% Polyester",
+            "Made in the USA or Imported",
+            "Textured fabric that's soft, light & breathable",
+            "Material wicks sweat & dries really fast",
+            "3-button placket",
+            "Self-fabric collar",
+            "Loose: Fuller cut for complete comfort."
+        ],
+        "description": "UA Tech\u2122 is our original go-to training gear: Under Armour men's Tech polos are loose, light, and keep you cool. Basically, they're built to be everything you need. Textured fabric that's soft, light & breathable. Material wicks sweat & dries really fast. 3-button placket. Self-fabric collar. Loose: Fuller cut for complete comfort. 100% Polyester.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Shirts",
+                "link": "https://www.amazon.com/Mens-Shirts/b?ie=UTF8&node=2476517011"
+            },
+            {
+                "name": "Polos",
+                "link": "https://www.amazon.com/Mens-Polo-Shirts/b?ie=UTF8&node=1045640"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Item Package Dimensions L x W x H",
+                "value": "\u200e12.28 x 8.11 x 1.5 inches"
+            },
+            {
+                "name": "Package Weight",
+                "value": "\u200e0.21 Kilograms"
+            },
+            {
+                "name": "Brand Name",
+                "value": "\u200eUnder Armour"
+            },
+            {
+                "name": "Model Name",
+                "value": "\u200eTech Golf Polo"
+            },
+            {
+                "name": "Color",
+                "value": "\u200e(044) Downpour Gray / / Black"
+            },
+            {
+                "name": "Material",
+                "value": "\u200ePolyester"
+            },
+            {
+                "name": "Suggested Users",
+                "value": "\u200emens"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "\u200eUnder Armour"
+            },
+            {
+                "name": "Part Number",
+                "value": "\u200e1290140-044"
+            },
+            {
+                "name": "Style",
+                "value": "\u200eTech Golf Polo"
+            },
+            {
+                "name": "Size",
+                "value": "\u200eX-Small"
+            },
+            {
+                "name": "Sport Type",
+                "value": "\u200eGolf"
+            },
+            {
+                "name": "ASIN",
+                "value": "B09WD5LWVC"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.7 4.7 out of 5 stars 50,836 ratings 4.7 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#106 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #1 in Men's Activewear Polos"
+            },
+            {
+                "name": "Date First Available",
+                "value": "March 24, 2022"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Men's UA Tech Polo UA Tech is our original go-to training gear: Under Armour men's Tech polos are loose, light, and keep you cool. Basically, they're built to be everything you need. Loose: Fuller cut for complete comfort.Textured fabric that's soft, light & breathableMaterial wicks sweat & dries really fast3-button placketSelf-fabric collar",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3f110771-9372-4061-ad2a-6a08b62505a5.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "STREAMLINED FIT New aerodynamic cut and soft, ultralight feel. DRIES FAST Wicks sweat and dries fast to keep you cool. NOTHING GETS IN YOUR WAY Stretchy, fabrics built to last.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d80e172d-3475-45a1-b231-83e7c4cd4659.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5aea8ff8-58e9-4493-b6d4-6508e0a08be9.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d25a4b6b-7c73-43f3-9794-53c4a22098c6.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3f110771-9372-4061-ad2a-6a08b62505a5.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d80e172d-3475-45a1-b231-83e7c4cd4659.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5aea8ff8-58e9-4493-b6d4-6508e0a08be9.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d25a4b6b-7c73-43f3-9794-53c4a22098c6.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/124db55a-acba-4245-994d-d239b2c71b51.__CR0,0,970,300_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ae5038e2-632b-43d6-ad55-29465317545a.__CR0,0,970,600_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f0d37297-ecc3-454d-9a3d-0df721ec4347.__CR0,0,970,600_PT0_SX970_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Jeremy ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG3UJ3LPUPCOJ5GNXWDDN7JCAXKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3BO1RHFF0W0KF?ASIN=B0CFFZ9ZYV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 26, 2023",
+                "reviewTitle": "5.0 out of 5 stars Fits and looks as expected for a discount!!",
+                "reviewText": "Elevated Style and Comfort: 5 Stars for Under Armour PoloThe Under Armour Polo is a standout addition to my wardrobe. The quality of the fabric is exceptional, offering a perfect blend of comfort and durability. The fit is tailored and stylish, making it suitable for both casual and more formal occasions. The moisture-wicking technology keeps me cool and dry, even on warmer days. The attention to detail in design and the iconic Under Armour logo add a touch of athletic elegance. Whether for sports, work, or leisure, this polo exceeds expectations. A definite 5-star rating for its superior craftsmanship and versatile style.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "KCKC",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGG4DEBCVJS5CVBJYZUTALAZUHLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1PK07QKCTL0FU?ASIN=B0CFFZ9ZYV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars He LOVES it!",
+                "reviewText": "Hubby looked good and shirt was perfect fit. Great price and quality.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71I3u+0K4yL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bodhi",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFFEPS5G2X7AJN7ITOHPDWTL2AXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RIKQN70RVP16U?ASIN=B0CFFZ9ZYV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great",
+                "reviewText": "UA quality through and through. Great color, great fit, great shirt.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF44RB3RJ7HFUBFH46MVJ4S7FYWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3ES7262T16Z5Q?ASIN=B0CFFZ9ZYV",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "4.0 out of 5 stars Fit is good. Very nice lok",
+                "reviewText": "These Under Armor shirts are very nice and a great deal if you wait for the right pricing. They retail in $45 range, but Amazon will have various colors for much less at different times. Put a couple in you watchList and grab them when the price is good.I paid about $20 for one and under $30 for another.The shirt itself looks great and fits well. I\u2019m a big fan of Most UA clothing.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JP JohlJP Johl",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEMQOCWUNWHSNZ5XPNK4WAVD4PTQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R227NM9487DAT7?ASIN=B0CFFZ9ZYV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 6, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great fit & AMAZING color",
+                "reviewText": "I snagged this Under Armour Golf Polo on Prime Day, and wow, it's been a total wardrobe win. I'm usually hovering between sizes, which is a real issue, but I took a chance with this polo because they didn't have a large in this color..... It was definitely the right call!The fit is amazing. It's almost like it was tailored just for me. It hits that sweet spot of comfort\u2014not too tight, not too baggy. I've tried going up a size in the past for that looser vibe, but it turns out that was a no-go. This polo is where it's at. The larger size had me feeling lost in the fabric, but this one? It's the Goldilocks of polos for me.And let's talk about the length for a sec\u2014it's just right. You can tuck it in without it bunching up, but it's also not hanging down to your knees. It's versatile enough for a day on the golf course or just kicking back and relaxing.It's Under Armour quality too, which means it's tough and ready for whatever comes its way, including the occasional coffee mishap (because life happens).Also, I've gotten so many compliments on the color!For anyone who's not sure about their size, trust me on this\u2014go with what you usually wear. This polo won't let you down. A well-deserved five stars from me!",
+                "reviewVotes": "11 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61R2r7ZvqkL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "zvikazvika",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE5F6FIRKBTCG6KWI77KZP44GB4A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2VZNFDG7C5SA3?ASIN=B0CFFZ9ZYV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 16, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable and beautiful shirt",
+                "reviewText": "I've been wearing these shirts for a year, the best I've ever had,Very comfortable and light, very pleasant fabric, last many washes,We recommend washing at 30 degrees and do not put in the tumble dryer.Classic/straight cut, very comfortable and loose on the body, not tight.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/7160FCYhjHL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "tatiana",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFK5VK5L7V62ZPJKLNKSVZ6AYUJA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3GJLJ1YXY5JZR?ASIN=B0CFFZ9ZYV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 28, 2024",
+                "reviewTitle": "5.0 out of 5 stars Beautiful color and feets well.",
+                "reviewText": "The product arrived on time. The product fits well, washes well, and looks really nice. The quality of the shirt is nice too.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Doug S.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFTG7VM3D5Y3VKF5Q3KM7ODB6BOA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3END8UKKPSX3V?ASIN=B0CFFZ9ZYV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice fit",
+                "reviewText": "It\u2019s a nice shirt. Fits well and is comfortable.Side note, it did come very wrinkly from the Amazon delivery and the wrinkles are a pain to get out.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sharon Ballett",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 3, 2024",
+                "reviewTitle": "Nice fit",
+                "reviewText": "Bought this for my bf and it fit perfectly and looks so nice. The colour is really nice also.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Enrique",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 2, 2024",
+                "reviewTitle": "a brigthly one better",
+                "reviewText": "more focus on",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "DARIO A.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 23, 2024",
+                "reviewTitle": "Original excelente calidad a un precio inmejorable",
+                "reviewText": "Esta playera es original la tela es mas gruesa y comoda que las que he tenido antes y el precio menos de 500 es inmejorable pues es una camiseta de mas de 700 pesos",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 26, 2023",
+                "reviewTitle": "Nice golf shirt",
+                "reviewText": "The shirt fits and looks great !The size is correct and the collar looks good.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "James",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 19, 2023",
+                "reviewTitle": "Would buy again.",
+                "reviewText": "Quality shirt. Just a touch small for the size.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

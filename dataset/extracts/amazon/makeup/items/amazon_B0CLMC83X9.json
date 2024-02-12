@@ -1,0 +1,547 @@
+{
+    "remaining_requests": 8727,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/NYX-PROFESSIONAL-MAKEUP-Correcting-Concealer/dp/B0CLMC83X9",
+    "body": {
+        "name": "NYX PROFESSIONAL MAKEUP, Pro Fix Stick Correcting Concealer - Green",
+        "price": "$8.52$8.52 $7.62$7.62",
+        "originalPrice": "",
+        "rawPrice": 8.52,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/NYX-PROFESSIONAL-MAKEUP-Correcting-Concealer/dp/B0CLMC83X9",
+        "soldBy": {
+            "sellerID": "",
+            "name": "Amazon.com",
+            "link": "https://www.amazon.com"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CQKDCGFV"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0CLMC83X9",
+                "variationName": "Color",
+                "variationValue": "0.1 GREEN",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21PQm7BK0fL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMBVTWV",
+                "variationName": "Color",
+                "variationValue": "0.2 PINK",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21K-durrsQL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMCBJNL",
+                "variationName": "Color",
+                "variationValue": "0.3 YELLOW",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21L8qWfqpFL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMCWNQB",
+                "variationName": "Color",
+                "variationValue": "0.4 DARK PEACH",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21URBwOSSLL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMF2K7K",
+                "variationName": "Color",
+                "variationValue": "0.5 APRICOT",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21gxP5iwyFL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CQBH8X2H",
+                "variationName": "Color",
+                "variationValue": "0.6 BRICK RED",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21OYe+y4+BL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMBD8JQ",
+                "variationName": "Color",
+                "variationValue": "01 PALE",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21m1LSfLU4L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMD7M4K",
+                "variationName": "Color",
+                "variationValue": "02 FAIR",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21BOgWh6YWL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMD8KYY",
+                "variationName": "Color",
+                "variationValue": "03 ALABASTER",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21Lk189exML._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMD18N5",
+                "variationName": "Color",
+                "variationValue": "04 LIGHT",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21M3BXYGe5L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMC6Q1Z",
+                "variationName": "Color",
+                "variationValue": "05 VANILLA",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21YbTU30MML._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMCM4LW",
+                "variationName": "Color",
+                "variationValue": "06 NATURAL",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/217dBP55VfL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMC5KFP",
+                "variationName": "Color",
+                "variationValue": "07 SOFT BEIGE",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21wVncPtk+L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMCXD3Q",
+                "variationName": "Color",
+                "variationValue": "08 TAN",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/210nJlFlsSL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMCN3W1",
+                "variationName": "Color",
+                "variationValue": "09 NEUTRAL TAN",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21VVVN1+JML._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMCQ19F",
+                "variationName": "Color",
+                "variationValue": "10 GOLDEN",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21ufJlNRHxL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMDC6H7",
+                "variationName": "Color",
+                "variationValue": "11 CINNAMON",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21J4FsPpMfL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMC4PTD",
+                "variationName": "Color",
+                "variationValue": "12 NUTMEG",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21RQkysFZ2L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMC5C9B",
+                "variationName": "Color",
+                "variationValue": "13 CAPPUCCINO",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21tjC5bTX9L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMCT3RF",
+                "variationName": "Color",
+                "variationValue": "14 SIENNA",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21eJ5TofcCL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CQB9KTXJ",
+                "variationName": "Color",
+                "variationValue": "15 COCOA",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21WSeU5qiuL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMQ9TBR",
+                "variationName": "Color",
+                "variationValue": "16 WALNUT",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21bEzRc2r5L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMBZMCM",
+                "variationName": "Color",
+                "variationValue": "17 DEEP WALNUT",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21MlkfwhdwL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLMBVPQN",
+                "variationName": "Color",
+                "variationValue": "18 RICH ESPRESSO",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21mORIF7-WL._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "27",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31fwZ8FFAgL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41JzXa4PeoL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/515zAzp7goL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51MhWFpD8hL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51C STBBitL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/419IxojL2kL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41Jr7lA mXL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the NYX PROFESSIONAL MAKEUP Store",
+            "link": "https://www.amazon.com/stores/NYXProfessionalMakeup/page/85ED5ECE-3DCD-4491-9BA0-98D6E0B0A5B2?ref_=ast_bln"
+        },
+        "brand": "NYXProfessionalMakeup",
+        "merchantInfo": "",
+        "customerReview": "3.9 out of 5 stars",
+        "customerReviewCount": 150,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Wednesday, February 21 on orders shipped by Amazon over $35",
+            "Or fastest delivery Tomorrow, February 17. Order within 3 hrs 22 mins",
+            "FREE delivery Wednesday, February 21 on orders shipped by Amazon over $35",
+            "FREE delivery Wednesday, February 21 on orders shipped by Amazon over $35",
+            "Or fastest delivery Tomorrow, February 17. Order within 3 hrs 22 mins",
+            "FREE delivery Wednesday, February 21 on orders shipped by Amazon over $35"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Creamy Concealer: Our creamy crease-resistant formula is infused with hyaluronic acid for the smoothest glide ever. Never dry & never draggy. With a buildable medium-coverage concealer formula with 12-hour hydration for a natural skin-like finish.",
+            "Easy Application: Get your fix on with our transfer-resistant formula; color correcting and complexion shades for all skin tones. With undetectable, mess-free coverage for the smoothest glide that\u2019s never dry.",
+            "Face From Foundation To Finish: Complete your makeup look with our full line of face products to aid in color correction and coverage from concealer, blush, bronzer, foundations and contouring to palettes and powders",
+            "Cruelty Free Cosmetics: We believe animals belong in our arms, not in a lab; All of our makeup is certified and acknowledged by PETA as a cruelty free brand; We don't test any of our products on animals",
+            "Discover NYX Professional Makeup: Try all of our professional makeup products today from eyeshadow, eyeliner, and false lashes to liquid lipstick, lip gloss, primer, concealer, setting sprays and eyebrow makeup"
+        ],
+        "description": "The quickest way to fix it all with Pro Fix Stick Correcting Concealer. Correct, conceal, and brighten in one swipe. Color correcting is made easy with 6 color correctors for all skin tones. 18 complexion shades are available to conceal and brighten like a pro! This concealer is crease resistant, medium coverage with a neutral finish. Infused with hyaluronic acid, vegan and cruelty free.",
+        "breadCrumbs": [
+            {
+                "name": "Beauty & Personal Care",
+                "link": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/ref=dp_bc_aui_C_1?ie=UTF8&node=3760911"
+            },
+            {
+                "name": "Makeup",
+                "link": "https://www.amazon.com/Makeup-Cosmetics-Products-Beauty/b/ref=dp_bc_aui_C_2?ie=UTF8&node=11058281"
+            },
+            {
+                "name": "Face",
+                "link": "https://www.amazon.com/Face-Makeup-Cosmetics-Beauty/b/ref=dp_bc_aui_C_3?ie=UTF8&node=11058691"
+            },
+            {
+                "name": "Concealers & Neutralizers",
+                "link": "https://www.amazon.com/Concealers-Neutralizing-Makeup/b/ref=dp_bc_aui_C_4?ie=UTF8&node=11058791"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 4.45 x 2.24 x 1.26 inches; 0.19 Ounces"
+            },
+            {
+                "name": "UPC \u200f",
+                "value": "\u200e 800897249199"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e NYX Professional Makeup"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0CLMC83X9"
+            },
+            {
+                "name": "Country of Origin \u200f",
+                "value": "\u200e USA"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,662 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #13 in Concealers & Neutralizing Makeup"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "3.9 3.9 out of 5 stars 150 ratings"
+            },
+            {
+                "name": "Item Form",
+                "value": "Cream"
+            },
+            {
+                "name": "Color",
+                "value": "0.1 GREEN"
+            },
+            {
+                "name": "Skin Type",
+                "value": "All"
+            },
+            {
+                "name": "Finish Type",
+                "value": "Natural"
+            },
+            {
+                "name": "Package Information",
+                "value": "Tube"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Previous page Next page",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/033024d6-0310-430f-9169-b419a6f4ba8f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2aaf9f7b-7ed6-45ee-b194-618a564cd96b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/75ba9244-f203-4d2b-b0a3-fdca72775f1b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9a6f1620-8620-4937-846c-56bdcd1876ce.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b454e35e-3d57-4707-a3fb-e21a9638a9cc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1c9c07e3-7644-435e-934c-f2957d8355ff.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Marcia",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGCBUMR6NNEY4FX7TZWEYW2FATIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3UAW0AAJY65I5?ASIN=B0CLMC83X9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Product for under eye dark lines",
+                "reviewText": "I love this NYX product-it is way creamier than one I spent more $$ on and goes on smooth and hides my underage bags and lines perfectly. I know I will be trying other tints to see if I can get the contouring going.Thx!",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "RouxRuAn ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEUCS6QSJ2KOPYDNXZFYGCXCEGRQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RP50GTJRP7NIB?ASIN=B0CLMC83X9",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "4.0 out of 5 stars Worth it",
+                "reviewText": "I bought this because I saw a review and I was pleasantly surprised when it did just as advertised. It is a good and affordable concealer. It also blends well and the shade range is better than a lot of brands.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "AmberBzz",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFLCXXOFL4UIQII4AERLJECWVV6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/ROZZB64OWRJRF?ASIN=B0CLMC83X9",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "3.0 out of 5 stars Just ok",
+                "reviewText": "This product was just ok. It went on smooth and easily. I applied a few thin layers because it just didn't seem to hide my dark circles like I wanted. I was able to build it up to an 'ok' coverage. At the end of the day, it seemed like the product was allowing my dark circles to peak through. I haven't reached for it since the first application. Kind of disappointed. I will continue to experiment with it and if I find a way to make it work for me, I will update this review.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Olivia Lopez",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE3RJ2S7IM2VCTTMDDNZWWBSZOCA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1JREN447UXVP5?ASIN=B0CLMC83X9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 28, 2024",
+                "reviewTitle": "5.0 out of 5 stars Must buy!!!",
+                "reviewText": "I don\u2019t wear any foundation or concealer on my face but I\u2019ve been looking for something light to cover my tired dark undereyes. This is exactly what I needed, I\u2019m shook!!!! So creamy, and blends amazing on top of my moisturizer and spf. Thank you nyx",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Aim\u00e9e LaVall\u00e9e",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGKBPVIDTFQPLVW7TACBHFWBU3FQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1GA1Z3PSUDG1P?ASIN=B0CLMC83X9",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 14, 2024",
+                "reviewTitle": "1.0 out of 5 stars So drying it made me look like a corpse",
+                "reviewText": "I'm 44 and have relatively smooth youthful skin. I've never had a product cause such exaggeration of super fine lines and create texture where there is none like this garbage.It was looking awful almost as soon as it was applied but I checked the mirror an hour later and was horrified. It looked like I had a pound of chalky makeup plastered everywhere I had applied it.My skin was well prepped as always. I use no powders. Applied thinly and blended it out well.I literally just threw it away after I had to use two rounds of cleansing balm to get it off. After reapplying skin care my undereyes still look a little dehydrated.",
+                "reviewVotes": "11 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MouthyMama",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGXKQM6PQQBX6PXILFSDPH3FI4DQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RBE1EHH5RMBZZ?ASIN=B0CLMC83X9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great concealer / corrector",
+                "reviewText": "I thoroughly enjoy this product. It\u2019s creamy and opaque and blends like a dream. Didn\u2019t have much creasing either! In fair neutral and the pale color was lighter than me but worked great for highlighting my under eyes. I\u2019m also 39 with fine lines and it didn\u2019t accentuate anything.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Placeholder",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFZUSM5PSDSX655AUC5WQ2DHP7TQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1JF42RZ7C6IOS?ASIN=B0CLMC83X9",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great, creamy product",
+                "reviewText": "This provides the perfect cover for some discolorations on my face. Very easy to blend in. Been great for me.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Shan.Elle ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFKOOJDEIU3GOSTMAL7CB32X7OPQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R5RP90R4MLAX0?ASIN=B0CLMC83X9",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 28, 2024",
+                "reviewTitle": "4.0 out of 5 stars Creamy non creasing concealer",
+                "reviewText": "Love love love this product you can use it to color correct under concealer or brighten all on its own. Extremely creamy formula and a non creaser for me",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "zahra",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 10, 2024",
+                "reviewTitle": "Love it",
+                "reviewText": "I finally found an excellent color corrector. It doesn\u2019t reverse the aging process but it does make me feel a whole lot better. I have darkness under my eyes. This works better than the higher end color correctors I\u2019ve tried from Sephora. I\u2019m 51, have light to medium skin. I have cool tones. I watched a u tube gal recommending this product. I\u2019m so glad I gave it a go. Would definitely re purchase. Affordable for sure, glides on smoothly. I use a concealer brush to tap it in. Lasts all day. I do use concealer on top, sometimes I don\u2019t. It\u2019s still fine.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 12, 2024",
+                "reviewTitle": "Sticks out under concealer",
+                "reviewText": "I found no matter what concealer I use this sticks out through it.I much prefer the LA girl peach color corrector.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jade",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 9, 2024",
+                "reviewTitle": "Creamy",
+                "reviewText": "I was nervous to try this as I have dry under eyes. I seen it go viral on Tik tok so i decided to give it a shot. Its so creamy you would never think its a stick concealer. 06 is a great shade for my light medium skin. I may order shade 7 to mix it in with shade 6 so its not so bright.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Howie, Khawar Safeer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 12, 2024",
+                "reviewTitle": "Nyx concealer",
+                "reviewText": "Omg I loved it I\u2019m going to order more\ud83e\udd70",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "AubreeAubree",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 6, 2024",
+                "reviewTitle": "Came broken",
+                "reviewText": "It was broken when I opend it and all the product looked like it had been punched up to the top.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71m4oiF7LkL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71ut8yBMiYL.jpg"
+                    ],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

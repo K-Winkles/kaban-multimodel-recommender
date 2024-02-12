@@ -1,0 +1,573 @@
+{
+    "remaining_requests": 16473,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/IZOD-Dress-Shirt-Regular-Stretch/dp/B0C5S28W5Y",
+    "body": {
+        "name": "IZOD Men's Dress Shirt Regular Fit Stretch Check",
+        "price": "$25.50 - $30.13",
+        "originalPrice": "",
+        "rawPrice": 25.5,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/IZOD-Regular-Stretch-Multi-Tattersall/dp/B0746ZHXJT",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0746ZHXJT"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0C5S3S67Z",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4131h90YxoL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S5L134",
+                "variationName": "Color",
+                "variationValue": "Burgundy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/315+BZea0QL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08GBGXSFF",
+                "variationName": "Color",
+                "variationValue": "Cerise",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51fLbk8YyoL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S55BRT",
+                "variationName": "Color",
+                "variationValue": "Cranberry Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51BY3WSlCmL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S5RJVC",
+                "variationName": "Color",
+                "variationValue": "Crimson",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ihn7aplrL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S5J297",
+                "variationName": "Color",
+                "variationValue": "Dark Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31vMYVAx0hL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S5YDT9",
+                "variationName": "Color",
+                "variationValue": "Dark Cranberry",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51RgzvWnBML._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S54PM1",
+                "variationName": "Color",
+                "variationValue": "Dark Wine",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51QrT5H+tgL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BW16LY78",
+                "variationName": "Color",
+                "variationValue": "Light Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41AE5rY-ZOL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08G9SXQNX",
+                "variationName": "Color",
+                "variationValue": "Medium Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51nY8O6BBGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S687GH",
+                "variationName": "Color",
+                "variationValue": "Multi Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Frl5EnEvL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S28W5Y",
+                "variationName": "Color",
+                "variationValue": "True Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41tviByXyBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S7SDSK",
+                "variationName": "Color",
+                "variationValue": "Wine",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41w8TFJIOGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BHF3C2B7",
+                "variationName": "Color",
+                "variationValue": "Th Dark Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51T05GT234L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BHF42MVK",
+                "variationName": "Color",
+                "variationValue": "Dark Green Mutli",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51i6ThBM7JL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BHF382PK",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41AxVZJn1IL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09QF6VTCJ",
+                "variationName": "Color",
+                "variationValue": "Aqua",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41pDPi96SWL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BHF3WVMT",
+                "variationName": "Color",
+                "variationValue": "Navy Multi",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DZBwXof-L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BHF3P4KB",
+                "variationName": "Color",
+                "variationValue": "Olive",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415S4cgy02L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B9QH2TKM",
+                "variationName": "Color",
+                "variationValue": "Blue Whale",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31UwQTJzokL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BHF462D8",
+                "variationName": "Color",
+                "variationValue": "Chili Pepper",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZjYJ5RVSL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BHF6DKWT",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51GTNKM-f5L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09QDWZZ52",
+                "variationName": "Color",
+                "variationValue": "Multi Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41QMf397-4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09QF6CNQP",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51qWR7rvZ+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08GB1V1ZS",
+                "variationName": "Color",
+                "variationValue": "Tuscan Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Qr-2us+JL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C5S4DC2D",
+                "variationName": "Size",
+                "variationValue": "14\"-14.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S4Q6YP",
+                "variationName": "Size",
+                "variationValue": "15\"-15.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S6JH6D",
+                "variationName": "Size",
+                "variationValue": "15\"-15.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S43ZKP",
+                "variationName": "Size",
+                "variationValue": "16\"-16.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S28W5Y",
+                "variationName": "Size",
+                "variationValue": "16\"-16.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S4KDJT",
+                "variationName": "Size",
+                "variationValue": "16\"-16.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S5BYYM",
+                "variationName": "Size",
+                "variationValue": "17\"-17.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S5455M",
+                "variationName": "Size",
+                "variationValue": "17\"-17.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S7MF3F",
+                "variationName": "Size",
+                "variationValue": "17\"-17.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S5L129",
+                "variationName": "Size",
+                "variationValue": "18\"-18.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5S4VM61",
+                "variationName": "Size",
+                "variationValue": "18\"-18.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41tviByXyBL.jpg",
+        "images": [],
+        "imagesCount": 1,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the IZOD Store",
+            "link": "https://www.amazon.com/stores/IZOD/page/194B666D-E81C-44AB-AC7D-18E188057CC1?ref_=ast_bln"
+        },
+        "brand": "IZOD",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 480,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 55% Cotton, 45% Reprocessed Polyester",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Button",
+            "Stretch: Fabric stretches and moves with you for extra comfort. Wrinkle Resistant: Specially treated for less wrinkles and easy care.",
+            "Regular Fit: A generous cut through the shoulders, chest and waist for total comfort and a classic fit",
+            "Button-Down Collar: More relaxed & casual collar; appears neat with or without neckwear so you can dress it up or down",
+            "Adjustable Cuff: Two button positions allow for a more customized, improved fit",
+            "Chest Pocket: Classic design holds all your essentials"
+        ],
+        "description": "IZOD men's all over stretch long sleeve dress shirt",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Shirts",
+                "link": "https://www.amazon.com/Mens-Shirts/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2476517011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 15.12 x 9.21 x 2.72 inches; 9.1 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 2302161-460"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e May 19, 2023"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e IZOD"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0C5S4HKJ4"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#229,048 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #4,338 in Men's Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 480 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "jred",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG7X2BSAOJ6HPX45D5CHFHT7ZZ3A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RNMVBKFJA16A6?ASIN=B0746ZHXJT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 3, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great shirt",
+                "reviewText": "Exactly what we were looking for and good quality.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Daniel S. Schroeder",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEBW7WFLKYHXLJA3PA5EE4FESHUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R18FWWMBJFRUYB?ASIN=B0746ZHXJT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 20, 2021",
+                "reviewTitle": "5.0 out of 5 stars Cool Shirt",
+                "reviewText": "Really like the red gingham. Fit is good, ready to go.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Al1968",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE3Q4PIRWLJW5BDAC7SPAY3KZKKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2CMW9LNAFMF85?ASIN=B0746ZHXJT",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 25, 2019",
+                "reviewTitle": "4.0 out of 5 stars Great value",
+                "reviewText": "This shirt was a great value and good quality for the price. It fit exactly as described and its sizing was comparable to other shirts I've purchased.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kyle miller",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFPGJFP5AGVJC5Z4SNOYBXJ3VMIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3OOUU17PXAO1T?ASIN=B0746ZHXJT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 19, 2021",
+                "reviewTitle": "5.0 out of 5 stars Great shirt",
+                "reviewText": "Great shirt",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gary E. Kuta",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFQDOHMTIPNVR73QVIVVZSZRYSUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/ROWZWJRLPT8DA?ASIN=B0746ZHXJT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 15, 2019",
+                "reviewTitle": "5.0 out of 5 stars works well when paired with a clip-on necktie",
+                "reviewText": "For those of us who are required to wear clip-on neckties, for whatever the reason, you should know that a clip-on style tie works much better when paired with a polyester button-down collar like what you see here.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kris Tin",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AENLST3TF465NAHL4YHVTAGE7MXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3PIHRFFXVZCBE?ASIN=B0746ZHXJT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 1, 2019",
+                "reviewTitle": "5.0 out of 5 stars Great for broad shoulders",
+                "reviewText": "My husband has very broad shoulders and long arms so finding a comfortable dress shirt can be a challenge. The izod comfort fit with stretch fabric is now the only Brad I buy. We bought one in every color.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "SC",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH6GPG3ZFUZZ56FCMSZFNDA26JHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3NTQ6AIQAKL8O?ASIN=B0746ZHXJT",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 10, 2020",
+                "reviewTitle": "5.0 out of 5 stars Great shirt",
+                "reviewText": "This shirt fits perfect, nice that you order sleeve length.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dawn",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEZ2JXPVYDM2TXU5XEI6B2LP5NXA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1Y3RA82HSAFWM?ASIN=B0746ZHXJT",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 15, 2024",
+                "reviewTitle": "3.0 out of 5 stars Runs really small",
+                "reviewText": "Good fabric but runs really small.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Shim",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 29, 2023",
+                "reviewTitle": "Good value",
+                "reviewText": "An attractive shirt. Comfortable and very easy to launder.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Carlos D.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 13, 2023",
+                "reviewTitle": "Muy grande",
+                "reviewText": "Me qued\u00f3 demasiado grande para xl",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Marco Flores",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 3, 2021",
+                "reviewTitle": "Excelente camisa!",
+                "reviewText": "Excelente camisa, muy recomendable!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jorge Topete",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 16, 2020",
+                "reviewTitle": "muy buena calidad",
+                "reviewText": "El corte se ve muy bien si usas la talla correcta. la calidad de la tela es buena",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "jose luis puente",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 28, 2020",
+                "reviewTitle": "Excelente camisa, sin palabras.",
+                "reviewText": "Una camisa de muy buena calidad, a precio muy accesible, Salu2.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

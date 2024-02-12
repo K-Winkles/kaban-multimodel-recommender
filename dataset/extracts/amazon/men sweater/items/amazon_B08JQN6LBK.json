@@ -1,0 +1,515 @@
+{
+    "remaining_requests": 16140,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Nike-Pullover-Hoodie-Royal-Medium/dp/B08JQN6LBK",
+    "body": {
+        "name": "NIKE Sportswear Men's Pullover Club Hoodie",
+        "price": "$39.99 - $56.99",
+        "originalPrice": "",
+        "rawPrice": 39.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/NIKE-Sportswear-Mens-Pullover-Hoodie/dp/B07BZ8VRGD",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B07BZ8VRGD"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B08JQM7V2K",
+                "variationName": "Color",
+                "variationValue": "Anthracite/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41pVx2qOjlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08CY8F4K1",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31C-2ViPJwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08KL3J235",
+                "variationName": "Color",
+                "variationValue": "Dark Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XHgUXnbaL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08G8WZT5H",
+                "variationName": "Color",
+                "variationValue": "Dark Grey/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41kiWfFmN6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BH39YK2D",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31lZOrfzOpL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08JQN6LBK",
+                "variationName": "Color",
+                "variationValue": "Royal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EqqsyfZVL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BFYVWZFD",
+                "variationName": "Color",
+                "variationValue": "Bright Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41L7Jm2S3nL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08L48P41T",
+                "variationName": "Color",
+                "variationValue": "Dark Maroon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410IhappMIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BFY2GM4B",
+                "variationName": "Color",
+                "variationValue": "Desert Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4167bKfVXOL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08KPMVBNY",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313tLybgS7L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08LXR7K81",
+                "variationName": "Color",
+                "variationValue": "Kelly Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31JI4MJZBxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08KYHCJHP",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310r96Z0ZCL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08D3W9S6R",
+                "variationName": "Color",
+                "variationValue": "Tm Navy/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31487W0M8wL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08LW3P3DT",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415Ya6oJHLL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08CBM2C8R",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jsCrMsPwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BNJHJBWY",
+                "variationName": "Color",
+                "variationValue": "Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31c6CBPKcNL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08CBM2VR5",
+                "variationName": "Color",
+                "variationValue": "Dark Grey Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/411AkzK3Z1L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08WK22KBJ",
+                "variationName": "Color",
+                "variationValue": "Tm White/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415Ya6oJHLL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BFRTR6MJ",
+                "variationName": "Color",
+                "variationValue": "Vegas Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31EXdgrstKL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08LXF12KW",
+                "variationName": "Color",
+                "variationValue": "Tm Orange/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ahxuwavML._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08JQMMX4D",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08JQN6LBK",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08JQK6H5N",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08JQK45C3",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08LQVSYXM",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08TKMZMT1",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096T1H3WG",
+                "variationName": "Size",
+                "variationValue": "4X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41EqqsyfZVL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41tvD75KrJL.jpg"
+        ],
+        "imagesCount": 2,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Brand: Nike",
+            "link": "https://www.amazon.com/Nike/b/ref=bl_sl_s_ap_web_119088564011?ie=UTF8&node=119088564011&field-lbr_brands_browse-bin=Nike"
+        },
+        "brand": "Nike",
+        "merchantInfo": "",
+        "customerReview": "4.7 out of 5 stars",
+        "customerReviewCount": 4876,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Pull On",
+            "Nike Therma fabric locks in heat to help keep you warm",
+            "Ergonomic seams allow natural range of motion",
+            "Scuba hood is adjustable for custom coverage",
+            "Pullover design allows for easy on and off"
+        ],
+        "description": "The NIKE Sportswear Men's Pullover Club Hoodie bundles you up in plush comfort without the bulk. Crafted with soft fleece fabric, it features an updated, slim hem and cuffs for a clean look.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Active",
+                "link": "https://www.amazon.com/Mens-Activewear/b/ref=dp_bc_aui_C_4?ie=UTF8&node=3455821"
+            },
+            {
+                "name": "Active Hoodies",
+                "link": "https://www.amazon.com/Mens-Athletic-Hoodies/b/ref=dp_bc_aui_C_5?ie=UTF8&node=2476493011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 6 x 6 x 1 inches; 1.08 Pounds"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e September 3, 2020"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Nike"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B08JQLTHYF"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#600 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #3 in Men's Athletic Hoodies"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.7 4.7 out of 5 stars 4,876 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Olivia Gray",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGFQ3BLUP4UKJXDADSY54CSHBBDQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3KGOE71B77Q4M?ASIN=B07BZ8VRGD",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars Typical Nike hoodie, great color.",
+                "reviewText": "Purchased for my son, for reference he is 6\u20193\u201d 185#. The color is a very rich royal blue. Well made, typical Nike hoodie. Ordered the large for him and it fit perfect initially. Length was good and roominess, but after initial wash and dry I wish I had gotten the XL for a little looser fit and more length in the arms. He still wears it and it fits fine, but the extra room would add to the comfort. Overall a good purchase!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mary",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHO4WYG35WRASFBMT4EXBAU7DZHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2ZCQ5CY500W63?ASIN=B07BZ8VRGD",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars High quality",
+                "reviewText": "This hoodie has very high-quality material, soft and warm. Some hoodies are made with such cheap material, have no stretch and are stiff and this hoodie fits the bill. Most importantly, my son loves it! Sizing is also spot on. Highly recommend.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "elva rodriguez",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFTPI7LIOL7EMVRBR4BGWR7HMZEA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R37PWFROLVG2G?ASIN=B07BZ8VRGD",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 4, 2024",
+                "reviewTitle": "5.0 out of 5 stars Warm",
+                "reviewText": "I love this hoodie. Very soft and perfect for chilly nights and lounging around. Quality as well.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEJ6IX66IELCHPD74MVCLFTSW7WA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2ROD9FYZV54LD?ASIN=B07BZ8VRGD",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love this",
+                "reviewText": "Bought this for my grandson. Fits great and looks great on him. Nice color.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "bookworm sales",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGKDGCOL4O7UZ5EZPCPXMP7OY3IQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RQIRHN2TKEF4P?ASIN=B07BZ8VRGD",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 24, 2023",
+                "reviewTitle": "4.0 out of 5 stars Decent quality sweater",
+                "reviewText": "The size was perfect. Got a large for 6ft 200 pounds. Is good for like low 70s. It feels like cotton so super comfy. Would be something I work out in tho bc it seems like it\u2019ll just hold onto water. I\u2019m very happy with purchase",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Eve Savage",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHQT2TBARBZZPSNVHXAHHL7UTACQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R39GUNXMANVL7J?ASIN=B07BZ8VRGD",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 14, 2024",
+                "reviewTitle": "5.0 out of 5 stars Favorite!",
+                "reviewText": "I bought this for myself as a gift for accomplishing something and I love it. I\u2019ve had this for awhile and never regret getting it. It has shine only a little over time and is now stained but that\u2019s my fault. The color is perfect the fit is perfect it\u2019s a great sweatshirt worth the money. Saving up so I can buy another and get rid of and old one. I wish there were more color options for this style though!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Karlotta",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFDHFAPORCMBSBGGRMYEY7S72ANQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RWSKC30JBF2A7?ASIN=B07BZ8VRGD",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 26, 2024",
+                "reviewTitle": "5.0 out of 5 stars Warm, cozy, soft, and heavy sweatshirt! Best sweatshirt ever!",
+                "reviewText": "Thick, soft, very warm, long arms and torso. My winter go to!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Veronica",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHDKAJPBSCC3RMQNYUIMUXJP22FA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2H4HEKNH8ZS64?ASIN=B07BZ8VRGD",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 23, 2024",
+                "reviewTitle": "5.0 out of 5 stars Grandson loves it.",
+                "reviewText": "Love the material and my grandson looks nice in it. I was a little disappointed that I couldn\u2019t get the pants until after Christmas.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Julie ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 28, 2023",
+                "reviewTitle": "Perfect",
+                "reviewText": "Bought for my 22yr okd son in law. Fits perfectly and he lives it. Well made. Good quality.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Matte Paul-Henri",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 20, 2023",
+                "reviewTitle": "La qualit\u00e9 du produit",
+                "reviewText": "Excellent!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on March 19, 2023",
+                "reviewTitle": "xXx",
+                "reviewText": "Very good.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Marylynn",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 26, 2023",
+                "reviewTitle": "Great price",
+                "reviewText": "Great price and great quality.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "steffen werner",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 27, 2023",
+                "reviewTitle": "Good for the money",
+                "reviewText": "Good for the money",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

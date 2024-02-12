@@ -1,0 +1,823 @@
+{
+    "remaining_requests": 16049,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Amazon-Essentials-Standard-Slim-Fit-Stretch/dp/B07HK7GKQF",
+    "body": {
+        "name": "Amazon Essentials Men's Slim-Fit Bootcut Jean",
+        "price": "$25.50 - $30.40",
+        "originalPrice": "",
+        "rawPrice": 25.5,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Amazon-Essentials-Slim-Fit-Stretch-Bootcut/dp/B09RTBH1XM",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09RTBH1XM"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07HKJ48Y2",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31gnx8DZI6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07XH53S65",
+                "variationName": "Color",
+                "variationValue": "Dark Blue Vintage",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41WewpeQu6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07HK9XM2S",
+                "variationName": "Color",
+                "variationValue": "Dark Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41M+QRuX7JL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07J6FB6TV",
+                "variationName": "Color",
+                "variationValue": "Light Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41A-8h2KMwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07HKJKKRJ",
+                "variationName": "Color",
+                "variationValue": "Medium Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ubzTyreoL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07XC1Z7GX",
+                "variationName": "Color",
+                "variationValue": "Washed Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ua8F1PkGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07XF7Q7YG",
+                "variationName": "Color",
+                "variationValue": "Light Blue Vintage",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415aQuZEcsL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07HK8NG29",
+                "variationName": "Color",
+                "variationValue": "Rinsed",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41mavVutV8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07X8XKKS7",
+                "variationName": "Color",
+                "variationValue": "Dark Indigo Rinsed Tie Dye",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41K3iDMguRL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07XG58G6N",
+                "variationName": "Color",
+                "variationValue": "Medium Blue Vintage",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Zf1tB0j8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09GRWFYFH",
+                "variationName": "Color",
+                "variationValue": "Washed Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ozl79OpFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07HKJ644P",
+                "variationName": "Size",
+                "variationValue": "28W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09GRWXPZ2",
+                "variationName": "Size",
+                "variationValue": "28W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK5W8RV",
+                "variationName": "Size",
+                "variationValue": "28W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK89BM2",
+                "variationName": "Size",
+                "variationValue": "28W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK5XH8W",
+                "variationName": "Size",
+                "variationValue": "29W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKJ4N2B",
+                "variationName": "Size",
+                "variationValue": "29W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKJ6QV1",
+                "variationName": "Size",
+                "variationValue": "29W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK7KJT9",
+                "variationName": "Size",
+                "variationValue": "29W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK5XFWN",
+                "variationName": "Size",
+                "variationValue": "29W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK9YH6T",
+                "variationName": "Size",
+                "variationValue": "30W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKJ6422",
+                "variationName": "Size",
+                "variationValue": "30W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK7SYHJ",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK7W28L",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK7W33W",
+                "variationName": "Size",
+                "variationValue": "30W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK9YH4W",
+                "variationName": "Size",
+                "variationValue": "31W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKJ63ZN",
+                "variationName": "Size",
+                "variationValue": "31W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07J6FB6SV",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKFS7RJ",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK9XM2S",
+                "variationName": "Size",
+                "variationValue": "31W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK5W8PJ",
+                "variationName": "Size",
+                "variationValue": "32W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKFRMV7",
+                "variationName": "Size",
+                "variationValue": "32W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK9XTF4",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07J6F5F5N",
+                "variationName": "Size",
+                "variationValue": "32W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK7GKQF",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKKC5DZ",
+                "variationName": "Size",
+                "variationValue": "32W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK7SYJM",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKJKKPV",
+                "variationName": "Size",
+                "variationValue": "33W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK7ZPMX",
+                "variationName": "Size",
+                "variationValue": "33W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKFX19G",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK7YQNX",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK88PS5",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK7YQR6",
+                "variationName": "Size",
+                "variationValue": "34W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKJ6QVC",
+                "variationName": "Size",
+                "variationValue": "34W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07J6DXBYP",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07J6FB6TS",
+                "variationName": "Size",
+                "variationValue": "34W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK88PXN",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK7X3JV",
+                "variationName": "Size",
+                "variationValue": "34W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07J6DXBYN",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKGGHCT",
+                "variationName": "Size",
+                "variationValue": "35W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07J6DXBRC",
+                "variationName": "Size",
+                "variationValue": "35W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK5XFS3",
+                "variationName": "Size",
+                "variationValue": "35W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07J6DXBTS",
+                "variationName": "Size",
+                "variationValue": "35W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK9Z295",
+                "variationName": "Size",
+                "variationValue": "35W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK9Y2QZ",
+                "variationName": "Size",
+                "variationValue": "36W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK8NG3F",
+                "variationName": "Size",
+                "variationValue": "36W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK5YLRP",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKKG62P",
+                "variationName": "Size",
+                "variationValue": "36W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK9XTKK",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK5XFWP",
+                "variationName": "Size",
+                "variationValue": "36W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKKGNXK",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKKQ1ZM",
+                "variationName": "Size",
+                "variationValue": "38W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK7X3LL",
+                "variationName": "Size",
+                "variationValue": "38W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKKTHWS",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKFX18Y",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK7W34V",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK9XYC4",
+                "variationName": "Size",
+                "variationValue": "40W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKGJH92",
+                "variationName": "Size",
+                "variationValue": "40W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKKGVH5",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07J6DXBXY",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK9XYBV",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK9X6TR",
+                "variationName": "Size",
+                "variationValue": "42W x 28L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HK9XTM5",
+                "variationName": "Size",
+                "variationValue": "42W x 29L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKFS7JJ",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07J6FB6ST",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKJ3HMB",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41M QRuX7JL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31uEj0lZ3nL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/513eiOpgtRL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31jpMneodSL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51oPttgE83L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31TebckFyxL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/514g6yOMLjL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f3a63acf-cf03-443c-b04e-dd9933eb9a7f/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Amazon Essentials Store",
+            "link": "https://www.amazon.com/stores/AmazonEssentials/page/F8FB6F3C-F896-455C-BC52-7879F4CEF0CF?ref_=ast_bln"
+        },
+        "brand": "AmazonEssentials",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 5911,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": true,
+            "details": "OEKO-TEX STANDARD 100 requires textiles-based products to be tested against a list of 1,000+ chemicals, to limit those which may be harmful to human health. Certification focus: #ProductSafety and #ChemicalsUsed."
+        },
+        "features": [
+            "Fabric type 99% Cotton, 1% Elastane (also known as Spandex)",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Button",
+            "SLIM FIT: Slim fit through hip and thigh, with a tapered leg. Sits at the waist.",
+            "LIGHT-STRETCH DENIM: Mid-weight cotton denim with a bit of stretch for all-day comfort. Comes in indigo denim washes or solid colors with a garment wash for a lived in denim-inspired look.",
+            "SLIM BOOTCUT JEAN: These classic, five-pocket jeans are cut with a bootcut flare. Always a wardrobe workhorse, these jeans are made for business casual or everyday on-the-go.",
+            "DETAILS: Features zippered fly with metal shank button fly closure, bartack reinforcements, rivets at front hand pockets and a bootcut leg opening. With stretch denim, it is always recommended to hang to dry for an extended garment life.",
+            "LEG OPENING: 8 1/2\" on US size 32."
+        ],
+        "description": "placeholder text placeholder text placeholder text placeholder text",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.82 x 13.23 x 1.89 inches; 1.08 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e AE1906300"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e May 13, 2019"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Amazon Essentials"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07HK7X2L2"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#948 in Our Brands (See Top 100 in Our Brands) #59 in Men's Jeans #461 in Climate Pledge Friendly: Apparel"
+            },
+            {
+                "name": "#461 in Climate Pledge Friendly",
+                "value": "Apparel"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 5,911 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "NikNik",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEE7ZPT7CS7BN6JCSKSLALMYZPVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3RGOHCVKM0S33?ASIN=B09RTBH1XM",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 13, 2023",
+                "reviewTitle": "5.0 out of 5 stars A bit tight in the thigh",
+                "reviewText": "For starters, this review is NOT about quality or longevity. It is about my search looking for something that fit my size and style. My sole jeans brand for the last 15 years or so was JCP Arizona Classic Boot Cut, however over the past year, it has been impossible to find my size (29x32) and color anymore, which led me to looking for jeans online which I was reluctant of doing, considering the sizing. I started with purchasing the following all in 29x32. I am 5'8\" and 141 lbs with chicken legs that have never seen the gym and my true measured inseam is ~31\", granted I would never pull them up THAT high.Levi's 527 Slim Boot Cut - They sent the wrong size 32x29 which were waayyy too tight on the calves. I dont know how these are considered boot cut. I didnt bother to reorder the correct size as if the 32\" waist were too tight on my calves, the 29\" waist were not gonna be any better.Wrangler's Men's Cowboys Boot Cut - Liked the cut but not the stitch patter and was way too long. I think this may have been a true 32-33\" inseam but when wearing it, it came out to be way too long.Lee Men's Legendary Regular Boot Cut - Again, liked the cut, but was way too long. I think this may have been a true 32-33\" inseam but when wearing it, it came out to be way too long.Amazon Basics Slim-Fit Stretch Boot Cut - I liked it, the length was also perfect and I really like the washed black color. It is a bit more fitted in the thighs which I am not used to, however the \"stretch\" material does make it comfortable. Although it makes my legs look really skinny, I will end up keeping this pair, but I dont envision purchasing more of these. Top overlaid jeans in pictureAmazon Basics Straight Fit Boot Cut - I think I found my style. The length was perfect, just like the slim-fit version and the legs were not as tight. It actually is almost completely identical with Arizona Classic Boot Cut in sizing. Middle black overlaid jeans in picture. Color wise, washed grey (NOT pictured) is a bit light for my taste. I wish they had a washed black.Pictured from top (overlaid) down - On top Amazon Basics Slim-Fit Boot Cut (Washed Black) / Middle Amazon Basics Straight-Fit Boot Cut (Regular Black) / Bottom Arizona Original Boot Cut barely visible due to similar size (Blue)Edit: I found that going up a size (from 29x32 to 30x32) totally alleviated by issue with the jeans being overly snug in the thigh. Now I found exactly what I wanted. I do with the pockets were a little larger like standard jeans. These are a tad small. They still fit my phone, but causes them to be in an awkward location when I sit down.",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71WIJHbX-lL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JimBJimB",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHZIUY34HAXS2PJ6P4YLJCQIGBFA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1MF1RXFN150E9?ASIN=B09RTBH1XM",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 26, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great fit, comfortable.",
+                "reviewText": "Jeans are a smidge long which makes them perfect over boots. They have just enough stretch for comfort. They fit great and are an excellent value. I have another pair on the way.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/51KxFn4dI4L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61Dpy5BuD-L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MachineShopJoe",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHRBKBZBOXB7AUIVULAL7MEW3AAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RG8VQJN0T16UP?ASIN=B09RTBH1XM",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 30, 2021",
+                "reviewTitle": "4.0 out of 5 stars Decent alternative to Levi's 527",
+                "reviewText": "I'd like to start off by saying it's probably more accurate to give them 3.5 out of 5 stars. Chances are if you are reading the reviews, you are wondering how these compare to the more popular bootcut jeans(Levis 527, Arizona, Wrangler Retro, Cinch Ian, Ariat M5, etc.) An overwhelming majority are probably specifically wondering how they compare to the Levi's 527. Durability wise they seem to hold up well after about 5-6 months of owning them they seem to hold up pretty well doing light/moderate work, and going through about half a dozen wash cycles. The durability surpasses Arizona jeans by quite a bit, which would already have noticeable signs of wear and damage by this point. They seem to be holding up about as well as a pair of Levis 527 would, but it's worth mentioning they just don't feel quite as durable, despite Levi's starting to feel thinner over the years. As far as fit goes, these are definitely the slimmest fitting pair of jeans from anything I've mentioned above. They fit the tightest over a boot of any boot cut jean I've worn. They feel slimmer all over compared to any of the others, but not by much. The stretch material is definitely noticeable, but I would have preferred if they had a fit closer to Levi's to begin with instead of compensating with more flex in the material. I don't think I'd buy another pair, but these have proven to be durable enough and fit decent enough to keep. If you don't want to pay Levi's, Wrangler, Cinch, or Ariat prices, and dont mind them fitting a little slimmer, they are a pretty decent pair of jeans.",
+                "reviewVotes": "26 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "TCB",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHXJSHCGFMBS3P5EZ7HVTY5KOF5A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2G7U0GCYRX176?ASIN=B09RTBH1XM",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 20, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great fit, very comfortable and the price is right",
+                "reviewText": "I have a ranch and jeans such as this are essential",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "RayRay",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AELXYVZ5X32K3EOBOVCFZKYFWHNQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R12X7ZGJNPU91G?ASIN=B09RTBH1XM",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable , affordable, and good lookin",
+                "reviewText": "I got these because normal jeans either fit good on top or at the cuff where they go over my boots.These are perfect at both ends...they give when you bend over but still have a flattering look.|More inexpensive then most other brands I was worried how they stack up but no worries here.A++",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "WilliamWilliam",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGOCOGECEV3RR3UVX246QQZHECFA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3HHGTK0L8YUTT?ASIN=B09RTBH1XM",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 12, 2023",
+                "reviewTitle": "3.0 out of 5 stars Great fit",
+                "reviewText": "Looks great. Can\u2019t really comment on the quality. I generally like these pants for their affordability and comfort. I\u2019ve bought 3 different colors. They look great if styled properly \ud83d\ude09",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71Wkkff+NVL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jessica Cady Henry",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEWQD4NKM4ECKZQLPAODUE4S2F7Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3IOK781JJ5KY2?ASIN=B09RTBH1XM",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 24, 2023",
+                "reviewTitle": "5.0 out of 5 stars \ud83d\udc56 Loved the fit of them",
+                "reviewText": "I got these for my husband for Christmas and they fit really good they were great quality and they have 31x30 which is a bit hard to find and we were very pleased \ud83d\ude00",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jrob5153",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEXEGMLJNZPDZNU3RPD27PYRGSFQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R9EVNWBUO1U2Y?ASIN=B09RTBH1XM",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 28, 2023",
+                "reviewTitle": "4.0 out of 5 stars A bit loose",
+                "reviewText": "Length was true to size. I would have liked a bit more stretch. Overall, would purchase again.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Don G.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 1, 2024",
+                "reviewTitle": "Fit well and very comfortable",
+                "reviewText": "The quality seems good. I normally take a 30 waist in wrangler slim fits but wrangler seems to no longer make true slim fits and are rather baggy. With these amazon jeans I had to go down to a 28 waist which fit well and are very comfortable. Since they are almost 1/2 the price of my beloved wranglers I've now bought 4 pairs of these instead. The waist has a bit of stretch to them so don't be too concerned buying a size or 2 smaller than what you normally wear.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Michel Bordeleau",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 30, 2023",
+                "reviewTitle": "Beau // bon // pas ch\u00e8re ! Juste parfait !",
+                "reviewText": "Vraiment un prix et une qualit\u00e9 plus que raisonnable !!!C'est dur \u00e0 battre !!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Arturo Millan",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 3, 2023",
+                "reviewTitle": "Ajuste perfecto",
+                "reviewText": "Me quedaron igual a los Levi's 527. Excelente material y color. Y me encanta que no tenga etiquetas.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ra\u00fal Ruiz Vazquez",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 5, 2022",
+                "reviewTitle": "Es lo mejor respecto a su precio.",
+                "reviewText": "Me gust\u00f3 mucho la calidad de la tela. La talla es muy acertada. Solo espero que tengan m\u00e1s colores.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sue Powell",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on January 26, 2024",
+                "reviewTitle": "Slim fit boot cut jeans",
+                "reviewText": "Excellent fit and very good quality",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

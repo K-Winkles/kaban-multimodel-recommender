@@ -1,0 +1,810 @@
+{
+    "remaining_requests": 16960,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Teva-Original-Universal-Boomerang-Lemonade/dp/B07M9G6SQ6",
+    "body": {
+        "name": "Teva Women's Original Universal Sandal",
+        "price": null,
+        "originalPrice": "",
+        "rawPrice": null,
+        "currency": null,
+        "canonicalUrl": "https://www.amazon.com/Teva-Womens-Original-Universal-Sandal/dp/B0CNPRBGPF",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CNPRBGPF"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07M5PSMKQ",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C69ZFY76",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07M9G6BBM",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07MD22J1X",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07MN8B9XQ",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07M9G5NPN",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07M5PSHRQ",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07M9G6SQ6",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08RXVLJW7",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07MD22K5L",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07MD22GW1",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09M55TB3H",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08CZRS3HX",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09M51M4J7",
+                "variationName": "Color",
+                "variationValue": "Balance Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09M594LJK",
+                "variationName": "Color",
+                "variationValue": "Balance Starfish",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5LXWFJZ",
+                "variationName": "Color",
+                "variationValue": "Bandana Ginger",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CJ62WPT4",
+                "variationName": "Color",
+                "variationValue": "Beach Floral Wild Lime",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00E1FV338",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCS79L42",
+                "variationName": "Color",
+                "variationValue": "Borderless Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5LVSW1H",
+                "variationName": "Color",
+                "variationValue": "Butterfly Olive",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09M54C6HM",
+                "variationName": "Color",
+                "variationValue": "Dorinda Neutral Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CJ6358V1",
+                "variationName": "Color",
+                "variationValue": "Dot Matrix Black Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5LZQHPS",
+                "variationName": "Color",
+                "variationValue": "Etching Feather Grey",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5LW9XZK",
+                "variationName": "Color",
+                "variationValue": "Gecko Mood Indigo",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5LYGRTJ",
+                "variationName": "Color",
+                "variationValue": "Gecko Neutral",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09F1YFN8X",
+                "variationName": "Color",
+                "variationValue": "Iridescence Tangerine Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09F1JJJL2",
+                "variationName": "Color",
+                "variationValue": "Layered Rock Stillwater",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CJ63BFXD",
+                "variationName": "Color",
+                "variationValue": "Magic Acorn",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CJ62ZPGB",
+                "variationName": "Color",
+                "variationValue": "Magic Black/Grey",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CJ639ZQB",
+                "variationName": "Color",
+                "variationValue": "Magic Pink Lemonade",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5LXXZQQ",
+                "variationName": "Color",
+                "variationValue": "Maple Sugar Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09F1K7QS2",
+                "variationName": "Color",
+                "variationValue": "Metallic Pink Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09M5BXFTJ",
+                "variationName": "Color",
+                "variationValue": "Mirage Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098ZTBPQY",
+                "variationName": "Color",
+                "variationValue": "Picnic Cherries Rhubarb",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCR8CJG5",
+                "variationName": "Color",
+                "variationValue": "Prism Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5LWXHB1",
+                "variationName": "Color",
+                "variationValue": "Retro Block Pastel Lilac",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08RXW8VD7",
+                "variationName": "Color",
+                "variationValue": "Sand Dune",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5LW5BXM",
+                "variationName": "Color",
+                "variationValue": "Shifting Layers Rose Violet",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09SH7MBZR",
+                "variationName": "Color",
+                "variationValue": "Sun and Moon Aloe",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WCC1XQB",
+                "variationName": "Color",
+                "variationValue": "Sun and Moon Black/White",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09M4WKQSJ",
+                "variationName": "Color",
+                "variationValue": "Wavelength Birch",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5LX1ZW5",
+                "variationName": "Color",
+                "variationValue": "Wind Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TG6Y983",
+                "variationName": "Color",
+                "variationValue": "90s Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07MD22K5L",
+                "variationName": "Color",
+                "variationValue": "Boomerang Pink Lemonade",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DR6X2JQ",
+                "variationName": "Color",
+                "variationValue": "Boomerang White/Grey",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09F1H51FW",
+                "variationName": "Color",
+                "variationValue": "Flower Loom Birch Ibiza Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09F1SMWTN",
+                "variationName": "Color",
+                "variationValue": "Flower Loom Dark Olive Fuchsia",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09F1QD1MD",
+                "variationName": "Color",
+                "variationValue": "Iridescence Stillwater Beach Sand",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B072JWXKLM",
+                "variationName": "Color",
+                "variationValue": "Sun and Moon Insignia Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B083GSDZMG",
+                "variationName": "Color",
+                "variationValue": "Ziggy Arona",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09CYRYHDZ",
+                "variationName": "Color",
+                "variationValue": "Atmosphere Carrot/Blue Mirage",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01IPXS6QS",
+                "variationName": "Color",
+                "variationValue": "Campo Black/White",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09M569ZM3",
+                "variationName": "Color",
+                "variationValue": "Desert Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5LX712F",
+                "variationName": "Color",
+                "variationValue": "Bandana White/Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07MD22J1X",
+                "variationName": "Color",
+                "variationValue": "Tortoise Shell",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B018S26QDG",
+                "variationName": "Color",
+                "variationValue": "Mosaic Black/Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093WPDLLJ",
+                "variationName": "Color",
+                "variationValue": "Orion Blue Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08CDS295K",
+                "variationName": "Color",
+                "variationValue": "Bright White",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7K872ZR",
+                "variationName": "Color",
+                "variationValue": "Multicolor",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7K2PBJ6",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08CYBQ71Z",
+                "variationName": "Color",
+                "variationValue": "Retro Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5LW9DLZ",
+                "variationName": "Color",
+                "variationValue": "Bandana Basil",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CJ61XQYH",
+                "variationName": "Color",
+                "variationValue": "Unwind Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KFTYCJ",
+                "variationName": "Color",
+                "variationValue": "Haze White",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KFSG19",
+                "variationName": "Color",
+                "variationValue": "Boomerang Pink",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CJ63KHXN",
+                "variationName": "Color",
+                "variationValue": "Beach Floral Peach Bloom",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BCRXD1M4",
+                "variationName": "Color",
+                "variationValue": "Gemina Feather Grey",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08RXWR58R",
+                "variationName": "Color",
+                "variationValue": "Haze Aragon",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08CDSPVHX",
+                "variationName": "Color",
+                "variationValue": "Light Green Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01IPXQVXI",
+                "variationName": "Color",
+                "variationValue": "Miramar Fade Dark Purple Multi",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08217Q1PH",
+                "variationName": "Color",
+                "variationValue": "Ziggy White",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08216Y3SJ",
+                "variationName": "Color",
+                "variationValue": "Ziggy Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01IPXR3BC",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TF45ZTW",
+                "variationName": "Color",
+                "variationValue": "Double Diamond",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TCYV8QV",
+                "variationName": "Color",
+                "variationValue": "Multicolour Cactus Sunflower Csnf",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C69ZFY76",
+                "variationName": "Color",
+                "variationValue": "Multi Colour",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B018WW88L0",
+                "variationName": "Color",
+                "variationValue": "Inca Wine",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FPFXKV7",
+                "variationName": "Color",
+                "variationValue": "Maressa Sunflower Multi",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41zFm RtoIL.jpg",
+        "images": [],
+        "imagesCount": 1,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Teva Store",
+            "link": "https://www.amazon.com/stores/Teva/page/ED8FF33D-9D7F-4B54-8FAF-A9DBA7AE93A3?ref_=ast_bln"
+        },
+        "brand": "Teva",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 22457,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Polyester",
+            "Origin Made in the USA or Imported",
+            "Sole material Rubber",
+            "Outer material Polyester",
+            "Quick-dry webbing made from recycled plastic using traceable, verifiable REPREVE polyester yarn by Unifi supports your foot and stands up to abuse, Universal Strapping Stytem, Multiple points of adjustability let you dial in the absolute perfect fit",
+            "Easy hook-and-loop closure comes on and off quickly and gets the fit just right",
+            "Molded EVA midsole with heel cupping and arch cookie for added support",
+            "ubber outsole for durability and traction",
+            "Best for: all-day wear, festival wear, getting around town, water activities"
+        ],
+        "description": "From a Grand Canyon raft in 1984 to docks, stoops, and sidewalks around the world, one of Teva\u2019s very first sandal stands as a testament to timeless comfort and utilitarian style.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1/000-0000000-8675309?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2/000-0000000-8675309?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3/000-0000000-8675309?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Womens-Athletic-Shoes/b/ref=dp_bc_aui_C_4/000-0000000-8675309?ie=UTF8&node=6127771011"
+            },
+            {
+                "name": "Sport Sandals & Slides",
+                "link": "https://www.amazon.com/Womens-Sport-Sandals/b/ref=dp_bc_aui_C_5/000-0000000-8675309?ie=UTF8&node=679365011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 10.16 x 5.51 x 4.13 inches; 13.33 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 1003987"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e November 17, 2021"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Teva"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09M5GSQ8B"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#3,080 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #1 in Women's Athletic & Outdoor Sandals & Slides"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 22,457 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "C. Tijerino",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF44ZSRT34SS7H42H76FVZJK75KA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3LWC9ATHJ930A?ASIN=B0CNPRBGPF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars True to size",
+                "reviewText": "Comfortable, excellent quality, beautiful and true to size.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MacMac",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFXC2HEUMEP7CXXD46VSYIFNKVIA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2MHW8PU5NH7ZM?ASIN=B0CNPRBGPF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very cute and comfortable",
+                "reviewText": "Really amazing fit, and they have a touch of sparkle which I love.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71i6q53nI6L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Darlene Brown",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG3ENPMPGBK63NPHE4FJWIG5T5VQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R30YQJO3YV6GRV?ASIN=B0CNPRBGPF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars So cute and comfortable!",
+                "reviewText": "I bought these for a Caribbean Cruise. They are so cute, comfortable, and very versatile!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jen K.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFGQENKOF3HUSZSPU266OZJM26AQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2DRYY5WC4YZ47?ASIN=B0CNPRBGPF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 23, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable and adjustable",
+                "reviewText": "I was looking for sandals to take on vacation that would work well for using in the water and sailing. I wore out my old pair so I was happy to see that these Tevas are still as well made and adjustable as my old pair.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jason Thomas :)",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHXZC4IDONEPBLA7AKBWILUHSUVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R21D9QOPCI50MY?ASIN=B0CNPRBGPF",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 12, 2023",
+                "reviewTitle": "4.0 out of 5 stars Walking on Sunshine with Teva Women's Original Universal Sandal",
+                "reviewText": "Teva has done it again with their Women's Original Universal Sandal in the captivating Balance Starfish design. These sandals are a delightful blend of comfort, style, and practicality, making them a versatile addition to any summer wardrobe.First impressions matter, and the Balance Starfish design immediately caught my eye. The unique pattern of delicate starfish creates a charming and beachy aesthetic, perfect for embracing the sunny days. The color palette is subdued yet stylish, allowing these sandals to effortlessly complement a wide range of outfits.Comfort is paramount when it comes to sandals, and Teva has nailed it with the Original Universal design. The adjustable straps ensure a secure fit, and the cushioned footbed provides a level of comfort that makes these sandals suitable for extended walks or adventures. The straps also feature quick-dry webbing, which is a fantastic feature for beach trips or unexpected splashes.One of the standout features of Teva sandals is their versatile performance. From a day of exploring a coastal town to a casual evening out, these sandals seamlessly transition from one activity to another. The durable rubber outsole provides reliable traction, ensuring stability on various surfaces.The only minor drawback I've noticed is that the straps might need some time to break in, which is common with many sandals. However, once they mold to your feet, the comfort level improves significantly.Durability is a key factor, and Teva's reputation holds up well. These sandals are built to last through numerous outings and summer escapades. Additionally, the Balance Starfish design is easy to clean, ensuring that the sandals maintain their charm throughout the season.In conclusion, the Teva Women's Original Universal Sandal in the Balance Starfish design offers a winning combination of style and comfort. Whether you're strolling along the beach or navigating city streets, these sandals keep your feet happy without compromising on looks. The starfish motif adds a whimsical touch that captures the essence of summer. If you're seeking a go-to pair of sandals that effortlessly combines fashion and function, these Teva sandals are a reliable choice.Pros:- Charming and beachy Balance Starfish design- Adjustable straps for a secure fit- Cushioned footbed for extended comfort- Versatile performance for various activities- Durable and easy to cleanCons:- Straps may require some breaking in",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "osu_raquel",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEXTNA7Q2YD5QZFUA4INTOIMMV2A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RDGILAZVOPB9G?ASIN=B0CNPRBGPF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars I love these Metallic Tevas!",
+                "reviewText": "The beautiful, metallic, bright straps will brighten the days of my soon-to-be trip to Belize! They are so comfortable and will be easy and lightweight to pack. Reviews say they will be good in water. Total package for travel shoes!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jeni ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH53D35BKLJJPIV2RANNQHKU3Q6A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2V6CIVQ1W17YQ?ASIN=B0CNPRBGPF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 17, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great Sandal, Size 7 Too Narrow",
+                "reviewText": "I've worn Teva sandals for many years now, but this was my first time purchasing the original universal style. I'm between 7 and 8, so I read dozens of reviews hoping they would help me choose. I also went to my local REI store and tried on both sizes. The 7s and 8s fit similarly, so I ended up ordering a size 7. Unfortunately, they did not fit as expected. My feet tend to swell in the summer, and the 7s are rather narrow. My pinky toes were squished and it felt like my toes might slide over the front; my heels didn't sit right either. Luckily, Amazon's return process is pretty effortless, so I exchanged them for a size 8, and they fit perfectly! These shoes are beyond comfortable with strong velcro. I have yet to test them kayaking and walking through pluff mud, but I have worn them to the beach many times and they are quick to dry! My Teva Dorado sandals held up through some brutal adventures, so I'm expecting these will too!",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "BeeJay",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEIDZW5YP5GB5DVYASHYJ22KELFQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1Q3B77SEYOFWI?ASIN=B0CNPRBGPF",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars In love",
+                "reviewText": "My first pair of tevas! I don\u2019t like wearing sneakers on vacation but needed something for walking around. These were absolutely perfect.sturdy, comfy and cute!",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "G",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 4, 2023",
+                "reviewTitle": "Para la playa y caminar",
+                "reviewText": "Muy buenas chanclas, c\u00f3modas, dise\u00f1o lindo. Lo \u00fanico es que si las mojas pues estar\u00e1n h\u00famedas porque las tiras de amarre son de tela. Solo Lara tomar eso en cuenta de ah\u00ed en fuera excelentes.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MadaMada",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 14, 2023",
+                "reviewTitle": "Amazing sandals!!",
+                "reviewText": "Got these for my birthday, I absolutely love them! I spent all summer in them, hiking, at the beach, through creeks, walking with the kids... They're holding up great, are easily adjustable, the stitching and material are superb, and so comfy! Plus, i just love the pattern! Totally worth the investment!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81J46qZ1dtL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "TeresainCanada",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on June 16, 2023",
+                "reviewTitle": "Great sandal",
+                "reviewText": "I wasn\u2019t sure if I would like the colour but I love them! Great fit, feels great",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "M",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "2.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 12, 2023",
+                "reviewTitle": "Disappointed...",
+                "reviewText": "Not the quality I recognize from the Teva brand. I had owned real leather Tevas that were a deeper brown, with a much more comfortable foot bed than this one. This actually feels like cheap plastic rubbing against your bare skin. I've kept them b/c I like the neutral colour and I figured I could at least wear them around the cottage.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rodrigo M\u00e1rquez",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on May 12, 2022",
+                "reviewTitle": "Muy c\u00f3modos y buena calidad",
+                "reviewText": "Calidad y comodidad",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,380 @@
+{
+    "remaining_requests": 40093,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Adafruit-Ultimate-GPS-Breakout-channel/dp/B01H1R8BK0",
+    "body": {
+        "name": "Adafruit Ultimate GPS Breakout - 66 channel w/10 Hz updates - Version 3",
+        "price": "$31.91",
+        "originalPrice": "",
+        "rawPrice": 31.91,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Adafruit-Ultimate-GPS-Breakout-channel/dp/B01H1R8BK0",
+        "soldBy": {
+            "sellerID": "A2GTSJRNFEVVSP",
+            "name": "3DMakerWorld, Inc.",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2GTSJRNFEVVSP&asin=B01H1R8BK0&ref_=dp_merchant_link&isAmazonFulfilled=1"
+        },
+        "deliveredBy": "",
+        "parentAsin": "",
+        "asinVariationValues": [],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/51EgSaFWTjL.jpg",
+        "images": [],
+        "imagesCount": 1,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Brand: Adafruit",
+            "link": "https://www.amazon.com/Adafruit/b/ref=bl_dp_s_web_5424951011?ie=UTF8&node=5424951011&field-lbr_brands_browse-bin=Adafruit"
+        },
+        "brand": "Adafruit",
+        "merchantInfo": "3DMakerWorld, Inc.",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 225,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Monday, February 19 on orders shipped by Amazon over $35. Order within 20 hrs 36 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "-165 dBm sensitivity, 10 Hz updates, 66 channels, Built-in datalogging",
+            "5V friendly design and only 20mA current draw",
+            "Breadboard friendly + 2 mounting holes",
+            "Fully assembled and tested module"
+        ],
+        "description": "This is the ultimate GPS module for your Raspberry Pi, Arduino or other microcontroller project! The breakout is built around the MTK3339 chipset, a no-nonsense, high-quality GPS module that can track up to 22 satellites on 66 channels, has an excellent high-sensitivity receiver (-165 dB tracking!), and a built in antenna. It can do up to 10 location updates a second for high speed, high sensitivity logging or tracking. Power usage is incredibly low, only 20 mA during navigation. Includes an ultra-low dropout 3.3V regulator so you can power it with 3.3-5VDC in, 5V level safe inputs, ENABLE pin so you can turn off the module using any microcontroller pin or switch, a footprint for optional CR1220 coin cell to keep the RTC running and allow warm starts and a tiny bright red LED. The LED blinks at about 1Hz while it's searching for satellites and blinks once every 15 seconds when a fix is found to conserve power. If you want to have an LED on all the time, we also provide the FIX signal out on a pin so you can put an external LED on. Two features that really stand out about version 3 MTK3339-based module is the external antenna functionality and the the built in data-logging capability. The module has a standard ceramic patch antenna that gives it -165 dB sensitivity, but when you want to have a bigger antenna, you can easily add one. Comes with one fully assembled and tested module, a piece of header you can solder to it for breadboarding, and a CR1220 coin cell holder. Battery not included. Many tutorials available at Adafruit's website.",
+        "breadCrumbs": [
+            {
+                "name": "Electronics",
+                "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=172282"
+            },
+            {
+                "name": "GPS, Finders & Accessories",
+                "link": "https://www.amazon.com/GPS-Navigation/b/ref=dp_bc_aui_C_2?ie=UTF8&node=172526"
+            },
+            {
+                "name": "GPS Trackers",
+                "link": "https://www.amazon.com/GPS-Trackers/b/ref=dp_bc_aui_C_3?ie=UTF8&node=617650011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions",
+                "value": "1\"L x 1.38\"W x 0.26\"H"
+            },
+            {
+                "name": "Item Weight",
+                "value": "8.5 Grams"
+            },
+            {
+                "name": "ASIN",
+                "value": "B01H1R8BK0"
+            },
+            {
+                "name": "Item model number",
+                "value": "746"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 225 ratings 4.6 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#53,721 in Electronics (See Top 100 in Electronics) #169 in GPS Trackers"
+            },
+            {
+                "name": "Is Discontinued By Manufacturer",
+                "value": "No"
+            },
+            {
+                "name": "Other display features",
+                "value": "Wireless"
+            },
+            {
+                "name": "Human Interface Input",
+                "value": "Microphone"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "Adafruit"
+            },
+            {
+                "name": "Date First Available",
+                "value": "November 11, 2013"
+            },
+            {
+                "name": "Brand",
+                "value": "Adafruit"
+            },
+            {
+                "name": "Map Type",
+                "value": "Satellite"
+            },
+            {
+                "name": "Mounting Type",
+                "value": "Dashboard Mount, found in image"
+            },
+            {
+                "name": "Year",
+                "value": "2016"
+            },
+            {
+                "name": "Display Type",
+                "value": "LED"
+            },
+            {
+                "name": "Are Batteries Included",
+                "value": "No"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Robert Alpert",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEHOJT5HVTE4TDZIJSEL4DB5BH5A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2X1DSNAR46N1Z?ASIN=B01H1R8BK0",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2019",
+                "reviewTitle": "5.0 out of 5 stars Works great. Fast acquisition.",
+                "reviewText": "I built a dash cam using a raspberry pi and I\u2019m using this GPS to show speed, coordinates and addresses and it\u2019s been very accurate and reliable. I did add the backup battery. Adafruit has always delivered high quality goods at a very affordable price. The small footprint allows for a smaller enclosure.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "electroman",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFCG6L7GADOL7DILM4WT6MJWIXOA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RADLO2VGPMI8M?ASIN=B01H1R8BK0",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 26, 2022",
+                "reviewTitle": "5.0 out of 5 stars Battery used",
+                "reviewText": "Having a battery on-board helps greatly reduce the time to acquiring satellites.20 minutes (indoors) w/o, and 30 seconds (indoors) with the battery already in place.Performs nicely.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "eric",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEKKJXMI2NGHZUACGUBPQA7ZP5IA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2RNQZTLCMXM33?ASIN=B01H1R8BK0",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 8, 2014",
+                "reviewTitle": "5.0 out of 5 stars Nice, well-supported GPS",
+                "reviewText": "In my experience, Adafruit products are well-designed, well-documented, and function great for their intended applications; this GPS unit was no different. This distributor (correct terminology?) on Amazon appears to be selling authentic product. The shipping packaging wasn't 100% to my liking, but the unit works just fine. Following the Adafruit procedure for assembly and testing, I had confirmed operation on an arduino Uno within an hour, and am now working out how to interface it with a Beaglebone Black.",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "J. Lynch",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFAEFP6UTJ5G6Z3ZLNAZHGPK6T7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RKYPNDCPZREJW?ASIN=B01H1R8BK0",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 21, 2019",
+                "reviewTitle": "4.0 out of 5 stars pretty decent",
+                "reviewText": "UPDATE:I've had time to continue to collect various data points and program this and a NEO-6M (both in CircuitPython/Python and Arduino's C/C++. I've decided the Adafruit Ultimate GPS is decent for most beginner projects (Adafruit's goal as I've read from them....I'm certainly a huge fan!).In Western Washington, it closely meets its' spec of being within 3 meters when I'm in a cul-de-sac without trees or buildings for 10-12 meters. I had one-time, single position under 2 meters, but this is a single data point from many. Generally, it seems to put me about 6-10 meters from where I actually am for this region.In the Great Flat Plains of Kansas, where the only thing in sight is the edge of the Earth in all directions, it is better being within 2 meters.Taking the same positions from my NEO-6M, the NEO-6M just puts me spot on (<1m) with every data point in Kansas and within 2-3 meter's from some of the difficult places in Western Washington.Having spent several hours programming both, I think the CircuitPython makes the Ultimate GPS a super product to get going. There might be better accurate data from this device as NMEA sentence it pulls data from, the GPS position is slightly different than at least one other sentence. This might be why the NEO-6M presents better, the CircuitPython pulls the information from a different NMEA sentence on the NEO-6M. My to-do list is to compare the sentence information from the same chip.Original Review:This took a couple hours to get setup using CircuitPython on a Feather M0 Basic.It doesn't pick any signal up inside (unlike NEO-6M I also purchased). Once outside, it took a while to pick up signal, but was extremely stable in the location values it produced (where as the NEO-6M picked up immediately, although its' values had some flutter to them).I'm looking forward to using both.",
+                "reviewVotes": "10 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG3YYKFQUFOC5YA65YSCLIWOWPGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R26AJTG42ZK88Y?ASIN=B01H1R8BK0",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 21, 2014",
+                "reviewTitle": "5.0 out of 5 stars Works well with Arduino",
+                "reviewText": "I bought this for a GPS guided robot project using an Arduino. Works well and gets a lock with-in a minute even in doors.Some tips if you are going to use this on an Arduino:- Baud rate is 9600- You really only need to hook up the Tx pin to the Arduino, RPi or PC. (I don't know what commands you can send to it anyway)- Use the \"TinyGps\" library in your project [...] to parse the NMEA strings from this GPS.- No extra serial port? No problem! Use the \"SoftwareSerial\" library that is part of the Arduino IDE ... with that you can assign any of the Arduino pins to be an Rx/Tx pair.- I soldered header pins to the bottom of the board so that the GPS antenna can be free and clear of any wires.5 stars because it does the job!",
+                "reviewVotes": "17 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Terry SpeakeTerry Speake",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEZ6GUWG2EXMAXRKJRYRBFKVANAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1WL2YIRLKY0U4?ASIN=B01H1R8BK0",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 21, 2020",
+                "reviewTitle": "5.0 out of 5 stars Works a treat with Pi 4B",
+                "reviewText": "Setting up with Raspberry Pi 4B and DietPi with Tunerstudio for Speedometer of PiDash. VIN (GPS) to 3.3V on Pi, GND (GPS) to ground on Pi, RX (GPS) to TX on Pi, TX (GPS) to RX on Pi. Use DietPi-Config / option 4 : Advanced Options / Serial/UART to make sure ttyS0 console is off and ttyS0 (mini UART) device is on. I used CuteCom to set the baud to 115200 and refresh rate to 10Hz. Default GPS unit is 9600 baud and 1Hz. Start with CuteCom set to 9600 and send $PMTK251,115200*1F to change baud. Change CuteCom to 115200 baud and send $PMTK220,100*2F to change refresh to 10Hz. Make sure you have the battery backup installed in the GPS or else it will revert back when powered off. In Tunerstudio Beta (there was a problem with GPS which I don't know is fixed in the stable release yet) use Communications/ GPS Configuration to set up. See pic for details. I am using it with an external antenna so I can't comment on the internal one.",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/713blOCCPLL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/71NxRpweOGL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/71Y2WPeH8vL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mark",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHNJ7GQCHZU7FSREYR3BAFQREQKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RV31OOZYZU6Q?ASIN=B01H1R8BK0",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 2, 2014",
+                "reviewTitle": "5.0 out of 5 stars Easy kit, excellent unit",
+                "reviewText": "I'm not exactly a ninja with a soldering iron, but this kit (OK, it's just a matter of soldering the pins on, but like I said, I'm no ninja with the iron) was easy to assemble.The manufacturer's website has a really good set of documentation for both Pi and Arduino connections, and I got mine online in a minimal amount of time via a breadboard.On warning (not this components fault at all); make sure you get the right pigtail to connect it to an external antenna. Adafruit has the right one listed, and you can find it here on Amazon too.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "majormalfunction",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGKKPZV2K3ZCCP3BHVV5M475UFBA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R7XMPCQFSX6E2?ASIN=B01H1R8BK0",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 6, 2015",
+                "reviewTitle": "5.0 out of 5 stars It's a very sensitive serial GPS board :-)",
+                "reviewText": "This is an extremely sensitive serial gps unit. Has a PPS output pin as well. Works on anything from +3.3v to +5v as well. Great if you're using it with one of the many arm based boards. I bought an external antenna, but even before that, I was noticing it getting a fix indoors across the room from two windows with the blinds shut. Please note the little red light flashes fast when acquiring, then very slowly when it gets a fix. Doesn't turn green or anything, just starts flashing very slowly. If you're good with a small soldering iron, mount the battery clip on the back and put a battery in. It'll lock much faster after that.",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Turismo",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in France on September 20, 2017",
+                "reviewTitle": "Fonctionne \u00e0 la perfection",
+                "reviewText": "Ce petit composant peut faire des miracles !Je m'en suis servi pour cr\u00e9er une g\u00e9obox. Le module \u00e9tait sous une planche de bois de 8mm et je n'ai pas eu besoin d'y ajouter une antenne ext\u00e9rieure. Par contre lorsque la ciel \u00e9tait tr\u00e8s nuageux, le signal pouvait mettre quelques minutes \u00e0 \u00eatre r\u00e9cup\u00e9r\u00e9.Je recommande chaudement les tutoriels d'Adafruit qui sont complets !",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MB",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on April 24, 2018",
+                "reviewTitle": "Powerful and easy to interface GPS breakout",
+                "reviewText": "Very good GPS breakout! Super easy to interface: just use the Adafruit example. I used it on an Adruino Due, works perfectly. I can sometimes get a fix when I'm inside, so it is pretty powerful.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mou88",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on June 7, 2019",
+                "reviewTitle": "Pricey but reliable",
+                "reviewText": "I bought this to replace a cheaper unit, this worked consistently in the city and out of it, I was very happy with it except the price. But you get what you pay for...",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "L. K\u00f6hler",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on February 2, 2018",
+                "reviewTitle": "Achtung Adapter!",
+                "reviewText": "\"Wird oft zusammen gekauft\"Zeigt einen falschen Adapter!Dieser hat einen m\u00e4nnlichen SMA-Stecker, ebenso wie die dort vorgeschlagene Antenne, allerdings diesen ohne Verschraubungsmutter wie der m\u00e4nnliche Stecker der Antenne... daher funktioniert auch ein \u00fcblicher Weiblich-Weiblich Adapter dazwischen nicht.Ein korrekter Adapter w\u00e4re dieser hier, kostet mit 2,60\u20ac auch weniger.https://www.amazon.de/gp/product/B00W8WIDMUZum Breakout Board:Leider wird nur GPS (also das amerikanische) unterst\u00fctzt, keine der neueren Technologien.Hier w\u00e4re schon lange ein Nachbessern seitens Adafruit n\u00f6tig mit Wechsel auf den MT3333 Chip, statt des hier verwendeten MT3339. Der kann dann auch GLONASS, Galileo und Beidou und erreicht damit eine deutlich h\u00f6here Verf\u00fcgbarkeit sowie eine bessere Genauigkeit. Gibts als Breakoutboard f\u00fcr wenig Geld, dann auch direkt mit SMA-Anschluss ...Ansonsten klappt alles, wie es soll.Mit einer Google-Suche nach \"GPS PMTK_Protocol\" finden sich \u00fcbrigens die m\u00f6glichen Befehle, die man an den Chip zur Konfiguration senden kann. Die Version von Adafruit ist dabei aber wohl nicht vollst\u00e4ndig, eine andere Quelle also ggf. zu bevorzugen.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bill Ardudwy",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on April 14, 2019",
+                "reviewTitle": "Delivery and Performance.",
+                "reviewText": "The Item arrived a day earlier than expected. It operated correctly and continues to perform as expected.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": [
+            {
+                "price": "$31.91",
+                "sellerName": "Emerging Tech Sales",
+                "sellerRating": "5"
+            },
+            {
+                "price": "$31.95",
+                "sellerName": "kjdElectronics",
+                "sellerRating": "5"
+            }
+        ]
+    }
+}

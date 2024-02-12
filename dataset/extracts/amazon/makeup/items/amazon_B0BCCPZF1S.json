@@ -1,0 +1,574 @@
+{
+    "remaining_requests": 8837,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Maybelline-Longwear-No-Budge-Pigmented-Captivated/dp/B0BCCPZF1S",
+    "body": {
+        "name": "Maybelline Super Stay Vinyl Ink Longwear No-Budge Liquid Lipcolor Makeup, Highly Pigmented Color and Instant Shine, Captivated, Pink Lipstick, 0.14 fl oz, 1 Count",
+        "price": "$9.48$9.48 $8.48$8.48",
+        "originalPrice": "$12.99",
+        "rawPrice": 9.48,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Maybelline-Longwear-No-Budge-Pigmented-Captivated/dp/B0BCCPZF1S",
+        "soldBy": {
+            "sellerID": "",
+            "name": "Amazon.com",
+            "link": "https://www.amazon.com"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CNMVVBPZ"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09T7WVRN9",
+                "variationName": "Color",
+                "variationValue": "10 LIPPY",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/311Nl+BvhyL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BCCDCSN4",
+                "variationName": "Color",
+                "variationValue": "100 CHARMED",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31xVjNp5y2L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BCCJV789",
+                "variationName": "Color",
+                "variationValue": "105 GOLDEN",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Mk3b2FvvL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BCC4WKR6",
+                "variationName": "Color",
+                "variationValue": "110 AWESTRUCK",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31jnxBA2RXL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BCC7CL6J",
+                "variationName": "Color",
+                "variationValue": "115 PEPPY",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/311ZHjCsL5L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BCCD784G",
+                "variationName": "Color",
+                "variationValue": "120 PUNCHY",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3161ma9l0zL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BCC7D8TP",
+                "variationName": "Color",
+                "variationValue": "125 KEEN",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31TYJHEdY0L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BCC1BN3P",
+                "variationName": "Color",
+                "variationValue": "130 EXTRA",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31RwjGmkhkL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BCC1415F",
+                "variationName": "Color",
+                "variationValue": "135 FEARLESS",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31wfxGbq1KL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BCBRBCPY",
+                "variationName": "Color",
+                "variationValue": "140 CHARGED",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31YDO49+83L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CJVM6778",
+                "variationName": "Color",
+                "variationValue": "145 ROGUE",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/318uEHHpJ0L._SS36_.jpg"
+            },
+            {
+                "asin": "B09QH7SS43",
+                "variationName": "Color",
+                "variationValue": "15 PEACHY",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31CYJ9ERYbL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CJVM5JHH",
+                "variationName": "Color",
+                "variationValue": "150 STRIKING",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41K-rc4cmYL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CJVNHHBR",
+                "variationName": "Color",
+                "variationValue": "155 UPBEAT",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41BgoHFIi2L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CJVP312N",
+                "variationName": "Color",
+                "variationValue": "160 SULTRY",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312dNNEp5nL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CJVNGLBV",
+                "variationName": "Color",
+                "variationValue": "165 EDGEY",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31KYjxBbJcL._SS36_.jpg"
+            },
+            {
+                "asin": "B09QH981L7",
+                "variationName": "Color",
+                "variationValue": "20 COY",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31rIAsMSR0L._SS36_.jpg"
+            },
+            {
+                "asin": "B09QH91YN2",
+                "variationName": "Color",
+                "variationValue": "25 RED-HOT",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31IPIbD7bdL._SS36_.jpg"
+            },
+            {
+                "asin": "B09T8JSC82",
+                "variationName": "Color",
+                "variationValue": "30 UNRIVALED",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3135s0vkJpL._SS36_.jpg"
+            },
+            {
+                "asin": "B09QH8148N",
+                "variationName": "Color",
+                "variationValue": "35 CHEEKY",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31K-L502opL._SS36_.jpg"
+            },
+            {
+                "asin": "B09T8B7GF4",
+                "variationName": "Color",
+                "variationValue": "40 WITTY",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313LiIKimnL._SS36_.jpg"
+            },
+            {
+                "asin": "B09QH7B899",
+                "variationName": "Color",
+                "variationValue": "45 CAPRICIOUS",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31GXnMAyp-L._SS36_.jpg"
+            },
+            {
+                "asin": "B09T83HHJP",
+                "variationName": "Color",
+                "variationValue": "50 WICKED",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31YDJXhrzoL._SS36_.jpg"
+            },
+            {
+                "asin": "B09T8DQ1SG",
+                "variationName": "Color",
+                "variationValue": "55 ROYAL",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31cxcAA0ElL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BCCPZF1S",
+                "variationName": "Color",
+                "variationValue": "95 CAPTIVATED",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31vdybQQsoL._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "27",
+        "stockDetail": "In Stock",
+        "couponInfo": "Save 5%",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31jBSwNjTRL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51iBWEvH1VL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41s-C8vhdjL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/411yqNxdTwL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41gpWEXTFLL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/413Uw3uOKzL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61vhJZAMlYL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cfb77a11-0a8a-49d4-a658-788f8bedd5e5/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/12103d30-4f82-46f9-bc20-fd85273386ee/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f0d2b97a-799c-4194-a096-d9feba92bf69/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a541f520-ad93-400a-b23f-be6bc6fcc2b2/default.vertical.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b516f8c5-ea77-43a2-8b08-f2da4acc8387/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7d49b3c1-6876-4b8f-bba5-0df5f579104b/default.vertical.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/abc8c10b-14aa-49ec-89b9-4d06e63f6b18/default.vertical.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1e94ccf5-3a52-494a-bd4a-e8c90049b203/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 8,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Brand: MAYBELLINE",
+            "link": "https://www.amazon.com/MAYBELLINE/b/ref=bl_dp_s_web_2596277011?ie=UTF8&node=2596277011&field-lbr_brands_browse-bin=MAYBELLINE"
+        },
+        "brand": "MAYBELLINE",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 40726,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Wednesday, February 21 on orders shipped by Amazon over $35",
+            "Or fastest delivery Tuesday, February 20. Order within 14 hrs 5 mins",
+            "FREE delivery Wednesday, February 21 on orders shipped by Amazon over $35",
+            "FREE delivery Wednesday, February 21 on orders shipped by Amazon over $35",
+            "Or fastest delivery Tuesday, February 20. Order within 14 hrs 5 mins",
+            "FREE delivery Wednesday, February 21 on orders shipped by Amazon over $35"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Glossy Maybelline Superstay Vinyl Ink Liquid Lipstick: This longwear liquid pink lipcolor delivers no-budge vinyl color and up to 16 hour wear, featuring our Color Lock formula that defies smudging and transfer; Simply shake and swipe",
+            "Vegan Formula: Swipe this comfortable color on your lips for an instant shine in a vegan formula with no animal derived ingredients. Now available in 20 saturated shades from bold red to nude. Get up to 16H of no-budge wear.",
+            "To apply, simply shake and swipe the product on your lips; Shake for at least five seconds before applying; Apply as you normally would to clean, dry lips using its precise flocked tip applicator and let fully dry",
+            "Create any look with Maybelline: foundation, BB creams, concealers, and setting powders for the perfect canvas, eye shadows, mascara, brow pencils, and eyeliners for any eye look and lip products, from showstopping matte lipstick to a plumping lip gloss",
+            "Remove Maybelline Makeup With Micellar Water: Use Garnier Micellar Water as a gentle makeup remover at night, and as a facial cleanser in the morning to prep skin for Maybelline makeup"
+        ],
+        "description": "Shake up your longwear with Super Stay Vinyl Ink. This Liquid Lipcolor delivers no-budge saturated vinyl color and up to 16HR wear. Its color lock formula defies smudging and transfer. Swipe the formula across your lips and enjoy an instant shine and all day color. Now available in 10 additional Nude Shock shades inspired by the bold electric attitude of New York. Choose from a total of 20 high-impact vinyl shades for your every lip look.",
+        "breadCrumbs": [
+            {
+                "name": "Beauty & Personal Care",
+                "link": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/ref=dp_bc_aui_C_1?ie=UTF8&node=3760911"
+            },
+            {
+                "name": "Makeup",
+                "link": "https://www.amazon.com/Makeup-Cosmetics-Products-Beauty/b/ref=dp_bc_aui_C_2?ie=UTF8&node=11058281"
+            },
+            {
+                "name": "Lips",
+                "link": "https://www.amazon.com/Lip-Makeup-Lipstick-Gloss/b/ref=dp_bc_aui_C_3?ie=UTF8&node=11059031"
+            },
+            {
+                "name": "Lipstick",
+                "link": "https://www.amazon.com/Lipstick/b/ref=dp_bc_aui_C_4?ie=UTF8&node=11059111"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 3.78 x 0.87 x 3.78 inches; 0.14 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 0041554080421"
+            },
+            {
+                "name": "UPC \u200f",
+                "value": "\u200e 041554080421"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Maybelline New York"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0BCCPZF1S"
+            },
+            {
+                "name": "Country of Origin \u200f",
+                "value": "\u200e USA"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#112 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #2 in Lipstick"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 40,726 ratings"
+            },
+            {
+                "name": "Brand",
+                "value": "MAYBELLINE"
+            },
+            {
+                "name": "Color",
+                "value": "95 CAPTIVATED"
+            },
+            {
+                "name": "Skin Type",
+                "value": "All, Combination"
+            },
+            {
+                "name": "Item Form",
+                "value": "Liquid"
+            },
+            {
+                "name": "Finish Type",
+                "value": "Glossy"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Previous page Next page",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4aa56145-550f-4775-a7fb-5ab6806d1bf7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/85216662-6e8e-4586-acb0-df7173556509.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f1b4bef8-5d8e-4fda-95e3-7fd448792a54.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/078dc02b-469d-4ecd-92bc-0f4acaf68887.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4d3856c9-83c5-49cd-82aa-29c77b1fecad.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aaf256cc-aaf4-4e0d-879e-d43bacec2d96.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f7d0afba-055c-49b4-b486-c4fed33d564f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/93f30136-d159-4860-92e0-0b4b45e1bd56.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHEPCEIMTLPREIPTE5ZKMRBHTKDQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R9DR0JOL3A6UG?ASIN=B0BCCPZF1S",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Dries quickly! Color lasts all day!",
+                "reviewText": "I bought the \"Coy\" shade. The lipstick goes on easily. The color seemed a little too bright until I used tissue to blot any excess. The lipstick dries quickly and does not fade or smear when lip balm is applied throughout the day. I use the Julep \"Vintage Mauve\" lip balm. The two colors work well together. The lip balm adds shine and moisture without smearing the liquid lip color.I love the staying power of this lipstick. I recommend it and and plan to buy another shade to add to my collection.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "OtakuKittehOtakuKitteh",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHHWYI7SCIJ2753VGI5MGV76TIDA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RLWVGLKURIM8O?ASIN=B0BCCPZF1S",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 29, 2023",
+                "reviewTitle": "5.0 out of 5 stars Amazing for dry lips!",
+                "reviewText": "These may be one of my favorite lip products ever. They set down with moderate shine, not the vinyl look the ads show. Slow your roll though, cause I still love them. Yes, they set sticky, but top them with some gloss once they \u201cdry\u201d (which does not break these down, by the way) and you\u2019re golden. I use the Innbeauty Lip Glazes or the Broadway Vita-Lips glosses over them, and the Vinyl Ink underneath lasts FOREVER! I need three dips: one for each side of my upper lip and one for the bottom lip. If I put it on any thinner, the opacity and shine are compromised. The shades are incredibly saturated (except Cheeky). The nudes especially are longwearing, as you can see fading a teeny bit more with the darker shades. I thought Punchy might lean too sandy and warm for me, but it has become one of my favorites. It's reminiscent of a long-ago NYX Intense Butter Gloss shade called Tres Leches that I loved and wore to death. These are bomb, and if you hate matte as much as I do, I highly recommend you try them.",
+                "reviewVotes": "76 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61dCO41iE0L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61x5MTXJsfL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71p079sYyoL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "OCanada",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGEAPZZOMZVAJF4JFIV5D6GOPHMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1XTQQ0DFNIE9E?ASIN=B0BCCPZF1S",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "4.0 out of 5 stars Pleasant odor, no taste, slightly drying",
+                "reviewText": "I really like this! It applies like a gloss and I only need one coat. I find the odor minimal and pleasant, and there is no strange chemical taste. This color (Cheeky) is a perfect nude lip color, and I don't need any lip liner but I was blessed with normal sized and shaped lips. I found it a little drying after wearing it for 8 hours. The big drawback is that this formula does not play nicely with petrolatum-based glosses, it will become gritty and immediately starts to dissolve when I put a little gloss on top. I know that the idea of this product is to be one-and-done but it was not glossy feeling or looking after dry-down and has a tiny bit of a tightening effect on the lips. I think this is a great choice for a quick look when you need to run out the door or if you don't like going to the gym bare-faced. I'd like to try some other colors!",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mariela Castillo Mariela Castillo ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGXCIWYC267MXF4EECNUZFL4KP6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2E48AZKA0BMVL?ASIN=B0BCCPZF1S",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 4, 2024",
+                "reviewTitle": "5.0 out of 5 stars Absolutely like it \ud83d\udc4c!!",
+                "reviewText": "Got the Maybelline Super Stay Vinyl Ink in \u201cpeachy\u201dcolor. This long-lasting lipstick offers a creamy texture, ensuring it's not overly dry. Impressively, it withstands eating and drinking, maintaining its vibrant color for an extended period. I highly recommend it as one of my favorites, and it has become a go-to choice in my collection.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61ULUFEdDzL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tori Stull",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEEIF742L4GONIA3Z45ZG254EG4Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3ENUXWED2DE7E?ASIN=B0BCCPZF1S",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 31, 2023",
+                "reviewTitle": "5.0 out of 5 stars Worth It",
+                "reviewText": "My review is for the colors Cheeky, Keen, Lippy, Peachy, and Peppy:The Super Stay Vinyl Ink is absolutely worth it. I have owned and tried almost every high end lip product on the market as just an everyday user. The colors are pigmented, they last all day, and don't dry out the lips. The shine does wear off after a few hours BUT the color doesn't. It dries down and stays on almost like a lip stain. To me it feels like the lasting power of a stain, the color payoff of a liquid lipstick, but the creamy/no stress application of a regular bullet lipstick. I LOVE this product.The only drawback is that their shade range is very strange. I love all of the colors I listed above that I purchased, but that is only because I extensively read the reviews and I know what colors I love on me personally. For reference, I am a very fair-light in color. I have dark brown hair and brown eyebrows. I also have hazel brown/green eyes. Yellow to golden undertones to my skin. A lot of these colors are not for fair skinned people or those of us who generally need a slightly warmer undertone to our makeup. It's a very cool-toned shade range.My final verdict is throw out your old-crusty expensive lip products and get these. The price point is great and I feel like I don't need to reach for anything else. I hope they continue expanding the shade range.",
+                "reviewVotes": "97 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lexi D.L.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFXG7A7U4QARI2RQLC3VULDJL62Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2F6UL9VWLZD4U?ASIN=B0BCCPZF1S",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 13, 2024",
+                "reviewTitle": "3.0 out of 5 stars Very inconsistent.",
+                "reviewText": "I\u2019ve ordered maybe 5 different colors. One of them came and was fine. One of them said they were delivered with other items, but were not in the box. The next one came with two of the same color packaged together (good thing I was only charged for one). Next one was fine. The last one I just got (Edgy) looks super dark and not at all like the color I ordered. In the pictures it looks like it should be a bright pinkish color. Even looks weird on the brush like it doesn\u2019t have any pigment. Not sure if this is sold by a sketchy retailer or what. It is sticky, but after awhile, you can put chapstick or gloss over it and the color will stay on.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "indya draper",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJL45XQVLYUVWR3X4J74HOPPZ6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3DRMIGIZNK34M?ASIN=B0BCCPZF1S",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Does what it says it will do!",
+                "reviewText": "I used to be a big fan of lipsticks but it\u2019s been hard to find one that doesn\u2019t smudge as much and can give me a long time wear without being all over my face or all over every cup I drink out of after an hour. This lipstick is THE TRUTH. It gives you the feeling of a matte lipstick but with out being or looking dry. It\u2019s comfortable on the lips and won\u2019t get on your teeth or transfer anywhere else as much as a traditional lipstick. I also love that it\u2019s the perfect red for women of color as well. Not overly dark or too light. Right in the sweet spot of reds for melanin rich girlies! And the fact that you can get a perfect pigment without a lip pencil and all in one swipe of one dip in it is crazy to me. I never really leave reviews but I had to for this. You won\u2019t regret this buy \ud83d\ude0a",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Barbara",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 23, 2024",
+                "reviewTitle": "Long lasting",
+                "reviewText": "I love the lipstick and the colour and easy to apply. It stays on the lips but always feels a little sticky but nothing sticks to your lips and it does not transfer when I kiss my husband. I am used to other lipsticks that stay on but they make my lips feel dry, where this lipstick makes my lips always feel hydrated, which is a bonuse with stay on lipsticks.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ranathunga",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 22, 2024",
+                "reviewTitle": "Like it .",
+                "reviewText": "I love this brand . Not really like this colour. But its okay",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ranathunga",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 22, 2024",
+                "reviewTitle": "Like it",
+                "reviewText": "Perfect shade. Long lasting",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ranathunga",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 22, 2024",
+                "reviewTitle": "Good",
+                "reviewText": "Perfect. I love it",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ranathunga",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 22, 2024",
+                "reviewTitle": "Love it",
+                "reviewText": "Long lasting. I love it",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": [
+            {
+                "price": "$9.93",
+                "sellerName": "Joei Corp USA",
+                "sellerRating": "4.5"
+            },
+            {
+                "price": "$9.93",
+                "sellerName": "BeautyCentralUSA",
+                "sellerRating": "4.5"
+            },
+            {
+                "price": "$9.94",
+                "sellerName": "SPURSGRL",
+                "sellerRating": "4"
+            }
+        ]
+    }
+}

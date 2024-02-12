@@ -1,0 +1,842 @@
+{
+    "remaining_requests": 13108,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Under-Armour-Graphic-Shorts-Academy/dp/B077XQ5QM7",
+    "body": {
+        "name": "Under Armour Men's Tech Graphic Shorts",
+        "price": "$17.98",
+        "originalPrice": "",
+        "rawPrice": 17.98,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Under-Armour-Mens-Graphic-Shorts/dp/B0BZ8CRQ81",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BZ8CRQ81"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0C12WQPY2",
+                "variationName": "Color",
+                "variationValue": "(019) Black / / Astro Pink",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WD49M6T",
+                "variationName": "Color",
+                "variationValue": "(390) Marine Od Green / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JL1DSTQ",
+                "variationName": "Color",
+                "variationValue": "(419) Capri / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WD19SG6",
+                "variationName": "Color",
+                "variationValue": "(433) Glacier Blue / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C138P4P3",
+                "variationName": "Color",
+                "variationValue": "(464) Circuit Teal / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGVD6L4J",
+                "variationName": "Color",
+                "variationValue": "(466) Cosmic Blue / / Varsity Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WCSKWWB",
+                "variationName": "Color",
+                "variationValue": "(468) Sonar Blue / / Glacier Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WDPWVK4",
+                "variationName": "Color",
+                "variationValue": "(471) Blue Mirage / / Starfruit",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JKYQCKJ",
+                "variationName": "Color",
+                "variationValue": "(486) Versa Blue / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGVLPV7B",
+                "variationName": "Color",
+                "variationValue": "(504) Grove Green / / Marine Od Green",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C1352F5N",
+                "variationName": "Color",
+                "variationValue": "(561) Starlight / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WD1GK5K",
+                "variationName": "Color",
+                "variationValue": "(572) Purple Stone / / Orange Blast",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGVKJSFD",
+                "variationName": "Color",
+                "variationValue": "(602) Dark Maroon / / Beta",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JL3VK51",
+                "variationName": "Color",
+                "variationValue": "(690) Chestnut Red / / Radio Red",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JL12NPV",
+                "variationName": "Color",
+                "variationValue": "(717) Tourmaline Teal / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WCF34G1",
+                "variationName": "Color",
+                "variationValue": "(722) Coastal Teal / / White",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGVVL343",
+                "variationName": "Color",
+                "variationValue": "(743) Lime Yellow / / Marine Od Green",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09JL15JZP",
+                "variationName": "Color",
+                "variationValue": "(781) Opal Green / / Rise",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WDBB3C4",
+                "variationName": "Color",
+                "variationValue": "(866) Orange Blast / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WCS4NWD",
+                "variationName": "Color",
+                "variationValue": "(877) After Burn / / Chakra",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09435Q2V2",
+                "variationName": "Color",
+                "variationValue": "Black (001)/Graphite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0942V62SF",
+                "variationName": "Color",
+                "variationValue": "Penta Pink (975)/Pink",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0942QYF7H",
+                "variationName": "Color",
+                "variationValue": "Pitch Gray (014)/High-vis Yellow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09435LH4Q",
+                "variationName": "Color",
+                "variationValue": "Quirky Lime (752)/Green",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0943F3P52",
+                "variationName": "Color",
+                "variationValue": "Red (601)/Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077XK728M",
+                "variationName": "Color",
+                "variationValue": "Steel (035)/Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0943DN6BG",
+                "variationName": "Color",
+                "variationValue": "Victory Blue (474)/Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09X6FWJKD",
+                "variationName": "Color",
+                "variationValue": "(018) Black / / Lime Surge",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09WD4PS89",
+                "variationName": "Color",
+                "variationValue": "(370) Lime Surge / / Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07YXMLS3G",
+                "variationName": "Color",
+                "variationValue": "Black (004)/Lime Fizz",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B082BH9P5J",
+                "variationName": "Color",
+                "variationValue": "Electric Blue (428)/Graphite Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B082BGJYRM",
+                "variationName": "Color",
+                "variationValue": "Emotion Blue (401)/Halo Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09437H16M",
+                "variationName": "Color",
+                "variationValue": "Academy Blue (409)/Steel",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093MF88RV",
+                "variationName": "Color",
+                "variationValue": "(402) Royal / / Mod Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0872D85S2",
+                "variationName": "Color",
+                "variationValue": "Black (006)/Matcha Green",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093MF3NDS",
+                "variationName": "Color",
+                "variationValue": "Black (010)/Red",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093MCF1D8",
+                "variationName": "Color",
+                "variationValue": "Black (015)/Quirky Lime",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093M9616V",
+                "variationName": "Color",
+                "variationValue": "Blaze Orange (825)/Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0872DJM6V",
+                "variationName": "Color",
+                "variationValue": "Blur (652)/Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093LVS3SP",
+                "variationName": "Color",
+                "variationValue": "Cruise Blue (899)/White",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093MLYJMK",
+                "variationName": "Color",
+                "variationValue": "Halo Gray (017)/Quirky Lime",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07YXPJ116",
+                "variationName": "Color",
+                "variationValue": "Rich Orange (830)/Lunar Orange",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093M7THJY",
+                "variationName": "Color",
+                "variationValue": "Tent (361)/Royal Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B072J3N9F1",
+                "variationName": "Color",
+                "variationValue": "White (100)/Overcast Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0872DLWXG",
+                "variationName": "Color",
+                "variationValue": "White (102)/Mod Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08LNWR5S2",
+                "variationName": "Color",
+                "variationValue": "Black (008)/High-vis Yellow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08LNZCJLK",
+                "variationName": "Color",
+                "variationValue": "Black (009)/Ash Plum",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PXTTHZ5",
+                "variationName": "Color",
+                "variationValue": "Cordova (615)/Mod Gray",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PWNG322",
+                "variationName": "Color",
+                "variationValue": "Pitch Gray (013)/Versa Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0164LKCLU",
+                "variationName": "Color",
+                "variationValue": "Steel (035)/Black-2",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08LNZ24QX",
+                "variationName": "Color",
+                "variationValue": "Tech Blue (432)/White",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07L9B23F6",
+                "variationName": "Color",
+                "variationValue": "Baroque Green (310)/Outpost Green",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07KGHZ8VF",
+                "variationName": "Color",
+                "variationValue": "Royal (400)/Academy Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07L9JB7GL",
+                "variationName": "Color",
+                "variationValue": "Black (002)/Beta Red",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07L9J6TGB",
+                "variationName": "Color",
+                "variationValue": "Black (003)/Outpost Green",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07YXPD9JX",
+                "variationName": "Color",
+                "variationValue": "Lichen Blue (424)/Enamel Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07L9JJR71",
+                "variationName": "Color",
+                "variationValue": "Pitch Gray (012)/Teal Rush",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07L9GCQWQ",
+                "variationName": "Color",
+                "variationValue": "Wire (073)/Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077XNNWN8",
+                "variationName": "Color",
+                "variationValue": "Academy",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08LP15RDG",
+                "variationName": "Color",
+                "variationValue": "Concrete (066)/Phoenix Fire",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0872F72LM",
+                "variationName": "Color",
+                "variationValue": "Black (005)/Venom Red",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0872F72MK",
+                "variationName": "Color",
+                "variationValue": "Blue Circuit (436)/Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07KGH4B4X",
+                "variationName": "Color",
+                "variationValue": "Royal",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B071P2P4TX",
+                "variationName": "Color",
+                "variationValue": "Tourmaline Teal (716)/Tropical Tide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FXY8L28",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077XLKW1K",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C12PRMGY",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077XQ5QM7",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0942R2SB9",
+                "variationName": "Size",
+                "variationValue": "Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C134MMJK",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0942SR8V9",
+                "variationName": "Size",
+                "variationValue": "X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C12VTRHP",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0942V642C",
+                "variationName": "Size",
+                "variationValue": "XX-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077XQMB7G",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09437H16M",
+                "variationName": "Size",
+                "variationValue": "3X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08X3QY7Y4",
+                "variationName": "Size",
+                "variationValue": "4X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0942PG2CV",
+                "variationName": "Size",
+                "variationValue": "4X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08X3QY8Z1",
+                "variationName": "Size",
+                "variationValue": "5X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0942XSY72",
+                "variationName": "Size",
+                "variationValue": "5X-Large Tall",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41klLIfSKTL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/313cyiiHMAL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41erWG0XguL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41y-slmeVHL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41 nbeKtGDL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41pWpgFLvlL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31cxjhadYaL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f3292754-aa4e-440b-9fac-fca3e5353c09/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/581a8bef-992b-44a0-8211-5c9149eea448/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 2,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Under Armour Store",
+            "link": "https://www.amazon.com/stores/UnderArmour/page/4750579C-0CF4-4BF9-B7E8-F782E52D7683?ref_=ast_bln"
+        },
+        "brand": "UnderArmour",
+        "merchantInfo": "",
+        "customerReview": "4.7 out of 5",
+        "customerReviewCount": 4947,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Polyester",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Pull On",
+            "UA Tech fabric is quick-drying, ultra-soft & has a more natural feel",
+            "Material wicks sweat & dries really fast",
+            "Encased elastic waistband with internal drawcord",
+            "Mesh hand pockets",
+            "Inseam: 10\"\"",
+            "No liner"
+        ],
+        "description": "UA Tech\u2122 is our original go-to training gear: These Under Armour men's printed training shorts are loose, light, and keep you cool. Basically, they're everything you need. UA Tech\u2122 fabric is quick-drying, ultra-soft & has a more natural feel. Material wicks sweat & dries really fast. Encased elastic waistband with internal drawcord. Mesh hand pockets. Inseam: 10\"\". No liner. Loose: Fuller cut for complete comfort. 100% Polyester.Stretchy, anti-odor fabric is built to last.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Active",
+                "link": "https://www.amazon.com/Mens-Activewear/b/ref=dp_bc_aui_C_4?ie=UTF8&node=3455821"
+            },
+            {
+                "name": "Active Shorts",
+                "link": "https://www.amazon.com/Mens-Activewear-Shorts/b/ref=dp_bc_aui_C_5?ie=UTF8&node=1046660"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 11.57 x 5.67 x 1.89 inches; 5.26 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 1274466/1306443"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e March 24, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Under Armour"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09WCS66LM"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #1 in Men's Athletic Shorts"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Men's UA Tech Graphic Shorts UA Tech is our original go-to training gear: These Under Armour men's printed training shorts are loose, light, and keep you cool. Basically, they're everything you need. Loose: Fuller cut for complete comfort.UA Tech fabric is quick-drying, ultra-soft & has a more natural feelMaterial wicks sweat & dries really fastEncased elastic waistband with internal drawcordMesh hand pocketsNo liner",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e555e4ff-d4e1-4247-9962-7a32f307ec92.__CR0,57,1836,1836_PT0_SX300_V1___.jpeg"
+                ]
+            },
+            {
+                "media_text": "LOOSE FIT A more relaxed cut and soft, ultralight feel. DRIES FASTER Wicks sweat and dries fast to keep you cool. NOTHING GETS IN YOUR WAY Stretchy, fabric is built to last.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/8841dd20-8a1d-4210-8e54-fdbd9c6e9065.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/8a121efd-dd5d-4647-bc28-1d20b62d9792.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/c3abacb1-fea4-4daf-9eb0-a92f64a988ec.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e555e4ff-d4e1-4247-9962-7a32f307ec92.__CR0,57,1836,1836_PT0_SX300_V1___.jpeg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/7d9fff5f-7306-4a3d-aee3-ccebb44d2332.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/8841dd20-8a1d-4210-8e54-fdbd9c6e9065.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/8a121efd-dd5d-4647-bc28-1d20b62d9792.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/c3abacb1-fea4-4daf-9eb0-a92f64a988ec.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/30e3969c-ec8d-4b40-b527-98d1aeaf5551.__CR0,0,970,600_PT0_SX970_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Philip Russell",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHW77JELBKMRKO4H7YM47AIZPRUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1QAP8LDR44ZTP?ASIN=B0BZ8CRQ81",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 17, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfortable shorts",
+                "reviewText": "These shorts are comfortable and a good length! I wear them to workout and relax.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Trevor Payne",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGFOK5VRITHKWY65B7HSO6ZMDU4Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3KJJMF9QYOX4S?ASIN=B0BZ8CRQ81",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 5, 2023",
+                "reviewTitle": "5.0 out of 5 stars Good shorts",
+                "reviewText": "Shorts fit and feel good.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ashley M.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJYV4EYAEBB53VWLGOMGKUXLXBQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RGIW5HIQPG16G?ASIN=B0BZ8CRQ81",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 22, 2020",
+                "reviewTitle": "5.0 out of 5 stars Nice shorts",
+                "reviewText": "Got these for my husband for working out and for his job. Love the color, he loves the fit and how light and airy they are especially when working out. They are very comfortable and we our going to be ordering more in different colors.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "B. Perkins",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH47B2ACOJWIBP33DPPP3Y2YTYLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RVM1QKT86RLDD?ASIN=B0BZ8CRQ81",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 20, 2021",
+                "reviewTitle": "4.0 out of 5 stars Color is not accurate",
+                "reviewText": "These shorts fit great, are light weight, and are comfortable, but the description says red for the ua symbol. It is bright Orange. In no way is it red.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jack D",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG5QLFNTLLKCE7KXIDAC2TTYW2LQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RQYRG89K48L3I?ASIN=B0BZ8CRQ81",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 5, 2021",
+                "reviewTitle": "5.0 out of 5 stars Comfortable",
+                "reviewText": "These are great as gym shorts or just casual wear around the house. I wear comfortable shorts year-round at home. These are replacing some previous Under Armour shorts that are getting thread-bare and the seams are getting weak after 4 years. The new shorts fit as the old ones do and are just as comfortable. I am very pleased so far.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Billie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE4VZOYYCLO7Q2VC7HD5CBDTPR7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R238MT8UE35CZ2?ASIN=B0BZ8CRQ81",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 3, 2022",
+                "reviewTitle": "5.0 out of 5 stars Adorable",
+                "reviewText": "Hubby had bought these a while back and loved them. I bought a couple pairs for myself and couldn't be happier. They run a little bit small. But not bad enough to be an issue.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Laura Gibbons",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHBFGSF23MIBLXBLD5DUPHWMYLHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2L8KIVMJR1CGC?ASIN=B0BZ8CRQ81",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 8, 2020",
+                "reviewTitle": "5.0 out of 5 stars My husband likes these better than his Nike drifit ones!",
+                "reviewText": "My husband owns black Nike drifit shorts that were his favorite for years. But these have since replaced them! These are his favorite now! They are thin, but not see through or cheap. The fabric falls and lays great. They are long enough (my husband doesn\u2019t like short shorts). Comfy and easy to move in. Perfect! Logo hasn\u2019t faded or pealed at all after washing and drying it many times.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jake",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEHEMSNFIQKF2YG4T2RDTBYSQUTQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3DE9L6M7J76XP?ASIN=B0BZ8CRQ81",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 5, 2022",
+                "reviewTitle": "5.0 out of 5 stars Great fit",
+                "reviewText": "These are the perfect size/inseam for me. I am 6'1\" 250 and the 2XL fits perfect. Comes just above my knee and is nice and loose and light to wear when working out.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "NatalieNatalie",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "2.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 25, 2023",
+                "reviewTitle": "Shorts are dirty",
+                "reviewText": "They came dirty???? Inside the bag??? I haven't even opened them yet and they are dirty.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61Xs-NhF-GL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Elizabeth",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 9, 2021",
+                "reviewTitle": "Very comfortable",
+                "reviewText": "Theses are the most comfortable shorts I have ever owned.I only want these shorts from now on!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Marco",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Italy on March 30, 2023",
+                "reviewTitle": "Perfetto",
+                "reviewText": "Leggero e comodo, ottimo per la palestra. Io ho preso una taglia M sono alto 1,78 e peso 80 Kg e veste alla perfezione",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Aris M.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on November 10, 2022",
+                "reviewTitle": "Good value for money",
+                "reviewText": "I bought them around 16 euros. Very good value for money",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Zim sima",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on September 14, 2022",
+                "reviewTitle": "These shorts come up very roomy for those who prefer the close fit.",
+                "reviewText": "They are used for day-to-day wear generally at home. Very comfortable and airy. They do an excellent job for me and were reasonably priced so I bought a few. So far they are wearing extremely well. Very pleased with my purchase.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,639 @@
+{
+    "remaining_requests": 17237,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Gloria-Vanderbilt-Classic-Tapered-Regular/dp/B0913DHRML",
+    "body": {
+        "name": "Gloria Vanderbilt Women's Plus Size Amanda Classic High Rise Tapered Jean",
+        "price": "$26.59",
+        "originalPrice": "",
+        "rawPrice": 26.59,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Gloria-Vanderbilt-Womens-Classic-Tapered/dp/B0C726PW2K",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0C726PW2K"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0BLR65WPP",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31OhuzilZYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BGT7L5MW",
+                "variationName": "Color",
+                "variationValue": "Rinse Noir",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31T7t5s64SS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BM6T2BLY",
+                "variationName": "Color",
+                "variationValue": "Hazelnut",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31BrFBbi49L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BSPCHJL8",
+                "variationName": "Color",
+                "variationValue": "Dark Madison Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31-raukwhqL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09M6BVLGX",
+                "variationName": "Color",
+                "variationValue": "Pine Glen",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31FZqB-0ZEL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09MVM6M1W",
+                "variationName": "Color",
+                "variationValue": "Cabernet",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ZH9tlAkDL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C725B197",
+                "variationName": "Color",
+                "variationValue": "Persimmon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31hMr6c7NFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C725NSQ9",
+                "variationName": "Color",
+                "variationValue": "Sweet Violet",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3101ZiIR0pL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BCDWMQSP",
+                "variationName": "Color",
+                "variationValue": "Hartford Denim Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Mp3Mjk3rL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BLRQDK3S",
+                "variationName": "Color",
+                "variationValue": "Tan",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31PzhuFmL9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0913DHRML",
+                "variationName": "Color",
+                "variationValue": "Coffee Roast",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31U0L11O8NL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BSPB9FT1",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31dke32QAUS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BBBRM1VL",
+                "variationName": "Color",
+                "variationValue": "Port Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/315pRn2e2OL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01KO2HFYW",
+                "variationName": "Color",
+                "variationValue": "Scottsdale Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Ev1iWR71L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BLRRZXZ7",
+                "variationName": "Size",
+                "variationValue": "4",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BM6SSG4H",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLRT4YXS",
+                "variationName": "Size",
+                "variationValue": "6 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLRM1YJM",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLS4L2BW",
+                "variationName": "Size",
+                "variationValue": "8 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLRT5L1C",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BMPMZXDQ",
+                "variationName": "Size",
+                "variationValue": "10 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLRB9QSC",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BMNSYJT4",
+                "variationName": "Size",
+                "variationValue": "12 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLRLQFYL",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000NZTPMG",
+                "variationName": "Size",
+                "variationValue": "16 Plus",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BMPQD28G",
+                "variationName": "Size",
+                "variationValue": "16 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0913DHRML",
+                "variationName": "Size",
+                "variationValue": "18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000NZTPMQ",
+                "variationName": "Size",
+                "variationValue": "18 Plus",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLRVV52R",
+                "variationName": "Size",
+                "variationValue": "20 Plus",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BMPPYLCN",
+                "variationName": "Size",
+                "variationValue": "22 Plus Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLR65WPP",
+                "variationName": "Size",
+                "variationValue": "22 Plus",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGTTWXHB",
+                "variationName": "Size",
+                "variationValue": "14 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09MVM6M1W",
+                "variationName": "Size",
+                "variationValue": "18 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGT72KGQ",
+                "variationName": "Size",
+                "variationValue": "4 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGT89CNG",
+                "variationName": "Size",
+                "variationValue": "6 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGT8W5MP",
+                "variationName": "Size",
+                "variationValue": "8 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BMQ5K4BL",
+                "variationName": "Size",
+                "variationValue": "12 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGT3RSBJ",
+                "variationName": "Size",
+                "variationValue": "20 Plus Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BM6V7NYD",
+                "variationName": "Size",
+                "variationValue": "16",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGT7YK3Q",
+                "variationName": "Size",
+                "variationValue": "16 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C724RZYM",
+                "variationName": "Size",
+                "variationValue": "18 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C724NMPR",
+                "variationName": "Size",
+                "variationValue": "20 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7269HQB",
+                "variationName": "Size",
+                "variationValue": "22 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C725B197",
+                "variationName": "Size",
+                "variationValue": "24 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGT7ZYVL",
+                "variationName": "Size",
+                "variationValue": "16 Plus Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGV4NPQ2",
+                "variationName": "Size",
+                "variationValue": "24 Plus Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGTBMYG6",
+                "variationName": "Size",
+                "variationValue": "24 Plus",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01KO2HFYW",
+                "variationName": "Size",
+                "variationValue": "14 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7267QFZ",
+                "variationName": "Size",
+                "variationValue": "26 Short",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31U0L11O8NL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/319mDYJgzBL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31ctL06sMIL.jpg"
+        ],
+        "imagesCount": 3,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Gloria Vanderbilt Store",
+            "link": "https://www.amazon.com/stores/GloriaVanderbilt/page/81622904-8379-42A3-B401-0B194006DA93?ref_=ast_bln"
+        },
+        "brand": "GloriaVanderbilt",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 4594,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 98% Cotton, 2% Spandex",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Button",
+            "Gloria Vanderbilt branded button and rivets. Classic 5 pocket design denim pant. Front YKK zip and button closure. Sits at natural waist.",
+            "STYLE - high rise jean sits at natural waist with functional pockets, easy zipper fly, belt loops and slight taper leg for the fit you love.",
+            "VERSATILITY - Goes great with all tops from fashionable to basic a T-shirts and all footwear from stylish boots to your favorit shoes.",
+            "LENGTH - This pant comes in a 31 inch regular/average inseam, 29 inch short inseam and 33 inch long inseam with a 15 inch leg opening.",
+            "BRAND - Effortlessly fun and stylish Gloria Vanderbilt is a versatile yet classic look that attracts and connects with the modern sensibility of consumers of all ages."
+        ],
+        "description": "Gloria Vanderbilt Women's Apparel # 1 selling women's jean in America with over 60 million sold nationwide the Amanda classic jean. This timeless tapered leg with standard functional five pocket denim jean, that is slightly contoured through hip and thigh and hits at natural waist line, for that comfort fit you've come to love. Perfect to wear to work, attending a class or family outtings. - Effortlessly fun and stylish. A versatile yet classic look that attracts and connects with the modern sensibility of consumers of all ages. Available in various detailing like floral embroidery, prints, destruction, studs, stones, etc as well as regular, short and long inseam length.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Womens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1048188"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 15.08 x 12.76 x 2.4 inches; 1.33 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 1G-SM5W-G0Z8"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e November 8, 2022"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0BLRRZXZ7"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#9,562 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #106 in Women's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 4,594 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Mary Schwimmer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGGYEMDJEGMDPIP3VB3NFRT5AAJQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R19SGAY0U2K8RI?ASIN=B0C726PW2K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "5.0 out of 5 stars FLATTERING",
+                "reviewText": "Love these jeans. Fit very well and look nice. Very comfortable. A great plus size product",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tams",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFUYP6XK5KNUDKTSG7DH5TWMY66A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R36AT79126Q4RK?ASIN=B0C726PW2K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable",
+                "reviewText": "Like fit. Relaxed in hips.Notice some people said ran large.Exactly what I was looking for in size.Levis 20 are too big, yet an 18 is tight on me for a comparison.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nancy M.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH5ZWMXLZKLMSAMDNDZ7ESXHCN4A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R30C07DJ39JQ4M?ASIN=B0C726PW2K",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 11, 2024",
+                "reviewTitle": "4.0 out of 5 stars Not tapered at all, otherwise nice",
+                "reviewText": "I bought one size down from chart measurements and the fit is great. I\u2019m 5\u20195\u201d but have short legs, so the short 29\u201d is ideal. Fabric is stretchy, so hope it doesn\u2019t get baggy when worn. Only negative for me is these are absolutely not tapered legs. They are straight and very nearly bootcut. I hate that look, but given the fit in all other aspects is good, combined with the price, I\u2019ll keep them.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHUS7SBXTYOZ7BFDENYXLX5FYNRA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1R3UVITIGO3GV?ASIN=B0C726PW2K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love these jeans",
+                "reviewText": "I ordered three pair while they were on sale. They run a little big but otherwise so nice and comfortable",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "KG",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFSPERF4SD2MXWVIOQURL25LD4LQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1W1M720CJ9AVA?ASIN=B0C726PW2K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "5.0 out of 5 stars Gloria Vanderbilt Women's Plus Size Amanda Classic High Rise Tapered Jean",
+                "reviewText": "These were an excellent value for the price. They fit well and wash great. If they had been available in different colors in my size at this price point I would have purchased more!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sarah86",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGY5PQP5UBPFKRD3OKKIRT5NK6VQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2ZUOGA3IW9CL2?ASIN=B0C726PW2K",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 20, 2023",
+                "reviewTitle": "3.0 out of 5 stars Twelve dollar pants",
+                "reviewText": "I purchased these pants in my regular size, and either this brand cuts their clothes entirely too small, or they mislabeled them. Taking the fact that they didn't even come close to fitting out of the equation, these pants were well made and the fabric was a nice quality. They fit nicely in length and through the thighs, but the waist was cut so small, I had about a foot of open space between the buttons to close them. If you have a size 18 bottom but a size 10 waist, these are the pants for you.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "kei",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFOB3YT3FKFRVJE6J42D3UTCE2NA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RF05KFZ2N3BR?ASIN=B0C726PW2K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good quality",
+                "reviewText": "I wear these for work and they\u2019ve lasted for a while. They fit just right",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lincoln County MT",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEQ2P7WFOZXT2WM3WSFJPDWLXQAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RR7AOA2G5RO6P?ASIN=B0C726PW2K",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 25, 2020",
+                "reviewTitle": "4.0 out of 5 stars Scottsdale arrived with pre-scrubbed worn in knees. Thumbnail photo aboves does not show this.",
+                "reviewText": "Yes this color is described as a washed jean but that still should appear like the photo and not have areas rubbed lighter colored such as the knees. If so then the photo needs to show this in the thumbnails here on Amazons sale page when you select this color. IT DOES NOT. So it lost a star for that and I feel like making it two to three stars down really. However I needed new jeans as I am on my last new package of my favorite pairs no longer made and wanted a true dark shade. I have lighter blues that are fine for my daily casual wear but now and again when I feel like being a bit more dressed up or casual dressed up I like the dark or black jeans. So I ordered this color because Portland color was out even though even today it still shows you can select my size but when you do your told it is out of stock. I would now be afraid to order the Portland too for fear it too would come with pre scrubbed washed out knees. I prefer to wear my darker jeans in by myself and buy the lighter blues where I am less fussy but even those I do not want pre-rubbed lighter spots that can literally damage the jeans and cause them to wear out much faster than I would myself do it.For size a P length fits best in length these are short and in some brands that is just fine but in these they are still fallng below my instep so I either have to roll them up a bit or hem them shorter. It's the reason I buy the short or petite so I don't have to. I also ordered a pair of black in the petite but only because they did not come in the short and today they don't have the petite size I ordered either in black. I am not sure when Amazon and seller will get a good update on color and size selection but dang this is annoying because almost none are available in most of the common sizes regular or short or petite. I will buy a regular length and just hem too if that was even available. So I've been buying this brand via Costco for years now however the last time I bought two pairs from Costco last fall they did not fit and had to be returned. This is a big problem because we live 100 miles from Costco or 200 mile round trip so it's not like we go often. Meantime I was shocked they did not fit as it was my regular size and same size I ordered here and Costco's did not fit. Also my last two pairs of Gloria's did not wear well while I have a pair now over 5 years old of her's that are still almost like new and comfortable and worn a lot so quality in materials used and size variations in one size as of late is just not reliable like it used to be. Gloria are you even listening? Right I know no one is. With Covid now hitting I thought I'd be able to pick up my basic jean needs with this order and going off the thumbnail photos where there is no worn spots on the knees or lighter spots anywhere else shown or highlighted via photos provided with that color selection I ordered with fingers crossed they would fit. Fit was ok though could be a bit better but sometimes with most jeans you need to wear them a few times and wash a few times to find them fitting better. I suffer from chonic edema condition that changes my leg size but not usually size of jeans itself so a jean that hangs loose one day a week later could be much tighter so I am not a fan of the tight jeans and need some looser leg to them. But I do not want my jeans baggy by any means either. I just wish makers would stick with trusted materials and designs so you could feel secure in ordering the same style over the years. Brand, a design by the same name year to year in other words should continue to fit the same year to year in the same size and quality of material and workmanship also should be reliable from year to year. Cleary this line and brand is not.",
+                "reviewVotes": "64 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dorothy Rideout",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 4, 2024",
+                "reviewTitle": "Gloria Vanderbilt Amanda Jeans",
+                "reviewText": "They fit perfectly and very comfortable for wearing to work.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Brenda Dowd",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 13, 2023",
+                "reviewTitle": "Great jeans",
+                "reviewText": "Loved these jeans. The fit is wonderful, just the way it tapers your leg, it is very slimming. Not too long either, just perfect and I am 5\u20195\u201d. Will order in other colours as well",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rosa lina pulido ruvira",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 2, 2023",
+                "reviewTitle": "El corte que tiene, es muy bonito",
+                "reviewText": "Lo bien que horma.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Anne Wieck",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on September 4, 2022",
+                "reviewTitle": "Jeans von Gloria Vanderbilt",
+                "reviewText": "Es ist meine 5. Jeans von Gloria Vanderbilt. Die reichen richtig bis in die Taille, und machen dadurch eine gute Figur. Ich freue mich, dass ich sie hier kaufen konnte. Alle anderen habe ich in den USA gekauft . Mit der Gr\u00f6\u00dfe war es etwas schwierig, die richtige zu finden. Die Gr\u00f6\u00dfenangaben weichen stark voneinander ab.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kindle Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 5, 2020",
+                "reviewTitle": "Boot cut??",
+                "reviewText": "I like the fit. I however was not aware that it was a boot cut. It wasn't mentioned anywhere. Good thing I have boots :) cause they really do fit great!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

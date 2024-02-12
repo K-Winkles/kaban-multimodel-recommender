@@ -1,0 +1,561 @@
+{
+    "remaining_requests": 17673,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Womens-Turtleneck-Sweaters-Sleeve-Pullover/dp/B09DCLTJSB",
+    "body": {
+        "name": "Langwyqu Womens' Turtleneck Long Sleeve Cable Knit Sweaters",
+        "price": "$39.99",
+        "originalPrice": "",
+        "rawPrice": 39.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Womens-Turtleneck-Sweaters-Sleeve-Pullover/dp/B09DCQLRML",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09DCQLRML"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09Y8VQKV3",
+                "variationName": "Color",
+                "variationValue": "Apricot",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51UNEfnqTlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09DCNCZH4",
+                "variationName": "Color",
+                "variationValue": "Army Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/411pXoXltiL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09DCLTJSB",
+                "variationName": "Color",
+                "variationValue": "Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51846K8ZWAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09DCQ9MKB",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414pA12xHAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09DCMRY4S",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51qmk-0T2jL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09Y8XGFND",
+                "variationName": "Color",
+                "variationValue": "Brick Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51b0OTHtPnL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09DCN71TN",
+                "variationName": "Color",
+                "variationValue": "Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51XNNok1fDL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09Y8VCVZL",
+                "variationName": "Color",
+                "variationValue": "Dark Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/419JJfxIoCL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09Y8T74SK",
+                "variationName": "Color",
+                "variationValue": "Dark Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/511hp4J3zuL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09DCNBBW5",
+                "variationName": "Color",
+                "variationValue": "Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51rAlAOta9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09Y8VX35V",
+                "variationName": "Color",
+                "variationValue": "Lake Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51TAa7pcvQL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09Y8T644K",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/5159-hsBGBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09Y8VG18M",
+                "variationName": "Color",
+                "variationValue": "Light Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ysRkYXj1L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09Y8VLCRX",
+                "variationName": "Color",
+                "variationValue": "Light Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ju7vaKTHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09DCPTHPC",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41f4uDSo3CL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09Y8VZS5J",
+                "variationName": "Color",
+                "variationValue": "Olive",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51eOFa1Mk9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09DCL5CX8",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51yWKs3pl-L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09DCN6YY5",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41zOYx-Qh9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09DCMM5QV",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41RyBO56PeL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09DCMG9GY",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XghLdED-L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09Y8T193H",
+                "variationName": "Color",
+                "variationValue": "Wine",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/418QQ2lZ0yL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09Y8VL2V5",
+                "variationName": "Color",
+                "variationValue": "Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51wSjvU-N4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ZDZPCXS",
+                "variationName": "Color",
+                "variationValue": "Z-orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/516yOqO5EaL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09DCNFPXC",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09DCLTJSB",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09DCNPC3P",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09DCP8MY2",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/51846K8ZWAL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51pYvJcwzzL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91i-XmPjlEL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/A19LwDR-PZL.png",
+            "https://images-na.ssl-images-amazon.com/images/I/71B1MgxqFyL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/A1XTyljd5zL.png"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c10da8a7-0e46-4dd6-8e0a-0f07a664364d/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c316f19a-7dae-4f6a-b743-7cc071a01f99/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fc6cca59-96fa-4a2c-82c6-a31abb41acb4/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3caaa829-c0f1-4bd7-b23e-583efb296e88/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 4,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Langwyqu Store",
+            "link": "https://www.amazon.com/stores/Langwyqu/page/21A038A8-1B44-4F03-85AC-FD28F7BF0C90?ref_=ast_bln"
+        },
+        "brand": "Langwyqu",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 4598,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 51% Viscose, 28% Polyester, 21% Nylon",
+            "Care instructions Machine Wash",
+            "Origin \u8fdb\u53e3",
+            "Closure type Pull On",
+            "Material: The womens turtleneck sweater is made of skin-friendly knited material (Lightweight, soft, comfortable and warm)",
+            "Size Guide: S=US 4-6, M=US 8-10, L=US 12-14, XL=US 16.",
+            "Casual and lovely, this top features Turtleneck , long sleeves with ribbed knit. The slim-fit style and stretchy fabric that perfect to show your body shape!",
+            "Suitable for Spring, Fall, Party, Date, Vacation, Daily Wearing, Work, At Home, Shopping. Wear it with skinnies and booties for a put-together look or leggings and sneakers for a casual, comfy look on the go!",
+            "Washing Instruction: Machine wash,recommend with a laundry bag, do not bleach, do not iron, hang or line dry."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Sweaters",
+                "link": "https://www.amazon.com/Womens-Sweaters/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1044456"
+            },
+            {
+                "name": "Pullovers",
+                "link": "https://www.amazon.com/Womens-Pullover-Sweaters/b/ref=dp_bc_aui_C_5?ie=UTF8&node=2368384011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 12.01 x 9.69 x 1.5 inches; 15.52 Ounces"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e April 19, 2022"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09Y8WV1Z7"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#2,915 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #14 in Women's Pullover Sweaters"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 4,598 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Women's Turtleneck Sweaters Long Sleeve Pullover Cable Knit Sweater Jumper Tops",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8363cf81-a235-4801-87e1-e23e341d60a2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "2023 New Fall Winter Turtleneck Cable Knit Sweaters for Women This basic cable knit sweater is perfect for any occasions like: work, school, dating, vacation, party, street and outing.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/112ec019-6733-4d1f-809c-fb0f99f125bd.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Slim fit style and stretchy fabric highlights your body shape!Suitable for spring, fall and winter",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/07645c67-dfe1-419c-bc08-eaf0aae4cd3a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Please kindly check the product size chart before place your order.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/128988dc-ea4f-4719-b170-c70678fcda85.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8363cf81-a235-4801-87e1-e23e341d60a2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/112ec019-6733-4d1f-809c-fb0f99f125bd.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/07645c67-dfe1-419c-bc08-eaf0aae4cd3a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/128988dc-ea4f-4719-b170-c70678fcda85.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/51c8606b-44e5-47dc-9de3-d8869895548b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "WoW mom",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFKXFH5SCMX6TZS4NAKSSZWV6VYQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R22ARA29W00DMF?ASIN=B09DCQLRML",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 4, 2024",
+                "reviewTitle": "5.0 out of 5 stars Highly Recommend!",
+                "reviewText": "I think this is probably the best quality garment I have ever purchased sight-unseen. The design and fit are very nice. The turtleneck collar is of ample height and stays folded. The sweater's design would work for tall women because the sleeves and torso are a decent length, but they also work for short women (that's me!) because the sleeves can be rolled to match the neckline and it looks great. The fabric is soft, thick, warm, and washes well. The particular fabric blend should wear very well and avoid pilling. Couldn't be happier with my purchase.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kelly1977Kelly1977",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHQNVAPE4ML4WV7TAN57S7OHQ2KQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1IANBQLCC0H7M?ASIN=B09DCQLRML",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Warm and washed well",
+                "reviewText": "I bought 2 of these sweaters hoping they'd be a nice wardrobe staple for the winter months. They are really nice. The yarn is soft, the knit is dense which makes it feel really well made. I waited till I washed it before reviewing and was pleased with how it looks after a gentle cycle wash in the top compartment of my machine. No pilling seen yet. True to size.",
+                "reviewVotes": "19 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71Pf6g3ll8L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lulabelle",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF3BJSXLQIKW4LB3JCFDAD2M45CQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1WYWAQY7RVD0A?ASIN=B09DCQLRML",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 3, 2023",
+                "reviewTitle": "4.0 out of 5 stars Great quality, run small",
+                "reviewText": "These are thick, well made, and comfortable. They are not itchy and look really nice on. They do however, run small \u2026 it is a fitted style, just too fitted. Go up a size & enjoy!!!",
+                "reviewVotes": "12 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "diane bloomingdale",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHLTVFTPJQ26IR5EWY7TAGKKK6RQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R31SCXLKK3L83K?ASIN=B09DCQLRML",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 23, 2024",
+                "reviewTitle": "5.0 out of 5 stars great quality",
+                "reviewText": "warm, cozy and beautiful. to too heavy, not to light. its the Cinderella sweater. worth buying in every color.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Julie Winters",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEOXYJ7T5CXIBGJGVCCX7G35G4MQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3CXU40W2HC65G?ASIN=B09DCQLRML",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars WOWZERS! Super nice sweater!",
+                "reviewText": "I never ever write reviews\u2026.but I had to for this sweater! just received it and tried it on and it fits perfect! Super soft! The quality of the fabric feels very high end. I have paid MUCH more for designer sweaters that did not have this nice of quality. It\u2019s very well made and I love the fact it doesn\u2019t have that annoying tag in the collar that is typically itchy and awful! The tag is on the bottom part of the sweater which in my opinion is awesome! I am buying more in different colors. So happy with this purchase!",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "DAngers60",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEJOOU5IH6VNRD4APBMFJMLHIUXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2RBXGG4V56YR6?ASIN=B09DCQLRML",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Exactly, as Pictured.",
+                "reviewText": "The color and style are very flattering and very soft. The size is just perfect and very warm.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEQDFHXEG3ZTTXJPY6OX56WSRFWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3OE4WNAGQVB4N?ASIN=B09DCQLRML",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "5.0 out of 5 stars SO MANY COMPLIMENTS",
+                "reviewText": "THIS SWEATER IS PERFECT FOR THIS COLD SEASON. I JUST WORE IT AND RECEIVED SO MANY COMPLIMENTS ON IT. IT IS VERY SOFT AND THE COLOR IS BEAUTIFUL. IT WASN'T TOO THICK LIKE MANT SWEATERS ARE. IT WASN'T TOO TIGHT OR TOO LOOSE. IT WAS REALLY JUST PREFECT. I SET IT OUT TO DRY AFTER WASHING IT AND IT HELD ITS SHAPE. I LOVE IT!",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ATLfamilyATLfamily",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFV2JCTUBHLDIYLTFAXTYO45E7AA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R276IEYNE12O8O?ASIN=B09DCQLRML",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 5, 2024",
+                "reviewTitle": "3.0 out of 5 stars More fitted than expected",
+                "reviewText": "For reference, I\u2019m 5\u20196\u201d, 135 lbs, 36 C. Ordered my usual size small but I should have gone with a medium instead. The sleeves were too tight around my arms causing itchiness. The length of the sleeves aren\u2019t as long and slouchy like they are on the model, and they ride up when moving my arms. I like my sweaters to be slightly oversized with roomy comfort, which is on trend right now. It\u2019s a nice sweater overall, but if you want a slightly roomier fit, I would suggest sizing up.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71-nW+a0nJL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Manuel Mattar",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 30, 2023",
+                "reviewTitle": "Excelente producto",
+                "reviewText": "Excelente tela, calientito y muy bonito",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Marie-Claire",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 11, 2023",
+                "reviewTitle": "Nice and elegant",
+                "reviewText": "This garment has quickly become a staple in my winter wardrobe, and I can't sing its praises enough.First and foremost, the design is timeless and elegant. The classic cable knit pattern adds a touch of sophistication, making it versatile enough for both casual and more formal occasions. The turtleneck is not only stylish but also provides that extra warmth during chilly days \u2013 a perfect blend of fashion and function.The material is incredibly soft and cozy, making it a joy to wear. It's not only comfortable against the skin but also keeps me snug without feeling too bulky. The quality of the knit is apparent, showcasing attention to detail and durability that sets it apart from other sweaters.The fit is spot on \u2013 not too tight, not too loose. It drapes beautifully without losing its shape, and the sleeves are just the right length. I appreciate that the sweater maintains its form even after multiple wears and washes, a testament to its high-quality construction.The color options are both on-trend and timeless, allowing me to mix and match with various outfits. It's a versatile piece that effortlessly elevates my winter fashion game.Lastly, the price point for this sweater is incredibly reasonable considering the exceptional quality. It's evident that the brand values craftsmanship and customer satisfaction.In conclusion, I wholeheartedly recommend the women's Turtleneck Long Sleeve Cable Knit Sweater. It's a five-star product that combines style, comfort, and durability in a way that truly exceeded my expectations. I'm tempted to buy it in every color! :)",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Giselle",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 20, 2024",
+                "reviewTitle": "Warm sweater",
+                "reviewText": "Love the sweater warm and soft \ud83d\ude0aDefinitely recommend!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cristina",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 28, 2023",
+                "reviewTitle": "Buena relacion calidad y precio",
+                "reviewText": "Muy buena calidad y es muy calientito, el color muy vivo",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ID",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 15, 2023",
+                "reviewTitle": "Perfecto!",
+                "reviewText": "100% recomendable. Producto de Calidad!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

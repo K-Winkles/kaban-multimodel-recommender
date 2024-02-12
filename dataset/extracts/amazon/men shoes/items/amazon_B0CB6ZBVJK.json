@@ -1,0 +1,584 @@
+{
+    "remaining_requests": 15693,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Lugz-Mens-Classic-Fashion-Sneaker/dp/B0CHY48631",
+    "body": {
+        "name": "Lugz Men's Lear Classic Fashion Sneaker",
+        "price": "$33.80 - $39.95",
+        "originalPrice": "",
+        "rawPrice": 33.8,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Lugz-Mens-Classic-Fashion-Sneaker/dp/B0CHY48631",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CHY48631"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B08Z7JB4M8",
+                "variationName": "Color",
+                "variationValue": "Alloy/Charcoal/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DGjEsgAPL._SS47_.jpg"
+            },
+            {
+                "asin": "B0CB71VNTR",
+                "variationName": "Color",
+                "variationValue": "Chambray Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51sZdBLo-1L._SS47_.jpg"
+            },
+            {
+                "asin": "B08Z7QH33W",
+                "variationName": "Color",
+                "variationValue": "Blue/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41-nMTm7QkL._SS47_.jpg"
+            },
+            {
+                "asin": "B09QF3GQC7",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31e5mxgIzvL._SS47_.jpg"
+            },
+            {
+                "asin": "B0CB73X6CP",
+                "variationName": "Color",
+                "variationValue": "Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41u8iw-S1JL._SS47_.jpg"
+            },
+            {
+                "asin": "B0CDDMKHS5",
+                "variationName": "Color",
+                "variationValue": "White/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PJXmVaKKL._SS47_.jpg"
+            },
+            {
+                "asin": "B08Z76MXT8",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31QumGF6DOL._SS47_.jpg"
+            },
+            {
+                "asin": "B0CB71QL7K",
+                "variationName": "Color",
+                "variationValue": "Black/Gum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41QWSdPsKtL._SS47_.jpg"
+            },
+            {
+                "asin": "B08Z7QTP2T",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QF4Q47P",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Z6TNQ3Q",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QF3GQC7",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Z7HWLV5",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QF23HJS",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CDD9CSS1",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QDVHW5D",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Z74WBLT",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CB6YT5DH",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Z6TKKX2",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CB71LG9M",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CB72BSR9",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CB71CB6M",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Z7JB4M8",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CB718K9G",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CB72SKLM",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CB72C4BN",
+                "variationName": "Size",
+                "variationValue": "10.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Z767WM6",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CB6WT3PD",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Z848MDX",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CB717SMV",
+                "variationName": "Size",
+                "variationValue": "11.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CB73PRWN",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CB6ZQYJ1",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08Z7QZS3M",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CB717JJV",
+                "variationName": "Size",
+                "variationValue": "13 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09RW118BL",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CB6Z7CW3",
+                "variationName": "Size",
+                "variationValue": "14 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09RVZX46T",
+                "variationName": "Size",
+                "variationValue": "15",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QFDB9DH",
+                "variationName": "Size",
+                "variationValue": "15 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09RVZSH6G",
+                "variationName": "Size",
+                "variationValue": "16",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QF47SF5",
+                "variationName": "Size",
+                "variationValue": "16 Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41DGjEsgAPL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51QUiK iFML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41 k2jAEoVL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41EPs0epEVL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41dtNnPlgHL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/411TNvarXmL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Lugz Store",
+            "link": "https://www.amazon.com/stores/LUGZ/page/89F6C6B6-38E6-4144-AEDE-78521D6CE36B?ref_=ast_bln"
+        },
+        "brand": "LUGZ",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 936,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Textile",
+            "Care instructions Machine Wash",
+            "Sole material Rubber",
+            "Outer material Canvas",
+            "Cushioned insole for added comfort",
+            "Canvas upper",
+            "Vulcanized rubber outsole",
+            "Lace-up closure for an adjustable, secure fit",
+            "Padded collar for a comfortable fit"
+        ],
+        "description": "Looking for a fresh and clean low-profile sneaker? We've got you covered with the Men's Lear, your new favorite fashion ready canvas sneaker.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/Mens-Shoes/b?ie=UTF8&node=679255011"
+            },
+            {
+                "name": "Fashion Sneakers",
+                "link": "https://www.amazon.com/Mens-Fashion-Sneakers/b?ie=UTF8&node=679312011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 13.2 x 8.1 x 5.1 inches; 1.68 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e MLEARC-0435"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e March 17, 2021"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Lugz"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B08Z7QTP2T"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#47,250 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #241 in Men's Fashion Sneakers"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 936 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Carefree Casual Style Enjoy this carefree casual style, designed to go with just about everything. Start Your Journey On The Right Foot The Lugz Lear provides that classic canvas look with a lace-up style. Featuring a durable canvas and rubber outsole, the Lugz Lear is available in men\u2019s, women's, and occupational slip resistant. Fun and bright or minimal and tonal, we have you covered. Choose your colorway and get going in the Lugz Lear. Constructed with breathable canvas upper material Vulcanized rubber outsole Cushioned insole for added comfort Adjustable lace-up closure for a comfortable, secure fit",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b5f4af6d-57b1-4ae6-b14d-c744747867c9.__CR0,0,300,400_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea6ce6cd-b8af-4e3d-bf45-77c7b10f656f.__CR0,0,350,175_PT0_SX350_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Canvas Upper Durable canvas upper with lace-up closure Durable Rubber Outsole Vulcanized rubber outsole for everyday wear Cushioned Insole/Lining Cushioned insole and padded collar for all-day comfort",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d5864ab0-e66d-4db1-af45-88599e1eeb72.__CR0,0,600,600_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/72a3422d-9d19-45fb-af49-92ed631081ef.__CR0,0,600,600_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/77860167-4243-4829-b19b-cfc39fb1096a.__CR0,0,600,600_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b8c45846-cd59-4ad0-bd1a-4671ec9ff142.__CR0,0,600,180_PT0_SX600_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/06b8a0ab-cf58-4e8e-8151-544e8fb34e28.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b5f4af6d-57b1-4ae6-b14d-c744747867c9.__CR0,0,300,400_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea6ce6cd-b8af-4e3d-bf45-77c7b10f656f.__CR0,0,350,175_PT0_SX350_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d5864ab0-e66d-4db1-af45-88599e1eeb72.__CR0,0,600,600_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/72a3422d-9d19-45fb-af49-92ed631081ef.__CR0,0,600,600_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/77860167-4243-4829-b19b-cfc39fb1096a.__CR0,0,600,600_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bc07acff-fab0-4bfb-ac89-358d09568cdb.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Cory",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFH7KV65WXJLWCUZLXH4C7M22QRQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3ANOXRWH22TLG?ASIN=B0CHY48631",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 27, 2023",
+                "reviewTitle": "5.0 out of 5 stars Can\u2019t beat the price",
+                "reviewText": "The Lugz Men's Leer Classic Fashion Sneaker delivers both style and comfort. Its sleek design effortlessly combines with various outfits, transitioning from casual to semi-formal occasions seamlessly. The quality construction ensures durability, making them a reliable choice for everyday wear. The cushioned insole and padded collar provide exceptional comfort, even during extended periods of use. The traction outsole offers stability on different surfaces. Overall, these sneakers strike an excellent balance between fashion and functionality, making them a versatile and comfortable addition to any wardrobe.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Red Dog",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFS4B66JCYQW5WSS5SSHO6YPVNKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3HT918R2K1JOM?ASIN=B0CHY48631",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 14, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfy runs large",
+                "reviewText": "Comfy for a fraction of the cost of vans. Seem durable and easy to washOrdered 11.5 as suggested but could easily wear 11 as my foot slips out while fully laced",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Joshua Langel",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEBWUPVUDGNSTTUGQE2VBCDKKAAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RYDKECAGBIFDI?ASIN=B0CHY48631",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 30, 2023",
+                "reviewTitle": "4.0 out of 5 stars Great budget white sneakers",
+                "reviewText": "I wanted a budget pair of white canvas sneakers. I know super white sneakers never last too long so didnt want to spend a lot. These are great, look decent and even come in wide foot for those who need them (like me).",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "No funciono para mi, se le sali\u00f3 el agua por la parte de abajo. No es un producto que recomiendo",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFAFYOHCCROKJC2ZTIGWIKMVO46A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3MSQ3DQ29IY05?ASIN=B0CHY48631",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 28, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very nice",
+                "reviewText": "Comfortable sneaker",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Drew",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE7VJZWYKR5A5U4TVU6ECQQCD2WQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R18ZN0F7G41YI1?ASIN=B0CHY48631",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 22, 2023",
+                "reviewTitle": "5.0 out of 5 stars Quality",
+                "reviewText": "Needed something simple, and these hit the bullseye. Very affordable as well. They fit perfectly.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Christopher Bristow",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFPGNLXGCR2G7E37EZA5NFVLX25Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1J7SNQAOEDVMC?ASIN=B0CHY48631",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 4, 2024",
+                "reviewTitle": "3.0 out of 5 stars Honest Review",
+                "reviewText": "The shoes look immaculate! Good color, no design issues/flaws, however\u2026 if you have a wide foot, the \u201cwide\u201d option does not really accommodate a wide foot. It\u2019s tight. It\u2019s disappointing to spend money on a good looking shoe when it doesn\u2019t fit as advertised.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kaylann M.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF4WOA77QTIYFCIQKFMNYK6XJIAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2EEMBDH1KC874?ASIN=B0CHY48631",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 23, 2023",
+                "reviewTitle": "5.0 out of 5 stars Good quality",
+                "reviewText": "These shoes are great quality for the price! Would absolutely order again! Only dislike is the insole isnt as wide as my husband perfers",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Brandon Phillips",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF47BI7GMX7BD357TRB3XCPHWUXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RYEVNRXMZ48JM?ASIN=B0CHY48631",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 26, 2023",
+                "reviewTitle": "4.0 out of 5 stars Upgrade your Casual Style with these Comfy Shoes!",
+                "reviewText": "Lugz Men's Lear Sneaker is a stylish and comfortable option for those looking to upgrade their casual footwear. These sneakers offer a versatile design that can easily be paired with various outfits, making them a great addition to any wardrobe. We originally purchased these for my son, because they fit his schools dress code. But after trying them on and wearing them a bit, I wanted a pair for myself, because they really fit nicely and would work for those rare days in the office. The cushioned insole and padded collar provide excellent support for all-day wear. They're perfect for running errands, casual outings, or even just lounging around the house.However, these aren't the best option for those looking to work out. While they're comfortable and stylish, they're not specifically designed for intense activity and my feet were a bit sore after an impromptu basketball game on the drive way.Overall, the Lugz Men's Lear Sneaker is solid choice for anyone seeking a comfortable and fashionable casual shoe. Thanks for reading, and I hope this review helps you decide if these sneakers are the perfect fit for you.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "AlexAlex",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on July 5, 2023",
+                "reviewTitle": "Comfortable",
+                "reviewText": "Very comfortable. I have wide feet and have a hard time finding shoes that fit, but these do perfectly!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71ERPnDnGeL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/91n8yQ0m4PL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on May 6, 2022",
+                "reviewTitle": "Increible",
+                "reviewText": "Increible calidad por el precio pagado. He tenido otras marcas (Polo, Sperry, Nautica) y estos estan a la par o mejores!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Devon Randall ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 29, 2023",
+                "reviewTitle": "Great shoes and stylish",
+                "reviewText": "Brought these shoes for work and I be wearing them at everything school work and hanging out with people or just walking around good shoes and do hold up well for the price of them",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

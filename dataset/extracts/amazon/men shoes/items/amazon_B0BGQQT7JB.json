@@ -1,0 +1,686 @@
+{
+    "remaining_requests": 15751,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Under-Armour-Running-Formula-Orange/dp/B0BGQQT7JB",
+    "body": {
+        "name": "Men's Surge 3 Running Shoe",
+        "price": "$49.97 - $49.99",
+        "originalPrice": "",
+        "rawPrice": 49.97,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Under-Armour-Mens-Surge-Running/dp/B0C6Z2N3JY",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0C6Z2N3JY"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0968ZCKWP",
+                "variationName": "Color",
+                "variationValue": "(002) Black/Black/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41secoLKBcL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBVYP5K",
+                "variationName": "Color",
+                "variationValue": "(003) Black/Lime Surge/Gravel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Sur3YUyVL._SS47_.jpg"
+            },
+            {
+                "asin": "B09LS9PP72",
+                "variationName": "Color",
+                "variationValue": "(006) Black/Pitch Gray/Radio Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PIIuUo6nL._SS47_.jpg"
+            },
+            {
+                "asin": "B09LS8W64K",
+                "variationName": "Color",
+                "variationValue": "(101) Steel/Versa Blue/Bauhaus Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Z940KDXIL._SS47_.jpg"
+            },
+            {
+                "asin": "B09MY47SYP",
+                "variationName": "Color",
+                "variationValue": "(102) Pitch Gray/White/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jYZ82Ns1L._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBT3Z9M",
+                "variationName": "Color",
+                "variationValue": "(104) Pitch Gray/Mod Gray/Blue Surf",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410PTVopQoL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBS529W",
+                "variationName": "Color",
+                "variationValue": "(108) White/Red/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31tjvJOCYXL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBVQVLP",
+                "variationName": "Color",
+                "variationValue": "(109) White/Gravel/Starfruit",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rTtDGDpVL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQNKSG6",
+                "variationName": "Color",
+                "variationValue": "(110) Mod Gray/Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Tj3JFHaLL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQLWNS5",
+                "variationName": "Color",
+                "variationValue": "(111) Pitch Gray/Halo Gray/Tahoe Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41WZsYfDs-L._SS47_.jpg"
+            },
+            {
+                "asin": "B09LS8QJJR",
+                "variationName": "Color",
+                "variationValue": "(300) Opal Green/Panic Orange/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LzJab6gBL._SS47_.jpg"
+            },
+            {
+                "asin": "B09MYMRJKG",
+                "variationName": "Color",
+                "variationValue": "(302) Baroque Green/White/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NFBGcW1XL._SS47_.jpg"
+            },
+            {
+                "asin": "B09LS8Z6G7",
+                "variationName": "Color",
+                "variationValue": "(402) Midnight Navy/Yellow Ray/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31L7YM47LlL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBTZPBS",
+                "variationName": "Color",
+                "variationValue": "(404) Downpour Gray/After Burn/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41yRKxMUxvL._SS47_.jpg"
+            },
+            {
+                "asin": "B09XBW3SBC",
+                "variationName": "Color",
+                "variationValue": "(500) Sonar Blue/Steel/Halo Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XK3Ul6IOL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQN5GWV",
+                "variationName": "Color",
+                "variationValue": "(600) Beta/Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41cYin5uzxL._SS47_.jpg"
+            },
+            {
+                "asin": "B09WWY5QV2",
+                "variationName": "Color",
+                "variationValue": "(800) After Burn/After Burn/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414tgjv8ZfL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQNRZGK",
+                "variationName": "Color",
+                "variationValue": "(802) Formula Orange/Jet Gray/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HO2r9cCtL._SS47_.jpg"
+            },
+            {
+                "asin": "B0968ZCMTH",
+                "variationName": "Color",
+                "variationValue": "Academy Blue (400)/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31dP8vFUW5L._SS47_.jpg"
+            },
+            {
+                "asin": "B09HKDJGHV",
+                "variationName": "Color",
+                "variationValue": "Black (004)/High-vis Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Y1yXoJiLL._SS47_.jpg"
+            },
+            {
+                "asin": "B0968Z4C6J",
+                "variationName": "Color",
+                "variationValue": "Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31tRAkUIwWL._SS47_.jpg"
+            },
+            {
+                "asin": "B09691W2NG",
+                "variationName": "Color",
+                "variationValue": "Jet Gray (103)/Blaze Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41nILh3fEbL._SS47_.jpg"
+            },
+            {
+                "asin": "B09691FZTX",
+                "variationName": "Color",
+                "variationValue": "White/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41UyAfWK-tL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQMMTXK",
+                "variationName": "Color",
+                "variationValue": "(405) Varsity Blue/Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41zRCMws-WL._SS47_.jpg"
+            },
+            {
+                "asin": "B09MY46V1T",
+                "variationName": "Color",
+                "variationValue": "(602) Red/White/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Ch5e2AuTL._SS47_.jpg"
+            },
+            {
+                "asin": "B09LS8D39T",
+                "variationName": "Color",
+                "variationValue": "(403) Versa Blue/Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41S3Ku63htL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQL7S6H",
+                "variationName": "Color",
+                "variationValue": "White/Team Royal/Jet Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41+hsTn3moL._SS47_.jpg"
+            },
+            {
+                "asin": "B0969292NZ",
+                "variationName": "Color",
+                "variationValue": "Cruise Blue (401)/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ULmeN4KDL._SS47_.jpg"
+            },
+            {
+                "asin": "B0968ZL55W",
+                "variationName": "Color",
+                "variationValue": "Pitch Gray (106)/Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41pLOO7gXEL._SS47_.jpg"
+            },
+            {
+                "asin": "B09691VWHV",
+                "variationName": "Color",
+                "variationValue": "Mod Gray (105)/Royal Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31jEXCF41SL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQLLGNS",
+                "variationName": "Color",
+                "variationValue": "(112) White/Team Royal/Jet Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41+hsTn3moL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQPQJ9X",
+                "variationName": "Color",
+                "variationValue": "Varsity Blue/Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/311+lrZDa3L._SS47_.jpg"
+            },
+            {
+                "asin": "B0BGQNRZGK",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGRGPNVC",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGQP2XD4",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGQMQSCJ",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGQJHCFF",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGQPNTVX",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGQN33C8",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGQQHXSW",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGQNPCXW",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGQMSS68",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGQQT7JB",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGQK68QG",
+                "variationName": "Size",
+                "variationValue": "12.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGQQZJSX",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGQQFB4L",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BGQQHYPL",
+                "variationName": "Size",
+                "variationValue": "15",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41HO2r9cCtL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41pBXLz69 L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/412qDmkUrBL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51Qr0PVrHBL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41FQDJTXfBL.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Brand: Under Armour",
+            "link": "https://www.amazon.com/s/ref=bl_sl_s_sh_web_7141123011?ie=UTF8&node=7141123011&field-brandtextbin=Under+Armour"
+        },
+        "brand": "Under Armour",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 7872,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Sole material Rubber",
+            "Outer material Mesh",
+            "Lightweight, breathable mesh upper",
+            "Enhanced cushioning around ankle collar for superior comfort",
+            "Cushioned EVA midsole delivers a lightweight & responsive ride",
+            "Strategically placed rubber pods on outsole for durability with less weight",
+            "Offset: 8mm",
+            "Weight: 9 oz."
+        ],
+        "description": "Lightweight, breathable mesh upper. Enhanced cushioning around ankle collar for superior comfort. Cushioned EVA midsole delivers a lightweight & responsive ride. Strategically placed rubber pods on outsole for durability with less weight. Offset: 8mm. Weight: 9 oz.. Lace type: Standard tie.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/Mens-Shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679255011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Mens-Sneakers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127770011"
+            },
+            {
+                "name": "Running",
+                "link": "https://www.amazon.com/Running-Mens-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679286011"
+            },
+            {
+                "name": "Road Running",
+                "link": "https://www.amazon.com/Mens-Road-Running-Shoes/b/ref=dp_bc_aui_C_6?ie=UTF8&node=14210389011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 9.84 x 5.91 x 3.94 inches; 1.52 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 3024883"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e May 31, 2021"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Under Armour"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B096929289"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#5,443 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #33 in Men's Road Running Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 7,872 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Men's Surge 3 Running Shoes These shoes are going to feel cushioned and comfortable, but also light and breathable. Why? Because when you never slow down, that's what you need. Lightweight, breathable mesh upper.Enhanced cushioning around ankle collar for superior comfortCushioned EVA midsole delivers a lightweight & responsive rideStrategically placed rubber pods on outsole for durability with less weight",
+                "media_link": []
+            },
+            {
+                "media_text": "Men's Surge 3 Running Shoes These shoes are going to feel cushioned and comfortable, but also light and breathable. Why? Because when you never slow down, that's what you need. Lightweight, breathable mesh upper.Enhanced cushioning around ankle collar for superior comfortCushioned EVA midsole delivers a lightweight & responsive rideStrategically placed rubber pods on outsole for durability with less weight",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8b6da1b7-9d8f-4c87-9c89-ae539fdb3487.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b295931f-c583-4047-b070-1885567e2b9c.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c613b31e-6fdc-4352-b56e-b5e66d90aa94.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a9014e14-7022-4b2e-af7a-d5cb952bca3c.__CR0,0,970,600_PT0_SX970_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Roguin pe\u00f1a",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHAQMDLLSR4YJCLMN5GY7QYNYOHQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R9RL3FC58Y8QC?ASIN=B0C6Z2N3JY",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 4, 2022",
+                "reviewTitle": "3.0 out of 5 stars Awful experience",
+                "reviewText": "Uneven sole, thank you for making my foot hurt.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Manisha DaramManisha Daram",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF3IDZ23VI3YWTQY3UFBQYPVI57Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2H6NOYNWVUDLQ?ASIN=B0C6Z2N3JY",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 23, 2022",
+                "reviewTitle": "1.0 out of 5 stars Under armor shoes- one month. shoe top torn",
+                "reviewText": "In one month shoes got torn. I never seen any other brand shoes ever get torn on top part of the shoes. Very disappointing with under armor brand.Usually, shoes get ripped off on front bottom part. In this case it torn on top part of shoes.",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/812Jm9zwgJL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Eddy",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEV7URBDC2FLFFZFMUW6EP74EZRQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2UE1SUG5S9IT7?ASIN=B0C6Z2N3JY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love the color",
+                "reviewText": "Fit great and I really like the colors. Very confortable and I got them for a good price.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jorge Luis Madera Diaz",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGSIOBJBKOVTBB7AECTM23D64DLQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R190XPO1SJBW8X?ASIN=B0C6Z2N3JY",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 3, 2023",
+                "reviewTitle": "4.0 out of 5 stars Excelente",
+                "reviewText": "Muy bien calzado, c\u00f3modo, flexible...",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "David DiIenno",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHI7NKPVBR4TT4YZ2TROMZZTNBHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RF2WBBFO1EL1Q?ASIN=B0C6Z2N3JY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 12, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great fit and extremely comfortable.",
+                "reviewText": "No long-term fatigue when wearing these great running shoes. You wont be disappointed!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHXIKMDUL7FOGRTJ5XVAXXJHVJ3Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R24MKY2GZ51S24?ASIN=B0C6Z2N3JY",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 16, 2023",
+                "reviewTitle": "3.0 out of 5 stars No me enviaron el color correcto",
+                "reviewText": "La talla y la calidad est\u00e1n bien pero me enviaron un color diferente al que ped\u00ed",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jared Christiansen",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE5A4ZLX3HPCETOJA6FCPWAT4I7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R318J9KUK2HRBS?ASIN=B0C6Z2N3JY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 8, 2022",
+                "reviewTitle": "5.0 out of 5 stars PERFECT SHOES!",
+                "reviewText": "Lightweight and great support. Perfect shoes and affordable!",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "David Maldonado",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHGZ2TGOI5IRKBIPZGREEFKQUAIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1Z7JI4XK7MCDF?ASIN=B0C6Z2N3JY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 21, 2023",
+                "reviewTitle": "5.0 out of 5 stars Stealthy Solemates: Black Under Armor Athletic Shoes Kick Booty",
+                "reviewText": "Hold on to your socks, folks, because these black Under Armor athletic shoes are about to knock your feet off! These bad boys are like a covert operation for your toes, delivering stealthy comfort and style that'll make you feel like a ninja on a mission to conquer the world (or at least the neighborhood basketball court).First things first, let's talk about the blackness of these shoes. They're so black, they make the night sky jealous. It's like strapping a pair of mini black holes to your feet, ready to absorb all the attention and keep your fashion game on point. Whether you're hitting the gym, going for a jog, or simply kicking back with your pals, these shoes will have you looking sleeker than James Bond in a tuxedo.Now, let's talk about comfort. These shoes are so cozy, it's like walking on a cloud that's been sprinkled with unicorn feathers. The moment you slip them on, you'll feel like your feet are being hugged by a squadron of baby kittens. It's a blissful experience that'll have you wondering why you haven't been wearing these shoes since birth.And the performance? Oh boy, get ready to unleash your inner sports superstar. With their advanced technology and built-in superpowers (okay, maybe not superpowers, but close enough), these shoes will have you jumping higher, running faster, and pivoting with the agility of a gazelle on roller skates. Your opponents won't know what hit them as you leave them in the dust, questioning their life choices.But wait, there's more! These shoes are like the secret agents of the sneaker world\u2014they're lightweight, durable, and ready to take on any challenge. Rain, mud, or an unexpected game of leapfrog over a puddle, these shoes won't let you down. They're built to withstand the elements and keep you going strong, like a trusty sidekick that never leaves your side.In conclusion, these black Under Armor athletic shoes are the ultimate blend of style, comfort, and performance. They'll have you feeling like a ninja warrior, ready to conquer the world one stride at a time. So, strap them on, lace them up, and prepare to kick some serious booty (figuratively, of course). Embrace the power of the stealthy solemates, my friends, and let your feet experience the glory of footwear excellence.",
+                "reviewVotes": "28 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jos\u00e9 J.Jos\u00e9 J.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 26, 2024",
+                "reviewTitle": "Bueno, bonito, barato. Espero que durable.",
+                "reviewText": "Son los primeros de la marca que compro, vengo de nike y en verdad camino mucho unos 7km en promedio diario. As\u00ed que unos Nike se me acaban en un a\u00f1o al punto de tirarse hechos polvo... quise probar esta marca por dos temas: la comodida, confirmo que son comodos m\u00e1s no andas en una nubecita como algunos nike pero si vamos a puntuar la comodidad dir\u00eda que un 8.5 cuando unos vans o unos converse son 1. La suela si pisas mojado no tiene mucho agarre, no es que te resbales pero el agarre en piso mojado y liso es como de 4-5 para que tengan cuidado en ese tema. Creo que en relaci\u00f3n costo beneficio son unos excelentes tenis. Creo que comprare m\u00e1s de la marca buscando precios m\u00e1s altos esperando tengan un mejor confort. Los recomiendo.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71ckpHhAvdL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71DHo5HREvL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/710UVYKS0LL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71jPJNlWAyL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "McClure",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 21, 2024",
+                "reviewTitle": "Under Armour Mens Surge 3 Running Shoe",
+                "reviewText": "These Under Armour Mens Surge 3 Running Shoes look great and are extremely comfortable. I ordered them in bright orange to get ready to cheer for the Netherlands in the upcoming Euro Cup in June of this year. For now, they have been worn around the house and I\u2019m really glad I chose to buy them. I\u2019ve bought another pair of Under Armour Charged Vantage 2 and a pair of Reebok within the same week (from a different store) and these Under Armour Surge 3 Running Shoes are by far the best out of all of them for both comfort and also style. I wish I\u2019d had just bought 2 pairs of these shoes instead of the other shoes. The seller shipped these shoes quickly and they arrived in perfect shape when they were supposed to arrive. Thank you! A+++**",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Julio",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 13, 2024",
+                "reviewTitle": "Excelentes",
+                "reviewText": "Ajustan muy bien y tienen un amortiguamiento excelente.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Laura garcia",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 24, 2023",
+                "reviewTitle": "Casi igual",
+                "reviewText": "Casi igual de confort que los dem\u00e1s tenis de esta marcaEst\u00e1n un poco r\u00edgidosPero por el precio es aceptable la calidad",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Frederic anctil",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 5, 2023",
+                "reviewTitle": "Good shoes",
+                "reviewText": "Overall good shoes, on discount its the best deal",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

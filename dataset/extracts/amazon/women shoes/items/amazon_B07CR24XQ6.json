@@ -1,0 +1,553 @@
+{
+    "remaining_requests": 17060,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/LifeStride-Womens-Adley-Ankle-Black/dp/B07CR24XQ6",
+    "body": {
+        "name": "LifeStride Women's, Adley Boot",
+        "price": "$35.99",
+        "originalPrice": "",
+        "rawPrice": 35.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/LifeStride-Womens-Adley-Boot/dp/B0CDMDHDLW",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CDMDHDLW"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07CR24V5V",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rRG2kfnCL._SS36_.jpg"
+            },
+            {
+                "asin": "B07CR6RKYB",
+                "variationName": "Color",
+                "variationValue": "Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31a6PEzCabL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C4W982N4",
+                "variationName": "Color",
+                "variationValue": "Tan",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31duHKeyjML._SS36_.jpg"
+            },
+            {
+                "asin": "B07CR6R48N",
+                "variationName": "Color",
+                "variationValue": "Taupe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41vv0-xelgL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C4WGRZ5S",
+                "variationName": "Color",
+                "variationValue": "Chestnut",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41TxboA8b3L._SS36_.jpg"
+            },
+            {
+                "asin": "B0C85JXVV3",
+                "variationName": "Color",
+                "variationValue": "Black 1",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3144SFD1QjL._SS36_.jpg"
+            },
+            {
+                "asin": "B07CR6QX8M",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DDCBSDK",
+                "variationName": "Size",
+                "variationValue": "5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR15P97",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07DD3VZTF",
+                "variationName": "Size",
+                "variationValue": "5.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR18N44",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR28Y28",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR5YKSM",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CRBFLZM",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR6R6XW",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR18H14",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CRBGJBZ",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR13P12",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR39WK1",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CRBFLZK",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR24V5V",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR24XQ6",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR21YS9",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR57TWS",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR24WJ9",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR3BSXJ",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CRCYYMQ",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR26DV6",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR189KW",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CR15WBS",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4WC75LH",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4WHX3LG",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41rRG2kfnCL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41RPQII7sLL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41ZJJJhtrAL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31XBfM0Z8eL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/413Nm7VyE8L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31eaWwZT7sL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41t6AgtHJOL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the LifeStride Store",
+            "link": "https://www.amazon.com/stores/LifeStride/page/5DC7E7ED-9574-427B-ADBA-D56FBBD44BD1?ref_=ast_bln"
+        },
+        "brand": "LifeStride",
+        "merchantInfo": "",
+        "customerReview": "4.2 out of 5 stars",
+        "customerReviewCount": 6971,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Synthetic",
+            "Origin Imported",
+            "Sole material Man made",
+            "Shaft height Ankle-high",
+            "Flexible Sole",
+            "Available in Medium and Wide widths",
+            "Fabric linings",
+            "Soft System comfort package with Memory Foam cushioning and extra arch and heel support"
+        ],
+        "description": "A bootie with all the right details. Slip into the ultra-comfy adley bootie from LifeStride. Faux leather upper with a round toe, slip-on fit, and wraparound strap detail with metallic buckle accent. Soft system\u00ae comfort package provides all-day support, flex, and cushioning. A plush layer of velocity with memory foam\u00ae cradles your foot. Traction sole provides you with extra stability. Just right height 1 and 1/4 inch heel. From fashion boots to dress shoes to comfortable casuals, LifeStride has you covered with the most current looks and must-have styles. What you want, what you need, what you can't live without. Each season LifeStride delivers on the latest trends with a dynamic attitude and distinctive flair. From the sophisticated appeal of a high-heel dress shoe to the wear-everywhere versatility of a casual boot, LifeStride has the essential looks no wardrobe should be without. When it comes to women's shoes, there's more to LifeStride than meets the eye. What you can't see is the comfort. Soft insoles, smooth linings, and easy-flexing soles provide comfort you can enjoy all day and into the evening. Plus, LifeStride's selection of sizes and widths ensures you'll find the perfect fit. No matter what the looks or details of the moment may be, these are shoes with sought-after styles at the great prices you've grown to love.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Boots",
+                "link": "https://www.amazon.com/Womens-Boots/b/ref=dp_bc_aui_C_4?ie=UTF8&node=679380011"
+            },
+            {
+                "name": "Ankle & Bootie",
+                "link": "https://www.amazon.com/Womens-Ankle-Boots-Booties/b/ref=dp_bc_aui_C_5?ie=UTF8&node=11721153011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 10 x 15 x 6 inches; 12 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e F8354S1001"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 19, 2018"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e LifeStride"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07CR6QX8M"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#5,969 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #16 in Women's Ankle Boots & Booties"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.2 4.2 out of 5 stars 6,971 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/677e01c1-7f3e-4d6c-9d78-0beb6dda8629.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f1a95af3-8905-4df9-b196-10713f59169a.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4c0baf4d-4bb4-428a-b9ba-35722761aeec.__CR0,0,1940,1200_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Tammy",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFZWRWNHFQUL5B6NDX4B4HNR4QHQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2N9W2RMBLSDAU?ASIN=B0CDMDHDLW",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfort and Class",
+                "reviewText": "Comfortable shoe, looks great, true to size, made well",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEYGXRY7OQH7NQAFGWPKL7KWHGXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R13TZ1ER338AEO?ASIN=B0CDMDHDLW",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 31, 2023",
+                "reviewTitle": "5.0 out of 5 stars These are very cute and comfortable, fit well.",
+                "reviewText": "I wear a 9W or 9.5W depending on the shoe brand. I ordered a 9.5W in this one and it was actually still a bit small. However, I have been wearing them a few days and they're stretching out so now they are no longer uncomfortable. I really like the style - I wear them to work, they are comfortable to walk in, have a low heel so look nice but zero strain. The strappy design with the buckle is very cute. I've ordered LifeStride before and the quality is fine. They are all man-made materials, so won't last the same as leather, but I know that I'll get a decent amount of use from them. I would recommend them.",
+                "reviewVotes": "37 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "LindyAnne3",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AELFMYNOETFCLHP3YD3KRXJYFXXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3PRLFLF9XOMSH?ASIN=B0CDMDHDLW",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 11, 2023",
+                "reviewTitle": "4.0 out of 5 stars Buy a half size up and you'll be happy!",
+                "reviewText": "Seriously, you need to go up a half size, even if you don't have a wide foot, as these boots are VERY narrow.But, I am very glad I exchanged them as they are such cute boots and very comfortable. I love the color and details. They feel solid and have good grip when walking.They can be worn with jeans or skirts, very versatile. Wear a lightweight sock or tights to avoid chaffing or blisters on your ankle as the heel is a bit stiff.Overall, I am very pleased with these and would recommend them!",
+                "reviewVotes": "20 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "L S",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFDJ7NQL3SNL7UPEDGBZ4KNJGRQQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RH4OIR3S05FCS?ASIN=B0CDMDHDLW",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Really comfortable",
+                "reviewText": "These were true to size and very comfortable. They look great and have been a nice addition to my wardrobe",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "A",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHUV2F7E4FA6KIAOUN5CSCMI2VAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2KFYIG359NDI9?ASIN=B0CDMDHDLW",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 20, 2024",
+                "reviewTitle": "3.0 out of 5 stars Cute, comfy, not durable",
+                "reviewText": "I ordered half a size up (I normally wear a 7.5W and I ordered an 8W) and they fit awesomely right out of the box, so points for that! There was minimal break in time - these were comfy from the getgo.The reason these only get three stars from me is: I got them in March, so I\u2019ve had them for less than a year (granted, these have been my main shoe most days) and I have already worn holes completely through the soles (I first noticed it about 4 months in on the heels, but now there\u2019s a hole in my toe box too that lets all the snow right in to my feet) and the tops of the toes are threadbare. I am an elementary school k-5 teacher, so I know I\u2019m hard on my shoes. I do a lot of kneeling down and so the toes got worn out in a way that most people don\u2019t wear out their shoes, so I\u2019m not too upset about that, but the soles giving out so soon was not okay!! I\u2019m way too broke to be buying a new pair of shoes every school year.",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "PonyGirl",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE3K6UMVPOPD5P5CSZESS7ZFOUGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14LX4SD1V9B1S?ASIN=B0CDMDHDLW",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 16, 2024",
+                "reviewTitle": "5.0 out of 5 stars Wear for a bit before you decide",
+                "reviewText": "So I liked the look of these and was excited to find them in wide but when I tried them on they felt tight and I was going to send them back. But I remembered one of the reviews said they stretched when broke in so I put them on in the house and wore them for a few hours and they did! I\u2019m so happy because I really like them and after the broke in they are very comfortable. And a great price they seem well made too!",
+                "reviewVotes": "8 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Zionmichael",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF5UIEV4N2WZ7QM3432BLJGVCG3A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3HRBPS6ORI77O?ASIN=B0CDMDHDLW",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 21, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfy and Stylish Boots!",
+                "reviewText": "The LifeStride Women's Adley Boot is both stylish and comfy \u2013 a perfect combo!These boots are like walking on clouds with their memory foam insole. The side zipper makes them easy to put on, and the flexible sole adds to the comfort.They're versatile, going well with different outfits for various occasions and the heel is just right for a bit of lift without sacrificing comfort.These boots are my favorite for work, outings, or just running errands. If you want stylish and comfy boots, I highly recommend!",
+                "reviewVotes": "13 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Laura E.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AES32RZX6I5NUK2HG2S7ESVF56JA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R32O9M3XHY0OFG?ASIN=B0CDMDHDLW",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 4, 2024",
+                "reviewTitle": "4.0 out of 5 stars Comfortable yet stiff",
+                "reviewText": "The shoes are a perfect combo of shoe and boot. They sit right at the ankle and have a 1\" heel that is non skid. The material is faux leather that creases at the toe box where your foot bends. The insole is cushioning and roomy and the toe box is not snug. They look stylish with a rounded toe that is not overly pointed. The sizing is right on.",
+                "reviewVotes": "8 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Vivian JensenVivian Jensen",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 11, 2023",
+                "reviewTitle": "Just what I\u2019ve been looking for",
+                "reviewText": "These shoes look great, and are super comfortable. I\u2019ve worn the taupe ones everyday for a month, with no discomfort at all, so I ordered the black ones too. The size is smaller than expected, and like many other reviews, I highly recommend going up half a size from what you normally wear. I didn\u2019t, and had to return them. The heels wear off from removing them with the other shoe, so don\u2019t do that. All in all, a great little shoe!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71Ngb-+Rx0L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71TPt86teCL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71CIzl3uixL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71fY4hjoPIL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cliente de Amazon",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 7, 2019",
+                "reviewTitle": "C\u00f3modas y pidan un n\u00famero m\u00e1s peque\u00f1o.",
+                "reviewText": "Me encantaron! Bastante c\u00f3modas. Ped\u00ed un numero menos del que regularme soy porque vienen poquito ampl\u00edas. Es lo que esperaba.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on June 11, 2023",
+                "reviewTitle": "Great for wide feet.",
+                "reviewText": "Adley Ankle Boot was comfortable and it fit well. I need a wide shoe, so the 8.5 wide was a great fit. I wore an inner sock for added comfort. These shoes are dressy and give me just enough heel to give me some height. I am still able to walk easily in them as they provide great comfort and support. I bought the Whisky color; will be buying the black as well.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "PAUL&Theresa DINNAGE",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 30, 2023",
+                "reviewTitle": "Although not real leather, they do look like it",
+                "reviewText": "I like the style I ordered a 6.5 wide, the boots fit well and nice to see the option of a wide fit. I don't have a wide foot but because womens shoes tend to be narrow across the toes I find it helps to buy a wide fit esp if you will be wearing socks, even thin socks this way you optimize comfort level and your toes are never pinched. They look great, love the style, fit well, very happy with this purchase",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rose",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 31, 2023",
+                "reviewTitle": "Nice boots.",
+                "reviewText": "Nice boots, I had to add ankle pads, my heals kept coming up in them when I walked. They are comfortable, I can wear them shopping and my feet don't get tired.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

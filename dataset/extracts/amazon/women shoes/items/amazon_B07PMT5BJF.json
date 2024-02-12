@@ -1,0 +1,712 @@
+{
+    "remaining_requests": 17037,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Amazon-Essentials-Womens-Belice-Ballet/dp/B07PMT5BJF",
+    "body": {
+        "name": "Amazon Essentials Women's Belice Ballet Flat",
+        "price": "$10.60 - $23.70",
+        "originalPrice": "",
+        "rawPrice": 10.6,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Amazon-Essentials-Womens-Belice-Ballet/dp/B0CV5SF5JX",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CV5SF5JX"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07FQTTZXM",
+                "variationName": "Color",
+                "variationValue": "Black Faux Leather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31YRf2mIQYL._SS47_.jpg"
+            },
+            {
+                "asin": "B09L8DHBRF",
+                "variationName": "Color",
+                "variationValue": "Bright Poppy Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31+9256U6IL._SS47_.jpg"
+            },
+            {
+                "asin": "B09L8BYHMB",
+                "variationName": "Color",
+                "variationValue": "Deep Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312-0os1tJL._SS47_.jpg"
+            },
+            {
+                "asin": "B07FQVCXWV",
+                "variationName": "Color",
+                "variationValue": "Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XE2iHJpPL._SS47_.jpg"
+            },
+            {
+                "asin": "B09L8CKBDY",
+                "variationName": "Color",
+                "variationValue": "Light Camel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31aVA-TgDiL._SS47_.jpg"
+            },
+            {
+                "asin": "B07FXXW8YR",
+                "variationName": "Color",
+                "variationValue": "Navy Faux Leather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31FSMDrFfKL._SS47_.jpg"
+            },
+            {
+                "asin": "B07FQTTZYH",
+                "variationName": "Color",
+                "variationValue": "Chestnut Brown Faux Leather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/316aVvXFLKL._SS47_.jpg"
+            },
+            {
+                "asin": "B07G399ZYW",
+                "variationName": "Color",
+                "variationValue": "Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31PL13phG2L._SS47_.jpg"
+            },
+            {
+                "asin": "B07PNY4ZN4",
+                "variationName": "Color",
+                "variationValue": "Black Microsuede",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31vn-c52NGL._SS47_.jpg"
+            },
+            {
+                "asin": "B088KGVSBC",
+                "variationName": "Color",
+                "variationValue": "Black Patent",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31WpY6+EiEL._SS47_.jpg"
+            },
+            {
+                "asin": "B088KDZGKK",
+                "variationName": "Color",
+                "variationValue": "Black White Faux Snake Skin",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41tZ8iXFDfL._SS47_.jpg"
+            },
+            {
+                "asin": "B088K981HT",
+                "variationName": "Color",
+                "variationValue": "Camel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31dzjtpYSeL._SS47_.jpg"
+            },
+            {
+                "asin": "B088JX6CWB",
+                "variationName": "Color",
+                "variationValue": "Dark Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/317WCblo02L._SS47_.jpg"
+            },
+            {
+                "asin": "B088K9B24J",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Of5n3pcXL._SS47_.jpg"
+            },
+            {
+                "asin": "B088KF141X",
+                "variationName": "Color",
+                "variationValue": "Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ndS1citsL._SS47_.jpg"
+            },
+            {
+                "asin": "B088K981KX",
+                "variationName": "Color",
+                "variationValue": "Tan Microsuede",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31MwwNDfm2L._SS47_.jpg"
+            },
+            {
+                "asin": "B088KBV6RV",
+                "variationName": "Color",
+                "variationValue": "Charcoal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31LtRbh3PWL._SS47_.jpg"
+            },
+            {
+                "asin": "B088K9B1Z1",
+                "variationName": "Color",
+                "variationValue": "Rose Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31heQJETWmL._SS47_.jpg"
+            },
+            {
+                "asin": "B07PMT5N66",
+                "variationName": "Color",
+                "variationValue": "Light Brown Leopard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ShhPIx4NL._SS47_.jpg"
+            },
+            {
+                "asin": "B07PMT5BDV",
+                "variationName": "Color",
+                "variationValue": "Metallic Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/315sXtyCpzL._SS47_.jpg"
+            },
+            {
+                "asin": "B07FR9ZH6Z",
+                "variationName": "Color",
+                "variationValue": "Tan Faux Leather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31rp+W5cvIL._SS47_.jpg"
+            },
+            {
+                "asin": "B07FR5FNVH",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PNRKLTM",
+                "variationName": "Size",
+                "variationValue": "5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FR6STKQ",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PPXFC2Z",
+                "variationName": "Size",
+                "variationValue": "5.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQX9JF2",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PPXFB3T",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FR9SNHG",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PS6PBXN",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FSBBDPG",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PMT5BGT",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FRB1NJF",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PPXFNHS",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQX6NBZ",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PS6PBXM",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQZ7BVY",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PMT5BJF",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQX6NC3",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PR1T1M2",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQTTZYH",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PMT5JRX",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQV6261",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PMT59NH",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PR1T1JD",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PR1SYVX",
+                "variationName": "Size",
+                "variationValue": "10.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FSBBDQV",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PT7N38W",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PT88W5H",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PMT5GHB",
+                "variationName": "Size",
+                "variationValue": "11.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQZ5RR8",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PMT5GFQ",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PT77JYQ",
+                "variationName": "Size",
+                "variationValue": "12.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PNRKPJ6",
+                "variationName": "Size",
+                "variationValue": "12.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQPT5PM",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PT77K1N",
+                "variationName": "Size",
+                "variationValue": "13 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PT7RS2T",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PS6L6RY",
+                "variationName": "Size",
+                "variationValue": "14 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PNRHZ2N",
+                "variationName": "Size",
+                "variationValue": "15",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PR1RZK8",
+                "variationName": "Size",
+                "variationValue": "15 Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/316aVvXFLKL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41ldgJW0qPL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41FwqKtWBjL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31BNm 8oHlL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31j851LOa8L.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Amazon Essentials Store",
+            "link": "https://www.amazon.com/stores/AmazonEssentials/page/F8FB6F3C-F896-455C-BC52-7879F4CEF0CF?ref_=ast_bln"
+        },
+        "brand": "AmazonEssentials",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 71837,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Synthetic",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Sole material Synthetic",
+            "COMFORT AND FIT: These ballet flats have a padded insole with high-quality memory foam for added comfort and a heel pillow to relieve pressure and heel slip. The elasticated topline ensures a perfect fit. Available in regular and wide-widths. If you're between sizes, round up.",
+            "MATERIAL: Amazon Essentials shoes are made from high-quality alternative leather materials. This style has a super soft faux calfskin upper and is lined in faux suede with a leather heel lining.",
+            "STYLE: These ballet flats have a stylish round toe and a modern upper design.",
+            "DETAILS: 1/4 inch heel with a flexible non-slip sole.",
+            "DESIGN: These ballet flats take you from day to night and can be paired with your favorite Amazon Essentials outfit."
+        ],
+        "description": "Amazon Essentials Women's Ballet Flat.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Flats",
+                "link": "https://www.amazon.com/Womens-Flats/b/ref=dp_bc_aui_C_4?ie=UTF8&node=679399011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 9.76 x 6.73 x 2.72 inches; 3.6 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e Belice"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e January 15, 2020"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Amazon Essentials"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07FQTTZX4"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#123 in Our Brands (See Top 100 in Our Brands) #1 in Women's Flats"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 71,837 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Lynn from Texas",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEMRWQWVE6L6DHSZPM3RYOB4ZJTA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RNV17BM5F5ACJ?ASIN=B0CV5SF5JX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 24, 2024",
+                "reviewTitle": "5.0 out of 5 stars No major complaints ...",
+                "reviewText": "I bought this and one of the gold pairs. This pair is a little tight across the toes. I'm a perfect size 6 med. and they are; overall .. perfect and comfortable. Good insole. Nice rubber sole. Color is good. Haven't had long so don't know what long term wear would be. I wouldn't wear them in bad or wet weather outside.Overall; very comfortable and attractice.",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ann V",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHLHFLQQDTCMU44UM5OPZXXIJ5UA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1Q0062AP2Z112?ASIN=B0CV5SF5JX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "5.0 out of 5 stars Cute & comfortable",
+                "reviewText": "Purchased the gold ones. Perfect color for my outfit. Great price, well made shoe. Overall great value. Memory foam soles are very comfortables. I\u2019ve been wearing a 10.5 in other shoes and that is what I ordered. Fits perfectly . Not too wide or narrow. Soft material & doesn\u2019t rub anywhere. Will definitely consider buying other colors in the future.",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Hannah",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGIZOLH7PRTBAX3LQYWZVRI7F4IA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RNXSWTZ4TATML?ASIN=B0CV5SF5JX",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "4.0 out of 5 stars Pretty comfortable but zero support",
+                "reviewText": "These are perfect shoes for the cost. The colors are pretty and there are a ton of options. It has a decent stretch to it so it'll fit well. They're comfortable but probably not for long periods of time because they have no support whatsoever.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Christy Wilcox",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHRBFFRKPFJI6JHCBCNX6E2ZX6PQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2QVBW2YB6AD67?ASIN=B0CV5SF5JX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars So cute",
+                "reviewText": "I bought these to wear with leggings over the holidays. These shoes are the perfect slipper to eat with leggings! Although, they do not have great support they are very comfortable and true to size. Recommend to wear with leggings and would buy again.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "E. galvis",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJNMHOVUIJRZCKICBFOWUB22VVA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R296YER7YJEX9Z?ASIN=B0CV5SF5JX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 21, 2023",
+                "reviewTitle": "5.0 out of 5 stars Really comfortable for a flat: updated",
+                "reviewText": "I love flats and have a different brand I buy from amazon for their cuteness. These are just as adorable and more comfortable. I received them (8W) and wore them right of the box for about a 2 mile christmas light walk. They were comfortable and padded. Not tight in anyway. Will def buy other pairs. Good for walking. I would not say there is any arch support but there is padding. I got the gold, really cute and can be for a dressy situation. First use and may update depending on wear and tear. I have now purchased the black/white patterned one. They are my favorite shoes to wear. They have little arch support but are pretty comfortable. They feel worn in and cause no issues. Slip in and out. Worn in the rain. I live in a place where it's always hot and they dont really make my feet sweaty which I really enjoy. so far my favorite shoe!",
+                "reviewVotes": "14 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Covergirl4732",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE7FMCXVTCYFUQL73YOZSH3POHYQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1H4SKNJ2BZM9R?ASIN=B0CV5SF5JX",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "3.0 out of 5 stars You get what you pay for",
+                "reviewText": "I just needed a tan colored flat to go with a pair of pants that I was planning to wear and saw these advertised by an influencer. While they fit okay (I have a wide foot with a bunion), they don't really look that great on the foot and aren't really very comfortable or have any support. I probably should have returned them, but didn't have time to look for a replacement and the color was good with the pants I was planning on wearing. Would I repurchase, definitely not. I just purchased a nice pair of Clarks ballet flats (more expensive but they offer support and a solid bottom), so these will be going to Goodwill!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jeffers",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEP5MWRNP6XS3IXDIKLNYX3E2R6A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1E25B9U62LCZB?ASIN=B0CV5SF5JX",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Fun shoes",
+                "reviewText": "I water size 8, bought an 8 and the fit is perfect. Soft black micro suede. Cleans up easily No arch support, but still comfortable. The quality seems ok for 20$ pair of ballet flats. I don't have toe cleavage, which is good. My toes do not stick out like some reviews, but I'm pretty sure that's because of their own feet, not the shoe! LolOverall, I'd buy again, so far, and would recommend. I might just get a few more pairs. I love shoes. It's an addiction.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Julie M.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHS7KLW6PR4SK3N2T52BSDBCTXPA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1PAS9AMCM5BJC?ASIN=B0CV5SF5JX",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 18, 2023",
+                "reviewTitle": "4.0 out of 5 stars Cute shoes for a steal of a price!",
+                "reviewText": "I wanted some neutral shoes that had a little bit of sass! These go with all of the neutral pieces in my wardrobe, and are great for all year round wear. I was worried that the gold would flake off, but after nearly two years of wear, they still look great and are easy to wipe clean. I will say that the fit was a bit shorter than I would have liked. I ordered and 11 and could have used a bit more room in the toe, so I would definitely order up. I have a narrow foot, and oftentimes shoes will gap, but the fit great, and offer plenty of stretch, so I imagine they would be comfy for wide feet as well! The are super lightweight, and great to throw in a bag, for a cute change of shoes if you're at an event in heels! Really like these shoes!",
+                "reviewVotes": "38 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "catmom",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 26, 2024",
+                "reviewTitle": "fit a trifle large",
+                "reviewText": "nice, comfortable ballet slippers, reasonable quality for the price. They do fit a bit large, probably not enough to size down.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Beasey",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 6, 2023",
+                "reviewTitle": "Size fits perfectly",
+                "reviewText": "it is hard for me to find flats to fit my size 6 foot with bunions but these are perfect and so comfortable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mare",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 1, 2023",
+                "reviewTitle": "Size 9 black suede",
+                "reviewText": "Very cute & extremely comfortable! \ud83d\ude01",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "judyth gerichter",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 22, 2023",
+                "reviewTitle": "Pretty color",
+                "reviewText": "Comfortable walking shoes for the summer.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "val",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 2, 2023",
+                "reviewTitle": "Look cute !",
+                "reviewText": "These are cute on and very flat n, no real support, ok for out to dinner etc but not for too long of a wear!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

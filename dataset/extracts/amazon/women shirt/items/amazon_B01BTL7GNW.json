@@ -1,0 +1,400 @@
+{
+    "remaining_requests": 17845,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/SPORT-TEK-Ladies-PosiCharge-RacerMesh-Black/dp/B01BTL7GNW",
+    "body": {
+        "name": "Women's Breathable Polo Shirt",
+        "price": "$12.92 - $17.98",
+        "originalPrice": "",
+        "rawPrice": 12.92,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Sport-Tek-Womens-Breathable-Polo-Shirt/dp/B0753ZWLRQ",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0753ZWLRQ"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B01BTL7FVU",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41KLlQkHi8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BTL7DH6",
+                "variationName": "Color",
+                "variationValue": "Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41z-xB4UpyL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BTL94QY",
+                "variationName": "Color",
+                "variationValue": "Dark Forest Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qhhHqTvIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BTL8B0E",
+                "variationName": "Color",
+                "variationValue": "Pond Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EIp6WFekL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BTL7KYW",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41c3-P1WDrL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BTL91N0",
+                "variationName": "Color",
+                "variationValue": "Graphite Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41T-WVx45DL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BTL8G72",
+                "variationName": "Color",
+                "variationValue": "Neon Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XFFak3-HL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BTL87G2",
+                "variationName": "Color",
+                "variationValue": "True Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LMsyJCaoL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BTL8LR2",
+                "variationName": "Color",
+                "variationValue": "True Royal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Qw9oHNC2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BTL7RF4",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Z0eAtLEXL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BTL80AU",
+                "variationName": "Color",
+                "variationValue": "Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ho7o65ZpL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BTL8JT2",
+                "variationName": "Color",
+                "variationValue": "True Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gNue3O+YL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BTL8UYQ",
+                "variationName": "Color",
+                "variationValue": "Bright Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41y22Wj9eyL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BTL83BG",
+                "variationName": "Color",
+                "variationValue": "Maroon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41f4P0Iy3vL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01BTL7LJ6",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01BTL7FVU",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01BTL7GNW",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01BTL7HCM",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01BTL7M54",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01BTL7VI2",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01BTL7W2C",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01BTL7WKY",
+                "variationName": "Size",
+                "variationValue": "4X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41KLlQkHi8L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41QST0e-l3L.jpg"
+        ],
+        "imagesCount": 2,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Brand: Sport Tek",
+            "link": "https://www.amazon.com/s/ref=bl_sl_s_ap_web_7141123011?ie=UTF8&node=7141123011&field-brandtextbin=Sport+Tek"
+        },
+        "brand": "Sport Tek",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 2475,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Polyester",
+            "Care instructions Machine Wash",
+            "Origin Made in the USA or Imported",
+            "Closure type Pull On",
+            "Gently contoured silhouette",
+            "Tag-free label",
+            "Self-fabric collar",
+            "Open placket",
+            "Set-in, open hem sleeves"
+        ],
+        "description": "Thanks to our ultra-fine flat back RacerMesh, this polo has unparalleled breathability for superior cooling. PosiCharge technology locks in color and keeps logos crisp-making this value-priced essential a fan favorite all season long., 3.8-ounce, 100% polyester flat back mesh with PosiCharge technology, Gently contoured silhouette, Tag-free label, Self-fabric collar, Open placket, Set-in, open hem sleeves, , ,",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Tops, Tees & Blouses",
+                "link": "https://www.amazon.com/Womens-Tops-Tees/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2368343011"
+            },
+            {
+                "name": "Polos",
+                "link": "https://www.amazon.com/Womens-Polo-Shirts/b/ref=dp_bc_aui_C_5?ie=UTF8&node=1044548"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Item Weight \u200f",
+                "value": "\u200e 4 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e LST640"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e February 16, 2016"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B01BTL7LJ6"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#20,057 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #15 in Women's Polo Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 2,475 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "betty h bailey",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHMT7NIQVT3MGIPAU6B477NBHHZQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1QHITCN4P9TYZ?ASIN=B0753ZWLRQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 29, 2023",
+                "reviewTitle": "5.0 out of 5 stars True to size, professional looking",
+                "reviewText": "Perfect for work.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jennifer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE3CRLPQI7HHIE3VGY6RPSGDNL4A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2DJ1KTORZPKKK?ASIN=B0753ZWLRQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 5, 2023",
+                "reviewTitle": "5.0 out of 5 stars The material is a tiny bit scratchy, but I still really like the shirt",
+                "reviewText": "So I love how this shirt fits. MY ONLY complaint is how it feels. It isn't horribly itchy, but it is not as soft as some shirts. That said, I would probably want to wear this in cool weather versus hot weather days. I am 5'2\", about 190lbs...so am overweight these days. meh. but the shirt makes me feel good, not awful like how I feel in most clothes. I bought an XL and it fits right. It hangs nicely, too.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jenn",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFTJPHA2DKMQ7HJKXKHUSRTLRSAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2MDMY30AJ76GH?ASIN=B0753ZWLRQ",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 6, 2023",
+                "reviewTitle": "4.0 out of 5 stars Great for the price",
+                "reviewText": "I bought this shirt in 2 colors to wear to work. They are very comfy however the V neck does come a little lower than my taste as the shirts do not have a button. Also I find that sometimes the sport-type shirts make me feel like I am more sweaty and this shirt seems to have the same effect. Overall a fine value!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "marjie zimmerman",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHOCUBRRFM3W3TM37PDUSUG7Q6XQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1478Y9Z1K15Z9?ASIN=B0753ZWLRQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars O k work shirt",
+                "reviewText": "Good but the fabric snags",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "AMM",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGRTERS3H4H6TVI7J6O5ISP74VDQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1PP453G6Z6M6X?ASIN=B0753ZWLRQ",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 26, 2023",
+                "reviewTitle": "3.0 out of 5 stars Good fit and breathable",
+                "reviewText": "The shirt fits true to size. It catches on things easily and easily pulls. I\u2019ve had mine for a month and I\u2019m already on the hunt for new shirts.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tammy B",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AESNC5J7XMYYMBDJSHKFOPFPBPRA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3NOC3UT4WEOJX?ASIN=B0753ZWLRQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 13, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great work shirt",
+                "reviewText": "Nice shirt for work. Great quality. Highly recommend",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sherone",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFF6A4AG5WEKQTIHS66H7NTAVXOQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R137NOBIYH50ZQ?ASIN=B0753ZWLRQ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 31, 2023",
+                "reviewTitle": "5.0 out of 5 stars Wk shirt",
+                "reviewText": "Love it !",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sherry",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEI5V5ZCYNMKSEQBVNSRO3GDWPUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RKVX009ZQJKJH?ASIN=B0753ZWLRQ",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 23, 2023",
+                "reviewTitle": "1.0 out of 5 stars Just a little short",
+                "reviewText": "The return cost more than the product No way to contact the seller.The shirt is just a little short for me.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

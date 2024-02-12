@@ -1,0 +1,572 @@
+{
+    "remaining_requests": 16026,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Wrangler-Authentics-Mens-Slim-Straight/dp/B09QT5MX1C",
+    "body": {
+        "name": "Men's Slim Fit Straight Leg Jean",
+        "price": "$27.99",
+        "originalPrice": "",
+        "rawPrice": 27.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Wrangler-Authentics-Mens-Slim-Straight/dp/B09QT5MX1C",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09QT5MX1C"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0B84VQN7P",
+                "variationName": "Color",
+                "variationValue": "Acorn",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31IfkcVKNoL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B84WJ8WS",
+                "variationName": "Color",
+                "variationValue": "Anthracite",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31KLAFJWBZL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09NMPBCSN",
+                "variationName": "Color",
+                "variationValue": "Beckett",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41R1sGSwLEL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07RRZ2Q3D",
+                "variationName": "Color",
+                "variationValue": "Belmonte",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41iQRG+LjKL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09NMPQ4ZR",
+                "variationName": "Color",
+                "variationValue": "Black Charcoal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31+qnRWfNqL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07RQVZKNW",
+                "variationName": "Color",
+                "variationValue": "Blue Ridge",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ItaRWh3mS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B84XYDQD",
+                "variationName": "Color",
+                "variationValue": "Dark Sapphire",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31wyU-BOMOL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07RRZ2VPL",
+                "variationName": "Color",
+                "variationValue": "Dusk",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41VSGQeZS6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B851ZS1M",
+                "variationName": "Color",
+                "variationValue": "Hayden",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41CgmUqmnHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07RWN4CSN",
+                "variationName": "Color",
+                "variationValue": "Raven",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41crKwvgkUL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B84WKBK7",
+                "variationName": "Color",
+                "variationValue": "Spruce",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31cpbkQ9lAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B84YDD4R",
+                "variationName": "Size",
+                "variationValue": "29W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B852D9V1",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84XR5J2",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84W5LSJ",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84YBTTJ",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84WSDPJ",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84WR8DH",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84Y19WM",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84Y3CR5",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84X7YLW",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84VQN7P",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84YRVWC",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84YSK15",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84XLLNL",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84W6W4J",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84YZF7H",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84WSV95",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84XYKTY",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84YGLV2",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84X5PH7",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84YXQRN",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B84WQWX9",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31IfkcVKNoL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31n8KVZdS2L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31tHZ106H7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/414IYD7KSkL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41YeOI5iCpL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41lAelPT1pL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e980cbdc-027a-42e2-96f5-0b9f9b903f44/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Wrangler Authentics Store",
+            "link": "https://www.amazon.com/stores/Wrangler%C2%AE/page/447486A1-7264-4DFF-9C66-7F69EB4AA55B?ref_=ast_bln"
+        },
+        "brand": "Wrangler\u00ae",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 8044,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 98% Cotton, 2% Spandex",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "EVERYDAY JEAN. Great for both long days on the job and kicking back on the weekend, these men's jeans look good and keep you comfortable throughout any task.",
+            "SLIM FIT. These straight leg jeans have a slim fit through the seat and thigh for complete comfort and a streamlined look.",
+            "FUNCTIONAL COMFORT. These classic denim jeans are made with a breathable cotton-stretch blend for unrestricted movement.",
+            "FIVE POCKET STYLING. This jean is constructed with authentic 5 pocket styling: (1) watch pocket, (2) front scoop pockets, (2) back spade pockets.",
+            "SIGNATURE DETAILS. Finished with a zipper fly, button closure and embroidered back pockets for that classic Wrangler style."
+        ],
+        "description": "The Wrangler Authentics collection delivers laid-back style for the man on the go. Performance-level comfort is built into our classic shorts, cargo pants, jeans, jackets, and shirts for a complete outfit that feels as good as it looks. With innovative features like our Advanced Comfort technology, the clothes in this collection move with you for all day comfort. Available in many different styles and colors, it's easy to find clothes to fit your needs, all year round. From a night out on the town to a casual weekend spent with friends, you will feel ready for life, every day, with Wrangler.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 14.65 x 12.64 x 1.54 inches; 15.7 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 112325134"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 30, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Wrangler Authentics"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0B84YDD4R"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,994 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #35 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 8,044 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Wrangler Authentics Bonded Fleece Regular Tapered Jean Wrangler Authentics Classic Straight Fit Jean Wrangler Authentics Classic Regular Fit Flex Jean Wrangler Authentics Slim Straight Jean Wrangler Authentics Regular Fit Tapered Jean Rise Natural Waist Lower on Waist Natural Waist Lower on Waist Lower on Waist Fit Regular Seat and Thigh Straight Seat and Thigh Regular Seat and Thigh Slim Seat and Thigh Regular Seat and Thigh Leg Opening Tapered Straight Straight Straight Tapered Flex Fabric \u2713 \u2713 \u2713 \u2713 \u2713 Pockets 2 Front Pockets, 1 Watch Pocket, 2 Back Pockets 2 Front Pockets, 1 Watch Pocket, 2 Back Pockets 2 Front Pockets, 1 Watch Pocket, 2 Back Pockets 2 Front Pockets, 1 Watch Pocket, 2 Back Pockets 2 Front Pockets, 1 Watch Pocket, 2 Back Pockets",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/a2e82ac3-f4b4-4da6-8c90-0d78d5f7630b.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/2c3cc348-4cdd-49a3-a71e-4444d5e954cc.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/2cb8800e-c734-4130-9071-5cba0711458c.__CR2,0,283,565_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/2cdb7321-75b7-499e-81c0-ed64d568e9c7.__CR0,0,340,680_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/e1c9bf01-1b2f-438c-8e11-5e3b4744d580.__CR2,0,339,678_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/60e87c8b-894a-47c8-9782-0818b5a970ef.__CR0,34,315,630_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/37c90082-eec1-4de2-bc94-fe5cb7b20505.__CR0,2,338,676_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/dc148e4b-304b-4eb7-a910-683d7f4ef92c.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "John's Comments",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFWVLDSCOD3NAI3EDVUPDC3VMNVA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R7NEGJ3P4VOIO?ASIN=B09QT5MX1C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars popular slim fit without being a low-rider",
+                "reviewText": "I have four different colors now and expect to purchase at least one more. These are perfect for the person who wants to be in style with a silm fit but doesn't want the low-rider which has the short fly and fits below the hips. The fit is perfect to your desired waist and length. The colors available are great for all the various combinations of shirts and assorted pull-overs you may have to select from. The jean fit, style, and comfort to match your various outings and not look like you are wearing the typical \"blue jeans\". The price is great for the style, fit, and durability of Wrangler.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Christina Gray",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH7JSEK3CDPBGIV5FIRBAF7AKE3Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RNBS3MBQB5VJM?ASIN=B09QT5MX1C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 2, 2024",
+                "reviewTitle": "5.0 out of 5 stars True to size",
+                "reviewText": "These jeans are as advertised. They fit true to size. Look is amazing and material is comfortable. Have already purchased two pairs and will purchase again in the future.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "scotttor",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG26VDR4MHK2EIIMCGNZD4IAUGNQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1KN5G0RK0FKKG?ASIN=B09QT5MX1C",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 10, 2024",
+                "reviewTitle": "4.0 out of 5 stars Runs true to your known size",
+                "reviewText": "Good slim fit waist and butt. But Amazon recommended a bit too long in length. Stay true to your known length!",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Refael Or Gabso",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGC3D22JU6EBJ3YUCDWEGKKM7HWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R36F6NQINABTAN?ASIN=B09QT5MX1C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 28, 2024",
+                "reviewTitle": "5.0 out of 5 stars Size fits me perfectly.",
+                "reviewText": "Wrangler is the most size accurate jeans I have.Long lasting jeans, sits excellent on body and gets compliments",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Steve 55",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG2TUXE6QFVFXSOVHF3TKWIVAUYQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RGL0DXR673LD6?ASIN=B09QT5MX1C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars slim fit flex.....my choice",
+                "reviewText": "A mid weight jean with flex, a slim fit cut, a fair price.....I'll buy 6 pairs a year as long as they're made/sold!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Yar Mosnar",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGFJZSYN5RQUPCMBD6CKA2UBPILA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RWP9B76ENMOQI?ASIN=B09QT5MX1C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love the Fit",
+                "reviewText": "These jeans fit perfectly. It's the first pair that I have owned with the slim fit and they turned out to fit perfectly. The stretch material has made them very comfortable. I'm not sure how well they will last but they have made it through their first three washings in good order. If things change, I'll update but for now I'm really happy.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Donna",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFYN2HQOMEW6EEV4DEPLS7FTWYCA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RUUWVGNYRO43N?ASIN=B09QT5MX1C",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 27, 2023",
+                "reviewTitle": "3.0 out of 5 stars Didn\u2019t last long",
+                "reviewText": "I like the jeans. They fit well and look good. But I wore them once and one of the belt loops broke off. Now there\u2019s a missing belt loop and a hole in them.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "WoodyWoody",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJJRTRQKN5PTHRY3JYJHJKST5YA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3FSQ8F8BBFZ3E?ASIN=B09QT5MX1C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 8, 2023",
+                "reviewTitle": "5.0 out of 5 stars Sizes are getting longer.....",
+                "reviewText": "Just recieved my 4th pair of these jeans. Ordered in 2021,2022, 2023, and again in 2023. The 2021 pair just kicked the bucket a couple weeks ago and the 2022 pair just started a hole in the knee. After receiving the 4tj pair today, I realized the two pair from 2023 are slightly larger in the waist and about 1.5\" longer than the previous pairs. Picture attached. I'm someone who probably \"really\" should be wearing a 28 or 29 length, so adding extra length to the 30\" length is slightly problematic. I still love them and just realized they are made in Egypt instead of China like the first pair I ordered (I think they were). Probably won't get them hemmed, but will try real hard to shrink them some lolPrevious review******Ive ordered 3 pairs of these and they've become my forvorite jeans. The picture I've taken is newest to oldest. The oldest pair are just over 2 years old and they get worn to work frequently now. The knee opened up about 6 months ago. The second pair is about 10 months old, and I can see the knee is getting pretty worn (I've worn them a TON) , so I wanted a new pair for church, etc.I like that the hole seems to \"shrink\" with the jeans when washing better than regular jeans. I'm assuming this is due to the spandex or whatever they have in them. I love these jeans!!!!!",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71-CyYoMOAL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71LBqG9NZBL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81s40OYlSrL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/91fcjnXi9xL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 4, 2024",
+                "reviewTitle": "Nice jeans.",
+                "reviewText": "Very Good fit for me and I like the feel. Like them better than Levies and they are cheaper.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Victor",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on July 10, 2023",
+                "reviewTitle": "Muy c\u00f3modos",
+                "reviewText": "No esperaba algo grande pero no me decepcionaron! Est\u00e1n muy c\u00f3modos es un buen material y lucen genial",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mattie",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on December 15, 2023",
+                "reviewTitle": "Wrangler jeans",
+                "reviewText": "Perfect fit and great value",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Kunde",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on November 23, 2023",
+                "reviewTitle": "HS",
+                "reviewText": "Super hosen!!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "jeff",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on August 19, 2023",
+                "reviewTitle": "lenght of product",
+                "reviewText": "jeans are fine,fit good apart from about 2.5 inches too long. size stated 34x30 which i always have in Wrangler jeans.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

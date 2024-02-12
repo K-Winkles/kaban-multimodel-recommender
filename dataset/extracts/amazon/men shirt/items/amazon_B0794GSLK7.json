@@ -1,0 +1,593 @@
+{
+    "remaining_requests": 16450,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Calvin-Klein-Dress-Shirt-Stretch/dp/B07Q1CWGMM",
+    "body": {
+        "name": "Calvin Klein Men's Dress Shirt Slim Fit Non Iron Stretch Solid",
+        "price": "$36.20 - $49.78",
+        "originalPrice": "",
+        "rawPrice": 36.2,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Calvin-Klein-Dress-Shirt-Stretch/dp/B07Q1CWGMM",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B07Q1CWGMM"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07F33KXB1",
+                "variationName": "Color",
+                "variationValue": "Smokey Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41G-B128TzL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B073ZMFBW5",
+                "variationName": "Color",
+                "variationValue": "French Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31rBhUZS9bL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07F2V1D24",
+                "variationName": "Color",
+                "variationValue": "Jet Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21p2AB0es+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B075X42T5J",
+                "variationName": "Color",
+                "variationValue": "Smokey Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XqeAOFu4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B073ZMB5H4",
+                "variationName": "Color",
+                "variationValue": "Soft Lilac",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31DszG9QE+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0794JRHL7",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21m96yQlvUL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07KB69417",
+                "variationName": "Color",
+                "variationValue": "White/French Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Sev+YjF7L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0794JWPQM",
+                "variationName": "Color",
+                "variationValue": "Blossom",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31r5cJkXezL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B075X3C2HJ",
+                "variationName": "Color",
+                "variationValue": "English Rose",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41FUB4WGKEL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08SR7RXF4",
+                "variationName": "Size",
+                "variationValue": "14\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F3628NL",
+                "variationName": "Size",
+                "variationValue": "14.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F2NY84D",
+                "variationName": "Size",
+                "variationValue": "15\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F2SJYTT",
+                "variationName": "Size",
+                "variationValue": "15\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F2V1CX5",
+                "variationName": "Size",
+                "variationValue": "15.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F2S6ZBL",
+                "variationName": "Size",
+                "variationValue": "15.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F2S2MMR",
+                "variationName": "Size",
+                "variationValue": "16\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FHDS2SS",
+                "variationName": "Size",
+                "variationValue": "16\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08SR7D9F2",
+                "variationName": "Size",
+                "variationValue": "16\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F2S2L7N",
+                "variationName": "Size",
+                "variationValue": "16.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FHDSQBM",
+                "variationName": "Size",
+                "variationValue": "16.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F2V5ZW8",
+                "variationName": "Size",
+                "variationValue": "16.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F2SJYY4",
+                "variationName": "Size",
+                "variationValue": "17\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F35WHQM",
+                "variationName": "Size",
+                "variationValue": "17\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F33KXB1",
+                "variationName": "Size",
+                "variationValue": "17\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F2V1726",
+                "variationName": "Size",
+                "variationValue": "17.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F2SJXLY",
+                "variationName": "Size",
+                "variationValue": "17.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F2S2QTH",
+                "variationName": "Size",
+                "variationValue": "17.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08SR5GNKH",
+                "variationName": "Size",
+                "variationValue": "18\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F2S2KHG",
+                "variationName": "Size",
+                "variationValue": "18\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F2SJZ74",
+                "variationName": "Size",
+                "variationValue": "18\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08SR98S2V",
+                "variationName": "Size",
+                "variationValue": "18.5\" Neck 32\"-33\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08SR5V623",
+                "variationName": "Size",
+                "variationValue": "18.5\" Neck 34\"-35\" Sleeve",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08SRBLVKB",
+                "variationName": "Size",
+                "variationValue": "18.5\" Neck 36\"-37\" Sleeve",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31BEqGvMmpL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31xYt1-EBAL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31nrVWpQFlL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51Quwup6r0L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41KhlPWJWpL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41RlU0n7l4L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51OPJs620oL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/682fb471-ce79-4cd8-8210-da4125ff1922/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Calvin Klein Store",
+            "link": "https://www.amazon.com/stores/CalvinKlein/page/2F101F3B-C39C-4CAC-8A86-F49CB85695FB?ref_=ast_bln"
+        },
+        "brand": "CalvinKlein",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 1988,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 96% Cotton, 4% Spandex",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Button",
+            "Wicking: Designed to wick moisture away from the body to help you feel cool and dry. Stretch: Fabric stretches and moves with you for extra comfort. Non-Iron Fabric: Resists wrinkles to keep you looking crisp all day; easy care, no ironing necessary.",
+            "Slim Fit: Modern fit with a tapered body and slimmer sleeves for a sleek look that flatters most body shapes",
+            "Spread Collar: Modern traditional collar with the tips pointed outwards, allowing for tie knots of all sizes; can be worn with or without neckwear. Adjustable Cuff: Two button positions allow for a more customized, improved fit. No Pocket: Sleek, streamlined design offers a cleaner appearance."
+        ],
+        "description": "Calvin Klein non iron stretch long sleeve dress shirt",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Shirts",
+                "link": "https://www.amazon.com/Mens-Shirts/b?ie=UTF8&node=2476517011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.98 x 10.12 x 2.52 inches; 10.08 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 33K3767"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e September 7, 2018"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Calvin Klein"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07F3628NL"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#12,015 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #338 in Men's Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 1,988 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Calvin Klein Men's Dress Shirts",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e9d828a1-952e-4cda-82d8-4e577f2e4988.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Features & Benefits Wicking Designed to wick moisture away from the body to help you feel cool and dry. Stretch Fabric Fabric stretches and moves with you for extra comfort. Wrinkle Free Fabric is specially treated for less wrinkles and easy care\u2014no iron required. Machine Wash & Dry Just wash and dry in your machines and wear.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7b279e7d-80b5-4f38-b612-899c0f0d1201.__CR0,1,604,453_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4b4caebf-0805-4dce-b837-0e9fc4fef3ef.__CR0,1,604,453_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea7f0518-0c16-49e7-9349-016ad82f00a0.__CR0,1,604,453_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cde1c166-78e2-4da8-bda7-711292412ffa.__CR0,1,604,453_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Calvin Klein Men's Steel+ Slim Fit Stretch Wrinkle Free Dress Shirt The Calvin Klein Steel+ dress shirt is engineered for performance. High-tech wrinkle-free stretch fabric requires less ironing, while wicking properties pull away moisture for cool, dry comfort. A slim fit delivers a tailored look that defines refinement.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/31e25ab7-d210-4647-8356-f07f40b2add5.__CR0,0,800,600_PT0_SX800_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Discover More",
+                "media_link": []
+            },
+            {
+                "media_text": "Discover more from Calvin Klein Steel+ Stretch Solid See Details Steel+ Stretch Check See Details Steel+ Stretch Solid See Details Steel+ Stretch Solid Add to Cart Steel+ Solid See Details Customer Reviews 4.4 out of 5 stars 1,988 4.5 out of 5 stars 428 4.4 out of 5 stars 1,066 4.3 out of 5 stars 126 4.4 out of 5 stars 2,304 Price $49.89$49.89 $42.50$42.50 $85.00$85.00 $37.16$37.16 $39.99$39.99 FIT(S) Slim Slim Regular Slim, Regular Slim COLLAR Spread Collar Spread Collar Point Collar Spread Collar Spread Collar CUFF Adjustable Cuff Adjustable Cuff Adjustable Cuff French Cuff French Cuff POCKET \u2718 \u2718 \u2718 \u2718 \u2718 FABRIC 96% Cotton, 4% Spandex 96% Cotton, 4% Spandex 96% Cotton, 4% Spandex 96% Cotton, 4% Spandex 100% Cotton STRETCH FABRIC \u2714 \u2714 \u2714 \u2714 \u2718 MULTIPLE COLORS \u2714 \u2714 \u2714 \u2718 \u2714",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e9d828a1-952e-4cda-82d8-4e577f2e4988.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7b279e7d-80b5-4f38-b612-899c0f0d1201.__CR0,1,604,453_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4b4caebf-0805-4dce-b837-0e9fc4fef3ef.__CR0,1,604,453_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea7f0518-0c16-49e7-9349-016ad82f00a0.__CR0,1,604,453_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cde1c166-78e2-4da8-bda7-711292412ffa.__CR0,1,604,453_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/31e25ab7-d210-4647-8356-f07f40b2add5.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f63ff346-a60a-4101-ac84-d929a98fabe7.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dac9b62b-420d-4635-8923-02146b560de2.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/584c6481-f37b-4784-83fb-59530fe28f29.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d9ab6996-2fb3-4151-8c4b-cc12757e1bad.__CR0,0,400,450_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/efb266e1-e2db-4dda-8889-5c8f03c8b305.__CR0,1,399,449_PT0_SX200_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "JTodd",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEPW44YTXRL7ZOYPISDJMXETOPUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3HRQJJT3RJB9G?ASIN=B07Q1CWGMM",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice quality dress shirt",
+                "reviewText": "These are quality dress shirts. The fit is perfect, and the material is comfortable and breathable. Will be ordering more soon!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lindsay",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFQFWQXFRJPDX54MKRMOMXSLIYNQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1OCKNW651RHEY?ASIN=B07Q1CWGMM",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 28, 2023",
+                "reviewTitle": "5.0 out of 5 stars Nicely made dress shirt",
+                "reviewText": "I bought this shirt for my husband to wear to work. He loves it, and it looks great! His chest is about 43 inches, and waist about 34 - the medium fits great, which is the size he usually wears. The material is soft and feels durable. So far, he's been machine washing it and letting it air dry - I don't believe it's shrunk at all. Great shirt for the price; I'd definitely recommend!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Thomas Giboney",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHUNYODMCB7Y53JVUGV5GONTNU7Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3096URYJW1QAZ?ASIN=B07Q1CWGMM",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 6, 2023",
+                "reviewTitle": "4.0 out of 5 stars Two pack, one white and one French blue good value",
+                "reviewText": "Size 16 was good fit per sizing chart sleeve length and chest fit. Neck sizing is a little bit small (per sizing chart ) but is acceptable. Good value.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "AzzTek",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHR567DTK55QDMYBJJFY25V52NTQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2XCXLH5SLP3R?ASIN=B07Q1CWGMM",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 21, 2023",
+                "reviewTitle": "5.0 out of 5 stars Very nice cotton dress shirts with a little stretch in them",
+                "reviewText": "I was looking for dress shirts with a little stretch, and these work great. These are 96% cotton and 4% stretchy stuff. And they iron real easy. Note that the threads are not super fine... they're almost Oxford type clothes and not very densely woven. So for the white shirt, you'll be able to see the undershirt through it. And they're not super soft (hence I guess, \"steel\"). In the end I bought 2 shirts and am very happy with them.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Marcella Terrana",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEP4JBN674ZJ4XDCZMJ7F2QLF23Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2RF8HCVK6ZFP7?ASIN=B07Q1CWGMM",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 25, 2023",
+                "reviewTitle": "5.0 out of 5 stars Nice dress shirt",
+                "reviewText": "Fits well and looks good",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Frank P",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFIKMYESQFT2LZY3NYN2OKDPIPSA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1RZNRYZQB2X9B?ASIN=B07Q1CWGMM",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 18, 2023",
+                "reviewTitle": "5.0 out of 5 stars Nice shirt- fitted",
+                "reviewText": "Talk about old school. This shirt had about 20 pins, cardboard and tissue paper to remove before able to wear or wash. Seems well made, a little snug in the collar but that could have been my fault. Never sure if I should order actual measurement or what measurement I want. In this case should have ordered 1/2\" larger in the neck. I like it snug but not tight. Would order again.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rebecca Bright",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGBH7EAHNCBCHRPZP36N45IJFLHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1DCIOKILYJZHW?ASIN=B07Q1CWGMM",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 29, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great shirt!",
+                "reviewText": "I\u2019ve never bought clothes on Amazon, so I was a little hesitant. However, this shirt is the exact shirt we bought at Men\u2019s Wearhouse for triple the price. Bought a different color at Men\u2019s Wearhouse. Needed a white one, found it here. It\u2019s the same brand same size everything just a fraction of the cost! It washes well looks great and it\u2019s extremely comfortable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF2FPKYFBOSP2I52FCKKBIKRFRSA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1Y2668T5GSB2Y?ASIN=B07Q1CWGMM",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 24, 2023",
+                "reviewTitle": "1.0 out of 5 stars Nice-looking shirt, shoddy quality fabric",
+                "reviewText": "This was a great-looking shirt, cut was good, fit was great, BUT the fabric is terrible!!!Within just a few months of use, the fabric started to separate/shrivel. It looks like either the non-cotton fibers are shrinking at a different rate than the cotton. Or, maybe the drier or iron are melting them. I\u2019m not sure, but it\u2019s a big disappointment. I expected this to be a high quality product, which it clearly is not.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sa\u00fal",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 15, 2021",
+                "reviewTitle": "Muy Bonita Camisa",
+                "reviewText": "La camisa entalla muy bien, yo mido 1.76 y peso 69Kg. Ped\u00ed 14.5(cuello) 32-33 y me gust\u00f3 mucho el entalle. El color AZUL HUMO es muy bonito.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Daniel",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 30, 2019",
+                "reviewTitle": "Great shirt!",
+                "reviewText": "Got this shirt on sale, great fit and colour. Fabric is nice, overall a good buy!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Fernando",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on September 19, 2019",
+                "reviewTitle": "Excelente compra",
+                "reviewText": "Corte como se describe y la tela de excelente calidad",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Edgar UribeEdgar Uribe",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 15, 2018",
+                "reviewTitle": "Es una buena camisa",
+                "reviewText": "La camisa es de la calidad esperada. Es como dice en la descripci\u00f3n en cuanto al material y como dice no tiene bolso. Me gusto el dise\u00f1o del cuello y la parte de los botones. Tiene ballenas de camisa que sirven para mantener r\u00edgido el cuello y se pueden cambiar. Recomiendo esta camisa para personas que buscan una camisa formal sin bolsa en el pecho. Tambi\u00e9n debe conocer bien sus medidas cuello y hombro para que la camisa se de la talla correcta y no resulte grande o chica.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/51kvtmEcHJL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/41g7OJxOjPL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Hau A.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Singapore on September 28, 2021",
+                "reviewTitle": "Good but shirt smell so bad!",
+                "reviewText": "This is not the first time I've ordered these shirts, but this one had a very strong chemical smell when I pulled it out of the bag! Otherwise fits perfectly like my other CK shirts.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

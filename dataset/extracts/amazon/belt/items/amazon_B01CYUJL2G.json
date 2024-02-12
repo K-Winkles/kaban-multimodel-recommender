@@ -1,0 +1,564 @@
+{
+    "remaining_requests": 14785,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Marino-Avenue-Genuine-Leather-Ratchet/dp/B01CYUJL2G",
+    "body": {
+        "name": "Marino Avenue Ratchet Belt for Men. Adjustable Leather Dress Belt with 38 Easy to Click Into Place Ratchet Closures.",
+        "price": "$23.99 - $24.99",
+        "originalPrice": "",
+        "rawPrice": 23.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Marino-Avenue-Genuine-Leather-Ratchet/dp/B00XT0RYT8",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B00XT0RYT8"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B01CYUJL2G",
+                "variationName": "Color",
+                "variationValue": "Charcoal Depiction - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41951m1VS1L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01N58W8IF",
+                "variationName": "Color",
+                "variationValue": "Charcoal Depiction - Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Fw34cq3hL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07613CXHH",
+                "variationName": "Color",
+                "variationValue": "Charcoal Depiction - Burnt Umber",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41pJLvjEjPL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07V5PZXKV",
+                "variationName": "Color",
+                "variationValue": "Crafted Mason - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410yhpXL3tL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07V5PXTG3",
+                "variationName": "Color",
+                "variationValue": "Crafted Mason - Burnt Umber",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jaJGzb79L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07V3N6V8F",
+                "variationName": "Color",
+                "variationValue": "Eclipsed Chevron - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41eXSVflNIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07V5PY8HB",
+                "variationName": "Color",
+                "variationValue": "Eclipsed Chevron - Burnt Umber",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/412nFgqiX8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01MAW0977",
+                "variationName": "Color",
+                "variationValue": "Frosted - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/515V3zAlaVL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07612H24M",
+                "variationName": "Color",
+                "variationValue": "Gold Vintage - Burnt Umber",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51NbQJvkvcL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B076GQY2G3",
+                "variationName": "Color",
+                "variationValue": "Gold Vintage - Mahogany",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41mBI99NlIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0844JJYB8",
+                "variationName": "Color",
+                "variationValue": "Grungy Metal - Walnut",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41lv-wfUDaL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08NB3X3M7",
+                "variationName": "Color",
+                "variationValue": "Gunblack - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51KBrF2iQIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08N9WDJPF",
+                "variationName": "Color",
+                "variationValue": "Hazed Checkerboard - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51yACBjzCxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08HJKSWMN",
+                "variationName": "Color",
+                "variationValue": "Imperial Rank - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41IFgt7yLpL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08HHD47LT",
+                "variationName": "Color",
+                "variationValue": "Imperial Rank - Burnt Umber",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51PQYrAnOYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0844K96WV",
+                "variationName": "Color",
+                "variationValue": "Open Grid - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41fAVycxmkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01MZARHMO",
+                "variationName": "Color",
+                "variationValue": "Open Grid - Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LggrftcdL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00XT15N7M",
+                "variationName": "Color",
+                "variationValue": "Panel Striped - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/513YIOnJJML._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07TCN7KF9",
+                "variationName": "Color",
+                "variationValue": "Pattern Design - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Penb9eKQL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08NB9D1QZ",
+                "variationName": "Color",
+                "variationValue": "Stony Matte - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41m5LU+8RZL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07VBGRKCT",
+                "variationName": "Color",
+                "variationValue": "Stony Matte - Navy Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wOBNo5F8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B082MS5FS1",
+                "variationName": "Color",
+                "variationValue": "Twill Weave - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51nQBvw2AlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08NBCRMQK",
+                "variationName": "Color",
+                "variationValue": "Twill Weave - Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/518jGJDzP6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01CYUJINI",
+                "variationName": "Color",
+                "variationValue": "Checkboard - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41A2oEpK0yL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08N9YNDWS",
+                "variationName": "Color",
+                "variationValue": "Gold Vintage - Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51V9ZfuydbL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09PMPRS9V",
+                "variationName": "Color",
+                "variationValue": "Grungy Metal - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51VKHHPAOgL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07VGTHWYW",
+                "variationName": "Color",
+                "variationValue": "Grungy Metal - Tan",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41pv+zyfSkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01MUBOVDR",
+                "variationName": "Color",
+                "variationValue": "Lozenge Imprint - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/514WcMEQC2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01MY98375",
+                "variationName": "Color",
+                "variationValue": "Lozenge Imprint - Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51F1NtlvyiL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B071G8LNMC",
+                "variationName": "Color",
+                "variationValue": "Lozenge Pattern - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/412H1cF16sL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08HHD5762",
+                "variationName": "Color",
+                "variationValue": "Obsidian Sky - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sHi0GxzIL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0856V2YSF",
+                "variationName": "Color",
+                "variationValue": "Charcoal Depiction - Tan",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41mHljLjrgL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08N9NGVYD",
+                "variationName": "Color",
+                "variationValue": "Diamond Cut - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41otPaNXBPL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0157JGF2K",
+                "variationName": "Color",
+                "variationValue": "Obsidian - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/416XMw4GpqL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01CYUJL2G",
+                "variationName": "Size",
+                "variationValue": "Adjustable from 28\" to 44\" Waist",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01CYUJLSA",
+                "variationName": "Size",
+                "variationValue": "Adjustable from 38\" to 54\" Waist",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B081K5JX5L",
+                "variationName": "Size",
+                "variationValue": "Adjustable from 48\" to 64\" Waist",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41951m1VS1L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41LikvQC-SL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41gO-U2GYLL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41VRDTwGqUL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41vv7U9UNSL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51eFcWL8m7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31UpDCx YTL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a808d780-20f9-4107-9290-24acff384f32/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Marino Avenue Store",
+            "link": "https://www.amazon.com/stores/MARINOAVENUE/page/9D8CA897-B932-49CF-B872-2B889A83A6CA?ref_=ast_bln"
+        },
+        "brand": "MARINOAVENUE",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 12976,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type Genuine Leather",
+            "EASY USE - Just slide the belt to tighten and lift the buckle to release! Extremely easy to use! [See Video]",
+            "MAXIMUM DURABILITY - Every belt is carefully crafted with fine high quality leather 1.25\" wide, and a zinc alloy scratch resistant buckle made to last.",
+            "ADJUSTABLE FIT \u2013 Out belts provides 38 unique adjustments. Plus, an easily removable buckle that allows you to cut the belt to your ideal size.",
+            "PERFECT GIFT! \u2013 All of our men\u2019s belts are enclosed in designer packaging that\u2019s for sure will make a big impression!.",
+            "RISK-FREE PURCHASE! \u2013 Our mission is for you to be fully satisfied. Therefore, we offer free exchange and returns any time without hesitation."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Accessories",
+                "link": "https://www.amazon.com/Mens-Accessories/b/ref=dp_bc_aui_C_3?ie=UTF8&node=2474937011"
+            },
+            {
+                "name": "Belts",
+                "link": "https://www.amazon.com/Mens-Belts/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2474947011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Is Discontinued By Manufacturer \u200f",
+                "value": "\u200e No"
+            },
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 5.4 x 5.4 x 2.8 inches; 12.63 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 109-M"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e April 15, 2016"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B01CYUJL2G"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#23,665 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #138 in Men's Belts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 12,976 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Previous page How to take your look to the next level? Style Tip: For a sophisticated look we recommend matching leathers the Belt, Shoes and Watchband Keep it Subtle Mio Marino mens leather belt has a timeless classic look and pairs well with jeans Suit Up Create a refined look with our dress belt for men Built for Business Goes well with a button-down shirt and the brown belt matches the color palate of khakis or chinos Next page 1 Elevate Your Outfit 2 Everyday Ensemble 3 Dress to Impress 4 Business Casual",
+                "media_link": []
+            },
+            {
+                "media_text": "What's in the Box? A brief rundown on the contents and quick assembly of our ratchet belt. Where to Trim for a Tailored Fit? Our mens belt features individual cut marks for easy cutting and insuring the belt fits perfectly to your specific waist size. How it Works? The simple and intuitive design makes adjusting the belt a breeze, lift the clasp to loosen and pull the belt to tighten. Yes, it really is that easy. Take Your Wardrobe to the Next Level Look your best with our wide line up of mens belts. Match any style, any outfit, stay classy and always dress to impress. Why we are Leading the Industry Forward Why switch to the Mio Marino Belt? One word: [Adaptation] we have improved the function and longevity over the traditional belt for 7 years and counting, but don't take our word for it. Look at the customer reviews and decide if we are worth the investment.",
+                "media_link": []
+            },
+            {
+                "media_text": "Over 200 Styles to Choose from Mio Marino Belts Brushed Metal - Mahogany Charcoal Depiction - Black Bristle Brushed - Oxblood New Ratchet Belt with Lever This buckle has a small button on the bottom of the belt, & scratch resistance Linxx Black Leather Dress Belt Brushed zinc alloy for optimum durability and scratch resistance. Men's Oxblood Slide Belt Simply lift the buckle for a smooth release and pull the belt tight when needed Brown Leather Finish Pairs well with brown leather boots or dress shoes and a silver watch Black Hide Texture Charcoal Depiction couples well with a tux or black suit & black dress shoes Oxblood Known as Burgundy this belt is unique and pairs well with a Maroon style jacket",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e987b364-35ad-40e1-8ffd-fdc8ca540c75.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f747f6a2-4a94-47d6-ae68-e3ab3139fc5e.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7d7ba4ab-c932-47fe-817c-7e47162fdbb3.__CR0,0,600,450_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Checkout All of our Fashion Forward Essentials at Affordable Prices",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aaa80d87-3fee-48d6-89c0-68491f634bfd.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8a888659-1698-424d-8551-c4ee308f4bae.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6515fb47-b8b8-46b4-a68a-92354ebb5d3f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c13f3e29-f224-4537-a28f-04e5defb9e1a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0e4885e8-e306-4b2f-9865-c410f9ccd888.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e17579cb-3816-4690-8348-7d0fa0cf431f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e987b364-35ad-40e1-8ffd-fdc8ca540c75.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f747f6a2-4a94-47d6-ae68-e3ab3139fc5e.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7d7ba4ab-c932-47fe-817c-7e47162fdbb3.__CR0,0,600,450_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aaa80d87-3fee-48d6-89c0-68491f634bfd.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03274285-ffe0-482a-bfc0-f120cf91b51f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "mike",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEYX7SXVQGI7TMBA2T7VF5OUY3OQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2LUEGQUJHT1LM?ASIN=B00XT0RYT8",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 6, 2019",
+                "reviewTitle": "5.0 out of 5 stars A well-built item sold for a fair price.",
+                "reviewText": "The company has a range of styles and colors of belt/buckle combinations to choose from (They actually sell a bunch of men\u2019s and women\u2019s accessories and gifts, but I\u2019m only reviewing the belt I bought). For the money, it seemed like a reasonable purchase, but I was unsure about the ratchet mechanism for the belt. This item arrived quickly after I ordered it and I had no issues at all with the shipping or delivery.The packaging of this item promised high quality. The company could easily have just wrapped the belt up in a rubber band or a cheap twisty tie, thrown the buckle in a plastic bag then dumped the whole thing in a nondescript box filled with packing peanuts and sent it on its way. Instead, the packaging was, well, kind of elegant. The cardboard box was decorated inside and out with a tasteful nautical theme. The belt, buckle, and even the bonus key chain were all secured in hard, smooth styrofoam organizer fittings inside the box that kept them secure in transit but also gave a presentation that was simple but also made me feel like I had been given a to-go box from the haberdashery in the Kingsman movie. I\u2019m kind of old-fashioned and I like a company that goes the extra mile for things like this. To me, it speaks to the company\u2019s commitment to excellence, not just for the product, but for every aspect of the consumer experience. So, from ordering to opening, high marks all around.Delving inside the box I was impressed with the quality of the items. The buckle was made from sturdy metal and the pattern on the face of it demonstrated quality craftsmanship. The belt itself was real leather too with subdued but hearty stitching around the edges and also anchoring the belt\u2019s half of the LiNXX\u2122 ratcheting mechanism. Both looked just as good as the pictures online.The buckle and belt need to be assembled before being worn, so it could be adjusted to the waist size of the wearer. The company tries to make this process as painless as possible by putting size reference markers on the inside of the belt, clearly showing where someone should cut (The belt I bought had markers from 30 inches up to 44 inches). I had to get a heavy duty set of cutting shears for this job because, as I said, this material is tough. That being said, I appreciated that the belt did not flake or crumble during the cutting process, which would indicate a poor material. Some other belts I\u2019ve purchased in the past that also said they were made with \u201cgenuine leather\u201d were poorly made leather/plastic hybrids that just cracked and peel from normal use after as little as a few weeks. This material stood up to being cut directly into it and either side of the cut looked just as out of the box perfect as before I cut it. All that being said, it made the next step a little tricky.Once the belt had been cut to the appropriate length, it had to be inserted into the buckle and attached via a spiked pedal that had to be pressed firmly to push the spikes into the leather of the belt. The pedal has to become flush with the rear side of the buckle in order for the spikes to completely penetrate the leather, for the belt to be worn comfortably, and so the belt will be completely secured to the buckle. Like most men, I fall squarely between the extremes of \u201cmanly man\u201d and \u201cwimp\u201d, and pushing the pedal\u2019s spikes through the leather belt is hard to do, especially without scratching up the front part of the buckle. I found it helpful to wear some workman\u2019s gloves to add some extra purchasing leverage for my hands. Once I got the spikes fully seated, I was convinced the belt wouldn\u2019t fall apart while holding up my pants.The LiNXX\u2122 mechanism for the buckle that ratchets the desired tightness of the belt onto the wearer seems to work as promised. Inside the belt, there is a plastic strip sewn into the leather that\u2019s approximately 6 inches long and 1/3 of an inch wide. The strip has a series of wedges on it that friction lock against a clip on the buckle which creates the ratcheting mechanism that enables the belt to not need holes in it. Upon first trying it, I was a little apprehensive. I have a concealed weapon permit and sometimes I carry a firearm with me. I was concerned that LiNXX\u2122 wouldn\u2019t be robust enough to support the weight of a firearm, but it locks in very securely and I have no issues carrying the extra weight on my hip. My only concern so far is that the buckler can be a little sensitive to unlocking. So far, I have had two occasions where I was adjusting the waistband of my pants and the mechanism unlocked, loosening my waistband for a moment. It locked into place on the next notch and my pants were never at risk of falling down, it was just surprising. This has only happened when I was adjusting my waistband near the buckle, and never when just casually moving around or bumping into things. So, it seems that as long as I only put my hand on the buckle when I intend to loosen my pants, there isn\u2019t an issue.This isn\u2019t necessarily a knock against the belt, it just makes me concerned about long term wear on this mechanism. I\u2019ve got an old school belt, the kind with holes notched into it, that I\u2019ve had for almost 20 years now and it still works great. The only reason why I needed to replace it was that the buckle has become (out)dated, or so it has been explained to me. I just wonder if the mechanism on the Mio Marino belt will endure as well as my former belt. After I\u2019ve worn the belt for a while, I\u2019ll provide an updated review in regard to its endurance.The belt also came with a leather key chain set that appears to be made with the same high-quality materials and workmanship as the belt and buckle. It\u2019s essentially a 2-inch leather strap with 3 small snap clip hooks on one end for keys and a larger snap clip hook on the other to attach to a belt loop. While I didn\u2019t need this item, it was a nice bonus and I can include reviews of this item later if anything noteworthy is observed.I can\u2019t speak directly to the company\u2019s customer service yet. They reached out to me by email to see if I had any questions, problems, suggestions, or concerns with my purchase and encouraged me to write a review for the product. It seemed like a form letter but it\u2019s still encouraging to see a business actively seeking feedback.Overall, the product seems to be a well-built item sold for a fair price by a company that takes itself and its prospective customers seriously. Before, I was skeptical but curious. But since I had such a positive buying experience, now I think I\u2019ll be going back for another belt in a different color.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Patrick McKay",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE6CYPHIDVKMHOMIYGW3DGUUY6AA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RI51MSEL1HQBZ?ASIN=B00XT0RYT8",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 8, 2018",
+                "reviewTitle": "5.0 out of 5 stars The Marino - The Premier Ratchet Belt",
+                "reviewText": "There are quite a few ratchet belt candidates out there, but I decided to try my first Marino back in July 2016 after some poor results from a ratchet belt from another manufacturer. Each Marino belt comes in a very elegant box, which is perfect for gifting. I am selfish and bought them solely for myself. Since I am unwilling to share my belts, I will share my humble opinion insteadThe review I am writing today is for my third Marino purchase, bought in October 2018. That in itself should be an indication of my opinion of this product. Each belt I have purchased has been a different style (in both belt and buckle) and each continues to serve me well.I use these belts with everything: shorts, jeans, khakis, and dress pants. In particular, it\u2019s very important for me to maximize comfort during formal events because, typically, most of my attire is built for appearance rather than comfort. Having a comfortable belt during these uncomfortable situations is a must. The Marino fits that requirement precisely.The belt buckle, once secured properly, stays in place and does not become loose, but is not difficult to remove if you need to trim down the belt or switch out the buckle itself. Having the belt buckle come loose during your day-to-day is the last thing you want. I have experienced this with other ratchet belts and it is infuriating, especially when the buckle falls off during an inconvenient time, such as while in a public restroom\u2026 into the urinal. But let us not dwell on the horrors of the past and, instead, look to the future. Marinos are the go-to for ratchet belts because they're durable, they look fantastic, and they have an excellent price especially given their exceptional quality.So why a ratchet belt over a traditional belt? In general, a ratchet belt allows for the perfect fit with the ability to make smaller incremental adjustments. This is very helpful if want to quickly and easily adjust your comfort level during the day, if you\u2019re focusing on weight loss, or need to adjust the belt after eating 5 lbs of bacon and cheese during a very dark period in your life. I also find that a ratchet belt has a much smoother on/off process and less degradation in the leather itself as a result of the tightening/loosening process.I highly recommend a ratchet belt and, to fulfill that need, I highly recommend the Marino.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Joann Pierce",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFD5J72UG23UHOUMTQEB7P2U3QKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2U06CR1ESQEQJ?ASIN=B00XT0RYT8",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 23, 2023",
+                "reviewTitle": "5.0 out of 5 stars It fits!",
+                "reviewText": "Any man can tell you it's hard to get your belt to fit just right! These belts can give you a exact fit,that is also adjustable during the time you wear it. The buckel is easy to operate,you just have to pull it up to get it to release,there isn't one of those hard to open catches,like similar belts like this have. Is durable,and looks good too. Not too thin or thick. You can cut length of belt if too long also. Love my belt!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "NLO Mark",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGNBQY5PUIZHEQ3L3CR7PFZEPN2A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R22TNWR7J9YC1X?ASIN=B00XT0RYT8",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 21, 2021",
+                "reviewTitle": "4.0 out of 5 stars Great product and excellent support",
+                "reviewText": "I bought this belt over 3.5 years ago and love its look, design and functionality. The ratcheting mechanism works well and allows for fine tuning when my waist expands after big meals, making the fit perfect all the time. This great functionality does not compromise the sleek look of the belt, nor the elegance of the buckle. A month ago, the leather strap split. I notified customer support and the next day I got an email asking me to confirm my address. A week later, I got a replacement strap. All my future belts will be Mio Marinos.****updated on 8/4/23***.I recently purchased another one of these belts and the ratchet mechanism would slip too easily when bumped. I returned it for an exchange and promptly got the replacement. It also slipped so I just returned it for a refund. I then ordered a different style and found the ratchet slipped too, but not quite as badly as the others, so I kept that one. Seems that quality control has slipped since COVID. I have therefore dropped my rating to 4 stars. Too bad because I really like these belts and hope the issue will be fixed in the future.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 11, 2024",
+                "reviewTitle": "Excelente calidad",
+                "reviewText": "Me gusto mucho, tuve que cortarle un pedazo para ajustarlo, pero tiene una calidad muy buena, me gust\u00f3 mucho y seguro comprar\u00e9 otras opciones.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Drummer Al",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on December 15, 2023",
+                "reviewTitle": "Very good belt",
+                "reviewText": "Very good belt. Buckle works well on ratchet.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Good quality",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in India on August 16, 2023",
+                "reviewTitle": "Comfirtable",
+                "reviewText": "Very nixep",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mr H",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in France on April 5, 2018",
+                "reviewTitle": "tr\u00e8s bon produit",
+                "reviewText": "Tr\u00e8s bonne qualit\u00e9. Se coupe pour atteindre la taille id\u00e9ale. R\u00e9glage tr\u00e8s pr\u00e9cis gr\u00e2ce \u00e0 un sisteme \u00e0 cliquet. Bon rapport qualit\u00e9 prix",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "\u3057\u3085\u309338",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Japan on November 29, 2023",
+                "reviewTitle": "\u4f7f\u3044\u6613\u3044\u3067\u3059\u3002",
+                "reviewText": "\u30d9\u30eb\u30c8\u3092\u7de0\u3081\u308b\u3001\u30d9\u30eb\u30c8\u3092\u5916\u3059\u3001\u3069\u3061\u3089\u3082\u697d\u3067\u3059\u3002",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

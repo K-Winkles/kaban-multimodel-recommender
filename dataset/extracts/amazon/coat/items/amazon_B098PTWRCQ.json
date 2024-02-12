@@ -1,0 +1,511 @@
+{
+    "remaining_requests": 13363,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Ebifin-Double-Breasted-Trench-Peacoat/dp/B098PTWRCQ",
+    "body": {
+        "name": "Ebifin Men's Notch Lapel Double Breasted Long Trench Coat Casual Cotton Blend Peacoat",
+        "price": "$79.99",
+        "originalPrice": "",
+        "rawPrice": 79.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Ebifin-Double-Breasted-Trench-Peacoat/dp/B098PTST3V",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B098PTST3V"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B098PVCYZ5",
+                "variationName": "Color",
+                "variationValue": "Army Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31NqAOG38RS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B098PTWRCQ",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31BuyDikRBS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B098PVYV9P",
+                "variationName": "Color",
+                "variationValue": "Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41-IHUThHnS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B098PW8WCY",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31hG-VfwUKS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B098PTSCXK",
+                "variationName": "Color",
+                "variationValue": "Khaki",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gbWiMVifS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B875NSH8",
+                "variationName": "Color",
+                "variationValue": "Light Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31WuCBGnBcL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B8767344",
+                "variationName": "Color",
+                "variationValue": "Red-brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31T9pVZ+25L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B098PTT688",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/315LGYCL7YL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B098PVF7RL",
+                "variationName": "Color",
+                "variationValue": "Wine Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31LZ0HyIR2S._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09PBMH5SZ",
+                "variationName": "Color",
+                "variationValue": "Z-black&white",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51P3jPvG5iL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B876BQ42",
+                "variationName": "Color",
+                "variationValue": "Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31cm9wV3XTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B098PWK55T",
+                "variationName": "Color",
+                "variationValue": "Navy Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31hIkpBCIXS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B874P6XZ",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Pr2rAYBBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B874S2NN",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31VcEGkC59L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B098PVLC7R",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098PTWRCQ",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098PV1PYN",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098PVMX52",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B098PVD941",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31BuyDikRBS.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31NfT TuspL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31q1-7PzvxL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41k1Zs528kS.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/91 jTW8VB L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/9178U27zS7L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61FJReK1ykL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6875f06f-f09e-4393-b0d1-3f16bb08a24f/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4d154ffa-29f7-4018-b4ba-225655437f56/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/47ff1910-0540-4f47-8053-e5256b5b3a7b/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dfb6d400-713b-42bc-9394-d70b9db56e9e/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 4,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Ebifin Store",
+            "link": "https://www.amazon.com/stores/Ebifin/page/385B434E-4D13-4735-B8C3-523859CCE159?ref_=ast_bln"
+        },
+        "brand": "Ebifin",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 2057,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 78% Polyester/16% Rayon/6% Spandex.",
+            "Care instructions Dry Clean Only",
+            "Origin Imported",
+            "Material: 78% Polyester, 16% Rayon, 6% Spandex. It's stretchable, soft and comfortable, provide you a pleasing wearing experience.",
+            "Features: Long overcoat, long sleeve pea coat, classic turn down lapel collar, front double breasted closure and two side pockets. The woolen jacket is casual chic and never out of date.",
+            "This mens long sleeve outwear soft to the touch for comfy wearing, cotton blend feels terrific all day long.",
+            "Suitable Occasion: Modern design overcoat for spring, fall and cold winter, suitable for business casual, daily wear, office, work, date, party, travel, street, etc. Looking handsome while retaining ease of movement and added comfort.",
+            "Garment Care: Hand wash recommended / Hang or Line dry/ No bleach/ No machine wash."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jackets & Coats",
+                "link": "https://www.amazon.com/Mens-Jackets/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045830"
+            },
+            {
+                "name": "Wool & Blends",
+                "link": "https://www.amazon.com/Mens-Wool-Jackets-Coats/b/ref=dp_bc_aui_C_5?ie=UTF8&node=2476613011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 11.89 x 10.71 x 4.21 inches; 3.02 Pounds"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 6, 2021"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B098PTHZVD"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#27,054 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #8 in Men's Wool Jackets & Coats"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 2,057 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "EBIFIN Men\u2018s Long Trench Coat Casual Peacoat Overcoat",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5b93e961-b211-4edf-805c-ae3a12673d32.__CR0,0,2196,900_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Stylish Business Long Trench Topcoat for Men",
+                "media_link": []
+            },
+            {
+                "media_text": "Previous page Next page 1 MODEL SHOW 2 MULTIPLE COLORS",
+                "media_link": []
+            },
+            {
+                "media_text": "Previous page Next page 1 Buyers Show 2 Show Your Sytle",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5b93e961-b211-4edf-805c-ae3a12673d32.__CR0,0,2196,900_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aee8b48b-9b37-46de-afc9-e4fae51562e9.__CR0,0,2196,900_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2d2b1144-e169-47c1-8437-3884ae623ec4.__CR0,0,2196,900_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f33118e3-0231-4dc4-ad66-a707005a5c92.__CR0,0,2196,900_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8551a999-1351-4444-83d4-9b3b1dd0ef88.__CR0,0,2196,900_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5f48839e-f632-4815-b950-73357e13fabe.__CR0,0,2196,900_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/74d8cfe5-f308-4acf-b90d-b857e4ff815d.__CR0,0,2196,900_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Dannie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF3W62CHQ6CY6QVFT2YMOLLWYYQQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RYFVSHSYPDH6B?ASIN=B098PTST3V",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 17, 2024",
+                "reviewTitle": "5.0 out of 5 stars The styling Presents very well on you",
+                "reviewText": "The product is made of good quality blend materials that make the feel of the coat exquisite. The styling of the top coat is very dressy and would make any outfit look good. Double breast design is very upscale! I bought the white, dark grey, and wine colors!!",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Curtis MooreCurtis Moore",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHXQN4QTY7EZTY2KE535QXHQKRNQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3D3DMAE3T7WP0?ASIN=B098PTST3V",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 23, 2023",
+                "reviewTitle": "5.0 out of 5 stars Warm and cozy",
+                "reviewText": "I love this coat it's very fashionable and it's warm. I noticed it looks different depending on your body type and the size you get.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61bHaZ7-hXL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81BNQ2UA6lL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81pPomadeNL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "paul milner",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AELK7MAC6OUVDBX43R5FUUETRDFQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R339MTCQ3TGWAX?ASIN=B098PTST3V",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 31, 2023",
+                "reviewTitle": "5.0 out of 5 stars Awesome coat!",
+                "reviewText": "I didn't think I would like this coat as much as I do! Very soft fabric, lightweight but still warm enough, and I just love the style. Worked great for my holiday self portraits.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Janet Pescador",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHBP6CC5KJXFLF2JK3YOBJ6MCCKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RMF1UDOCFNOQF?ASIN=B098PTST3V",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 9, 2024",
+                "reviewTitle": "4.0 out of 5 stars It is beautiful and very long",
+                "reviewText": "I loved the fact that the fabric and coat were very well made but had to return it because measurements are not true!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Meg Lyon",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGW64Y3OTA45YBENVP6XVIHI2BJA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2M7EZXYHG6GPO?ASIN=B098PTST3V",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 2, 2023",
+                "reviewTitle": "5.0 out of 5 stars Very nice for the price",
+                "reviewText": "Bought this as a gift, and it looks great. Has good weight and a velvety texture, but is machine washable. It\u2019s a little thin, but provides good cover over layers and can keep you very warm. The recipient loves it and it\u2019s their new daily coat!",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "shari l le may",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGIUZ3V64HIR4L22UAHLCGPGZ4LA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3TRACWMLJH8WX?ASIN=B098PTST3V",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 20, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice weight to it.",
+                "reviewText": "It was perfect. Heavy mateial. Great fit. Love it",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEUV33NOQXTFNLKNJVJLZKE2A6UA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RBDAJX3TD5GBN?ASIN=B098PTST3V",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very nice",
+                "reviewText": "It's a beautiful coat the only issue was the sleeve where not long enough",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cortez WashingtonCortez Washington",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHPPNGNZRIYPUBMR3FTBPTTF62WQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R102TDF2W333CD?ASIN=B098PTST3V",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 16, 2023",
+                "reviewTitle": "4.0 out of 5 stars Business Professional Look",
+                "reviewText": "I\u2019m 6\u20194, 230 pounds and I ordered the XL. This peacoat delivers on the professional and tailored look that I represent in my line of work. It\u2019s affordable, warm, tailored, stylish, and the material is of a respectable quality. 4 \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f out 5 because everything has room for improvement.",
+                "reviewVotes": "13 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81KMOQDKcNL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81LQDMM-liL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81uQ0uv3G9L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Chuck BastieChuck Bastie",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 29, 2023",
+                "reviewTitle": "Happy Purchase",
+                "reviewText": "The colour is amazing. Its not a pink and not a salmon, and its truly distinct. I've gotten a lot of good feedback from people when I wear it. I wish I had this overcoat in all colours.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61-DvnBCH3L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Erick Gonzalez",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 15, 2023",
+                "reviewTitle": "Excelente",
+                "reviewText": "La tela y la calidad es excelente, la gabardina se ve preciosa despu\u00e9s de llevarla a limpiar y planchar, a tener en cuenta que por el env\u00edo llega arrugada y con detalles menores de marchitas por el mismo env\u00edo.Pero una llevada a lavar en seco y es una prenda de primera calidad.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Steve",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on December 24, 2023",
+                "reviewTitle": "Comfortable to wear",
+                "reviewText": "This overcoat is comfortable and great to wear.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "DILEUSA DE ALMEIDA",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 1, 2023",
+                "reviewTitle": "Classy and warm",
+                "reviewText": "My husband just received I bought as a present. He is very happy the coat fits as expected the material is excellent and s so classy well made overall is fabulous .He said I have to get others colours.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gisselle Elizabeth Pineda Palma",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on September 27, 2022",
+                "reviewTitle": "Excelente calidad",
+                "reviewText": "Es tela ripo gabadi6, de buena calidad, queda perfecto es impermeable y tiene buenos terminados en botones y costuras.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,534 @@
+{
+    "remaining_requests": 16992,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Hey-Dude-Leopard-Comfortable-Light-Weight/dp/B0BR8F3NYW",
+    "body": {
+        "name": "Hey Dude Women's Denny Shoes Multiple Colors",
+        "price": "$49.98 - $52.49",
+        "originalPrice": "",
+        "rawPrice": 49.98,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Hey-Dude-Womens-Multiple-Colors/dp/B0CJ7MSMKR",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CJ7MSMKR"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0BR8DSZNQ",
+                "variationName": "Color",
+                "variationValue": "Black/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41aUULQvaqL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BR8DL8X2",
+                "variationName": "Color",
+                "variationValue": "Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DaoYYg8UL._SS47_.jpg"
+            },
+            {
+                "asin": "B09QLJL9ZT",
+                "variationName": "Color",
+                "variationValue": "Marshmallow Dream",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4155uYPyuzL._SS47_.jpg"
+            },
+            {
+                "asin": "B09LJYJ4VR",
+                "variationName": "Color",
+                "variationValue": "Confetti Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410lJRizraL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BR8DLQ3M",
+                "variationName": "Color",
+                "variationValue": "Leopard",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31FjMPPiERL._SS47_.jpg"
+            },
+            {
+                "asin": "B09LJNBRYD",
+                "variationName": "Color",
+                "variationValue": "Sparkling Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31d5cGxYJiL._SS47_.jpg"
+            },
+            {
+                "asin": "B09LK63MND",
+                "variationName": "Color",
+                "variationValue": "Tie Dye Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Yb1xzFyJL._SS47_.jpg"
+            },
+            {
+                "asin": "B08S8W4264",
+                "variationName": "Color",
+                "variationValue": "Chestnut",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41yQFOGfAuL._SS47_.jpg"
+            },
+            {
+                "asin": "B09LJWCGGX",
+                "variationName": "Color",
+                "variationValue": "Leo Taupe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Dq1e+V47L._SS47_.jpg"
+            },
+            {
+                "asin": "B08S9QL3FW",
+                "variationName": "Color",
+                "variationValue": "Marble Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31IB8-ivF0S._SS47_.jpg"
+            },
+            {
+                "asin": "B09NF86MV5",
+                "variationName": "Color",
+                "variationValue": "Stone Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41hYp4M5wvL._SS47_.jpg"
+            },
+            {
+                "asin": "B08SNWH7L2",
+                "variationName": "Color",
+                "variationValue": "Leo Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sZpIdZ0rL._SS47_.jpg"
+            },
+            {
+                "asin": "B08S9QKBWB",
+                "variationName": "Color",
+                "variationValue": "Sleet",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41T2-rT2d0S._SS47_.jpg"
+            },
+            {
+                "asin": "B09NF6SXYK",
+                "variationName": "Color",
+                "variationValue": "Python Tan",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/416VF1PvnfL._SS47_.jpg"
+            },
+            {
+                "asin": "B08S8W411S",
+                "variationName": "Color",
+                "variationValue": "Tan",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Ab03LoEWL._SS47_.jpg"
+            },
+            {
+                "asin": "B09QLJJPNX",
+                "variationName": "Color",
+                "variationValue": "Moon Dream",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41aGYpg5IUL._SS47_.jpg"
+            },
+            {
+                "asin": "B09NF5MJPP",
+                "variationName": "Color",
+                "variationValue": "Chevron Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Zd0OlwlEL._SS47_.jpg"
+            },
+            {
+                "asin": "B08WRSBRW2",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wSW1FsgwL._SS47_.jpg"
+            },
+            {
+                "asin": "B08S96ZXK4",
+                "variationName": "Color",
+                "variationValue": "Brown and Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41McKuN+E+L._SS47_.jpg"
+            },
+            {
+                "asin": "B09NF6SJ5G",
+                "variationName": "Color",
+                "variationValue": "Nut",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rP1ULo2rL._SS47_.jpg"
+            },
+            {
+                "asin": "B09NF4VRC3",
+                "variationName": "Color",
+                "variationValue": "Coffee",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31id-TMwMNL._SS47_.jpg"
+            },
+            {
+                "asin": "B09NF68GRS",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41eIt11eoML._SS47_.jpg"
+            },
+            {
+                "asin": "B0BR8F3NYW",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BR8CGV5X",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BR8DKRHC",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BR8DLQ3M",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BR8FJFLK",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BR8CFY9W",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BR8FB2CQ",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BR8DYP4R",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31FjMPPiERL.jpg",
+        "images": [],
+        "imagesCount": 1,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Hey Dude Store",
+            "link": "https://www.amazon.com/stores/HEYDUDESHOES/page/5FD6619D-918F-4405-B793-E326D8C34C69?ref_=ast_bln"
+        },
+        "brand": "HEYDUDESHOES",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 3362,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Sole material Rubber",
+            "Shaft height Ankle",
+            "Outer material Canvas",
+            "Closure type Slip-On",
+            "Rounded Toe Design and Flex & Fold: This supports healthy feet with its unique shape giving complete freedom of movement. The Hey Dude Denny Women\u2019s winter Boots Comfortable & Light-Weight will be an instant favorite in your casual boot collection and are the perfect women\u2019s winter boots.",
+            "Comfortable Durable High-Quality Material: With a focus on being relaxed for the day, you\u2019ll naturally impress with this Women\u2019s bootie that gives you a winter style combined with casual comfort. The Hey Dude Denny Women\u2019s Casual Boots hugs your feet just enough to stay warm with easy movement.",
+            "Lightweight: Manufactured using an elastic material that allows them to flex with the foot, resulting in a shoe that fits more uniformly. Each shoe is one of the lightest pairs of shoes around. The perfect Hey Dude Shoes for Women that you will surely love.",
+            "Perfect For Travel & On The Go: The removable memory foam cushioned insole provides maximum comfort and reduces sweating and odors. Machine Washable Friendly (Cold).",
+            "Shop with Confidence: Hey Dude products are backed by our 90-day manufacturer's warranty for high quality and authenticity. Terms and conditions apply"
+        ],
+        "description": "Slip into the moccasin-inspired bootie of your dreams. The Denny Collection features a slip-on style bootie, in a soft wool-blend upper and lined with a plush, faux fur.Shoe Specs:Textile upperLightweight outsoleFlexible outsoleEasy on systemTravel readyRemovable foam insolePlease note: There may be a slight variance in the product print, color or application due to different manufacturing methods used.Due to the resolution of your mobile and computer screens, actual color may vary.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Loafers & Slip-Ons",
+                "link": "https://www.amazon.com/Loafers-Slip-Ons-Womens/b/ref=dp_bc_aui_C_4?ie=UTF8&node=679404011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 12.05 x 9.45 x 4.41 inches; 1.1 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 40209-060"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e September 11, 2023"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Hey Dude"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0BR8F3PSW"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#11,143 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #88 in Women's Ankle Boots & Booties"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 3,362 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "BrErFr ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGECLEN56DT7OF2TGE5G24RVBMCQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1P88TMZIF6OOQ?ASIN=B0CJ7MSMKR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 28, 2024",
+                "reviewTitle": "5.0 out of 5 stars Beautiful \u2018Hey Dude\u2019 Boot",
+                "reviewText": "Beautiful Design. Beautiful Color.I typically wear a 9 but always size down to an 8; fit well and feel comfortable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "DebMac",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGDH2X6WMOVGCYSJXK7NS7Q4OACA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2X4DFJBIMAJS1?ASIN=B0CJ7MSMKR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "5.0 out of 5 stars So comfy and light",
+                "reviewText": "I like the comfort and the fact that they\u2019re so lightweight. I like the neutral color pattern that goes with so much. The heel area seems a little extra roomy but I wear socks so that helps. I wear 71/2 so I ordered a 7 and they fit well. Love them!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Shanda R Anderson",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGDT43X4VLM7PCXUJXB5AK2N3PCQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2SLOXSRGPL9SW?ASIN=B0CJ7MSMKR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "5.0 out of 5 stars So very comfortable and look great too!",
+                "reviewText": "So these are my second pair of Hey Dude ankle boots and i just love them. They are so comfortable and warm",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Shelli Verran",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHJ3TUB3P6G2EUKSB4CNXHZYRACA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RT831TJL8NOZ9?ASIN=B0CJ7MSMKR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 2, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great shoes",
+                "reviewText": "I love hey dudes!!! This boot is very stylish and comfortable",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Conni P.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEPKIF23VB6SISV3MQYRLIZ5JA4Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RRDSVQBQL24DQ?ASIN=B0CJ7MSMKR",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 26, 2024",
+                "reviewTitle": "4.0 out of 5 stars If you have the least bit of a high instep these may not be for you.",
+                "reviewText": "I love my other Hey Dudes and these boots are super cute! The color was as pictured and I couldn't wait to wear them. I was so disappointed that I had to send them back. Heres why:I don't have abmornally fat or wide feet but there is no elastic inset across the top of the boot so it took major pulling and tugging to get my foot in. I did a weeks worth of cardio just getting the right boot on my foot! Once it was on it was very comfortable and fit my foot properly so I tried to get the left one on. Well, that didn't work even with all the pulling and tugging and dragging an ancient \"shoe horn\" out of the back of my closet. Had to send the boots back. >:o(Bottom line, if you have ever had problems getting you foot down into any othere boots these might not work for you either. I gave 4 stars because they are so cute and looked to be well made. If Hey Dude ever updates this boot with some elastic inserts I would definitely give those a try.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Debra from Oklahoma",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFRIGJBNY24CHPVPQUU7GDECDGZQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14Q7WTOLP5D7A?ASIN=B0CJ7MSMKR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars First time wearing Hey Dudes",
+                "reviewText": "I really like the style and look of these shoes. They feel comfortable and I bought my normal size. However, my heel is slipping, so I have to use heel pads. The shoe length is not too long for me, because my toes are reaching the shoe's toe end. The heel area is too wide for my heel, yet the rest of the shoe is narrow like my feet. Anyway, hoping the heel pad fixes the issue, because I want to keep them for walking. It's my first experience with this brand, so I didn't know what to expect. I would definitely not order a smaller size, because then the entire shoe would be too small.Update: So, I put the heel pads inside the shoe. My heel still slips. To wear them I'm having to put a velcro strap over the top of foot all the way around the shoe. I have to say I rarely have this problem with unlaced shoes. I tried thicker socks, sole inserts, etc., but only the strap stops the slippage. I'm keeping the shoes, but I would not buy this particular shoe again. I might try a different Hey Dudes shoe.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lisa Kirk",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AED4XHXP2J5H55DPEHPU6CWDIEAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R273TLUE2JR2Y7?ASIN=B0CJ7MSMKR",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 19, 2024",
+                "reviewTitle": "5.0 out of 5 stars Warm",
+                "reviewText": "I thought this brand looks like house slippers but bought a couple pairs of the slip on loafers that I love. These were priced too cheap not to buy them. They are warmer than I expected. I can wear them with or without socks. The colors go with almost anything. They\u2019re comfy on my old lady feet but not made for walking all day, not enough support. I wouldn\u2019t pay full retail, but $31, yes!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Delyth Wells",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFOMY2CH6PDQ37GKICASB2GMLWQQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3S6OMIW2HFIDE?ASIN=B0CJ7MSMKR",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2024",
+                "reviewTitle": "3.0 out of 5 stars Super cute",
+                "reviewText": "Very comfortable and very cute however even though they're the perfect size the back of your heels will slide in and out of it when you walk. Had to return them because of that. Otherwise I love them",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 16, 2023",
+                "reviewTitle": "Very comfortable",
+                "reviewText": "I like this product enough that I now own about seven pairs of Hey dudes. They remind me of crocs but a lot better looking. Plus they seem to be no slip. I will keep buying them.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "LEOPOLD",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on January 26, 2024",
+                "reviewTitle": "super",
+                "reviewText": "Die Schuhe passen perfekt ,man kann sehr gut darin laufen.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dolores Delfino",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on December 28, 2023",
+                "reviewTitle": "Size DOWN. Lightweight. Good Quality",
+                "reviewText": "Loved these but too big. Do not buy larger than your shoe size!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "A.T.S",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Italy on December 9, 2023",
+                "reviewTitle": "Mi piacciono e sono comodissime!",
+                "reviewText": "Morbide, calde e leggere, le consiglio per chi vuole camminare bene e ama lo stile easy,Le trovo estroverse e eccentriche. Perfette per gente fuori dal coro.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mar\u00eda Fernandez",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Spain on December 7, 2023",
+                "reviewTitle": "Perfectas",
+                "reviewText": "Despu\u00e9s de 2 meses us\u00e1ndolas ya puedo escribir la rese\u00f1a.Las compr\u00f3 mi mujer porque despu\u00e9s de una operaci\u00f3n no se pod\u00eda agachar para calzarse y son super c\u00f3modas de poner, calientes y cuando llueve no resbalan ni le cala el agua.Hay veces que al llegar a casa no las quita de lo c\u00f3modas que son.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,857 @@
+{
+    "remaining_requests": 17865,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Gildan-Cotton-T-Shirt-G2400-Multipack/dp/B09S6W2289",
+    "body": {
+        "name": "Gildan Adult Ultra Cotton Long Sleeve T-Shirt, Style G2400, Multipack",
+        "price": "$10.55 - $139.33",
+        "originalPrice": "",
+        "rawPrice": 10.55,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Gildan-Cotton-Sleeve-T-Shirt-Multipack/dp/B09DPVPZHY",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09DPVPZHY"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "",
+                "variationName": "NumberofItems",
+                "variationValue": "12",
+                "price": "",
+                "variationImageURL": ""
+            },
+            {
+                "asin": "",
+                "variationName": "NumberofItems",
+                "variationValue": "2",
+                "price": "",
+                "variationImageURL": ""
+            },
+            {
+                "asin": "B09S6VVKGB",
+                "variationName": "NumberofItems",
+                "variationValue": "3",
+                "price": "",
+                "variationImageURL": ""
+            },
+            {
+                "asin": "",
+                "variationName": "NumberofItems",
+                "variationValue": "10",
+                "price": "",
+                "variationImageURL": ""
+            },
+            {
+                "asin": "B096W9D6VW",
+                "variationName": "Color",
+                "variationValue": "Black (10-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076831CCJ",
+                "variationName": "Color",
+                "variationValue": "Black (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6TNJJV",
+                "variationName": "Color",
+                "variationValue": "Black (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07683ZG47",
+                "variationName": "Color",
+                "variationValue": "Navy (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6XVSSS",
+                "variationName": "Color",
+                "variationValue": "Navy (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07682G3BM",
+                "variationName": "Color",
+                "variationValue": "Royal (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6WN1NZ",
+                "variationName": "Color",
+                "variationValue": "Royal (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076846XZS",
+                "variationName": "Color",
+                "variationValue": "Sport Grey (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6V7R3P",
+                "variationName": "Color",
+                "variationValue": "Sport Grey (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096W6RV96",
+                "variationName": "Color",
+                "variationValue": "White (10-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076831CBY",
+                "variationName": "Color",
+                "variationValue": "White (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6V5VSL",
+                "variationName": "Color",
+                "variationValue": "White (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096W66DP5",
+                "variationName": "Color",
+                "variationValue": "Charcoal (10-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096W71B5R",
+                "variationName": "Color",
+                "variationValue": "Dark Heather (10-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096W7WFS9",
+                "variationName": "Color",
+                "variationValue": "Navy (10-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096W91RCT",
+                "variationName": "Color",
+                "variationValue": "Red (10-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096W8QFTG",
+                "variationName": "Color",
+                "variationValue": "Royal (10-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096W7V18D",
+                "variationName": "Color",
+                "variationValue": "Safety Green (10-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096W8X42B",
+                "variationName": "Color",
+                "variationValue": "Safety Orange (10-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096W7J6RR",
+                "variationName": "Color",
+                "variationValue": "Sport Grey (10-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5FG5LY",
+                "variationName": "Color",
+                "variationValue": "Ash Grey (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6V7GYK",
+                "variationName": "Color",
+                "variationValue": "Ash Grey (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5GR8JZ",
+                "variationName": "Color",
+                "variationValue": "Carolina Blue (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6W5TFK",
+                "variationName": "Color",
+                "variationValue": "Carolina Blue (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07M9RS662",
+                "variationName": "Color",
+                "variationValue": "Charcoal (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6W6H5B",
+                "variationName": "Color",
+                "variationValue": "Charcoal (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076846XYV",
+                "variationName": "Color",
+                "variationValue": "Dark Heather (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6W4QC5",
+                "variationName": "Color",
+                "variationValue": "Dark Heather (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5HP5YL",
+                "variationName": "Color",
+                "variationValue": "Forest Green (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6V888X",
+                "variationName": "Color",
+                "variationValue": "Forest Green (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5FZW7F",
+                "variationName": "Color",
+                "variationValue": "Irish Green (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6VP65F",
+                "variationName": "Color",
+                "variationValue": "Irish Green (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5HP6G8",
+                "variationName": "Color",
+                "variationValue": "Light Blue (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6W3TSN",
+                "variationName": "Color",
+                "variationValue": "Light Blue (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5FTFNM",
+                "variationName": "Color",
+                "variationValue": "Light Pink (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6V7R3K",
+                "variationName": "Color",
+                "variationValue": "Light Pink (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6VPKS1",
+                "variationName": "Color",
+                "variationValue": "Maroon (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6VNBG4",
+                "variationName": "Color",
+                "variationValue": "Military Green (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5G88KY",
+                "variationName": "Color",
+                "variationValue": "Orange (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6VVKGB",
+                "variationName": "Color",
+                "variationValue": "Orange (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5HV5V8",
+                "variationName": "Color",
+                "variationValue": "Purple (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6TPL2P",
+                "variationName": "Color",
+                "variationValue": "Purple (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07683CN5Z",
+                "variationName": "Color",
+                "variationValue": "Red (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6TVQCX",
+                "variationName": "Color",
+                "variationValue": "Red (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07M9RS9SS",
+                "variationName": "Color",
+                "variationValue": "Safety Green (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6XB1T4",
+                "variationName": "Color",
+                "variationValue": "Safety Green (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07M9RRXRW",
+                "variationName": "Color",
+                "variationValue": "Safety Orange (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6VHDMB",
+                "variationName": "Color",
+                "variationValue": "Safety Orange (3-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4Z554L7",
+                "variationName": "Color",
+                "variationValue": "Ash Grey (12-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CM8XFKB2",
+                "variationName": "Color",
+                "variationValue": "Cardinal Red (2 Pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4Z7YG6Y",
+                "variationName": "Color",
+                "variationValue": "Carolina Blue (12-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CM8Y2P5W",
+                "variationName": "Color",
+                "variationValue": "Dark Chocolate (2 Pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C5MMNTM6",
+                "variationName": "Color",
+                "variationValue": "Forest Green (12-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CM8VCT3J",
+                "variationName": "Color",
+                "variationValue": "Gold (2 Pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CM97KYLM",
+                "variationName": "Color",
+                "variationValue": "Indigo Blue (2 Pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4Z7JPS2",
+                "variationName": "Color",
+                "variationValue": "Light Pink (12-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5GZCYC",
+                "variationName": "Color",
+                "variationValue": "Maroon (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N5G7SW7",
+                "variationName": "Color",
+                "variationValue": "Military Green (2-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CM8XKZ2H",
+                "variationName": "Color",
+                "variationValue": "Natural (2 Pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C4Z5P8HW",
+                "variationName": "Color",
+                "variationValue": "Orange (12-pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CM8Y9VTD",
+                "variationName": "Color",
+                "variationValue": "Sapphire (2 Pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CM8VCQ3V",
+                "variationName": "Color",
+                "variationValue": "Texas Orange (2 Pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTN21Q19",
+                "variationName": "Color",
+                "variationValue": "White/Cardinal",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTMZDRYM",
+                "variationName": "Color",
+                "variationValue": "White/Dark Chocolate",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTN1DDYK",
+                "variationName": "Color",
+                "variationValue": "White/Gold",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTN32K7J",
+                "variationName": "Color",
+                "variationValue": "White/Indigo Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTN18XY7",
+                "variationName": "Color",
+                "variationValue": "White/Natural",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTN1YFC5",
+                "variationName": "Color",
+                "variationValue": "White/Sand",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTN1BFB6",
+                "variationName": "Color",
+                "variationValue": "White/Sapphire",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CTMZ45VW",
+                "variationName": "Color",
+                "variationValue": "White/Texasorange",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CM8TSJSJ",
+                "variationName": "Color",
+                "variationValue": "Sand (2 Pack)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6VJWXP",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6VVKGB",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6W2289",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6W8KW6",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6W42GX",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09S6WM45S",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076831CCW",
+                "variationName": "Size",
+                "variationValue": "4X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07683ZG4C",
+                "variationName": "Size",
+                "variationValue": "5X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41oQAG9ut9L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31yHvalihyL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41VDi2a8IJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41HIblXWePL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41GKAoCTymL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41DsMpJ0UHL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3eaf4893-1c2a-40cb-b7b9-1c0d03a3236d/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Gildan Store",
+            "link": "https://www.amazon.com/stores/Gildan/page/D5CBBFE7-8298-44BE-A526-1B584C2B5DE3?ref_=ast_bln"
+        },
+        "brand": "Gildan",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 139786,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": true,
+            "details": "OEKO-TEX STANDARD 100 requires textiles-based products to be tested against a list of 1,000+ chemicals, to limit those which may be harmful to human health. Certification focus: #ProductSafety and #ChemicalsUsed."
+        },
+        "features": [
+            "Fabric type Solids: 100% Cotton; Ash Grey: 99% Cotton, 1% Polyester; Sport Grey and Antique Heathers: 90% Cotton, 10% Polyester; Safety Colors and Heathers: 50% Cotton, 50% Polyester",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type No Closure",
+            "Classic fit for loose comfort",
+            "A great choice for everyday or work wear",
+            "Heavyweight tee perfect for layering or on its own",
+            "Taped neck and shoulders for comfort and durability",
+            "Rib cuffs",
+            "Tear away label for customizable comfort"
+        ],
+        "description": "What makes the Gildan Ultra Cotton Adult Long Sleeve T-Shirt the style you want to wear every day? It\u2019s heavyweight fabric, classic fit and taped neck and shoulders are just a few of the reasons. It can be decorated with screen printing, DTG, discharge, heat transfers, dye sublimation and discharge.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Shirts",
+                "link": "https://www.amazon.com/Mens-Shirts/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2476517011"
+            },
+            {
+                "name": "T-Shirts",
+                "link": "https://www.amazon.com/Mens-T-Shirts/b/ref=dp_bc_aui_C_5?ie=UTF8&node=1045624"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 22.2 x 17.76 x 6.26 inches; 1.6 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e G2400"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e unisex-adult"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e June 8, 2021"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Gildan"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B096W9D6VW"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#57 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #4 in Men's T-Shirts #13 in Climate Pledge Friendly: Apparel"
+            },
+            {
+                "name": "#13 in Climate Pledge Friendly",
+                "value": "Apparel"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 139,786 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e4f98e7f-db91-4886-9cf9-29e6c6277d60.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac9cb8d2-deef-49c5-848d-2b0c319ee55c.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dd0853ea-6b62-4cdb-9bd8-50832d3e901d.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0da90d00-357e-4e68-9ff3-753f13b2bc46.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c17a47aa-9a2f-4699-bece-3f8846db869b.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Sparky",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF26PFUFSTCON2CY4PEWSMYEQTUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R149JM269YWNHD?ASIN=B09DPVPZHY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 12, 2023",
+                "reviewTitle": "5.0 out of 5 stars A must for layering in cold weather",
+                "reviewText": "My wife and I knock heads when it comes to a comfortable temp in our home. Instead of sneaking over to adjust the thermostat, I generally wear sweaters around the house to take the chill off. These shirt are more comfortable than a sweater, especially when I'm doing everyday chores around the house. They're heavier than standard jersey knit shirts, and the length is just right, not too short like some t-shirts. I especially like the banded sleeves, which are snug enough to not slide up my arm if I toss on a jacket when I venture outdoors.I'm not a slim guy, 5' 9\", 215, and these shirts are just roomy enough to not be constricting. Since I now find myself wearing these daily, even sleeping in them, I'll be ordering more. They're all cotton, they shrink slightly, the colors don't run, and the construction is substantial. Great shirts, and well worth the cost!",
+                "reviewVotes": "30 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lisa",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFWN4MWJ5RHOLH7QLLQXYD7N5AAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RLTCDTQDB5ZZL?ASIN=B09DPVPZHY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Gildan = Great Quality",
+                "reviewText": "These shirts are of great quality. I got these for layering on cold days and they are exactly what I was looking for. I'd consider the thickness to be a medium. I saw some reviewers comment they were thin, but to me they are thicker than a regular T-shirt. They do run a tad bit on the larger size, especially in the arms (width, not length). The length is as expected. But better a tad large, than too small, IMO. Also, they are not the softest shirt as they are bit on the coarser side. Not rough or scratchy by any means, just not super soft. A few washings has helped and I expect these shirts will last for a while. Overall, I'd definitely buy these again as they are perfect for my needs.",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sergio Urena",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFDF3O4XR4W3OCMKW2ZXQHLH6DIA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3MPW5QKFQTJIO?ASIN=B09DPVPZHY",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 3, 2024",
+                "reviewTitle": "4.0 out of 5 stars Confortable",
+                "reviewText": "Good quality and confortable product, and very good price.And perfect size",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "R. Martin",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHKKC63QTWL5VN3N6FZ5FCET7PXA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2OCSIV2K54B67?ASIN=B09DPVPZHY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very nice quality shirts",
+                "reviewText": "These shirts fit nicely and look great. I love wearing layers in the winter and these shirts are prefect either by themselves, or with another shirt or sweater over them. Nice colors and very limited or no shrinkage. They are quality comfortable feeling cotton.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "tony",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE4SWKHCD47UZD26XFQ4TQFRQURQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R27Q5BUTV3W068?ASIN=B09DPVPZHY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Wonderful shirts",
+                "reviewText": "These shirts are fantastic, heavier than most and sized generously. Don\u2019t shrink if you don\u2019t use a dryer. Seem very well made. Love em, will be getting more",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "yllwdg",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHI37YVNGMXEFJZFRCHWZXOCEM5A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R32EO4ZM8D0BSJ?ASIN=B09DPVPZHY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice Shirts",
+                "reviewText": "Fit as described. Washed several times and holds color well. Will shrink just a bit after washing. Overall nice shirts for the price. Nice to have the color choices.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mike W",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEYW4ADUMWNAJBE2SL3PMITW5XMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R27BIOR2YCO40E?ASIN=B09DPVPZHY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 15, 2024",
+                "reviewTitle": "5.0 out of 5 stars Quality of the material",
+                "reviewText": "I just love these shirts and the quality of the material. They are warm, comfortable and the fit was perfect! It was everything listed on the description! Thank you such a great buy!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "GLAFLA",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AESIJQVKZCMQH67FN7O5I5FZIT7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RBDBVP3H2MWR9?ASIN=B09DPVPZHY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 30, 2021",
+                "reviewTitle": "5.0 out of 5 stars This shirt is comfortable and does not shrink very much",
+                "reviewText": "This is an excellent shirt for a bargain price, especially when bought in the 10-pack. There are no side seams to itch you. The back neck and shoulders are covered in fabric which is not always the case in undershirts. The front neck, armholes, cuffs, sleeve seams, and bottom hem are not fabric covered, but they are surged with a very soft thread which is much more comfortable than the surging in some of my other shirts that scratches and itches my skin. I was worried that the crew neck would annoy me since I don't like anything tight around my neck, but it is loose enough that I can get it over my head with my glasses on, plus you can stretch it a little both ways when the shirt is wet. The cotton in this shirt is soft and surprisingly heavy, not like a typical men's undershirt. It is more an outer shirt than an undershirt, but it could be worn under a roomy outer shirt. It has cuffs, which is a very nice feature especially if the sleeves are a little long on someone. The weight and texture of the shirt seems to be between a tee shirt and a very light weight sweatshirt. I am using one for sleeping and it feels soft against my face at night and keeps me warm but not hot. The arms are long on me which I expected since I am only 5 feet 4 inches tall and I ordered the size large shirt. The size chart indicated I should order a medium or even a small if I wanted a snug shirt, but I went with the large for the comfort and I'm happy with the roominess. The sleeve width is roomy enough on me, but not too roomy. The construction of this shirt is excellent, in fact perfect except for a thread or two that was not cut off. I bought my shirts in the 10-pack and they arrived with all ten shirts ironed and folded in half neatly, all in one big plastic bag loosely taped shut and inside a big box. I didn't have a problem with the fact that each shirt was not individually wrapped, and in fact I can use the big plastic bag. Some reviewers said there were holes, unsewn seams and stains on their shirts, but mine were all in perfect new condition. I washed them and dried them in the dryer, but they do take a very long time to dry. I ended up hanging them up to complete the drying. The only negative thing I can say about this excellent shirt is that it has two very annoying scratchy tags sewn right into the back neck seam. You can't tear them off without ripping the stitches. I cut them out very carefully with tiny scissors. Here are the approximate dimensions of size large after washing and drying: underarm sleeve length 23\", sleeve circumference at shoulder 20.5\", sleeve circumference at middle of sleeve 15\", back width at top between sleeve seams 20.25\", circumference around the bottom 45.5\", length at back middle 29\".",
+                "reviewVotes": "32 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Julio C.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 2, 2024",
+                "reviewTitle": "Muy buenas",
+                "reviewText": "Excelente material de buena calidad",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "DB",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 31, 2024",
+                "reviewTitle": "Good Quality",
+                "reviewText": "T Shirts are good quality and fit just right. Would buy agaiin.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Richard c.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 24, 2024",
+                "reviewTitle": "Excellent!",
+                "reviewText": "Great price for the quality however my size seems to be limited in stock for the colours I want quite often. Great consistency in sizes I ordered and proper fit every time so far. No defects either! Although prices have gone up considerably, still a good value.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rodrigo G.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 23, 2024",
+                "reviewTitle": "Excelente calidad",
+                "reviewText": "Me encant\u00f3 la calidad de la tela y del color, es justo como en la imagen! Sin duda comprar\u00e9 m\u00e1s colores",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Elaine Lynette Rogers",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 6, 2024",
+                "reviewTitle": "Good quality and true to size fit",
+                "reviewText": "These are great quality tops and reasonably priced",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,545 @@
+{
+    "remaining_requests": 17397,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/LEE-Womens-Classic-Monroe-Straight-Leg/dp/B06Y4JTK7W",
+    "body": {
+        "name": "Lee Women\u2019s Instantly Slims Classic Relaxed Fit Monroe Straight Leg Jean",
+        "price": "$20.00",
+        "originalPrice": "",
+        "rawPrice": 20.0,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Lee-Instantly-Classic-Relaxed-Straight/dp/B09QQ9NSQC",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09QQ9NSQC"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B06Y4JNDHZ",
+                "variationName": "Color",
+                "variationValue": "Ellis",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313jzNBVNNL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07C2HF53K",
+                "variationName": "Color",
+                "variationValue": "Inspire Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31QsUkg9EVL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07B6KFN2C",
+                "variationName": "Color",
+                "variationValue": "Palisade",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31cQO-CfGoL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00BCUPEYE",
+                "variationName": "Color",
+                "variationValue": "Seattle",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31LVti8UEJL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00B5W81Y4",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31xl+zqQgRL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B06Y47GT12",
+                "variationName": "Color",
+                "variationValue": "Heritage",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31oT9ty28HL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B089D9FJPP",
+                "variationName": "Color",
+                "variationValue": "Olive Night",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31j0X0zk6sL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B06Y4K8RPN",
+                "variationName": "Size",
+                "variationValue": "16 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4JB4T8",
+                "variationName": "Size",
+                "variationValue": "18 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4JWW6F",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4HZRR5",
+                "variationName": "Size",
+                "variationValue": "10 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y476NVG",
+                "variationName": "Size",
+                "variationValue": "14 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4NVDKV",
+                "variationName": "Size",
+                "variationValue": "4 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4KS6VT",
+                "variationName": "Size",
+                "variationValue": "4",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4JB6HJ",
+                "variationName": "Size",
+                "variationValue": "18 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4CS6YW",
+                "variationName": "Size",
+                "variationValue": "6 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y47954K",
+                "variationName": "Size",
+                "variationValue": "8 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y47BDKD",
+                "variationName": "Size",
+                "variationValue": "16 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4JQGZQ",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4JKZY1",
+                "variationName": "Size",
+                "variationValue": "12 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4JYCDF",
+                "variationName": "Size",
+                "variationValue": "8 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4JNDHZ",
+                "variationName": "Size",
+                "variationValue": "10 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4JYYQG",
+                "variationName": "Size",
+                "variationValue": "6 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4L9PKN",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4JTK7W",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y45NZNG",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4L7NMN",
+                "variationName": "Size",
+                "variationValue": "14 Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4KSCZC",
+                "variationName": "Size",
+                "variationValue": "16",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y4L715N",
+                "variationName": "Size",
+                "variationValue": "18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B06Y47BDKC",
+                "variationName": "Size",
+                "variationValue": "12 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0757RSPKR",
+                "variationName": "Size",
+                "variationValue": "4 Long",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/313jzNBVNNL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31Ue3B2TegL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31g8NwxydgL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51FfebCKpbL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51vt84LoISL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51Tivw-DLUL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Lee Store",
+            "link": "https://www.amazon.com/stores/LEE%C2%AE/page/450C35B6-2305-427C-87D9-A5E75DDF379F?ref_=ast_bln"
+        },
+        "brand": "LEE\u00ae",
+        "merchantInfo": "",
+        "customerReview": "4.2 out of 5 stars",
+        "customerReviewCount": 27091,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 81% Cotton, 18% Polyester, 1% Spandex",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "INSTANT SLIM: Don't you love it when you can see instant results? Our ingenious stretch blend & ideal waist placement delivers a slimmer look the moment you put these on. Fabric designed with comfortable, holding power & a hidden, slimming tummy panel.",
+            "STYLISH DESIGNS: Lee's full line of women's shorts, women's jeans, women's skirts, women's jackets & more provide you with a stylish wardrobe all year round. From denim skirts for summer barbecues to jean jackets for windy fall days, Lee keeps you going.",
+            "MORE THAN DENIM: You already trust Lee to bring you your favorite jeans, but we're so much more than that! Lee makes quality, stylish jeans, khakis, dresses, skirts, jackets, belts, shorts, shirts, uniforms and more! Fill your closet with Lee quality.",
+            "QUALITY OVER QUANTITY: For over 100 years, Lee has been making quality, dependable denim. We'd rather sell one quality garment than 100 inferior ones. If you're looking for quality jeans, shorts, jackets, skirts, overalls, belts or uniforms, look to L",
+            "Inseams: Short 29\", Med. 31\", Long 33\". Below the waist rise: 10.75\"; Straight leg w/ 15.5\" opening; Measurements taken using size 10 medium and may vary by size. Classic style; Instantly Slims You Tummy Panel; Zipper closure; Regular overall fit"
+        ],
+        "description": "LEE Women\u2019s Instantly Slims Classic Relaxed Fit Monroe Straight Leg Jean. Previously known as the Classic Fit Monroe Straight Leg Jean, these jeans stretch to slim and enhance your shape. Overall Fit: Relaxed fit jeans.Rise: High rise, sits above the natural waist.Closure: Zip-Fly with button closure.Leg: Straight through the seat, leg, and thigh.Pockets: Five pockets: (2) plain back pockets, (2) front pockets, (1) watch pocket.Inseam: Short: 29-inches, Medium: 31-inches, Long: 33-inches. BRAND HERITAGE: Just like our founder, H.D. Lee, our passion is helping can-do people do more. We are committed to designing clothing that conforms to your body, allowing you to move through life freely. We help you chase the things that bring you joy and laughter. The things that make you fearless and hopefully because your passion is what makes you unique. And what moves you, moves us. Move your Lee.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Womens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1048188"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 11.26 x 10.79 x 2.87 inches; 15.52 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 34048"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e June 30, 2017"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Lee Women's Collection"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B06Y4K8RPN"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#637 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #14 in Women's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.2 4.2 out of 5 stars 27,091 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "LEE Women's Sculpting Slim Fit Skinny Leg Pull on Jean LEE Women's Sculpting Slim Fit Skinny Leg Jean LEE Women's Instantly Slims Classic Relaxed Fit Monroe Straight Leg Jean LEE Women's Flex Motion Regular Fit Bootcut Jean LEE Women's Relaxed Fit Straight Leg Jean Description Ultra-slim cut hugs your body close from hips to ankles. Guaranteed to turn a few heads. Sleek and slim lines smooth your body from waist to ankle. The haters are definitely gonna hate these. Flattering, clean lines fit close from hips through thighs and finish with a straight leg. A true, class act. Curve hugging from hips through thighs with a slight flare at the bottom to make room for those fabulous new boots. This classic, comfortable look gives a little extra room without being baggy, perfect for your most chill days.",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/20355ef6-1a11-47fa-a767-78056c305c99.__CR0,0,2021,625_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/f479e4e8-fba3-4f8f-9f99-c1e204e41e10._CR0,0,4042,1250_PT0_SX970__.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/2bcfff5b-bf4c-4f7e-ab27-6243867e0d48._SR150,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/57dbe11e-f240-4c92-8eea-d8bd85d12afa._SR150,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/8c0d66a1-c3fe-46a5-a939-a365d95416a4._SR150,300_.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/03c48656-b30f-4fdc-bd36-f05b15fa2260.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/4f2dcec2-9d78-4ec7-84f3-be49404f7e8d.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/2a8ea694-2558-4bcb-8c4c-b2e87cd6d758.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Jo G",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEDZNL3PPSIEDML7A4DKOPJF25RA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RF3VQ5P0GX35Z?ASIN=B09QQ9NSQC",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars Goodbye muffin top!",
+                "reviewText": "These jeans are very comfortable and I was able to say goodbye to muffin top. The top of the jeans hit at the top of my belly button and the best part, other than no more muffin top, is that I don't have to keep pulling them up! I hang dry my jeans, so I can't comment on shrinkage as I haven't experienced that. They seem to fit true to size. I would definitely recommend them. Update: I ordered a second pair in the same size and they are clearly marked size 6, but are too small.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "shelly",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJHXMQBGAQHOGLLR3B632OA2RZQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R38JM0E4QQ74I3?ASIN=B09QQ9NSQC",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good fit and durable material.",
+                "reviewText": "I got these for work and they are great for what I do. I am a machinist and they are very comfortable and durable material. I do a lot of bending, stretching, walking and kneeling. And I love how they they stand up to my activities. I have 4 pairs of them, because I work a 4 day shift and I will definitely be ordering more when these start to show signs of wearing out.",
+                "reviewVotes": "8 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ms-lms",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG5QJBWF4MKERH7XZ3VBBFOUQS7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3P5FD57D20CJX?ASIN=B09QQ9NSQC",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 19, 2020",
+                "reviewTitle": "4.0 out of 5 stars Sort-of an ok replacement for my KMart Basic Editions womens short jeans",
+                "reviewText": "I have been wearing KMart Basic Editions womens short (not petite) jeans forEVER. I liked that they were on the less thick/heavy side and had a stretch without becoming over-stretched. I especially liked that they sat just below the belly button in the front but sat high enough up in the back that they were almost at the waist and didn't slide down my butt when I knelt or bent over. I found that they wore fairly well and washed well (I've worn them to do yard work and gotten them really dirty). I have been every size from 18 down to 6 (and up and down again and again) and still have been able to get my size in SHORT length. I especially liked that I could get them at regular price for under $20, sometimes on sale from $10-13. Unfortunately, they seem to be going the way of the dinosaur and so I've been forced to search for a replacement. I have been having a really hard time because I want a thinner material, in SHORT, sitting just at the waist (not mid-rise), straight but not tight, with some stretch, and with good-sized pockets, and a price that is reasonable. I can't wear Gloria Vanderbilt (they're just too tightly cut in every size); I find Dickies too \"industrial\"-looking and the material too heavy; in many store brands the material is too heavy or not stretchy enough and most don't come in short in a cut I like.Add to all this that I've been trying to buy online because I need jeans and the pandemic has resulted in a lot of store closures.I read a lot of reviews for many brands and finally settled on trying Lee.I am currently a size 6 (at the large end of the size range), but depending on cut and stretch could be an 8; short (not petite) length (29 inch inseam). I am 5'2\", 132 lbs (but this fluctuates upward) and carry weight a little bit more at my waist and hips.I was on the fence as to whether to give the Lee jeans 3 or 4 stars, but since I just ordered a second pair I think it's only fair to give 4 stars. With that said, they are the best replacement that I've found so far for my KMart jeans, but they are by no means comparable. Here's why: 1. The waist band is fairly thick and it bunches at the button when I sit down, sticking me in the belly button and giving me the dreaded sweaty waist. 2. The jeans material itself has some stretch (not so much in the waist) but the material is a heavier weight than the KMart jeans--perhaps more of a mid-weight material. For some this might be a plus but on a hot (80 degree), humid, sunny day, the Lee's are definitely hard to wear comfortably, whereas I had no issue with my old KMart jeans. 3. Some reviewers commented on the minniscule front pockets and they weren't kidding. If I still had my old flip phone I would have to turn it sideways to get it in; it won't fit an iPhone. The front pocket needs a reality check and a redesign. But given my limited jeans options, I put up with it. 4. Others would consider $23 or so reasonably priced, but for jeans that I am going to beat up (gardening, cleaning the house, getting bleach and stains on them, etc.) I really want to have a good chance of paying under $20 and I couldn't get there (I had to hunt around to find them for $23-ish).Now for the good points: 1. They do not ride down my butt in the back (the way mid-rise jeans with stretch do on me), but instead stay firmly at my waist. This is the first pair of jeans out of the ones bought in my replacement \"quest\" that stayed put. 2. They have a small amount of stretch but did not stretch out in the washer and dryer (hot and hot settings). 3. They come in SHORT (petite is the wrong cut for me).When the stores reopen I will give up the on-line search in favor of trying on jeans in the stores, but for now these Lees are as close as I can get to my old Basic Editions jeans--sort-of.I hope this review helps anyone else hunting for replacement jeans.",
+                "reviewVotes": "163 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Samantha Drohan",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGGJ2XYLYIE3DFNKQJ3LSVGSTTKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RCE0ZLLEVTNR4?ASIN=B09QQ9NSQC",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 24, 2024",
+                "reviewTitle": "5.0 out of 5 stars fit just right",
+                "reviewText": "I am a petite middle aged woman with a bit of a menopause tummy and these fit great, true to size., good stretch. Will be nice enough to wear to work. Wish they had more non denim colors. I bought the gray wash. Will prob get black too.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ember",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE57ZJUD6WK636B2OHCCLOULXUBA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3PT2UJ3CCOYX6?ASIN=B09QQ9NSQC",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 13, 2024",
+                "reviewTitle": "3.0 out of 5 stars they shrunk the pockets :c",
+                "reviewText": "I bought this same cut of jeans a few years ago and back then they were perfectly sized for a modern smartphone and this new pair barely has room for my fingers :c",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Clare",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH6QIBH2UBGSVG66UJ2OFEFICJTA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RUUX7IQHYCCP2?ASIN=B09QQ9NSQC",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2024",
+                "reviewTitle": "5.0 out of 5 stars Fits great!",
+                "reviewText": "Lee jeans always fit me just right and these are no exception. My only complaint is that the front pockets on the last couple pair I've bought are much smaller than my old ones.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Suzanne Tanner",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGYAZ4XMJKOXD3GXXQTHBL5NUFPA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1YAVSY40OQOU9?ASIN=B09QQ9NSQC",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 28, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great fit, very comfortable",
+                "reviewText": "I like that these pants have some give to them to make them very comfortable. I read that some people said the waist was a bit snug, but since my waist is smaller, compared to my hips, this seemed like the perfect fit for me, usually the waist gaps in order to comfortably fit on my hips. Love these pants and even ordered another pair right away.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "David W.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AERJCCB7HKGQ3NZMG522RHR664QA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3NV4EG0RVDRI2?ASIN=B09QQ9NSQC",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars good value for the money",
+                "reviewText": "These were the only jeans i could find with out holes or these fold marking in the front ( which both I dislike)They are a little high waist for me but the do fit. I had to hem them up 1.5 inches. They do look nice.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ivan Robles",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 20, 2023",
+                "reviewTitle": "Excelente",
+                "reviewText": "Esun buen pantal\u00f3n, lo que no le gust\u00f3 fue que tuve que pagar gastos de env\u00edo",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Stefan",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 2, 2023",
+                "reviewTitle": "awesome",
+                "reviewText": "I am that kind of person that doesn't order pants or jeans on line. Normaly I hate shopping for jeans even in store. This jeans are incredible! Absolutely loving them. Stretchy, comfortable, long enough ( if you are over 5.8 better go with tall size) and even more incredible: the waist fits. Every single jeans I try on are too tight at thights, too large at waist and too short. I just found the best fit for me.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "carolle c.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 24, 2023",
+                "reviewTitle": "Parfait",
+                "reviewText": "Confortable,",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Susan",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 4, 2022",
+                "reviewTitle": "Excellent Jeans, well designed.",
+                "reviewText": "Soft comfortable jeans of a perfect length in long for 5.7 and taller women. At first I thought the jeans had shrunk and were too tight but they stretch out just enough to fit comfortably. The fabric is nice like jeans of old, in that they look and feel like 100 % cotton that has worn soft.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JM - Delta,B.C.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 14, 2022",
+                "reviewTitle": "Good fitting jeans",
+                "reviewText": "Material l00% cotton is a little stiff and attracts fluff. Hoping washing will soften them up. Fit well Ordered the short in size 8. Do not order down. as pants do not stretch.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

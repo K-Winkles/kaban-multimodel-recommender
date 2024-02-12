@@ -1,0 +1,913 @@
+{
+    "remaining_requests": 16782,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Vionic-Beach-Pismo-Marshmallow/dp/B09L5HDMKD",
+    "body": {
+        "name": "Vionic Pismo Womens Casual Supportive Sneaker",
+        "price": "$34.95",
+        "originalPrice": "",
+        "rawPrice": 34.95,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Vionic-Womens-Casual-Supportive-Sneaker/dp/B0CNQNN69K",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CNQNN69K"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09QGV5P8S",
+                "variationName": "Color",
+                "variationValue": "Black Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31m5wJ7ibPL._SS47_.jpg"
+            },
+            {
+                "asin": "B07ZSY3S8D",
+                "variationName": "Color",
+                "variationValue": "Cream Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21cZgeU0QPS._SS47_.jpg"
+            },
+            {
+                "asin": "B09X44N67Y",
+                "variationName": "Color",
+                "variationValue": "Light Grey Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31gL+jaHSQL._SS47_.jpg"
+            },
+            {
+                "asin": "B0CLQBRQRL",
+                "variationName": "Color",
+                "variationValue": "RED CANVAS",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31msKQQQjML._SS47_.jpg"
+            },
+            {
+                "asin": "B0BRH1Y6V1",
+                "variationName": "Color",
+                "variationValue": "Viola Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41M-xdzsphL._SS47_.jpg"
+            },
+            {
+                "asin": "B09G1754M5",
+                "variationName": "Color",
+                "variationValue": "NAVY CANVAS",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310kkkAja3L._SS47_.jpg"
+            },
+            {
+                "asin": "B0CLQ9QFKN",
+                "variationName": "Color",
+                "variationValue": "SKYWAY CANVAS",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31veyZEMX2L._SS47_.jpg"
+            },
+            {
+                "asin": "B08RN59J2B",
+                "variationName": "Color",
+                "variationValue": "Bluebell",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31j05W1LiDL._SS47_.jpg"
+            },
+            {
+                "asin": "B08QRWB5SF",
+                "variationName": "Color",
+                "variationValue": "SEA CORAL",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41STDbmIkGS._SS47_.jpg"
+            },
+            {
+                "asin": "B08RN82F13",
+                "variationName": "Color",
+                "variationValue": "Seafoam",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21Lk1-Xg81L._SS47_.jpg"
+            },
+            {
+                "asin": "B0B149MWCT",
+                "variationName": "Color",
+                "variationValue": "Black Boucle",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313joiPP1NL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B13S6FQK",
+                "variationName": "Color",
+                "variationValue": "Army Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4149uRvr7tL._SS47_.jpg"
+            },
+            {
+                "asin": "B09RQWDDXN",
+                "variationName": "Color",
+                "variationValue": "Papaya Fun Sun",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31sDzhBoeDL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BVZ5X8GW",
+                "variationName": "Color",
+                "variationValue": "Starfish",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41OA2vuICnL._SS47_.jpg"
+            },
+            {
+                "asin": "B09RQVR72S",
+                "variationName": "Color",
+                "variationValue": "Sun Fun Sun",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31kEiG+R8PL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B141PGDY",
+                "variationName": "Color",
+                "variationValue": "Sunflower",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31nZsB66BOL._SS47_.jpg"
+            },
+            {
+                "asin": "B09TYVC36L",
+                "variationName": "Color",
+                "variationValue": "Lime Terry",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31KcFMRkgvL._SS47_.jpg"
+            },
+            {
+                "asin": "B09RQVF8GT",
+                "variationName": "Color",
+                "variationValue": "Porcelain Blue Fun Sun",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31EZVRChWdL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BTHLWKR7",
+                "variationName": "Color",
+                "variationValue": "Stargazer",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41culQdKOmL._SS47_.jpg"
+            },
+            {
+                "asin": "B09L5FRPS6",
+                "variationName": "Color",
+                "variationValue": "Macaroon Bubbles Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410jKG6I4NL._SS47_.jpg"
+            },
+            {
+                "asin": "B09L5GPJS6",
+                "variationName": "Color",
+                "variationValue": "Marshmallow Bubbles Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312WbOWXjQL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BRH1LLPH",
+                "variationName": "Color",
+                "variationValue": "Roze",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31KycqwTUEL._SS47_.jpg"
+            },
+            {
+                "asin": "B09TYV6LF1",
+                "variationName": "Color",
+                "variationValue": "Apricot Terry",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31hu7LOJ9hL._SS47_.jpg"
+            },
+            {
+                "asin": "B09G16TBC1",
+                "variationName": "Color",
+                "variationValue": "Cherry Blossom",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21YM59yGRDL._SS47_.jpg"
+            },
+            {
+                "asin": "B09G189D7J",
+                "variationName": "Color",
+                "variationValue": "Navy Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310kkkAja3L._SS47_.jpg"
+            },
+            {
+                "asin": "B08HRZM9P3",
+                "variationName": "Color",
+                "variationValue": "Light Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41y-RWDt-oS._SS47_.jpg"
+            },
+            {
+                "asin": "B09W18GXKS",
+                "variationName": "Color",
+                "variationValue": "Poppy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31t7EDNDbEL._SS47_.jpg"
+            },
+            {
+                "asin": "B09L5G465R",
+                "variationName": "Color",
+                "variationValue": "White Orange Grove Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31LwGo0m-fL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BTBTCL23",
+                "variationName": "Color",
+                "variationValue": "Classic Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31WRpPjCBBL._SS47_.jpg"
+            },
+            {
+                "asin": "B09G16Y3R8",
+                "variationName": "Color",
+                "variationValue": "Pale Lime Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21Jv6GUzIvL._SS47_.jpg"
+            },
+            {
+                "asin": "B09G16ZC48",
+                "variationName": "Color",
+                "variationValue": "Wasabi Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31pOg1tk80L._SS47_.jpg"
+            },
+            {
+                "asin": "B096N2P8J9",
+                "variationName": "Color",
+                "variationValue": "Black Waffle Knit",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31GXmjmcTpL._SS47_.jpg"
+            },
+            {
+                "asin": "B08RNBRRJS",
+                "variationName": "Color",
+                "variationValue": "Melon Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31akg67kZsL._SS47_.jpg"
+            },
+            {
+                "asin": "B09ZDMJWBW",
+                "variationName": "Color",
+                "variationValue": "Ocean",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41fPs39GOhL._SS47_.jpg"
+            },
+            {
+                "asin": "B09G1733KG",
+                "variationName": "Color",
+                "variationValue": "Sun Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31l7TsQPoSL._SS47_.jpg"
+            },
+            {
+                "asin": "B08RN8FSPT",
+                "variationName": "Size",
+                "variationValue": "10 M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08RN71M97",
+                "variationName": "Size",
+                "variationValue": "11 M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGYDLL9",
+                "variationName": "Size",
+                "variationValue": "12 M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08RNJQGX7",
+                "variationName": "Size",
+                "variationValue": "5 M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08RNCZPZJ",
+                "variationName": "Size",
+                "variationValue": "6 M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08RNHXLF3",
+                "variationName": "Size",
+                "variationValue": "6.5 M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08RNC6ZW5",
+                "variationName": "Size",
+                "variationValue": "7 M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09X4BD8QN",
+                "variationName": "Size",
+                "variationValue": "7.5 M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08RNF1DBG",
+                "variationName": "Size",
+                "variationValue": "8 M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08RNFYV4T",
+                "variationName": "Size",
+                "variationValue": "8.5 M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08QRM45ZX",
+                "variationName": "Size",
+                "variationValue": "9 M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08RNC4WN8",
+                "variationName": "Size",
+                "variationValue": "9.5 M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07ZT5RSZN",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGV5GFZ",
+                "variationName": "Size",
+                "variationValue": "5 W",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGTBTSK",
+                "variationName": "Size",
+                "variationValue": "5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07ZT4Y7DP",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGTGRHY",
+                "variationName": "Size",
+                "variationValue": "6 W",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGTX9D4",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07ZSY3S8D",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGV5P8S",
+                "variationName": "Size",
+                "variationValue": "6.5 W",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGXJH59",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09L5FC4R2",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGVL34Z",
+                "variationName": "Size",
+                "variationValue": "7 W",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGW7V1K",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09L5F88XL",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGV3FXZ",
+                "variationName": "Size",
+                "variationValue": "7.5 W",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08HRSSPK5",
+                "variationName": "Size",
+                "variationValue": "7.5M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGV291C",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09L5HDMKD",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGVBBV6",
+                "variationName": "Size",
+                "variationValue": "8 W",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08HRZM9P3",
+                "variationName": "Size",
+                "variationValue": "8M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGV538Y",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09L5GC464",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGVTTRY",
+                "variationName": "Size",
+                "variationValue": "8.5 W",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGV895T",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07ZT4C129",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGV7H49",
+                "variationName": "Size",
+                "variationValue": "9 W",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGTT9CY",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09L5GPJS6",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BRH1PS7Z",
+                "variationName": "Size",
+                "variationValue": "9.5 W",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08HRS1BMW",
+                "variationName": "Size",
+                "variationValue": "9.5M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B2HRNPYH",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07ZT3VKBY",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGSY4B2",
+                "variationName": "Size",
+                "variationValue": "10 W",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGT7THP",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07ZT8BKGT",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGW8D5W",
+                "variationName": "Size",
+                "variationValue": "11 W",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGV3Y9V",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGSYQGD",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGWK8N5",
+                "variationName": "Size",
+                "variationValue": "12 W",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09QGTQNGW",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41i00DWsl5L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41HvDziAaNL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41sv-7eToWL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31kUQtuE6nL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/312WbOWXjQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/410RHAOUHSL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/21kJpm-GbkL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Vionic Store",
+            "link": "https://www.amazon.com/stores/VionicShoes/page/957BD3BA-4C2A-415F-8F95-0E80508A00AD?ref_=ast_bln"
+        },
+        "brand": "VionicShoes",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 2742,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type Cotton-blend",
+            "Origin Imported",
+            "Upper: Eco-conscious eco-certified cotton canvas.",
+            "Closure: Stretch Cotton Laces.",
+            "Foot Bed: Removable Twill Covered EVA."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Fashion Sneakers",
+                "link": "https://www.amazon.com/womens-sneakers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=679394011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Is Discontinued By Manufacturer \u200f",
+                "value": "\u200e No"
+            },
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 10 x 15 x 6 inches; 1.96 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e PISMO CNVS-BLK-10-MED"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e December 30, 2020"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Vionic"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B08RN8FSPT"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#7,716 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #71 in Women's Fashion Sneakers"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 2,742 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "MATERIALS THAT MAKE A DIFFERENCE Eco-certified cotton canvas and a Vegan-certified, soybean-based outsole. Plus, they're machine washable too! STYLE THAT SUPPORTS YOUR SOLE Live sustainably in pre-washed canvas that delivers incredible softness and a worn-in vintage vibe. THREE-ZONE COMFORT The Most Supportive Shoes ... Ever. Our Vio-Motion footbed technology delivers Three-Zone Comfort with Ultimate Arch Support for a difference you can feel.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b71fe70a-4cfd-44f8-afbc-eea747726da0.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/1c5d9ddc-d65d-4a54-87a9-a526cba8a1f5.__CR0,0,300,300_PT0_SX300_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/sc/6c96a0ff-addc-4c16-8cb1-98095aaadcb3.__CR0,0,300,300_PT0_SX300_V1___.png"
+                ]
+            },
+            {
+                "media_text": "Vionic Beach Pismo Vionic Beach Malibu Vionic Beach Stinson Veagan \u2713 \u2713 \u2713 Machine Washable \u2713 \u2713 \u2713 Lace Up \u2713 Slip On \u2713 \u2713 Arch Support \u2713 \u2713 \u2713 Stability \u2713 \u2713 \u2713 Multiple Colors \u2713 \u2713 \u2713",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8ad8b169-7009-43e3-8fd7-ffb1d0203184.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/138c871a-ad70-4578-88a4-62aa56b9b384.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b71fe70a-4cfd-44f8-afbc-eea747726da0.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/1c5d9ddc-d65d-4a54-87a9-a526cba8a1f5.__CR0,0,300,300_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/6c96a0ff-addc-4c16-8cb1-98095aaadcb3.__CR0,0,300,300_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/abe337fa-ed4d-4abb-bbac-4e91d09b31f1.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/236ed3b7-2604-4d81-8c3a-064bb4b9c19a.__CR0,0,150,300_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/563c9856-0480-476e-a9e0-cf8c2f0d4503.__CR0,0,150,300_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sc/e795330e-6cdf-4455-a780-66dfc7a4c57b.__CR0,0,150,300_PT0_SX150_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "billie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGWTOVDNL255I5XMVYXFNVWN7QLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1VN6INPLYEVTE?ASIN=B0CNQNN69K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 11, 2023",
+                "reviewTitle": "5.0 out of 5 stars Instant comfort",
+                "reviewText": "I am writing this review after wearing these shoes for one day. If my opinion changes, I'll certainly update this review. I just had to share my happiness with these cute shoes. My feet were immediately happy when I put them on for the first time! I suffer with some foot pain, and I didn't experience pain while wearing the shoes today, and that's a big deal for me. The removable insoles appear to be sturdy; quality made. They have great support for my old achey feet. Another big deal: they are light weight. Plus, they are super cute! I even have a bit of room in the toes so I can wiggle them around a bit, if I want. I normally wear a size 10.5 U.S. size; I ordered a 10 Wide and they fit perfectly. Serious, they couldn't fit any better. If I am still this happy after wearing them for a couple weeks, I'll be ordering another pair that are a different color/pattern. Yes, they are a bit pricey but you have to spend a bit of money to get quality shoes and these shoes seem to be so worth it for me!",
+                "reviewVotes": "28 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE4KC2AK2PITGRLBUGODSJJZDHCQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RCSSG8ZUCYND4?ASIN=B0CNQNN69K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable and lightweight",
+                "reviewText": "I really love these sneakers. This is my third pair. I keep buying them in different colors. They are so comfortable and have very good arch support (although less than other Vionic shoes). They fit very well and are true to size. The elastic laces make slipping them on and off very easy. I wore these on my vacation to WDW and had no issues at all. I did not have any blisters, pinching, or uncomfortable rubbing on the back of my ankle which have all been issues with other brands I have tried. I will continue to buy these as long as they are available.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cynthia Powers",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFDRCZDEZHO5OWRRCDOW3XYG2CYQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1QR2YPE3WOJHI?ASIN=B0CNQNN69K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 28, 2023",
+                "reviewTitle": "5.0 out of 5 stars So comfortable!",
+                "reviewText": "Love these! I always buy Vionic shoes. Won\u2019t wear anything else anymore. These don\u2019t have quite as much arch support as Vionics usually have, but still love them. They aren\u2019t like wearing a walking shoe, but I can wear them all day. I bought the open back ones last year for around the house and loved them so much that I decided to try the full shoe style too. So glad I did. They are super soft and so easy to wear. I had read in the reviews to buy a half size smaller than my normal size and it\u2019s true. The canvas style does stretch a bit after just a short time, and they end up the perfect size. They still don\u2019t pinch or hurt at all while they\u2019re stretching, just end up not being too loose when they\u2019re done. Super cute and perfect casual sneakers.Update: I\u2019m still loving my Vionic pismo beach sneakers, so I decided to get another color. Wanted black but they were sold out. I decided to try the black boucle style and ended up very disappointed. Apparently the boucle fabric is made from tiny loops, and a lot of them were already snagged and pulled out. I think I got a returned pair, but I still would be returning them if they were new. They are not as soft and flexible as the canvas, and the boucle fabric makes them look big and awkward. They would be too hot to wear as beach/summer sneakers. These shoes should only be made in canvas. Boy I wish they would come out with more of them, in different colors and in canvas. I\u2019ve been waiting to see them, but maybe they\u2019ve been discontinued? Wish I could find out if they\u2019re going to be restocking them at Amazon.",
+                "reviewVotes": "15 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "S. Stueve",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGH6QV3BBZVQKTGYO2JTFP6FRZ2Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RUOS9OARRIOPZ?ASIN=B0CNQNN69K",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 23, 2023",
+                "reviewTitle": "4.0 out of 5 stars Good But ....",
+                "reviewText": "I am not a sneaker person. I find them unforgiving and hot on my feet. These are perfect for me.... cool, comfortable and nice looking. I could not believe they were washable but they are. I washed a pair in washing machine on cold cycle and air dried them which takes about two days. Came out like new. I wear only for short walks and distances. The arch support is not that great. I had an occasion where I had to walk on an unpaved area for some time. I might as well have been in bare feet. I felt every stone and rock through the soles. Hence the 4 star review.",
+                "reviewVotes": "11 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "nelskin828 ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE4EWDIWW6FBAP347ZCWQ55EXPQA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RP2TIOYXTNUZQ?ASIN=B0CNQNN69K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 26, 2023",
+                "reviewTitle": "5.0 out of 5 stars Don't hesitate, get these!",
+                "reviewText": "I already owned a couple pairs of Vionic sandals which I love for the arch support (I have very high arches) and I was in the market for some sneakers that were equally as comfy. I decided on these because of the good reviews, and I am NOT disappointed that I did. Out of the box comfortable! Soft and arch support feels just right. They are cuter in person and on the foot than I expected too!Sizing:I wear between an 8 and a 8.5 in most sneakers and I have a slightly wide foot so I was really unsure of which size and width to order. After reading many reviews, I decided to go with the 8.5 regular width (despite having wide feet) because the shoe does have some \"stretch\" to it. I am happy with the size. I think the 8s would definitely be too small. The width feels good too. MAYBE a wide with 8.5 would be even better but the regular width feels great so I have no need to try it.So....go with your normal size for these sneakers. If you're in between half sizes, go with the larger. If you have regular width or slightly wide feet, go with the regular width width. I think if you have very wide feet, bunions, ect you should definitely go with the wide width.Hope this helps!!",
+                "reviewVotes": "29 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jill Shade",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHBLQKU3B4KLHMYVD7M64NWUALWQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1QOUCPF5BQUCT?ASIN=B0CNQNN69K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 4, 2024",
+                "reviewTitle": "5.0 out of 5 stars Classy",
+                "reviewText": "Perfect for everyday\u2026 comfortable and now in style.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amanda Holton",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE2TVMQKUQDWSUWROWXMT2D2NVPA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RSE4HC8ZJWS5O?ASIN=B0CNQNN69K",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 25, 2023",
+                "reviewTitle": "3.0 out of 5 stars Great shoe until you wash it",
+                "reviewText": "These were the most comfortable shoes for all yhe walking I did on vacation. Then I washed them. They were so uncomfortable, rubbed on tops of feet, the insoles bunched up and rubbed on bottom of feet and were no longer usable for 2nd half of trip.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Vicki Hill",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHEA4VSGVS6YZE6HL2XIQCQE5ODQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2JOWE48DD08?ASIN=B0CNQNN69K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 24, 2023",
+                "reviewTitle": "5.0 out of 5 stars Easy Comfort",
+                "reviewText": "This shoe is a good alternative to the sport shoe sneaker or a sandal. It's easy to slip on to go run errands, walk the dog, hitting the beach, or just kicking around town. It has good arch support for the type of shoe it is, and I like the fact that it is washable. Remove insert first. They have so many colors so you will want more than one pair. They do fade when washed, but that's because they are cotton, and it does not bother me. They are like a cross between Keds and Converse.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Krystyna Sokolnicka",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 8, 2023",
+                "reviewTitle": "Comfortable",
+                "reviewText": "Really comfy love them",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Carol leduc",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 12, 2023",
+                "reviewTitle": "Vionic shoe",
+                "reviewText": "They a very comfortable",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lori Taylor ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 5, 2023",
+                "reviewTitle": "Comfortable",
+                "reviewText": "They are trendy looking but also an orthopedic shoe! Very supportive.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Clancy",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 3, 2023",
+                "reviewTitle": "Very comfortable",
+                "reviewText": "This was my 4th pair - so comfortable!I just wish the soles lasted longer.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Karenle5",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on July 9, 2023",
+                "reviewTitle": "So comfortable!!",
+                "reviewText": "It is rare that I can say I wore shoes straight out of the box and had no problems. These are so comfortable and look fantastic!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,662 @@
+{
+    "remaining_requests": 15519,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/FootJoy-Mens-Hyperflex-Golf-Black/dp/B0BDGJWNTR",
+    "body": {
+        "name": "FootJoy Men's Hyperflex Golf Shoe",
+        "price": "$143.79 - $169.99",
+        "originalPrice": "",
+        "rawPrice": 143.79,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/FootJoy-Mens-Hyperflex-Golf-Shoe/dp/B09MMH7K7Y",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09MMH7K7Y"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0BDGHJ7M5",
+                "variationName": "Color",
+                "variationValue": "White/Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XQRZespjL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BDGHQSJ6",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jPL4cca+L._SS47_.jpg"
+            },
+            {
+                "asin": "B0BDGL1RDF",
+                "variationName": "Color",
+                "variationValue": "Charcoal/Grey/Lime",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41YsGTGR80L._SS47_.jpg"
+            },
+            {
+                "asin": "B0BXFR4SJF",
+                "variationName": "Color",
+                "variationValue": "White/Lime/Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410QDXq7c3L._SS47_.jpg"
+            },
+            {
+                "asin": "B0CJMWFVG5",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51T8f2DG4fL._SS47_.jpg"
+            },
+            {
+                "asin": "B0CJMWFVG5",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGJNXMQ",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGKBLY4",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGH7R3F",
+                "variationName": "Size",
+                "variationValue": "7 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGKQRSF",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGPNXWL",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGJB76G",
+                "variationName": "Size",
+                "variationValue": "7.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGMB45P",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDH8WJDC",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDH8PF7V",
+                "variationName": "Size",
+                "variationValue": "8 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGKWXV7",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGKQ61V",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGL6Y7S",
+                "variationName": "Size",
+                "variationValue": "8.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGMW5N1",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGHJ7M5",
+                "variationName": "Size",
+                "variationValue": "9 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGKC6K9",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGK5CZV",
+                "variationName": "Size",
+                "variationValue": "9 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGKNBM6",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGLNTK5",
+                "variationName": "Size",
+                "variationValue": "9.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGK2XDC",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGKBFYC",
+                "variationName": "Size",
+                "variationValue": "9.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGKMR6P",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGLL6T6",
+                "variationName": "Size",
+                "variationValue": "10 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGL16GC",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGJ7BD2",
+                "variationName": "Size",
+                "variationValue": "10 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGLNBQB",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGK5XBW",
+                "variationName": "Size",
+                "variationValue": "10.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGJWNTR",
+                "variationName": "Size",
+                "variationValue": "10.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGPD9R8",
+                "variationName": "Size",
+                "variationValue": "10.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGK16Y9",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGK228Q",
+                "variationName": "Size",
+                "variationValue": "11 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGKLZQ6",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGKVKVL",
+                "variationName": "Size",
+                "variationValue": "11 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGHQSJ6",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGN5KJL",
+                "variationName": "Size",
+                "variationValue": "11.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGP1NYH",
+                "variationName": "Size",
+                "variationValue": "11.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGLBV5Z",
+                "variationName": "Size",
+                "variationValue": "11.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGLM1HY",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGKH4G7",
+                "variationName": "Size",
+                "variationValue": "12 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGHSJWN",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDH67MDR",
+                "variationName": "Size",
+                "variationValue": "12 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGLTX12",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGJW8C5",
+                "variationName": "Size",
+                "variationValue": "13 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGK3P9X",
+                "variationName": "Size",
+                "variationValue": "13 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGKNPH9",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGQG44H",
+                "variationName": "Size",
+                "variationValue": "14 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BDGK8JZ8",
+                "variationName": "Size",
+                "variationValue": "15",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41jPL4cca L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41WkJaOj8uL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41UcoyqzhnL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41e Ct8U-OL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41-MZN8GfIL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/414-7bHC37L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41or7GMFrRL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the FootJoy Store",
+            "link": "https://www.amazon.com/stores/FootJoy/page/AF0DE1D9-93CC-4C5C-983A-F007054588EF?ref_=ast_bln"
+        },
+        "brand": "FootJoy",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 93,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Care instructions Machine Wash",
+            "Origin Made in the USA or Imported",
+            "Sole material Thermoplastic Elastomers",
+            "Outer material Mesh",
+            "BREATHABLE PERFORMANCE MESH. Engineered mesh with Hot Melt yarns for enhanced structure and support.",
+            "ENHANCED RANGE OF MOTION. OptiFlex zones deliver enhanced range of motion and flex to ensure maximum ground contact.",
+            "MAXIMUM COMFORT. FTF+ midsole with Stratofoam top-layer for engineered cushioning and support.",
+            "ON-COURSE TRACTION. Pulsar LP cleats by Softspikes low profile spikes that deliver stability and support from the moment you step on the course.",
+            "WATERPROOF. FootJoy warrants that this golf shoe will be waterproof in normal use for two years (U.S. Warranty)."
+        ],
+        "description": "Get ultimate athletic performance with HYPERFLEX golf shoes for men. Featuring innovative materials like the engineered mesh upper, HYPERFLEX men's golf shoes deliver lightweight support and cushioning so you can play at your highest level. FJ, The #1 Shoe in Golf.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/Mens-Shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679255011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Mens-Sneakers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127770011"
+            },
+            {
+                "name": "Golf",
+                "link": "https://www.amazon.com/Mens-Golf-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679278011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Language \u200f",
+                "value": "\u200e Spanish"
+            },
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 14.37 x 7.76 x 4.84 inches; 1.98 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 51118 M070"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e March 1, 2023"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e FootJoy"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0BDGJTBWQ"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#89,910 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #62 in Men's Golf Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 93 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Men's Golf Shoes FootJoy offers men's golf shoes for all sizes and styles of play. Browse spiked, spikeless, and casual golf shoes, or customize your own pair. You'll find comfort and tour-proven performance no matter which you choose.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/aa90932e-0467-49f6-8151-f5e95016cd8f.__CR426,0,1552,480_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "FootJoy: For The Love of Golf At FootJoy, we do not compromise. We believe in achieving a unique sense of balance between craftsmanship and technology, style and comfort, fit, and function. It\u2019s a commitment that is reflected in every product we make and is appreciated by passionate golfers the world over.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/d025085c-46f8-4277-a9e3-a9a9b5e6c276.__CR394,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "THE MOST STYLES. FOR THE MOST PLAYERS FootJoy Tour X Inspired by our vast network of Tour players, the all new Tour X delivers a total Max Feel, featuring PowerStrap and LaunchPod technologies for Tour-validated Stability, Comfort and Control. Tour X is the latest innovation powered stability shoe from FJ. FootJoy Pro|SL Pro|SL men's golf shoes provide superior feel with Fine Tuned Foam (FTF) for supple cushioning and a infinity outsole design for superior stability. FootJoy Flex Coastal Experience incredible traction and performance on course with the off course versatility of a sneaker. FootJoy Flex XP Discover the athletic-infused styling of the all-new waterproof FJ Flex XP",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/6d3bac0e-271e-485e-9774-b6d421924a93.__CR879,0,1600,1600_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/89b890a5-d05e-4730-9dcc-fdce7b9dc13f.__CR0,0,800,800_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/282af90f-202b-427f-b697-96b9823decf8.__CR74,0,350,350_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/b95199f5-4155-4618-8734-c51a8d480137.__CR63,0,350,350_PT0_SX220_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/aa90932e-0467-49f6-8151-f5e95016cd8f.__CR426,0,1552,480_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/d025085c-46f8-4277-a9e3-a9a9b5e6c276.__CR394,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/6d3bac0e-271e-485e-9774-b6d421924a93.__CR879,0,1600,1600_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/89b890a5-d05e-4730-9dcc-fdce7b9dc13f.__CR0,0,800,800_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/282af90f-202b-427f-b697-96b9823decf8.__CR74,0,350,350_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/b95199f5-4155-4618-8734-c51a8d480137.__CR63,0,350,350_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/a6f2d667-27c0-4d75-8f2e-c6c6cf96b420.__CR0,45,974,301_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "David",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHLUWAYPKM22RARZWNTEBJ3IRWOA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2QKGDPRAHUXEJ?ASIN=B09MMH7K7Y",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 3, 2023",
+                "reviewTitle": "5.0 out of 5 stars good comport ; a bit hard to get on",
+                "reviewText": "foot is 12 or 13 AA heal narrow foot --- this 12 Narrow Hyperflex fits really well and has comfort---a bit hard to get on with interliner that is foot surrounding tight------- cotton socks were too bulky --- but a slick bamboo sock or the Gold Toe polyester sock made getting it on much easy.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Whitetail13",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF3NWDIXZXFLUNMPZ7ZC6EO4HQ6A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2HEA3C8VPN7Q5?ASIN=B09MMH7K7Y",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 11, 2023",
+                "reviewTitle": "5.0 out of 5 stars They are quality golf shoes",
+                "reviewText": "No break in necessary put them on a go golfing",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Carlos Cardona",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGHAJNERNVA4VDRCFIMU3HZEFFUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/ROPFTMHJ72EIH?ASIN=B09MMH7K7Y",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 11, 2023",
+                "reviewTitle": "4.0 out of 5 stars Estable, C\u00f3modo.",
+                "reviewText": "Me gusta la estabilidad que ofrece en el campo.Lo \u00fanico es que son un poco anchos.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jim L",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEWILNEZTYIDZU4VSL33YYJB23UQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R13ZMWHP9T4QQI?ASIN=B09MMH7K7Y",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 24, 2023",
+                "reviewTitle": "5.0 out of 5 stars great shoe, good vlaue",
+                "reviewText": "Second pair of this shoe. Fits well and looks good.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Wine Guy 708",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJF4FGFIOQQ37LCTW4SRDU2FZHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2FF6YOTZ3TL94?ASIN=B09MMH7K7Y",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 11, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfortable AND stable",
+                "reviewText": "I hadn't worn FootJoy golf shoes in a very long time but, after a foot injury, I was looking for the best shoe I could find and tried the Hyperflex. Most \"comfortable\" shoes I have tried, more like athletic shoes, are too flexible for me and don't provide the stability I need when playing golf. I have worn these about a dozen times now and I was surprised to find that I don't think about them at all when I am playing (which is a great thing) but almost every time I think about them after the round when walking back to the car and realize how incredibly comfortable they are. I have heard a complaint that they are difficult to put on. The first time I tried, I also found it difficult because I was using the pull tab on the heel. When I stopped doing that and just put them on like a slip-on shoe, I found them easier to put on than my previous shoes. I cannot say enough good things about these shoes. My recent Amazon purchase is actually my second pair so I can rotate them between rounds.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "KKs Quilts",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEKAAEMCV4YA7RRCHILFHDOQLPLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3SOT1LLKR9RPS?ASIN=B09MMH7K7Y",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 24, 2023",
+                "reviewTitle": "5.0 out of 5 stars Good grip in wet conditions",
+                "reviewText": "Fit well, great traction on wet grass.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "anon",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFS3PHMZZEN3MB6YDUXHFH5ZRRBQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3OBWUHMOCTOQM?ASIN=B09MMH7K7Y",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 23, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfort &Support",
+                "reviewText": "Played in the gray model most of the summer, just added the black. Great comfort & support--I walk and carry my bag most rounds; these are great!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tom Strauss",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHMMBF7HWUTHJM3FQUILCOJVQ3ZQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3HSBKGPFXHU7G?ASIN=B09MMH7K7Y",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 21, 2023",
+                "reviewTitle": "5.0 out of 5 stars FOOTJOY means quality!",
+                "reviewText": "Exceptional quality and fit in a great men\u2019s golf shoe.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tom Monte",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on November 16, 2023",
+                "reviewTitle": "Best shoes I\u2019ve ever owned",
+                "reviewText": "As title says. True to size, water proof and comfy.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Aidan C.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on May 29, 2023",
+                "reviewTitle": "Defect above my middle toe",
+                "reviewText": "I have had bleeding from my middle toe which I now determined is caused by a rough area on the inside the shoe. Took a while to be sure that the shoe was the cause having worn my older pair without problem",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Brian lambert",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on September 18, 2023",
+                "reviewTitle": "Hard to keep clean",
+                "reviewText": "Nice golf shoes very comfy had about 2 months now ,that's 16 rounds of 18 holes of golf hard work taking laces out to clean that's my only criticism.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

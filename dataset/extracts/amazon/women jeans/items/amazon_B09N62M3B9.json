@@ -1,0 +1,522 @@
+{
+    "remaining_requests": 17346,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Levis-Womens-Skinny-Jeans-Black/dp/B09N62M3B9",
+    "body": {
+        "name": "Levi's Women's 501 Skinny Jeans",
+        "price": "$52.60 - $55.65",
+        "originalPrice": "",
+        "rawPrice": 52.6,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Levis-Womens-501-Skinny-Jeans/dp/B09QQPJTL8",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09QQPJTL8"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09N5YYY2T",
+                "variationName": "Color",
+                "variationValue": "Black Worn in",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31tgikS4ntL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B194QNNQ",
+                "variationName": "Color",
+                "variationValue": "Light Indigo Destructed",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ZOqXxwTbL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09N5Y8RTQ",
+                "variationName": "Color",
+                "variationValue": "Medium Indigo Destructed",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/516b5god6LL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09N5NY47M",
+                "variationName": "Color",
+                "variationValue": "Medium Indigo Worn in",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31qsv3U9PHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096N151FM",
+                "variationName": "Color",
+                "variationValue": "Ojai Snow - Light Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410S8nrHQSL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BNJW8BQM",
+                "variationName": "Color",
+                "variationValue": "Shine Up",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310kVefiWxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08NV13DDQ",
+                "variationName": "Color",
+                "variationValue": "Salsa Sugar",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/419dr+30rbS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07RB38SMD",
+                "variationName": "Color",
+                "variationValue": "Tango Talks",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41TYxsP+9-L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09N5YYY2T",
+                "variationName": "Size",
+                "variationValue": "24",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09N5XQZG2",
+                "variationName": "Size",
+                "variationValue": "25",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09N6182QJ",
+                "variationName": "Size",
+                "variationValue": "26",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09N5Y1ZLG",
+                "variationName": "Size",
+                "variationValue": "27",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09N5WM24M",
+                "variationName": "Size",
+                "variationValue": "28",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09N5LHPVT",
+                "variationName": "Size",
+                "variationValue": "29",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09N62M3B9",
+                "variationName": "Size",
+                "variationValue": "30",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09N5NRFT1",
+                "variationName": "Size",
+                "variationValue": "31",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09N5QL96R",
+                "variationName": "Size",
+                "variationValue": "32",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BNJW8BQM",
+                "variationName": "Size",
+                "variationValue": "24 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BNJWYZ82",
+                "variationName": "Size",
+                "variationValue": "25 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BNJXVFQ4",
+                "variationName": "Size",
+                "variationValue": "26 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BNJVDSB8",
+                "variationName": "Size",
+                "variationValue": "27 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BNJZ5GDV",
+                "variationName": "Size",
+                "variationValue": "28 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BNJWPP6M",
+                "variationName": "Size",
+                "variationValue": "29 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BNKF3FDV",
+                "variationName": "Size",
+                "variationValue": "30 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BNJVS1XJ",
+                "variationName": "Size",
+                "variationValue": "31 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BNJW4VXS",
+                "variationName": "Size",
+                "variationValue": "32 Regular",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31d-d5n-3WL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31pcwRRH33L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31fmoDQ50EL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41mXPkZlDNL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31 lYFJuXOL.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4c388af6-2535-4b66-854f-838bf90055ba/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Levi's Store",
+            "link": "https://www.amazon.com/stores/Levis/page/7B18FACC-DCB8-4735-B4AC-CDE16CD147DD?ref_=ast_bln"
+        },
+        "brand": "Levis",
+        "merchantInfo": "",
+        "customerReview": "4.1 out of 5 stars",
+        "customerReviewCount": 2558,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 99% Cotton, 1% Elastane",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Button",
+            "High Rise; Slim through hip and leg; Button fly",
+            "Size Up",
+            "Stretch"
+        ],
+        "description": "Our timeless 501 Jean, reinterpreted for today with a form-flattering skinny leg.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Womens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1048188"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 15.75 x 10.91 x 2.95 inches; 1.28 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 29502-0227"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e December 6, 2021"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Levi's"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09N5YYY2T"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#16,336 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #159 in Women's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.1 4.1 out of 5 stars 2,558 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "You May Also Like 724 High Rise Straight See Details Classic Straight See Details Ribcage Straight Ankle See Details Original Trucker See Details The Ultimate Western See Details Perfect Tee See Details Customer Reviews 4.2 out of 5 stars 7,650 4.3 out of 5 stars 11,612 4.3 out of 5 stars 8,003 4.6 out of 5 stars 9,982 4.4 out of 5 stars 3,554 4.4 out of 5 stars 9,504 Price \u2014 \u2014 \u2014 $47.82$47.82 $39.64$39.64 $14.69$14.69 Waist/Rise High rise Mid Rise Super high rise \u2013 \u2013 \u2013 Stretch Mid-stretch Mid-Stretch Mid-stretch Low stretch Low stretch N/A Leg Opening Straight leg Straight leg Straight leg \u2013 \u2013 \u2013 Fit Slim fit Easy fit Slim fit Standard fit Standard fit Standard fit Fabric Type Denim Denim Denim Denim Denim Jersey Sustainability Type N/A N/A Water<Less Water<Less Water<Less N/A",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b0236ab-88dc-4f5a-91b4-924cd72fc0e2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/845da6bb-9dab-4522-ab0e-7066aa24d6e0.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/92d1ca84-9144-4006-baf8-f49d456b2cdc.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fd3b94bc-a578-4ca9-9cd2-d50a99fc9657.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d7d22a22-2adc-4f20-9acb-a1d8bc5e09f7.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/89a5eb9a-70ee-482a-b894-7802276956bc.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2436f20a-5754-4a4a-a556-3aff274e91f1.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0e0cf9db-6e88-42d5-b753-b57c10d98e02.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed2b4796-dc4a-4ae4-bbe0-4cda36e2e355.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f3961b43-3ded-4fcf-92d8-889c917d55cf.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Elizabeth",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEJ4EFAFUBBNN47TC6UIEURGQIMQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RUG0F9RDVC2I6?ASIN=B09QQPJTL8",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 2, 2023",
+                "reviewTitle": "5.0 out of 5 stars Strong reliable jeans.",
+                "reviewText": "The fabric content is why I keep buying these jeans. It's a strong classic denim that I know is gonna last me a long time. These jeans have no stretch, which is why I like them. The sizing can be tricky. But I haven't bought a pair that hasn't fit yet.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jane Brewer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGA2PCKNSWHAVRVX4DE4DMOH5BRQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3KWFTTGC7L5FP?ASIN=B09QQPJTL8",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 19, 2024",
+                "reviewTitle": "5.0 out of 5 stars Perfect jeans, don\u2019t size up!",
+                "reviewText": "I finally found just what I wanted: classic thicker weight cotton denim with just a hint of stretch- not a stretchy thin jegging. I am a size 28 in Levi\u2019s 311 and 711 styles so I took recommendation to size up to 29. I ended up needing to size down to a 27, but all the returns were worth it. No gap in the back, no pooch in the crotch and I feel lifted and sculpted without being stiff or uncomfortable. Rise is just right not too high. Only wish is for longer inseam options and more color ways/washes.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Abbey Newell",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF23WUYFO2N2OYAGIG4FHBWIFR7Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2FZE5OUAZA19R?ASIN=B09QQPJTL8",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 14, 2023",
+                "reviewTitle": "4.0 out of 5 stars Fairly true to size.",
+                "reviewText": "I\u2019m 5 ft 4 in, 150 pounds and I got these jeans in a size 30, which I think is a 10? I usually wear a 6 or 8 in other brands depending on the stretch. After reading the other reviews I decided to completely size up. I figured better too large than too small. I should have ordered a 29 (8?). There\u2019s a little give in the jeans once you wear them for a few hours and after that they were pretty much giving me a baggy butt lol. They would be SO cute if I ordered the correct size. They have a button fly which is nice. They are pretty much made of cotton (per the tag) so I\u2019m hoping they\u2019ll shrink in the dryer. Hope this helps! I got the color which does not have rips in the legs!",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "BusyMom",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH6XJP347ESPNLKNN6UPCMP6CGJA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2KYB5TIGI474G?ASIN=B09QQPJTL8",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars Perfect mom jeans",
+                "reviewText": "Levi's Women's Premium 501 Skinny Jeans are highly praised for their classic style and comfortable fit. The iconic 501 silhouette, updated with a skinny leg, offers a modern twist on a timeless design. The premium denim used provides durability and a flattering shape. I appreciate the versatility of these jeans, suitable for both casual and more polished looks. Fits me at the ankles because of my height.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Julie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFHFQPCLWWNG5YISLXO7ERUSBJWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R26BSUSCTWJCB3?ASIN=B09QQPJTL8",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 7, 2023",
+                "reviewTitle": "3.0 out of 5 stars Sizing inconsistent between colors",
+                "reviewText": "Reviews recommended sizing up as the jeans run small with no stretch so I ordered a 29 instead of my usual 28 in Tango Talks. Unfortunately they were much to large in the waist and had a nice amount of stretch (not too stretchy but with some give for comfort), so I exchanged them for my usual size 28. I am a little suspicious that the 28s I recieved were not genuine Levis as they were still too big in the waist (and I have worn Levi's size 28 for years), AND the fabric had dramatically more stretch than the 29s I had originally ordered. They were also clearly a return as the sizing sticker had been peeled off and put back on the butt and the rest of the tags were all bent and ratty. That being said, I might take a chance and reorder in 27s to see if I can make these work because I can see them being a favorite if I can find the right fit. Clearly the sizing is a bit inconsistent between colors so make sure to read reviews of the specific color you are interested in and order accordingly.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cash",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGWNISCRZK2YY4AJEPSVU7KW57YA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RSA4Q7S5F3GIS?ASIN=B09QQPJTL8",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 17, 2021",
+                "reviewTitle": "1.0 out of 5 stars Save your cash and hit up second-hand!!!",
+                "reviewText": "Wow.Levi\u2019s has gone done the drain on their quality, I\u2019m amazed they\u2019re charging as much as they are!! I have several pairs of vintage Levi jeans\u2014 my \u2018youngest\u2019 pair is from 2010. Those babies have lasted me years, they fit beautifully, they feel and wear and look of great American quality. The big label is fabric and something to boast about. I mean, I love me Levi Jeans.But these?! What in tarnation?! I\u2019m a petite 2-4, always have been. My body size hasn\u2019t changed that much since middle school (which may or may not be something to admit). So when I have a pile of Levi jeans that are such a size, and I order a newer made one, I expect the same quality. That\u2019s fair. Right?Nope.No!Didn\u2019t happen.I had to order 2 pairs to figure out that I\u2019m now considered a 6. Yet here I am still walking around in 2-4s.. I\u2019m a bit confused. The jeans felt degrading and are. The material was cheap. The label was like plastic!!! I mean what is happening?! What. Is. Happening?Boy, am I glad I went Prime Wardrobe and didn\u2019t spend anything... wow.Although, since we are on the subject: Prime Wardrobe is kind of a joke. Their customer service was really nice, but it took them almost a month just to process that I\u2019d returned the item, even though tracking verified the jeans (both pairs) had been delivered to their facility within 3days of a return. I mean wow.Wow!I will never get Levi jeans again unless they\u2019re secondhand or Etsy. Sorry. But .... wow. Shame on Levi\u2019s for quitting like that BUT ESPECIALLY for price gouging on poor quality.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Karina",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGBCFQ5DKXW6ZJGBYICJR2RO5IJA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RYV9ZXBSQ6BWS?ASIN=B09QQPJTL8",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 31, 2023",
+                "reviewTitle": "5.0 out of 5 stars Ankle length in a curvy women.",
+                "reviewText": "Ok for 2 months I was in the hunt for some black worn in pair of none stretch denim with ankle length to go with loafers and was about to give up, I am 5ft 5 and weight 175 but mostly because of my thick thighs and buttocks waist is a lot thinner so I was finding it almost impossible until I received these. exactly what I was looking for and not too loose in my waist, just a tiny bit barely noticeable at all. I am super happy even got plenty of compliments from my Dominican family.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "elisabeth goldschmittelisabeth goldschmitt",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHOXY77ZUVLOHLI5EJJQXJCIGD5Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1YJY64J8FXSOX?ASIN=B09QQPJTL8",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 9, 2023",
+                "reviewTitle": "5.0 out of 5 stars My Favorite Pair of Blue Jeans",
+                "reviewText": "Okay, what!! I cannot say enough good things about this pair of jeans. Not only are they very stretchy and comfortable, they are so flattering! I\u2019m 5\u20198 and as you can see they reach right above my ankle to give it more of a mom Jean vibe, which I\u2019m totally okay with. I did order a size 30 because I tend to be in between sizes (8-10). I could\u2019ve gotten away with a 29, because the waist is a little loose in the 30s, so I would recommend to size down if you\u2019re in between sizes.Follow me on Instagram for more outfit and lifestyle tips @elisabethgoldschmitt",
+                "reviewVotes": "10 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/715aAGImRpL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71Qu8DNGYzL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Est\u00e1n c\u00f3modas, se ven muy bonitas y si son de piel",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 22, 2023",
+                "reviewTitle": "Me encant\u00f3",
+                "reviewText": "La mezclilla es gruesa, se ve muy bien",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "shelley ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 24, 2023",
+                "reviewTitle": "easy return",
+                "reviewText": "I love these jeans. Unfortunately, they were not the correct size. Amazon made the return extremely easy.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Hannah H.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 1, 2021",
+                "reviewTitle": "For petite figures I think",
+                "reviewText": "My sister loves these!! She asked for her normal Levi\u2019s size and they fit perfect! (Mind you she is tiny)",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cliente de Amazon",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 4, 2021",
+                "reviewTitle": "Pide tu talla habitual",
+                "reviewText": "Le\u00ed otras rese\u00f1as en donde se comentaba que era m\u00e1s r\u00edgido que otros jeans y por eso ped\u00ed una talla m\u00e1s de la que soy normalmente en levis. Creo que deb\u00ed pedir mi talla pero al pedirlos una m\u00e1s grande quedan holgados lo cual no me desagrad\u00f3. Si deseas que te queden m\u00e1s ajustados al cuerpo, pide tu talla normal de levis",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 6, 2021",
+                "reviewTitle": "best jeans",
+                "reviewText": "im 5 ft tall fit my height perfectlyvery flattering",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

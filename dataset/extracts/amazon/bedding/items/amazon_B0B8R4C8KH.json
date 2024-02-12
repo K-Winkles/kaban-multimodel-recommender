@@ -1,0 +1,592 @@
+{
+    "remaining_requests": 33186,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/JOLLYVOGUE-Comforter-Pintuck-Beddding-Pillowcases/dp/B0B8R4C8KH",
+    "body": {
+        "name": "JOLLYVOGUE Queen Comforter Set 7 Pieces, Pintuck Gray Bed in a Bag Comforter Set for Bedroom, Beddding Sets with Comforter, Sheets, Ruffled Shams & Pillowcases",
+        "price": "$33.99",
+        "originalPrice": "$36.99",
+        "rawPrice": 33.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/JOLLYVOGUE-Comforter-Pintuck-Beddding-Pillowcases/dp/B0B8R4C8KH",
+        "soldBy": {
+            "sellerID": "A22ZDZL3JUNYUW",
+            "name": "DAMAIJI",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A22ZDZL3JUNYUW&asin=B0B8R4C8KH&ref_=dp_merchant_link&isAmazonFulfilled=1"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BPH99979"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0B8R4C8KH",
+                "variationName": "Color",
+                "variationValue": "01 - Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51QnbYg7YNL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "01-light Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51QnbYg7YNL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BPXXMVFT",
+                "variationName": "Color",
+                "variationValue": "02 - Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51uJ-nh0aLL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BLNLJ4PT",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413WgR-90JL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B8QYXYTZ",
+                "variationName": "Color",
+                "variationValue": "Black/Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41aHoATlsGL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BYN51XHG",
+                "variationName": "Color",
+                "variationValue": "Burnt Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51JBBassdvL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B8R3NR4K",
+                "variationName": "Color",
+                "variationValue": "Dark Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51HUwk8q-hL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BHSRT4CQ",
+                "variationName": "Color",
+                "variationValue": "Dark Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51rOPlfMzYL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BPXVB43M",
+                "variationName": "Color",
+                "variationValue": "Dark Red/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51HU45mnUJL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BHSSXFL9",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/511AfHMNxZL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BLNMHF6G",
+                "variationName": "Color",
+                "variationValue": "Light Blue/Ivory",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51KmghhVe5L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BPXW9TP4",
+                "variationName": "Color",
+                "variationValue": "Navy Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41tlx72T0IL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B8R4DCQ3",
+                "variationName": "Color",
+                "variationValue": "Navy Blue/Gray",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/510vkexJ4JL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BPXV85V4",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/513qmuQmmXL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B8R4KW3T",
+                "variationName": "Color",
+                "variationValue": "Pink/Ivory",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51xfLB3gJ7L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BLN9KGZM",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41OnUHmgHVL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BLN7V3G3",
+                "variationName": "Color",
+                "variationValue": "Teal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51pmHXP-sYL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B8R747ZS",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41+TjXvX7HL._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/515JGY3fJHL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41UovUa96gL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51NBfsdLHsL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/517GSyBrrDL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41awXguLe-L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51F7bV3mmAL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51lJVVUQmnL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the JOLLYVOGUE Store",
+            "link": "https://www.amazon.com/stores/JOLLYVOGUE/page/E3B27504-46F7-45E6-9DA0-4E8E8C9F3925?ref_=ast_bln"
+        },
+        "brand": "JOLLYVOGUE",
+        "merchantInfo": "DAMAIJI",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 3185,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Tuesday, February 20 on orders shipped by Amazon over $35",
+            "Or fastest delivery Monday, February 19. Order within 1 hr 26 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": true,
+            "details": "OEKO-TEX STANDARD 100 requires textiles-based products to be tested against a list of 1,000+ chemicals, to limit those which may be harmful to human health. Certification focus: #ProductSafety and #ChemicalsUsed."
+        },
+        "features": [
+            "[Premium Material]: Our bedroom comforter sets keep you comfortable in any weather because the comforter, sheets, and pillowcases are made from 100% brushed microfiber. The 1000 thread count fabric gives a soft feel and makes you snug when curled up.",
+            "[Elegantl Design]: These queen-size comforter sets are designed in a pinch pleated style that perfectly combines fashion and beauty. The pintuck and ruffled design on the two pillow shams add unique and fashionable taste to your bedroom.",
+            "[All-round Elastic]: The cooling fitted sheet has 360\u00b0 elastic all around to grip the mattress better and keeps it in place all night long. An extra 14 inches depth accommodate a deep mattress or toppers.",
+            "[Easy to Care]: The comforter sets can be easily removed and machine-washed. Just throw it into the washing machine and wash it with cold water. Please do not use bleach, iron, or fabric softener.",
+            "[What You Can Get]: Jollyvogue queen bed in a bag sets include: 1 comforter (90\"x 90\"), 1 flat sheet (90\"x 102\"), 1 fitted sheet (60\"x 80\"x14\"), 2 pillowcases (20\"x 30\") and 2 pillow shams (20\"x 26\")."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Home & Kitchen",
+                "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b?ie=UTF8&node=1055398"
+            },
+            {
+                "name": "Bedding",
+                "link": "https://www.amazon.com/bedding/b?ie=UTF8&node=1063252"
+            },
+            {
+                "name": "Comforters & Sets",
+                "link": "https://www.amazon.com/comforters-sets/b?ie=UTF8&node=2224405011"
+            },
+            {
+                "name": "Comforter Sets",
+                "link": "https://www.amazon.com/comforter-sets/b?ie=UTF8&node=14053321"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Size",
+                "value": "Queen(88\"x 88\")"
+            },
+            {
+                "name": "Included Components",
+                "value": "Gray, Ruffled Shams & Standard Pillowcases, Comforter, Fitted Sheet, Flat Sheet"
+            },
+            {
+                "name": "Color",
+                "value": "01 - Gray"
+            },
+            {
+                "name": "Age Range (Description)",
+                "value": "All"
+            },
+            {
+                "name": "Style",
+                "value": "Elegant"
+            },
+            {
+                "name": "Brand",
+                "value": "JOLLYVOGUE"
+            },
+            {
+                "name": "Theme",
+                "value": "Fashion"
+            },
+            {
+                "name": "Pattern",
+                "value": "Geometric"
+            },
+            {
+                "name": "Material",
+                "value": "Soft Microfiber"
+            },
+            {
+                "name": "Fabric Type",
+                "value": "Microfiber"
+            },
+            {
+                "name": "Number of Pieces",
+                "value": "7"
+            },
+            {
+                "name": "Seasons",
+                "value": "All"
+            },
+            {
+                "name": "Thread Count",
+                "value": "1000"
+            },
+            {
+                "name": "Product Care Instructions",
+                "value": "Machine Wash"
+            },
+            {
+                "name": "Package Dimensions",
+                "value": "16.54 x 11.97 x 4.88 inches"
+            },
+            {
+                "name": "Item Weight",
+                "value": "8.82 pounds"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "JOLLYVOGUE"
+            },
+            {
+                "name": "ASIN",
+                "value": "B0B8R4C8KH"
+            },
+            {
+                "name": "Item model number",
+                "value": "BJT-LG-Q"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 3,185 ratings 4.5 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#7,115 in Home & Kitchen (See Top 100 in Home & Kitchen) #42 in Bedding Comforter Sets"
+            },
+            {
+                "name": "Date First Available",
+                "value": "August 5, 2022"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "JOLLYVOGUE BED IN A BAG COMFORTER SET Once you experience the top-tier quality of jollyvogue bedding, you\u2019ll never want to sleep on anything else. Here, the good places to buy luxury bedding worth every penny:",
+                "media_link": []
+            },
+            {
+                "media_text": "All comforter sets are complete with exquisite stitching and detailing that details elegance and sophistication.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7ad30251-1a30-47d9-a3d3-9be3abbe7ff9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Standard 100 by OEKO-TEX: Verifies that every component of the product has been tested for harmful substances.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/39a02dec-b9ca-45e8-9cb0-e54fd06ff98f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Elegantl design What, exactly, makes pintuck bedding stand out? Pintucks \u2013 a beautiful design detail to add texture and interest to your bedding.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e007b945-b97b-46b7-8180-51e084f94b1d.__CR0,0,800,600_PT0_SX800_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Previous page Fashion and beauty Pintuck and ruffled design Two pillow shams add a unique and fashionable taste to your bedroom. Choose your fabric wisely Right bedding fabric Less prone to shrinking and wrinkling. Cooling fitted sheet All-round elastic An extra 14 inches depth accommodate a deep mattress or toppers. Next page 1 Ruffled Design 2 Premium Material 3 Deep Pocket",
+                "media_link": []
+            },
+            {
+                "media_text": "Unlike dark tones, light gray induces calm Light gray is a great choice if you prefer classic colors. View More It's classic, timeless and endlessly versatile Offering year-round lightness and a casual vibe. View More Pink represents a gentle tenderness It\u2019s calming, non-threatening, and can be linked to a naive sweetness. View More Firm and steady The pintuck design allows the space to flow with a uniform matte black color. Symbolizes nature Sage green is softer and muted, making it better for sleep. View More More colors All the other colors View More",
+                "media_link": []
+            },
+            {
+                "media_text": "If you\u2019re a one and done kind of shopper Jollyvogue bed-in-a-bag sets include: ComforterSheets (one fitted and one flat)Two Ruffled Shams & Two Standard Pillowcases",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7ad30251-1a30-47d9-a3d3-9be3abbe7ff9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/39a02dec-b9ca-45e8-9cb0-e54fd06ff98f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e007b945-b97b-46b7-8180-51e084f94b1d.__CR0,0,800,600_PT0_SX800_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b4713e3b-7734-4ffd-8283-0c094f4cebaf.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/de053107-792f-470f-bc4e-3c16c8cafbf6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2176122c-be16-4e81-aca0-534e20e649f2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/64e6e048-8b60-4b50-8f84-4a3610a27bbd.__CR0,472,1600,656_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5fb8c8a6-459b-4dbf-8499-53b3ff3b9fb7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1fb00405-a13f-4220-a171-377e84dd7d64.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0a50bd00-3cc3-42a3-a5d5-467ab98b9101.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dd8bbaac-fba9-46d8-9b7a-604fe495b412.__CR0,472,1600,656_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/429a3028-ee17-4b7b-afc8-ef70a62b129b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "AMY R.AMY R.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEIYGBDHEU2S3SRJKQMS4URCGOMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R19DUYGUDR23?ASIN=B0B8R4C8KH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "5.0 out of 5 stars Beautiful Comforter Set",
+                "reviewText": "I\u2019m very happy with the set, it is well made. Both comforter and sheets are very soft. I love the sheets. The cream and blue looks very nice and compliments each other. The comforter is perfect for summer with a sheet underneath, I added a blanket for extra warmth for winter. I bought it a a flash deal or something like that and purchased for $44 instead of $79 so I definitely got a awesome deal. This is our spare room, this set goes perfectly with my lamps, nightstands and area rug all purchased from Amazon 2 years ago when we bought our house.Very pleased!\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71BsZgoYYmL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71MmLUHT-iL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71bdDJI1S8L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71ste2A6zCL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "KWeid2005",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFONOHMQ2DOBD64AF4F3KQHMPIBQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R24DR86RXQFU8W?ASIN=B0B8R4C8KH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nicely made",
+                "reviewText": "My daughter loves her new bedding. The comforter is so soft and warm, but light at the same time. The little pick ups are a nice touch just be a little something without overdoing it. The color is exactly what it looks like online. Very pretty. Overall, we are both very very happy with my pick of bedding. I highly recommend.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon CustomerAmazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGXQY5DPMS6KHNEPI5RAXDEL7NGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3M93DNB1T1XUK?ASIN=B0B8R4C8KH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 6, 2023",
+                "reviewTitle": "5.0 out of 5 stars I love it!",
+                "reviewText": "WOW! 7 pieces for one good price! So soft and so light but jet warm. It is a beautiful set. Pintuck comforter and sham pillows in light gray color are so elegant, and I received a lot of compliments for this bedding set. I replace 2 pillowcases with silk ones, I like the feeling of sleeping on the silk, but that additionally added nice look to my bedroom. I couldn't use bed skirt because my frame is 18\" high, but I am saving it for some other projects.I am very happy with my purchase. I highly recommend!",
+                "reviewVotes": "10 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/51ItcuRxrSL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lisa M LahrLisa M Lahr",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG4GPVR5L4F6VNDZSJU6T7YDDZ3A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R37CIMJEW6A8B0?ASIN=B0B8R4C8KH",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 15, 2023",
+                "reviewTitle": "4.0 out of 5 stars Pretty",
+                "reviewText": "Very pretty style, soft and texture. Comes with skirt and sheets. Very reasonably priced.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/713wnXirO2L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ariel",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AERRDQSANJEAASYFY7BZZEREWYZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2Z8L1D84W7GHN?ASIN=B0B8R4C8KH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars I love this color",
+                "reviewText": "Nice and light. Soft to the touch and the fitted sheet doesn't come off easily.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Raingirl!",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHXZV2AMVPJSC5SKNGT626SZE6DA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1IURPRTUM2W07?ASIN=B0B8R4C8KH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars Value for your Buck",
+                "reviewText": "Updated guess room for holiday. It looked beautiful. True to color, lightweitht warm.I am thinking about purchasing for my bed. Great value for the cost. Washes well too.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "AmazonShopper",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHYUREYK66F4I2T2XOZXAILANJ6A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2ZJ1Q2O02087O?ASIN=B0B8R4C8KH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Soft, nice quality",
+                "reviewText": "Purchased as we needed a cheap backup set, it's great. Soft. Not too warm or too cold. Fit perfectly. Can't beat the price - it's a great set.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "redcaddy97",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG5VTWJLD23BCZH54E7QISZ5YETQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3AY4TF6SW1SPI?ASIN=B0B8R4C8KH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 30, 2024",
+                "reviewTitle": "5.0 out of 5 stars Looks great",
+                "reviewText": "Arrived quickly. Great silky feel. Very pretty. I wish that a bed skirt had been included, but I have ordered separately. It fits my guest bedroom full size bed perfectly over a super pillowy mattress pad. I just got it so I can't speak to durability, but I anticipate that it will be decent to good. Would purchase again",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Miguel Angel",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 26, 2023",
+                "reviewTitle": "Super Confortable",
+                "reviewText": "Perfecto tama\u00f1o individual. Muy confortable y c\u00e1lida para esta temporada invernal \u2728\ufe0f, \u00fanicamente viene con unso detalles en los que sobresale la costura sobre la Superficie de la colcha. Pero le doy 4 1/2 \ud83c\udf1f",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "KellyBKellyB",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 13, 2023",
+                "reviewTitle": "Love this bedding - inexpensive but very elegant!",
+                "reviewText": "We\u2019ve always had a queen bed, and recently purchased our first king - an adjustable bed. I wasn\u2019t sure if I\u2019d need deep pockets on the fitted sheet or if standard would be adequate. Plus I wanted something relatively plain without being boring, and it had to be soft.This set checked all the boxes. While I don\u2019t need the deeper pockets, this has enough depth to accommodate if necessary. It\u2019s surprisingly soft & well-made, considering how inexpensive it was. The quilt is large enough to provide good coverage on both sides, as does the sheet.While I haven\u2019t washed the quilt yet, I have washed the sheets & shams. Straight from the washer into the dryer - and they came out soft, wrinkle-free, and perfect. I would definitely recommend this bedding set, and wouldn\u2019t hesitate to purchase again.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61mejErFfVL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71F3ZMKLebL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "LittleMissKnowItAll",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 7, 2023",
+                "reviewTitle": "Beautiful but missing the bedskirt",
+                "reviewText": "Beautiful but sadly is missing the bed skirt that was supposed to be included",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Anne Fredrickson",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Australia on January 15, 2024",
+                "reviewTitle": "Comfort",
+                "reviewText": "This is a very nice comforter set. Fits and looks great",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Arvid Veland",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 3, 2024",
+                "reviewTitle": "Price/Quality",
+                "reviewText": "The quality and price go hand in hand in this comforter set. I would recommend to those who want a very nice looking set for the value offered.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

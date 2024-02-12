@@ -1,0 +1,574 @@
+{
+    "remaining_requests": 17345,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Democracy-Womens-Solution-Crop-Jean/dp/B076DN2Q4L",
+    "body": {
+        "name": "Democracy Women's Ab Solution Crop",
+        "price": "$35.42 - $74.00",
+        "originalPrice": "",
+        "rawPrice": 35.42,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Democracy-Womens-Ab-Solution-Crop/dp/B0BLBMJ88B",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0BLBMJ88B"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07H59XGBZ",
+                "variationName": "Color",
+                "variationValue": "Bl Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31vLbcvyOlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07Z8PT18R",
+                "variationName": "Color",
+                "variationValue": "Bl Blue0",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31vLbcvyOlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B076DN2Q4L",
+                "variationName": "Color",
+                "variationValue": "Bl Blue00",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31vLbcvyOlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BNJMG2MZ",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312fMu1bq2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B076DVWRVX",
+                "variationName": "Color",
+                "variationValue": "In Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31CxffItJ0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07H4XD56G",
+                "variationName": "Color",
+                "variationValue": "Laurel Oak",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312dCGenyVL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BNJK1G1L",
+                "variationName": "Color",
+                "variationValue": "Lemon Lush",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31eFWjkM6zL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08GB6NHQP",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41X-KNK41BL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07QFYRL88",
+                "variationName": "Color",
+                "variationValue": "Light Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310GB5a7mQL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B079BZ7J9T",
+                "variationName": "Color",
+                "variationValue": "Optic White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31CxffItJ0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B019G0KNZ6",
+                "variationName": "Color",
+                "variationValue": "Blue Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31CxffItJ0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09XS9S2NT",
+                "variationName": "Color",
+                "variationValue": "Lemon Lush Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310xgJoSiwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08G9P1W5N",
+                "variationName": "Color",
+                "variationValue": "Blue0",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31CxffItJ0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BVVXWWL3",
+                "variationName": "Color",
+                "variationValue": "High Rise Powder Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3156snWxyHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CD5P92QF",
+                "variationName": "Color",
+                "variationValue": "Blue With Cuffs",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/318chYT-XaL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07H5B7JKF",
+                "variationName": "Color",
+                "variationValue": "Flax",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31mNHdd5QWL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08GB58K7T",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31CxffItJ0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B019G0KGF8",
+                "variationName": "Color",
+                "variationValue": "Medium Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312XYIZDuZL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08VWTR523",
+                "variationName": "Color",
+                "variationValue": "Blue Fog",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/316rb1OMiUS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BX1R44RP",
+                "variationName": "Color",
+                "variationValue": "Burnt Henna",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31QLEdYksYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BQCN48P9",
+                "variationName": "Color",
+                "variationValue": "Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31xLKe3r2yL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C2RMG2H2",
+                "variationName": "Color",
+                "variationValue": "Mid Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PQqhswoKL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B076DSY6S7",
+                "variationName": "Color",
+                "variationValue": "Powder Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/318tI1Ice3L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07H59XHMF",
+                "variationName": "Size",
+                "variationValue": "2",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H56JYPD",
+                "variationName": "Size",
+                "variationValue": "4",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H56WZ6V",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076DN2Q4L",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H59XGD6",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B076DNGNSP",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H56FY8P",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H581BW8",
+                "variationName": "Size",
+                "variationValue": "16",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31vLbcvyOlL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31EUaI-P8fL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31INB8xAnDL.jpg"
+        ],
+        "imagesCount": 3,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Democracy Store",
+            "link": "https://www.amazon.com/stores/DemocracyWomensCollection/page/5792DDBD-9CC2-47FD-92B2-1FE54F8A5279?ref_=ast_bln"
+        },
+        "brand": "DemocracyWomensCollection",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 4256,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 54% Cotton, 27% Rayon, 17% Polyester, 2% Spandex",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "Democracy\u2019s signature \u201cAb\u201dsolution jean uses innovative construction that incorporates super-stretch denim, slimming panels, a hidden inner elastic waistband, mesh panels, signature curved back yoke, and strategically placed pockets",
+            "Classic crop with optional cuff made with premium, soft fabrics",
+            "27\" inseams comes with cuffed with 25\", optional roll cuff"
+        ],
+        "description": "Built from the bottoms up, Democracy blends a universal fit for all shapes and sizes with an effortless aesthetic. Inspired by this multitasking woman with an ageless mindset, Democracy introduces emerging trends in an accessible and affordable way that meets all of her lifestyle needs. Through unparalleled value that fits her body and her wallet. Democracy embraces who she is, enhances what she\u2019s got, elevates her confidence, and evolves her personal style.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Womens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1048188"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 14.61 x 10.79 x 2.32 inches; 14.07 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e B1176BBIC"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e February 15, 2018"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Democracy"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B076DVTYQD"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#12,795 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #130 in Women's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 4,256 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "No Gap Waist A universally great fitting jean with slimming style lines & feminine details. On the inside, there is a soft, no-gap elastic waistband that conforms to your body shape. Super Stretch Fabrics We use premium denim fabrics that are soft, super stretchy and our artisanal washes elevate your look. Slimming Panels The \u201cAb\u201dsolution jean has mesh panels in the front to smooth out your belly and the no-gap elastic waistband molds and holds your shape. Booty Lift On the back, there is a sweetheart shaped yolk, curved exterior pockets and darts for an instant booty lift.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cbee956b-b8a9-4b9a-8177-99555e3ab246.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0853ce8f-e26c-4308-8cb5-c7f803f7c7b0.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/87f0482e-6061-4bff-9bd2-5e16d63bd1d1.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d461cf78-39da-4604-9dba-8d0d005c5078.__CR0,0,220,220_PT0_SX220_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Jegging Straight Leg Itty Bitty Boot Girlfriend Ankle Skimmer \"Ab\"solution Technology \u2713 \u2713 \u2713 \u2713 \u2713 Inseam 30\" inseam 31\" inseam 32\" inseam 30\" inseam cuffed to 27\" 29\" inseam cuffed to 27\" Leg Opening 10\" 14\" 18\" 14\" 10\" Description Our exceptional fitting skinny legging in soft stretch denim. The \"Ab\"solution Straight Leg jean constructed in premium stretch denim that fits like a dream. Our classic boot leg made in soft, stretch denim for an ageless look. The girlfriend jean which is an easier fitting jean, meant to fit more relaxed and can be uncuffed. Our easy cuffed ankle jean that is offered in beautiful authentic washes. Wear it cuffed or uncuffed. Additional Sizes Available in short and long inseams as well as in Plus an d Petite Sizing Available in short and long inseams as well as in Plus an d Petite Sizing Available in short and long inseams as well as in Plus an d Petite Sizing Available in Petite and Plus sizing Available in Petite and Plus sizing",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cbee956b-b8a9-4b9a-8177-99555e3ab246.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0853ce8f-e26c-4308-8cb5-c7f803f7c7b0.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/87f0482e-6061-4bff-9bd2-5e16d63bd1d1.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d461cf78-39da-4604-9dba-8d0d005c5078.__CR0,0,220,220_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7359ece6-ff00-4d31-86b0-d570fbd8818f.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/93427995-9b9c-4d66-9fde-048fa8d2252e.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c5b31128-4944-4104-ae51-91d4e00555a5.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f2749aa6-54b7-45a7-ac89-3cbf3f9020c3.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/905e3aa1-8a02-431c-ac6d-4ec400e07d7f.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f2726b70-5c2a-46f5-a778-057fbc56072d.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/28a66d86-e557-48cc-bf83-91604d931c19.__CR0,50,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b5b67e23-0435-41d0-8916-bfcef3d44741.__CR0,0,150,300_PT0_SX150_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Briana",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHQ76DFCWXHDN2BPHCS5EQ76OKBA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2IXZ10NA17OL4?ASIN=B0BLBMJ88B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars Fit in all the right places!",
+                "reviewText": "I've been wearing these jeans for years now, and I've always been satisfied. They do run a little big so size down. But they are so comfy and look nice!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "May Obe",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHMLKH5V45UTQOZR3XEEJNX6AJOA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R197O66F3UFZY5?ASIN=B0BLBMJ88B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good balance of stretch and structure",
+                "reviewText": "I like these jeans and all the Democracy brand jeans I've owned. I own this pair in multiple colors/washes. They're super comfy, particularly at the waistband, but they're much slower to get baggy (like at the knees or bum) as you wear them than other stretchy jeans I own.A note on sizing- Amazon's pants size recommendations are usually pretty accurate for me, but for these jeans they suggest a size 8 and I've found the size 6 to fit very well. In general, I usually wear a 6 (or 28-29) on average in pants. My actual waist measurement is about 30\" and my hip is 40\"-41\". I'm 5'2\", about 140 lbs and relatively muscle-y in the thigh and calf. I'd say I have (sadly) only a modest amount of bum.For those that sew and/or know a bit about tailoring- like many people, I have to do sway-back adjustments on patterns. For ready to wear clothing, it's hard to find pants where the front rise isn't both too long and too shallowly cut, which creates that unattractive sag-fold-thingy at the front crotch. I've found democracy jeans to fit better in that regard than other brands.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "C M",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFLNL2BSHVGA3GUZIHXNEH2BOMYQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1X7MRA9SJJKNZ?ASIN=B0BLBMJ88B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 18, 2023",
+                "reviewTitle": "5.0 out of 5 stars Love these jeans",
+                "reviewText": "I bought these jeans when they were on sale for a very low price, but after trying them out I would totally (and probably will) buy them at regular price because they\u2019re that good! They fit true to size for me. Though they are supposed to be cropped, because of my height I can wear them as regular ankle-length jeans as well as roll them for a cropped look. I am very happy with this purchase. They\u2019re soft and comfy and not stiff. They do help hold in your stomach a bit, too. They did have a bit of a plastic smell when I took them out of the package but I wash clothes before wearing them so this wasn\u2019t a problem for me.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sara",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHBVZA6O2TCJMTBA7QSCQRWHVZGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RWWV7WF9LW4MK?ASIN=B0BLBMJ88B",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 9, 2023",
+                "reviewTitle": "4.0 out of 5 stars Works but feels bulky",
+                "reviewText": "It does flatten the belly really well and is flattering. I am not fond of the thick elastic waistband but am getting more used to it. I guess I didn\u2019t really need the assistance in the booty area because these make it look huge lol. I am hoping to find a pair with the mesh panels in front but with a normal waistband and no rear enhancements. They are true to size but very stretchy so if you want a snug fit or are losing weight, size down.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEMJU6VKBTAUAEJBUK42ZMLRGHEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2OL60530Z91JO?ASIN=B0BLBMJ88B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 19, 2023",
+                "reviewTitle": "5.0 out of 5 stars Democracy are the best jeans ever made",
+                "reviewText": "Comfortable, true to size, and received tons of compliments",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "tonya mcdade",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHA57CLV463WYHDLP7JEBAYKFLTQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3R7EKKXXGB5EN?ASIN=B0BLBMJ88B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 4, 2023",
+                "reviewTitle": "5.0 out of 5 stars Omg, so comfy!",
+                "reviewText": "These are by far the most comfortable jeans I've ever owned! Just the right amount of stretch, soft fabric, and a waistband that perfectly fits me! No muffin top, no sliding down - I always have one or the other! Typically, if I buy the smaller size - muffin top, larger size - pants slide down my hips! These pants are perfect - and I ordered my normal size!!! I need these on every style and color!!!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Janet",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF3GIM5OIZ35U2WOWVWMAFVCHYPA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3OH76X05QV8HT?ASIN=B0BLBMJ88B",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2024",
+                "reviewTitle": "3.0 out of 5 stars Run small",
+                "reviewText": "Democracy jeans are my favorite. I have these in ble & they're perfect! I received this gray/yellow camo pair today. They're very cute, but the sizing is a lot tighter & less stretchy than the denim. If you're between sizes, you'll want to order the larger size. These are more of a lightweight twill fabric.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "beach gal",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEE34P6VUTJDNVCD67BETSQMFCSA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R30G5IACO2U6VC?ASIN=B0BLBMJ88B",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 18, 2023",
+                "reviewTitle": "5.0 out of 5 stars Loved these capris",
+                "reviewText": "Love these capris in white. I bought them to take on a vacation to Greece. I loved the fit and they kept their shape while wearing them several times. I also ordered a blue pair but they didn't fit as well.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Paula",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 1, 2022",
+                "reviewTitle": "Love these pants",
+                "reviewText": "Super comfortable and love the stretch. Bought it in my regular size.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MW",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on June 1, 2022",
+                "reviewTitle": "Love these cute crops",
+                "reviewText": "Keep in mind ordering a size down will fit perfectly! Sooooo comfortable, you may never buy another brand again!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 1, 2022",
+                "reviewTitle": "Love them",
+                "reviewText": "Wondered if I should order size down but decided against it - love the colour and style - had another pair from somewhere and loved them so wanted to try different style",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gvers ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 20, 2021",
+                "reviewTitle": "My favourite jeans! So comfy",
+                "reviewText": "I love these jeans! The fit perfectly, make me look and feel slimmer and are super comfortable. Great quality and fit. I\u2019ll be getting more for sure. I am 5\u20191, 130lbs, got size 6. Love them.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Wendalina Wendalina ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 23, 2021",
+                "reviewTitle": "My new go to jeans",
+                "reviewText": "Third pair of Democracy jeans. So perfect. They make me look skinny and I\u2019m not. Nuff said",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81hQ5FFmNoL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81gkbcrFZ2L.jpg"
+                    ],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

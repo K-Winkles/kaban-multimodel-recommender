@@ -1,0 +1,512 @@
+{
+    "remaining_requests": 13415,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Carhartt-Bartlett-Jacket-Regular-Sizes/dp/B07RX5VMT8",
+    "body": {
+        "name": "Carhartt Men's Relaxed Fit Washed Duck Sherpa-Lined Utility Jacket",
+        "price": "$139.99 - $154.99",
+        "originalPrice": "",
+        "rawPrice": 139.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Carhartt-Relaxed-Washed-Sherpa-Lined-Utility/dp/B07S1925T3",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B07S1925T3"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07S1925TQ",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41xcFLvxu3L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B086XJH2BB",
+                "variationName": "Color",
+                "variationValue": "Carhartt Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41owtXU8djL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07S3H5ZKF",
+                "variationName": "Color",
+                "variationValue": "Dark Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4146KYgi4OL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07S2D5DDZ",
+                "variationName": "Color",
+                "variationValue": "Gravel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41pj+U-WuGL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B4F1SB4Q",
+                "variationName": "Color",
+                "variationValue": "Moss",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41dlMRaa7KL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07S1925VY",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07S3HDBSF",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07S3GGFS6",
+                "variationName": "Size",
+                "variationValue": "Medium Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RX5VMT8",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RY7KXR4",
+                "variationName": "Size",
+                "variationValue": "Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RX5WD2V",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07S1925TB",
+                "variationName": "Size",
+                "variationValue": "X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07S2D2F31",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07S192W4G",
+                "variationName": "Size",
+                "variationValue": "XX-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RY7N9LK",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B4F1SB4Q",
+                "variationName": "Size",
+                "variationValue": "3X-Large Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B4F3KNG2",
+                "variationName": "Size",
+                "variationValue": "3X-Large Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07S3H5ZKF",
+                "variationName": "Size",
+                "variationValue": "3X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RY7LZ12",
+                "variationName": "Size",
+                "variationValue": "4X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B4F3QHR2",
+                "variationName": "Size",
+                "variationValue": "4X-Large Big",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B4DYRSCT",
+                "variationName": "Size",
+                "variationValue": "4X-Large Big Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07S193P47",
+                "variationName": "Size",
+                "variationValue": "4X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08PDJ1HW9",
+                "variationName": "Size",
+                "variationValue": "5X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B4F1LY3M",
+                "variationName": "Size",
+                "variationValue": "5X-Large Big",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/4146KYgi4OL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/4192hG9URBL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31dCdfUpbmL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31NyjEDBefL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41uog7Ylg9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31udnFIdjYL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Carhartt Store",
+            "link": "https://www.amazon.com/stores/Carhartt/page/4D749FEE-ACA7-4043-8DF6-FCA7CF7BEE1F?ref_=ast_bln"
+        },
+        "brand": "Carhartt",
+        "merchantInfo": "",
+        "customerReview": "4.8 out of 5 stars",
+        "customerReviewCount": 9517,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "12-Ounce, 100% Cotton ring-spun washed duck",
+            "Sherpa lining in body",
+            "Quilted lining in sleeves",
+            "Cardura reinforced sleeve hem with inner rib knit cuff",
+            "Attached hood with low profile adjustment at hood hem",
+            "Carhartt-strong, triple-stitched main seams"
+        ],
+        "description": "Sherpa-lined and cordura-reinforced, this durable duck jacket will keep you working hard, with an attached hood for added warmth and comfort.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Uniforms, Work & Safety",
+                "link": "https://www.amazon.com/Mens-Uniforms-Work-Safety/b/ref=dp_bc_aui_C_3?ie=UTF8&node=7581682011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Mens-Work-Safety-Clothing/b/ref=dp_bc_aui_C_4?ie=UTF8&node=7606661011"
+            },
+            {
+                "name": "Work Utility & Safety",
+                "link": "https://www.amazon.com/Mens-Work-Utility-Safety-Apparel/b/ref=dp_bc_aui_C_5?ie=UTF8&node=6572900011"
+            },
+            {
+                "name": "Outerwear",
+                "link": "https://www.amazon.com/Mens-Work-Utility-Safety-Outerwear/b/ref=dp_bc_aui_C_6?ie=UTF8&node=6572902011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 22.28 x 13 x 3.46 inches; 3.6 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 103826"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 12, 2019"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Carhartt"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07RY7LZ1Y"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#4,768 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #2 in Men's Work Utility & Safety Outerwear"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.8 4.8 out of 5 stars 9,517 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Style Features Insulated Sherpa lined interior insulation with quilt lining through the sleeves keeps you warm. Hooded Attached Hooded with a low profile pull string allows you to pull and adjust hood. Pockets Two chest pockets with snap flap closure, left double-front pocket with velcro closure. Two lower front pockets and a secure inside zipper pocket to hold gear. Pleated Elbows More room to bend in the elbows equals greater, harder-hitting range of motion to get the job done. Cordura reinforced sleeve hem with inner rib knit cuff.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/90749a86-44fd-46ec-bc3a-59bab202ac30.__CR0,0,720,720_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/d8f15edc-e1d4-452a-a62d-c76075f598f8.__CR0,0,720,720_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/08ef8777-35fd-43ac-b70d-552a5bcd09b6.__CR0,0,720,720_PT0_SX220_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/vc/4c6bff23-df54-4584-bb34-d6488d13f221.__CR0,0,720,720_PT0_SX220_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Bartlett Jacket Washed Duck Active Jacket Full Swing Armstrong Active Jacket Thermal-Lined Duck Active Jacket Quilt-Flannel-Lined Duck Active Jacket Yukon Active Jacket Fabric 12-ounce, 100% cotton ringspun duck. 12-ounce, 100% ring-spun, washed cotton duck. 12-ounce, 100% ring-spun, washed cotton duck. 12-ounce, firm-hand, 100% ring-spun cotton duck. 12-ounce, firm-hand, 100% ring-spun cotton duck. Extremes: 1000-denier Cordura nylon shell with Rain Defender durable water-repellent finish and Wind Fighter technology. Full Swing Technology \u2713 3M Branded Insulation \u2713 Insulated \u2713 \u2713 \u2713 \u2713 \u2713 Attached Hood \u2713 \u2713 \u2713 \u2713 \u2713 \u2713 RIb-knit Waistband \u2713 \u2713 \u2713 \u2713 \u2713 Inside Pockets \u2713 \u2713 \u2713 \u2713 \u2713 \u2713 Secure Front Chest Pocket \u2713 \u2713 \u2713 Adjustable Drawcord Hem \u2713 Big & Tall Size Available Available Available Available Available Available",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/129adf87-1f0f-4e3f-8bc4-f5d2ffc48c31.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/90749a86-44fd-46ec-bc3a-59bab202ac30.__CR0,0,720,720_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/d8f15edc-e1d4-452a-a62d-c76075f598f8.__CR0,0,720,720_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/08ef8777-35fd-43ac-b70d-552a5bcd09b6.__CR0,0,720,720_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/4c6bff23-df54-4584-bb34-d6488d13f221.__CR0,0,720,720_PT0_SX220_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/5ae38ebf-c037-4646-9171-67c1db411e19.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/833dfc7f-3b2c-41d4-b6f9-7bba3a2b240c.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/82dfd561-fab8-41ca-a379-18210d98726d.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/ef04875f-d170-423a-a760-e1a62c070edc.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/43a7e89a-4bb5-413c-afa6-f3121c1f9b72.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/a101b8e5-3575-44f6-a1ec-484aec9545de.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/72c39a5c-2a05-4043-9e0d-a2043f963170.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/4b7e401a-4f64-47cf-9759-c4223918c00f.__CR0,0,150,300_PT0_SX150_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "rhonda morin",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGWN2AA34GXWHD3WFANDA7LKMGEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14VQZ94QRL0UB?ASIN=B07S1925T3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 24, 2024",
+                "reviewTitle": "5.0 out of 5 stars Stylish and warm",
+                "reviewText": "My husband loves his new jacket! It fits perfectly and is super comfortable. The quality is excellent and exactly what one expects from Carhartt. It's stylish enough to wear out n about too. He thinks I paid way more than I did for it. Lol I'm not saying anything \ud83d\ude09",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "S-Marie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGRT6L7CZ7UZSJ7GV6AY4YRIDS2Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RRKBK1RVPRM1O?ASIN=B07S1925T3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 28, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great jacket, true to size",
+                "reviewText": "This jacket is exactly as described, true to size and very warm. The duck cotton is strong and durable with multiple pockets . The wind doesn\u2019t cut through ! If you work outdoors and need a jacket that actually holds true to what the description says I highly recommend.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Guy M. Del Vecchio",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGQ4NTOQIHY47KVMCWOHYFYFQ6KQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3B5XWIFCDDY0T?ASIN=B07S1925T3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 17, 2023",
+                "reviewTitle": "5.0 out of 5 stars A bit pricey BUT\u2026it's not a bad jacket at all.",
+                "reviewText": "This jacket is absolutely perfect for FALL WEATHER!!! It\u2019s not too heavy, not too long the color is great\u2026it doesn\u2019t look like a work coat. I don\u2019t know yet if it is water resistant, but if needed. I can bring it to the cleaners for treatment. It\u2019s a good heavyweight material so I am sure it is durable. The only real drawback to this garment is its price, yes it IS a bit pricey but, for its warmth and quality it is worth the cost.Okay, so I've had it about a month and a half now. It IS a good sturdy jacket, but if it is cold out, and the wind kicks up...you WILL feel that cold, but you'll also warm back up again immediately. This jacket is MEANT to be worn with warmer shirts underneath. It's comfy, but the pockets are wrong, and they are not deep enough. I have a five inch flashlight that I carry in one pocket...and it JUST lays there...turn the wrong way and it's gone. A GREAT jacket...NOT A COAT...but it can use some REAL improvements. As Carhartt products go...I'm totally disappointed. OH...and the INSIDE ZIPPER is really too small, it's verrry hard to hold onto and zip the jacket up. A MUCH BETTER VALUE would be the ROTHCO FIELD JACKET...WITH THE LINER...TALK ABOUT A WARM JACKET...AND IT DOES PROTECT YOU FROM THE RAIN, BUT IT DOESN'T HAVE A HOOD...BUT...YOU CAN PROBABLY BUY ONE.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Joe",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AER3MTPSQLVEFRYWUMM7DLQHDJGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R13Y36BWG92UV2?ASIN=B07S1925T3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 5, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great Jacket!",
+                "reviewText": "I'm a fan of Carhartt and I've been eyeing this jacket for a while. I've read that this jacket runs big so I decided to size down and order size Small. When I tried it on, I liked the way it looks but it felt somewhat uncomfortable. I went ahead and ordered size Medium (my normal size). I thought the Medium fit better but I still felt it was kinda big. I ended up giving the Small one to my wife and it looks great on her! My best advice is to try it on before you buy. If you can't, I'd just go with your regular size unless you like the slim fit. Otherwise, the jacket seems very durable, warm, and cozy.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bill L.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH3JO4CIR6LLKJB4QBLLAV7Y2UZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1IRAXIHJEJLPX?ASIN=B07S1925T3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars A nearly perfect work jacket.",
+                "reviewText": "I have been a Carhartt fan for years, and I purchased the Utility Jacket to replace my 26 year old Carhartt chore coat.What do I like about this jacket: Everything.The Fit: I am 5ft 11in tall, 185lbs, Medium build, so I ordered a Large, and the fit is perfect from the sleeve length to the shoulders. Because the jacket is gusseted, it allows for full range of motion even with the jacket fully zipped and buttoned. The jacket has an adjustable waste cord, which I have not had to touch. Another nice feature is the jacket length, which falls at pocket level on a pair of jeans. The jacket is slightly longer in the back than in the front, which keeps it from riding up.Storage: The jacket has six pockets. Two front \"hand\" pockets, two buttoned breast pockets, an additional front left breast pocket with a center Velcro closure, which makes for a handy place to hold pencils, and an interior zip pocket on the left, which I use to keep my wallet secure. Pocket depth has not been an issue, and I keep an IPhone 13 in the front hand pocket with no issues.Warmth: The jacket is Sherpa lined. I've worn it hours in 25-32 degree temps and was comfortable with just a T-shirt under a Henley shirt. I would say that it would be comfortable to work in from 20-50 degrees. The zipper (right zipper) also has a button cover, making it that much more air tight. The sleeves are cuffed, though they don't appear to be at a glance. These cuffs really help with keeping cold air from seeping into the arms, especially if you're like me and you like to wear a thinner undershirt while working. There is a Sherpa-lined attached hood as well.Construction: This jacket feels heavy duty. The zipper is beefy, the buttons solid, and the overall construction is solid. I feel like I can use and abuse this jacket without destroying it. The duck outer lining is not soft cotton, but it moves, and feels strong without being stiff.Appearance: This is not a bad looking jacket and I might even call it stylish. I would feel fine wearing this while out and about.Demerits. I give this jacket one demerit, and it is a very minor demerit, and that is the attached hood. I like the hood, I like how it lays on the back when not in use without feeling bulky, I just wish that it could be removed. This is a very minor quibble, however.Overall I highly recommend this jacket if you are in the market for warm, heavy duty, and practical work wear. It is not inexpensive, but I feel it is worth every penny. In fact, I would go as far to say that even if you aren't in the market for a work jacket, but only warm jacket that can take a beating, then this jacket is worth considering. It is warm, comfortable, practical, and not bad looking.",
+                "reviewVotes": "13 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rondolf Evans",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AELWJBFVJKLL5IV6PZLQFAHVRJHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RJ10YA5P9DI01?ASIN=B07S1925T3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 9, 2024",
+                "reviewTitle": "5.0 out of 5 stars Runs big",
+                "reviewText": "I typically wear a large but from reading the reviews I bought a medium tall and they fit perfect. Cozy and warm. Great in really cold weather. Wind resistant. Very durable. Well worth it in my opinion.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Beth",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH25XVV3N32EFFDOM3UEC5V53IKA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R13BNY3XPAPA5A?ASIN=B07S1925T3",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 20, 2023",
+                "reviewTitle": "4.0 out of 5 stars Warm but bulky",
+                "reviewText": "Note: I am not the target clientele for this jacket. I am a woman with a relatively slight build. As such, I did not fit very well into the size chart dimensions. I would have ordered an extra small if that was an option. Jacket is warm and comfortable. Cons are largely cosmetic-related.Pros:- Very warm jacket. It keeps me nice and toasty down to freezing weather. For colder than freezing, I prefer longer coats.- Relatively light-weight. A lot of winter coats are extremely heavy. This one is mid-weight.- Feels durable. The fabric is sturdy and the coat seems well made.- Lots of pockets. I wish the side pockets had zippers, but they are a good placement for keeping your hands warm.Cons:- Snap buttons are difficult to close. Especially with gloved hands, the snaps are very difficult to get closed. You need one hand on either side of the fabric to press them together.- Too wide at the shoulders. This should not be an issue for the target clientele.- Bulky. If I was able to order a smaller size, this likely would not be an issue. Unfortunately, they do not offer sizes below small.- Fabric is stiff. The jacket keeps its shape when I wear it. Not really an issue, just looks a bit odd on me.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Beto Q Beto Q ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 31, 2024",
+                "reviewTitle": "Carhartt es calidad",
+                "reviewText": "La encontr\u00e9 a buen precio y dije claro que si. En donde vivo a veces las temperaturas llegan a estar a 6 grados y es necesario abrigarse bien. Esta chamarra te mantiene caliente a la intemperie en esas bajas temperaturas. Sientes que es de construcci\u00f3n robusta, forrada en sherpa y si es caliente. Aparte es la famosa marca de la serie Yellowstone!!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71HBmE9TzPL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81nkI70JW-L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "John",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 29, 2023",
+                "reviewTitle": "Large Tall - AKA\" big and Tall\"",
+                "reviewText": "I'm 6'1 roughly 180lbs, and I needed a large \"big and tall\" which is really a\" large tall\" (this was on the label marked as LARGE TALL). a Large \"big and tall\" is really a large \"tall\". I ordered a large originally and it was too short, mainly on the torse and sleeves. I have sent it back and got the Large \"big and tall\" (again actually a large, tall). If you are similar height, I would suggest the Large Big and Tall (aka large, tall). If you are a heavy-set guy with similar height id start with a large, big and tall but might start looking at a XL depending on your weight/waist size. Layering up with a sweater is good with the sizing I got, plenty of room for layering if needed.Overall, a nice jacket, warm and nice fit. This jacket is more of a recreational use and not for work but I expect it to last with the Carhartt work clothing I have and how its held up thus far with the wear and tear from construction.hope this helps others placing orders.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Claudio Bondesan",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Italy on January 26, 2024",
+                "reviewTitle": "Lo adoro",
+                "reviewText": "Si \u00e8 vero veste abbondante , se vuoi un giaccone sciancrato non prenderlo , ma \u00e8 spettacolare, morbido e robusto allo stesso tempo, tiene caldo e si vede che \u00e8 di ottima qualit\u00e0.Lo consiglio",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Henk(fishi)",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on January 18, 2024",
+                "reviewTitle": "Super Jacke, f\u00fcr mich perfekt!",
+                "reviewText": "Alles ist Geschmackssache, klar! Also (aus)probieren. Wer eine l\u00e4ssige Jacke sucht wird hier f\u00fcndig. Hochwertig verarbeitet und f\u00fcr mich warm genug f\u00fcr die hiesigen Wintermonate. Die Kapuze ist auch gef\u00fcttert. Und es gibt genug Taschen. Gr\u00f6\u00dfe passt perfekt, hier XL --> F\u00fcr mich die perfekte Jacke!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "jepimo",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in France on January 5, 2024",
+                "reviewTitle": "Tr\u00e8s belle qualit\u00e9",
+                "reviewText": "Tr\u00e8s bonne facture, chaude et solideLes tailles sont justes, on peut se fier aux recommandations j\u2019ai pris une taille au-dessus en XL, alors qu\u2019il m\u2019\u00e9tait recommand\u00e9 du L. Qui aurait \u00e9t\u00e9 parfaitCependant malgr\u00e9 mon erreur, je suis tr\u00e8s satisfait",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

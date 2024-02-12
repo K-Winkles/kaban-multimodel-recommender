@@ -1,0 +1,659 @@
+{
+    "remaining_requests": 17879,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/OMSJ-Womens-Button-Shirts-Sleeve/dp/B09H6KYGR3",
+    "body": {
+        "name": "OMSJ Women's Button Down Shirts Satin V Neck Long Sleeve Casual Work Blouse Tops with Pocket",
+        "price": "$28.99",
+        "originalPrice": "",
+        "rawPrice": 28.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/OMSJ-Womens-Button-Shirts-Sleeve/dp/B09H6KYGR3",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09H6KYGR3"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09VGY16T1",
+                "variationName": "Color",
+                "variationValue": "Army Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41SW2y0R6DL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BHYSXRML",
+                "variationName": "Color",
+                "variationValue": "Bean Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41czddxDaCL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09H6J4NKB",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415K-9C1nQL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09H6KLF28",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4171dpi-AdL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BJK5F15Z",
+                "variationName": "Color",
+                "variationValue": "Blue Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EgBKeFnlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09MD238LR",
+                "variationName": "Color",
+                "variationValue": "Dark Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/419+BftzBZL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BJBG8S2R",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XRk5zXN5L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09VGZ3HRZ",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZgZuMx2kL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BHWFMWR4",
+                "variationName": "Color",
+                "variationValue": "Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XaW3dAHOL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09M8387Z2",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NVmsErBhL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09H6L3BY7",
+                "variationName": "Color",
+                "variationValue": "Purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41pxbvjhmyL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BJBJ3D3S",
+                "variationName": "Color",
+                "variationValue": "Purple Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jqJes-FFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BJBGGSX8",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41TaButQf7L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09H6K61Q6",
+                "variationName": "Color",
+                "variationValue": "Rose Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZbyLASjDL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B2R7RD84",
+                "variationName": "Color",
+                "variationValue": "S-army Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EGcApJu4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BWRF9PNL",
+                "variationName": "Color",
+                "variationValue": "S-bean Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/411Ky+PtTrL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ZHNQ9LC",
+                "variationName": "Color",
+                "variationValue": "S-black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41CjkSAAcsL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ZHTGK6G",
+                "variationName": "Color",
+                "variationValue": "S-blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jlPr7tO-L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BW8VRHFC",
+                "variationName": "Color",
+                "variationValue": "S-blue Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41P3+ss+qqL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ZHKQP8W",
+                "variationName": "Color",
+                "variationValue": "S-dark Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41YADnoy7JL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BW8TTFDN",
+                "variationName": "Color",
+                "variationValue": "S-green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41KHTJoNuWL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ZHZPKKP",
+                "variationName": "Color",
+                "variationValue": "S-grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41l0dhTFwhL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BWRG6J5S",
+                "variationName": "Color",
+                "variationValue": "S-orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DQ-SWKPtL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ZHNRM9C",
+                "variationName": "Color",
+                "variationValue": "S-pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41cEJOKfuxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ZHKTBZ4",
+                "variationName": "Color",
+                "variationValue": "S-purple",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41lQNM-VjKL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BW8V586L",
+                "variationName": "Color",
+                "variationValue": "S-purple Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41RxochFvOL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BW55YZYW",
+                "variationName": "Color",
+                "variationValue": "S-red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415gFCdE+kL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ZHPM53T",
+                "variationName": "Color",
+                "variationValue": "S-rose Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41+7QEh3lYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ZHPWS4Y",
+                "variationName": "Color",
+                "variationValue": "S-white",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31c+6Pv7WwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09ZHSP3HQ",
+                "variationName": "Color",
+                "variationValue": "S-wine Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41nc7wLYZfL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B2PD8Q22",
+                "variationName": "Color",
+                "variationValue": "S-yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41SGPKqbk9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09H6L161C",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41xFGsCTrUL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09MCKD41V",
+                "variationName": "Color",
+                "variationValue": "Wine Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41hx-BBMdPL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B5GY7JP5",
+                "variationName": "Color",
+                "variationValue": "Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414n8IsSFvL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09VGVHPGZ",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VGXTNCT",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VGW5TF4",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VGY16T1",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VGZ1SMK",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41SW2y0R6DL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41DOYS1OfWL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41oBa3qnTNL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/411W7E4-7nL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51aUhI11gML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61RMVm7znmL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61NxkVY6sgL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/31f9472a-812d-41b6-bd59-4279e1300c2c/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f7a14e2f-99ce-4459-b2c7-1a0e5a27245a/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 2,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the OMSJ Store",
+            "link": "https://www.amazon.com/stores/OMSJ/page/BCD27E07-FBD8-4F48-9125-1C7B83E10F49?ref_=ast_bln"
+        },
+        "brand": "OMSJ",
+        "merchantInfo": "",
+        "customerReview": "4.2 out of 5 stars",
+        "customerReviewCount": 3248,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Polyester",
+            "Care instructions Hand Wash Only",
+            "Origin Imported",
+            "Closure type Button",
+            "Lightweight, durable and breathable, soft and high quality button down shirt",
+            "Button down long sleeve shirts for women, v neck, pocket design, solid color, long sleeve, satin fashion blouse tops for women",
+            "Satin shirt can be matched with a variety of styles and combinations. Perfect for jean, legging, pant and skirt. Casual style and never out of",
+            "V neck button shirts is suitable for office, work, business, workout, outdoor, casual daily wear, beach, party, holiday in spring summer and autumn, great for any formal or informal occasions",
+            "Please check size carefully; Because of the display screen, the actual product may have a slight color difference with the product picture"
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Tops, Tees & Blouses",
+                "link": "https://www.amazon.com/Womens-Tops-Tees/b?ie=UTF8&node=2368343011"
+            },
+            {
+                "name": "Blouses & Button-Down Shirts",
+                "link": "https://www.amazon.com/Womens-Shirts/b?ie=UTF8&node=2368365011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 11.81 x 9.84 x 0.59 inches; 6.74 Ounces"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e September 27, 2021"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09VGVHPGZ"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#10,893 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #158 in Blouses & Button-Down Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.2 4.2 out of 5 stars 3,248 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "OMSJ Satin Fashion V Neck Long Sleeve Button Shirts Solide Color Blouse for Women\uff0dMust Have for You Formal Wear: OMSJ women button shirts for office, business, negotiation meeting and interview, very suitable for matching suit pants, suit skirts, high heels Casual Wear: As a daily wear, the v neck shirt can be worn for shopping, reading, coffee, street\uff0cschool\uff0ccocktail, club, wedding etc, suitable for matching jean, legging, pant and skirt",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3409cfae-3d64-464a-bfd7-15defcfc4508.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "OMSJ Women's Button Down Shirts Satin V Neck Long Sleeve Casual Work Blouse with Pocket Features: Collar: V-Neck Sleeve: Long Sleeve Style: Office, Fashion, Casual Garment Care: Hand-wash Design: Button down blouses, pocket design, satin touch Color: Army Green, Bean Green, Black, Blue, Blue Grey, Dark Green, Green, Grey, Orange, Pink, Purple, White, Purple Blue, Red, Rose Red, Yellow, Wine Red Note: fabric has no elasticity, please check size carefully; Because of the display screen, the actual product may have a slight color difference with the product picture",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9c0c86a2-a0c7-4819-87e2-186fab0ef2a1.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "OMSJ Button down long sleeve shirts for women is perfect with jean, legging, pant and skirt, never out of; Womens V neck button blouse is suitable for any formal or informal occasions, office, work, business, workout, outdoor, casual daily wear; Satin fashion shirts can be worn in multiple seasons, easy to match in spring summer and autumn;",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c1452a6f-459b-4dee-943a-c4d163cd5aa1.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Spread V Neck Classic vintage v-neck, easy to match with variety of pants, fashion and elegant. Soft Fabric Solid color, made of 100% Polyester, comfortable, breathable and lightweight. Spare Button Satin long sleeve button shirt with a spare button, suitable for office and casual.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7545e756-dc3a-4df9-94e7-2563c58f5188.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d076f05-5033-43db-a409-4ad2d0e944d6.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b9e947f5-bba3-4c29-8f8b-f6df589717da.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Womens Button Down Shirts Womens Striped Button Down Shirts Women's Striped Button Down Shirts Womens casual long sleeve T-Shirts Womens Dressy Button Shirts Womens Slim Fit Tank Tops Material 95%polyester, 5%spandex 50%Cotton , 50% Rayon 80% Cotton, 20% Polyester 100% Polyester 100% Cotton 80% Cotton,15%Polyester, 5% Spandex Color White/Black/Blue/Dark Blue/Light Blue/Army Green/Gray/Red/Light Purple/Yellow/Stripe Black/Blue/Pink/Red/Brown/Yellow/PinStripe Red/ PinStripe Black/PinStripe Blue Black/Gray/Green/Red/Yellow/Blue/Purple/Pink White/Black/Dark Blue/Rose Red/ Green/Grey/Army Green/Royal Blue Black/Blue Grey/Dark Blue/Lake Blue/Orange/Purple/Rose Red/White/Yellow black/white/pink/apricot/purple/light blue/royal blue/yellow/green/ army green/gray/orange",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b3eeebf3-3108-4eb2-9fb1-ffdd7ac4ea7b.__CR0,6,800,240_PT0_SX600_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3409cfae-3d64-464a-bfd7-15defcfc4508.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9c0c86a2-a0c7-4819-87e2-186fab0ef2a1.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c1452a6f-459b-4dee-943a-c4d163cd5aa1.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7545e756-dc3a-4df9-94e7-2563c58f5188.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d076f05-5033-43db-a409-4ad2d0e944d6.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b9e947f5-bba3-4c29-8f8b-f6df589717da.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d4f9717b-f4b0-4ffb-8e9c-088c10be44e4.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/762dc642-87e3-429a-bb9d-060d1c9fe93a.__CR0,0,600,1200_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/71b134d7-1a45-4075-8686-e2b6c517c41c.__CR0,0,600,1200_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/261135f1-7647-4807-9a74-00e89dffea82.__CR0,0,600,1200_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0657beea-f417-4e9d-abdf-28178b344fa3.__CR0,0,600,1200_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2a0c743c-0842-4bab-8426-26971f7abeb7.__CR0,0,600,1200_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/692c7d1f-8f44-4112-b02a-d2db0294d43a.__CR0,0,600,1200_PT0_SX150_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "azwinediva",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG257KBS73FEOAFNALYH5LHBPIUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3K9IXC1Q47QU?ASIN=B09H6KYGR3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Style, Quality and Fit",
+                "reviewText": "I first bought this shirt in pink. Loved it so much I bought the gray and green. I've had them for over a year and still get compliments. My co-workers have ordered them as well.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "GBilbao",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHELKXTSWXGDAR3IFOB333TNX46Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R28CKKTGDZQKKH?ASIN=B09H6KYGR3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 31, 2023",
+                "reviewTitle": "5.0 out of 5 stars Elegant and Luxurious!",
+                "reviewText": "Great shirts!! just love them!; first time I ordered in color GREEN, I liked the fabric and color. Then Later decided to ordered in RED and got convinced with the quality, and decided to ordered in GREY! JUST LOVE ALL THREE ! Now I am planning to order one in WHITE!JUST BEAUTIFUL COLORS, TRUE SIZE AND GREAT AND LUXURIOUS QUALITY!HIGHLY RECOMMENDED.!!",
+                "reviewVotes": "10 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tammy McKinney",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF6QPTVGXXTLZDPZPS57BSABREVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R22FWZFQ4ZVF4Y?ASIN=B09H6KYGR3",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "4.0 out of 5 stars Love the red color",
+                "reviewText": "This blouse was the perfect bright red for the scarlet night cruise party that I attended. The fabric is sheer and flowing (very comfortable). I ordered a small ( I am 4\u201911\u201d) and it was long on me so I actually used it by wearing it over another shirt and kept it completely unbuttoned with shiny leggings and heels\u2014it looked really good. I did have to roll up the sleeves but I definitely made it work. It does fit true to size. I feel like I needed an XS but the small is the smallest size available.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nancy Ann",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEFCWJWE2C64SBV6BIFLQBKYEWCA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2GDN5Y4F7S44O?ASIN=B09H6KYGR3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 3, 2023",
+                "reviewTitle": "5.0 out of 5 stars Beautiful, elegant and luxurious",
+                "reviewText": "Ordered it in green, I love the color, material and fit of it. I\u2019ve received great completes. ordered two more colors. P.S. I usually order Large but medium fits perfect, not too loose or tight. I\u2019m 5\u20197\u201d 150 pounds for reference.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Goldie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG3PF27GSUJWDFIKMGZ7LQWWQLBA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R30Z8PSKCGGW42?ASIN=B09H6KYGR3",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 29, 2023",
+                "reviewTitle": "3.0 out of 5 stars Pretty color bad fit",
+                "reviewText": "I really like the fabric and color. It feels good on the skin and color is vibrant. Yet every time I try to wear it I decide against it..the fit isn't quite right. the neck is really large and the collar lays too wide and doesn't look good under a jacket or alone.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Colleen Brose",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE7YQ656S4LUTZ7SHW2N3BME6PCA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R911A69BTUW5Z?ASIN=B09H6KYGR3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 14, 2024",
+                "reviewTitle": "5.0 out of 5 stars GREAT COLOR!",
+                "reviewText": "I wore this shirt to work yesterday and had So Many compliments! It\u2019s a very unique color. Highly recommend!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "MaryAnn Vendt",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH2URDW7VWWMCB3FYKMS6EJN4CKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R38F78V9MEXTUM?ASIN=B09H6KYGR3",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 4, 2023",
+                "reviewTitle": "5.0 out of 5 stars Beautiful Blouse",
+                "reviewText": "Delivery was quick, blouse is pretty; I love it. You can definitely dress it up or wear it casually. Exactly as pictured online. Unfortunately, I ordered a small when I need a medium. I am not sure how I made that mistake. So I will return to exchange sizes. However, I feel it runs on the small side. For size reference, I am 135 lbs., 5\u20195\u201d and bra size 38C.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "SoCal Mom",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEXC3BORF3VUYBUS4SJ36WWEI4OQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2XPK72T1V7P3E?ASIN=B09H6KYGR3",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 14, 2023",
+                "reviewTitle": "1.0 out of 5 stars Nice shirt but received a clearly worn and returned item.",
+                "reviewText": "I needed this for an event so no time to return for a new item. Company Quality Control needs to be better. I received a clearly worn and returned item. Sweat stains and spots on the shirt, perfume smell from the person who wore it along with sleeves rolled up and left that way. Crumpled and rolled up and placed back in the bag. Clearly, no one processing the return looked at the item. I get it, clothes are going to be tried on and returned if it doesn't work for someone, but this was not that condition.I washed it myself since again, purchased for a specific event requiring the color and I had no time to get a replacement shipped. It washed well, thank goodness.Quality of the shirt is nice. To me, it runs slightly small. I purchased a Medium and am typically a size 8/10 in tops. It's a slim fit cut overall and arm length is long (and I have long arms) but are very slimly cut. It's a traditional button down length, you will be able to tuck it completely or you can do a French tuck. It will not work as say a coverup if you wanted to use it for multiple purposes while traveling. Stitching is nice. Color is gorgeous and vibrant. I would say this is a solid, classy, corporate wear, shirt.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Molly",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 9, 2024",
+                "reviewTitle": "Will need a bit of ironing",
+                "reviewText": "Absolutely gorgeous, easy to was and hand to dry",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Linda Morel",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 30, 2023",
+                "reviewTitle": "Satin Blouse",
+                "reviewText": "Great quality. Size small fit perfectly. Very nice material and comfortable to wear. Highly recommend!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "RaeRae",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on April 27, 2023",
+                "reviewTitle": "Very Nice",
+                "reviewText": "I was most excited to open the shirt and seen that a size small was actually a size small and it fits me perfectly. I washed it immediately so I could wear to work the next day it feels great wasn't overly warm, it's very comfy.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61udT8APi6L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61qY5SOavTL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61stp3lxViL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Anne B.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on July 14, 2023",
+                "reviewTitle": "Beautiful but runs LARGE!",
+                "reviewText": "Beautiful blouse, well sewn, and lovely light grey fabric - colour as shown and even lovelier in person. Unfortunately runs large. The collar seems extra large and sleeves are very long. I would size down at least 1 or 1.5 sizes. Sadly the smallest size is a small and it fits more like a medium. Have to return.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Danielle Wambidee",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on June 25, 2022",
+                "reviewTitle": "It looks like it would fit me but i didnt try it on",
+                "reviewText": "I liked how the shirt looked but when i opened it the shirt smelled so bad i cant even describe what the smell was like rotten onions is how i can describe it. Like are they making these shirts in a literal sweat shop and the person is using it as a sweat rag as they are making them or someone wore it and returned it. Which is so disrespectful to the company and to other customers. I feel bad for you. I was going to wash it and see but no that smell is not coming out im just going to return it. Hopefully they throw it in the garbage. Im so ticked off because i dont have time to be printing out labels n returning things!!!!",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

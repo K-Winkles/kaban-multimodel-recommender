@@ -1,0 +1,707 @@
+{
+    "remaining_requests": 16777,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Easy-Spirit-Womens-Traveltime234-Mule/dp/B0CNWRW619",
+    "body": {
+        "name": "Women's Traveltime234 Mule",
+        "price": "$34.20 - $69.95",
+        "originalPrice": "",
+        "rawPrice": 34.2,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Easy-Spirit-Womens-Traveltime234-Mule/dp/B0CNWRW619",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CNWRW619"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07H5QV2T7",
+                "variationName": "Color",
+                "variationValue": "Camel 240",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sigHF1cXL._SS36_.jpg"
+            },
+            {
+                "asin": "B075LPKY1W",
+                "variationName": "Color",
+                "variationValue": "Navy Leather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41IK2RscOaL._SS36_.jpg"
+            },
+            {
+                "asin": "B07R89XXNX",
+                "variationName": "Color",
+                "variationValue": "Chocolate Torte Leather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ZBdnPgUjL._SS36_.jpg"
+            },
+            {
+                "asin": "B01DBW3PSC",
+                "variationName": "Color",
+                "variationValue": "Black 960",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XzKXmCe2L._SS36_.jpg"
+            },
+            {
+                "asin": "B07NLKBKN4",
+                "variationName": "Color",
+                "variationValue": "Harbor-mist-grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Q+8PDSVfL._SS36_.jpg"
+            },
+            {
+                "asin": "B07FQVK7NP",
+                "variationName": "Color",
+                "variationValue": "Medium Gray 030",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41WzyozujhL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CLHKLLG5",
+                "variationName": "Color",
+                "variationValue": "Natural 110",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31vr4ViME0L._SS36_.jpg"
+            },
+            {
+                "asin": "B07P148SNK",
+                "variationName": "Color",
+                "variationValue": "Light Gray 050",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PfP5AcCBL._SS36_.jpg"
+            },
+            {
+                "asin": "B01DBW3T2O",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XzKXmCe2L._SS36_.jpg"
+            },
+            {
+                "asin": "B07FXXKB5G",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQXWH8W",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07G2PZ9R5",
+                "variationName": "Size",
+                "variationValue": "6 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07G4HS8SW",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07KQKYSV6",
+                "variationName": "Size",
+                "variationValue": "6 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H1MWWJS",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQVC6YD",
+                "variationName": "Size",
+                "variationValue": "6.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07K8XYWFF",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FTVK7S1",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07G4543NX",
+                "variationName": "Size",
+                "variationValue": "6.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07G4MS9HG",
+                "variationName": "Size",
+                "variationValue": "7 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GC947TX",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQTRC82",
+                "variationName": "Size",
+                "variationValue": "7 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FTTN9BH",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07KCQGT3F",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GC8Q3Q2",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQWWGWQ",
+                "variationName": "Size",
+                "variationValue": "7.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07G2P4RYQ",
+                "variationName": "Size",
+                "variationValue": "7.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GZZ1TPH",
+                "variationName": "Size",
+                "variationValue": "8 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B075T8PRMX",
+                "variationName": "Size",
+                "variationValue": "8 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQVS9WQ",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQVKGV4",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B075T8FS9J",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07G4JLSKM",
+                "variationName": "Size",
+                "variationValue": "8.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HDTWWGH",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H4YVZZM",
+                "variationName": "Size",
+                "variationValue": "8.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07K4SWVN6",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FV3V58R",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQZS654",
+                "variationName": "Size",
+                "variationValue": "9 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FXD1PLJ",
+                "variationName": "Size",
+                "variationValue": "9 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H52YY9C",
+                "variationName": "Size",
+                "variationValue": "9.5 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQVTSLT",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQW4BG3",
+                "variationName": "Size",
+                "variationValue": "9.5 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H5QV2T7",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0869G6Y61",
+                "variationName": "Size",
+                "variationValue": "10 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FXBC2KF",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H443PNL",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B075T9L182",
+                "variationName": "Size",
+                "variationValue": "10 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FQWLGZD",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07R7638Z5",
+                "variationName": "Size",
+                "variationValue": "10.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FTZZC1Z",
+                "variationName": "Size",
+                "variationValue": "11 Narrow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B075TBDMJJ",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000F5WQAW",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08QZ8G81B",
+                "variationName": "Size",
+                "variationValue": "11 X-Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FXL6W5R",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08QYS2MCF",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41sigHF1cXL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41sCvU9JzOL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41PMcM6wwfL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41OGmNbJa9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/415QYypudkL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41XiZTe8j5L.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Easy Spirit Store",
+            "link": "https://www.amazon.com/stores/EasySpiritFootwear/page/CE2FAC2E-EB8B-49D5-A04D-E5BB2789250A?ref_=ast_bln"
+        },
+        "brand": "EasySpiritFootwear",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 5683,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Leather",
+            "Care instructions Machine Wash",
+            "Origin Made in USA or Imported",
+            "Sole material Rubber",
+            "Removable cushioned insole",
+            "Orthotic Friendly",
+            "Arch Support",
+            "Lightweight",
+            "Easy on and off"
+        ],
+        "description": "Made for walking and light activity, our original, comfort-driven open back sneaker is easy-on, easy-off, with an orthotic-friendly, removable sock liner and footbed with superior arch supports that absorbs shock for extra comfort. For every day to travel, your commute and beyond.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Mules & Clogs",
+                "link": "https://www.amazon.com/Mules-Clogs-Womens/b?ie=UTF8&node=679410011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 10.9 x 7.4 x 4.2 inches; 1.7 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e seTRAVELTIME234"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e August 10, 2020"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Easy Spirit"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07FXXKB5G"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#27,546 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #83 in Women's Mules & Clogs"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 5,683 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "A NEW STEP FORWARD With a legacy rooted in creating simple solutions, the story of Easy Spirit has always been one of innovative thinking. Over the last 35 years, women have evolved and so have we. Now, more than ever, we know it's about more than just shoes. Being comfortable in your own skin and making life easier is what matters most. Today, we continue our mission - we are MAKERS OF shoes and experiences that are all about making life EASY for all women. Because anything is possible when you're comfortable.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/e0e3dfe2-6eac-4814-a9bd-8eb59d27d44a.__CR0,0,300,300_PT0_SX300_V1___.png"
+                ]
+            },
+            {
+                "media_text": "Pumps Stylish yet comfortable, the pump is a must have in your wardrobe. This lightweight pump features a cushioned and removable foot-bed, to give you comfort in every step.Pumps are usually closed-toe or peep-toe with a heel of 1 inch or less. Sandals sandal with leather woven upper and cushioned insole. One of the newest members of the Travel-time Family. Added cushioning from heel to toe brings extraordinary comfort to our lightweight, flexible slip-on sandals. Sneakers The sneaker from Easy Spirit will keep an easy everyday style all wrapped up into a comfortable shoe that will keep you protected in your busy lifestyle. Its thickly padded lining and insole will give you full support. Mules&Clogs Slip on clog and Slip on mule with buckle and stitching in detail along with removable insole. Built with the same signature comfort as our bestselling Travel time,the Take knit is an ultra-flexible.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/2667d31f-f35f-41ad-aa83-adf04ed090a1.__CR0,0,220,220_PT0_SX220_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/cb145247-f60c-41b5-9f3d-239ca0ba66d3.__CR0,0,220,220_PT0_SX220_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/966b36f6-7d14-4d1e-af65-15f6c4016ef8.__CR0,0,220,220_PT0_SX220_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/185b6abb-fbfa-48b0-8ae8-f4c6e5eaf78f.__CR0,0,220,220_PT0_SX220_V1___.png"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sota/a9102d4e-654b-4667-87d1-6303700bd426.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/d67cf940-7e79-445a-90b0-dbd449f61d8c.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/e0e3dfe2-6eac-4814-a9bd-8eb59d27d44a.__CR0,0,300,300_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/2667d31f-f35f-41ad-aa83-adf04ed090a1.__CR0,0,220,220_PT0_SX220_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/cb145247-f60c-41b5-9f3d-239ca0ba66d3.__CR0,0,220,220_PT0_SX220_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/966b36f6-7d14-4d1e-af65-15f6c4016ef8.__CR0,0,220,220_PT0_SX220_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/185b6abb-fbfa-48b0-8ae8-f4c6e5eaf78f.__CR0,0,220,220_PT0_SX220_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/cdaaa298-2b0a-4f29-a067-44243d61636e.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Karen Chodorowski",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHXZD3A6D5F5U2D35U62OUH7PPVA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1ET0VLA0KT4J5?ASIN=B0CNWRW619",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "5.0 out of 5 stars Very nice, but could be wider",
+                "reviewText": "I purchased an 8W but surprisingly they were too short. I returned a exchanged to a 9W. The length of the shoe is perfect now. They are labeled as wide, but they are a little tight on the top of my foot. Toe area is fine.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sofia",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFCKK7UVX5WM4U5MI6PRYU4P2SOQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R32FCYCOEGLA27?ASIN=B0CNWRW619",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Easy Spirit Travel Time Mules",
+                "reviewText": "These are the second pair of mules from Easy Spirit I purchased. They are absolutely comfortable and very aesthetic. The quality is great, and they feel just right on my feet (and back). My feet don't hurt or get tired anymore using these mules and they are true to their name. I recommend this product.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Carolyn M. Postel",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFYOOLCOXP22AVQDXZDRHX5IVNUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RW5U7Z8DBF1ML?ASIN=B0CNWRW619",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "5.0 out of 5 stars Easy spirit shoes",
+                "reviewText": "Easy spirit shoes fit me perfectly. I have been wearing them for a very long time at least 10 years I have very bad feet and these shoes are very comfortable for me. They also come in wide sizes which I need.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "wlk",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGBZ7OVPZYDZQJFZDRBYLCDM6R7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RKJHMDBA38ODE?ASIN=B0CNWRW619",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2024",
+                "reviewTitle": "4.0 out of 5 stars Very pretty",
+                "reviewText": "Shoes fit but a little narrow at toe area. Should have ordered a half size larger than what I wear but they or not uncomfortable to wear. Easy slip on slip off.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Caronlongisland",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF57E4C3R5XYJ6D57KQC65EWHFBA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R7FSPV05TPWFJ?ASIN=B0CNWRW619",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfort",
+                "reviewText": "Very sturdy& cushioned. Like two sofas for your feet. Navy color is close to charcoal black. Medium size (9) fits well with socks. Very pleased with this shoe.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Coco ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGYOQAL6QLHOTIWHON3SRTRQJFIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3XU5EE8OF1H6?ASIN=B0CNWRW619",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Fit, style, comfort",
+                "reviewText": "Comfortable, stylish, comfortable great price",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Suzy Q",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEDJ7ZVOJ2DM6LWVA4RLWAJP6AAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RLV47ST3V0H2L?ASIN=B0CNWRW619",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfort shoes",
+                "reviewText": "Have worn these most everyday and remain comfortable supportive and ease to put on",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Patricia Funk",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFSCSLJ65KD4QXWYNM6SSK2THSWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1E7B8V4G87IRS?ASIN=B0CNWRW619",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 3, 2024",
+                "reviewTitle": "3.0 out of 5 stars The shoes were to tight, I returned them",
+                "reviewText": "Too tight, returned the shoes",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 3, 2023",
+                "reviewTitle": "Comfortable",
+                "reviewText": "Nice fit, very comfortable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Izzat aziz",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on September 17, 2023",
+                "reviewTitle": "Comfortable \ud83d\ude0d",
+                "reviewText": "I like it \ud83d\udc4c",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JCJC",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on July 19, 2023",
+                "reviewTitle": "Light and so comfortable",
+                "reviewText": "So a delightful footwear. It's so comfortable, light and a very good quality.I am glad I chose 7.5 (UK) instead of 7 (UK)Thank you.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81qd0iA-VLL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81wEX+zK7EL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "J.J.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Australia on August 13, 2023",
+                "reviewTitle": "Comfort",
+                "reviewText": "I have very problematic feet and these shoes are the best I have found.Travelled over the UK and wore them every day. They still look like new.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mrs Lesley Bridgeford",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 11, 2023",
+                "reviewTitle": "Good value",
+                "reviewText": "Have bought these shoes before in different colours. They fit perfectly and are super comfy for long walks. Good value for the money",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

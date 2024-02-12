@@ -1,0 +1,805 @@
+{
+    "remaining_requests": 17062,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/TOMS-Womens-Alpargata-Loafer-Flat/dp/B096PJ14PY",
+    "body": {
+        "name": "TOMS Women's, Alpargata Recycled Slip-On",
+        "price": "$25.48 - $35.35",
+        "originalPrice": "",
+        "rawPrice": 25.48,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/TOMS-Kids-10009924-Mesh-Alpargata-K/dp/B01NC2OE4K",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B01NC2OE4K"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0B5P8KPBG",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/319AQzauKcL._SS47_.jpg"
+            },
+            {
+                "asin": "B0815S31TC",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Ux6K6iycL._SS47_.jpg"
+            },
+            {
+                "asin": "B09SVQWSM7",
+                "variationName": "Color",
+                "variationValue": "Black Plaid",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41iZLYJ3viL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B5P8DJGP",
+                "variationName": "Color",
+                "variationValue": "Black Recycled Cotton Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/319AQzauKcL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B1927DV7",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31n0ovZZ4pL._SS47_.jpg"
+            },
+            {
+                "asin": "B09HLXHXW4",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31cpUa0gJSL._SS47_.jpg"
+            },
+            {
+                "asin": "B08165JC13",
+                "variationName": "Color",
+                "variationValue": "Midnight Sparkle Glitter",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31yUlWOF7sL._SS47_.jpg"
+            },
+            {
+                "asin": "B09HL9HJ7Y",
+                "variationName": "Color",
+                "variationValue": "Yellow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31COBG-C+XL._SS47_.jpg"
+            },
+            {
+                "asin": "B09SVPGXKY",
+                "variationName": "Color",
+                "variationValue": "Black Knit",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51hFMG1-CSL._SS47_.jpg"
+            },
+            {
+                "asin": "B098V1TKKK",
+                "variationName": "Color",
+                "variationValue": "Warm Natural",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XhEHJ1KjL._SS47_.jpg"
+            },
+            {
+                "asin": "B08164T34R",
+                "variationName": "Color",
+                "variationValue": "Cabernet Glitter Nkt",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31UAbY7EFeL._SS47_.jpg"
+            },
+            {
+                "asin": "B09RJ5KP91",
+                "variationName": "Color",
+                "variationValue": "Dark Burgundy Floral",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31aguWrfdCL._SS47_.jpg"
+            },
+            {
+                "asin": "B096PHR71Z",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21JAGFwuseL._SS47_.jpg"
+            },
+            {
+                "asin": "B0815XFG7W",
+                "variationName": "Color",
+                "variationValue": "Black Zebra Shimmer",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wd3IuIHXL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B5P8GR9H",
+                "variationName": "Color",
+                "variationValue": "Black/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Zy0uoyJRL._SS47_.jpg"
+            },
+            {
+                "asin": "B09SVQC4W3",
+                "variationName": "Color",
+                "variationValue": "Dark Ivy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31qOwaYifDL._SS47_.jpg"
+            },
+            {
+                "asin": "B096PK7G12",
+                "variationName": "Color",
+                "variationValue": "White Recycled Cotton Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21JAGFwuseL._SS47_.jpg"
+            },
+            {
+                "asin": "B09SVR5GYG",
+                "variationName": "Color",
+                "variationValue": "Golden Yellow Plaid",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41mUboavrFL._SS47_.jpg"
+            },
+            {
+                "asin": "B09Z8J95JH",
+                "variationName": "Color",
+                "variationValue": "Natural",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51L0aDmvB8L._SS47_.jpg"
+            },
+            {
+                "asin": "B09RJ6ZB9F",
+                "variationName": "Color",
+                "variationValue": "Black Floral",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31-swxbMDaL._SS47_.jpg"
+            },
+            {
+                "asin": "B09SVR2TR3",
+                "variationName": "Color",
+                "variationValue": "Cement",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51RnvyWzm3L._SS47_.jpg"
+            },
+            {
+                "asin": "B096PK2VJH",
+                "variationName": "Color",
+                "variationValue": "Red Recycled Cotton Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Ux6K6iycL._SS47_.jpg"
+            },
+            {
+                "asin": "B09RJ4Q8SS",
+                "variationName": "Color",
+                "variationValue": "Rose Gold Cosmic Glitter",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jwBD-1QmL._SS47_.jpg"
+            },
+            {
+                "asin": "B09SVQGYDJ",
+                "variationName": "Color",
+                "variationValue": "Sahara",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51pwHgJUNGL._SS47_.jpg"
+            },
+            {
+                "asin": "B09RJ5LGZS",
+                "variationName": "Color",
+                "variationValue": "Black Cosmic Glitter",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4135xM8WXzL._SS47_.jpg"
+            },
+            {
+                "asin": "B09SVRYSR3",
+                "variationName": "Color",
+                "variationValue": "Pastel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/411vKMMsosL._SS47_.jpg"
+            },
+            {
+                "asin": "B098W2CKJG",
+                "variationName": "Color",
+                "variationValue": "Black Cherry",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41SeZZlmxpL._SS47_.jpg"
+            },
+            {
+                "asin": "B01J4CS9MK",
+                "variationName": "Color",
+                "variationValue": "Black Mesh",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Lu6bFIxfL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B5P8VVGK",
+                "variationName": "Color",
+                "variationValue": "Black/Black Recycled Cotton Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Zy0uoyJRL._SS47_.jpg"
+            },
+            {
+                "asin": "B018TC1VMG",
+                "variationName": "Color",
+                "variationValue": "Light Beige/Cream-beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41c-0GH681L._SS47_.jpg"
+            },
+            {
+                "asin": "B096PJ4VH8",
+                "variationName": "Color",
+                "variationValue": "Navy Recycled Cotton Canvas",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41GiHWWDLYL._SS47_.jpg"
+            },
+            {
+                "asin": "B01J4CPSWE",
+                "variationName": "Size",
+                "variationValue": "4 Toddler M",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00B0WD3FG",
+                "variationName": "Size",
+                "variationValue": "6 Toddler",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08165M46C",
+                "variationName": "Size",
+                "variationValue": "2 Little Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08164M59K",
+                "variationName": "Size",
+                "variationValue": "3 Little Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0815XCSTT",
+                "variationName": "Size",
+                "variationValue": "1 Big Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08161FDKN",
+                "variationName": "Size",
+                "variationValue": "1.5 Big Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0815SZPMY",
+                "variationName": "Size",
+                "variationValue": "2 Big Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08161C6TB",
+                "variationName": "Size",
+                "variationValue": "2.5 Big Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0815VWX6P",
+                "variationName": "Size",
+                "variationValue": "3 Big Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0815V8WGG",
+                "variationName": "Size",
+                "variationValue": "3.5 Big Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08165JC13",
+                "variationName": "Size",
+                "variationValue": "4 Big Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08162XV8M",
+                "variationName": "Size",
+                "variationValue": "4.5 Big Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08163SBR7",
+                "variationName": "Size",
+                "variationValue": "5 Big Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0815X7NJJ",
+                "variationName": "Size",
+                "variationValue": "5.5 Big Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0815S31TC",
+                "variationName": "Size",
+                "variationValue": "6 Big Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0815Z54CS",
+                "variationName": "Size",
+                "variationValue": "12 Big Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0815WVNZ7",
+                "variationName": "Size",
+                "variationValue": "12.5 Big Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08162VPDP",
+                "variationName": "Size",
+                "variationValue": "13 Big Kid",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096PK4JWQ",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096PJFF7B",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096PJCNY9",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5P8DJGP",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09SVQNKY9",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5P92PZY",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096PG8PHV",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5P932WW",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096PK8K6Y",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5P91S27",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09SVQBB1H",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5P8C2PC",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09SVQ5M8C",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5P8GR4L",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096PGJCMX",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5P8KPBG",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096PJTRDT",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5P95JMZ",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096PJQCS3",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5P7QF18",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096PH2634",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B191J4YQ",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096PJ14PY",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41Ux6K6iycL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/413kTPNp6pL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41G5EBr77HL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41TNg7YJh4L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51bhJSCHO2L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41FPHj2H6WL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61YqIO4aU5L.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/abf44e0c-3182-436f-b5a9-958823f523d4/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9ffd4f8e-9b9c-4606-a6ed-e6e8c8e18fdf/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 2,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the TOMS Store",
+            "link": "https://www.amazon.com/stores/TOMSShoesLLC/page/18E8A041-0EF9-4ACE-A877-34048F8EDEAA?ref_=ast_bln"
+        },
+        "brand": "TOMSShoesLLC",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5",
+        "customerReviewCount": 2666,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type Mesh",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Sole material Rubber",
+            "TOMS logos",
+            "Mesh upper",
+            "Iconic TOMS toe-stitch",
+            "Elastic V-gore for easy on/off",
+            "Cushioned insole"
+        ],
+        "description": "Seasonal classic, Alpargata; a fun take on our classics for the little one who wants to stand out from the crowd.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Loafers & Slip-Ons",
+                "link": "https://www.amazon.com/Loafers-Slip-Ons-Womens/b/ref=dp_bc_aui_C_4?ie=UTF8&node=679404011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Is Discontinued By Manufacturer \u200f",
+                "value": "\u200e No"
+            },
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 7 x 4 x 3 inches; 3.04 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e Classics"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e baby-girls"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e January 14, 2013"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Toms"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B01J4CPSWE"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#8,386 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry)"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Rocki C",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEPNX6MHTJGRG23V2D2WG22222XA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1DW1SB5RZ3Y6W?ASIN=B01NC2OE4K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Best fit",
+                "reviewText": "Fit, feel, and look great.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "EBH1031",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFXJ6NCEWA3F3SW3X2NKNXHCRABQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3067LYPKE3BRP?ASIN=B01NC2OE4K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 25, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfortable and stylish",
+                "reviewText": "I love these shoes! I did the \"try before you buy\" with these since I wasn't sure of the size to go with and it was so easy. The velvet really dresses up these casual shoes and they're Toms so you know they're well made and comfortable.I recently broke my toe so I'm limited in the types of shoes that I can wear, but these really saved the day for me when I had to go to an event and wanted to look nice. Highly recommend!",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kristy N.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEOGNM73I5TX5IKK7L4GWQEO5MZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2TQ6ATBZTEMRU?ASIN=B01NC2OE4K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable",
+                "reviewText": "Great fit.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sheena Donavon",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEBKF3ZF2AHZRRIAMVENZ4WTJDNA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R29HGZYCFM09L5?ASIN=B01NC2OE4K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love",
+                "reviewText": "This shoes are super lightweight and go with anything. True to size and just perfect for everyday wear. I will be ordering another pair in a different color of course. Worth the money.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Faith W.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEJKUOG6LUJUXOYBF3WTQKZJIZ6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R20KSK1MI46UGN?ASIN=B01NC2OE4K",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 26, 2023",
+                "reviewTitle": "4.0 out of 5 stars Run big",
+                "reviewText": "They are typical Tom\u2019s, really nice design. I love the velvety fabric they are made out of. They just run big, I would order perhaps a 1/2 or 1 size down.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "SarahSays",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHKYYWJ3HYHX3U67GQWRC2L3YZQQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RDGHS0PJTEH9Q?ASIN=B01NC2OE4K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 14, 2023",
+                "reviewTitle": "5.0 out of 5 stars So COMFY!",
+                "reviewText": "When these are on sale, the prices can\u2019t be beat elsewhere! The quality of these particular Tom\u2019s are better than the original! The sole is made of durable rubber and there is padding inside the shoe for extra comfort! From the get go to the top canvas was not as soft as some of the others, but it does break in after a few wears.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alicia Babb",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHE7JPNKZAMHK2DQ5YVEMHA42QLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R12Q3QAY3EMCI0?ASIN=B01NC2OE4K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 19, 2023",
+                "reviewTitle": "5.0 out of 5 stars The absolute best!",
+                "reviewText": "These are some of my absolute favorite shoes! I'm on my feet all day, and they're so comfy and cute! I have multiple colors and prints!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kymm",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGIPPAGLKYSGH7SPRYFOTBXPTT5A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2FVURRFAWY8V?ASIN=B01NC2OE4K",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 13, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfortable!",
+                "reviewText": "These are my second pair of Toms and they are just as comfortable. I truly think Toms have become one of my favorite shoe brands. As someone who has NO arches and the flatter the shoe, the better, they are super comfortable and I can last ALL day at Comic Con, which, you have ever been to one, you know that is saying something.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mark Luna",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 1, 2024",
+                "reviewTitle": "Legit Product Original",
+                "reviewText": "I gave this to my wife as a gift, and it was legitimately original \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "PB",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 4, 2024",
+                "reviewTitle": "Great Fit!!!",
+                "reviewText": "Had a pair from before and needed a black pair for vacation. Exactly as expected. Arrived in time.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amir",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 10, 2023",
+                "reviewTitle": "C\u00f3modos!!",
+                "reviewText": "Los di de regalo y siempre la primera opini\u00f3n es que est\u00e1n s\u00faper c\u00f3modos y se ajustan muy bien al pie",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Claire",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 12, 2023",
+                "reviewTitle": "Fit is tight",
+                "reviewText": "Feel ok when you first put them on, but after a couple or three hours, my toes and the broad part of my feet start to hurt. Otherwise, nice looking shoes.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 28, 2023",
+                "reviewTitle": "Awesome",
+                "reviewText": "Love the shoes. Perfect sizing, same as picture, fast delivery.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

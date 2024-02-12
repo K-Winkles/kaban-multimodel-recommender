@@ -1,0 +1,565 @@
+{
+    "remaining_requests": 17081,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Silver-Jeans-Co-Comfort-Bootcut/dp/B0C7HM2DX3",
+    "body": {
+        "name": "Women's Elyse Mid Rise Comfort Fit Slim Bootcut Jeans",
+        "price": "$40.82 - $94.00",
+        "originalPrice": "",
+        "rawPrice": 40.82,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Silver-Jeans-Co-Comfort-Bootcut/dp/B0C7HRBBZK",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0C7HRBBZK"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0C7HK6V6M",
+                "variationName": "Color",
+                "variationValue": "Dark Wash Ecf486",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41nMF2YsEeL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CQD87RZW",
+                "variationName": "Color",
+                "variationValue": "Med Wash Ecf258",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31YMBT59CYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B8TH7P65",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/314glFRarYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09R529XSC",
+                "variationName": "Color",
+                "variationValue": "Light Wash Ekc113",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31aFnTmdbML._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09R51RLSX",
+                "variationName": "Color",
+                "variationValue": "Med Wash Edb257",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31iC+OkgOyL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C7HKV51T",
+                "variationName": "Size",
+                "variationValue": "24W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HHMGD5",
+                "variationName": "Size",
+                "variationValue": "24W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HL1VCZ",
+                "variationName": "Size",
+                "variationValue": "24W x 35L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HKL4DV",
+                "variationName": "Size",
+                "variationValue": "25W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HLKPYQ",
+                "variationName": "Size",
+                "variationValue": "25W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HFMBGR",
+                "variationName": "Size",
+                "variationValue": "25W x 35L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HHT3YC",
+                "variationName": "Size",
+                "variationValue": "26W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HK3BM6",
+                "variationName": "Size",
+                "variationValue": "26W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HLG1ZK",
+                "variationName": "Size",
+                "variationValue": "26W x 35L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HKFDWF",
+                "variationName": "Size",
+                "variationValue": "27W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HKHNZ3",
+                "variationName": "Size",
+                "variationValue": "27W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HJQSCG",
+                "variationName": "Size",
+                "variationValue": "27W x 35L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HKF9BH",
+                "variationName": "Size",
+                "variationValue": "28W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HJWZX1",
+                "variationName": "Size",
+                "variationValue": "28W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HK6V6M",
+                "variationName": "Size",
+                "variationValue": "28W x 35L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HLKPYL",
+                "variationName": "Size",
+                "variationValue": "29W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HLNPG1",
+                "variationName": "Size",
+                "variationValue": "29W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B8TKP5B7",
+                "variationName": "Size",
+                "variationValue": "29W x 35L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CQD5YVWG",
+                "variationName": "Size",
+                "variationValue": "30W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HM2DX3",
+                "variationName": "Size",
+                "variationValue": "30W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HR2P78",
+                "variationName": "Size",
+                "variationValue": "30W x 35L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CQD9PWP2",
+                "variationName": "Size",
+                "variationValue": "31W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HM845Z",
+                "variationName": "Size",
+                "variationValue": "31W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HJYN7N",
+                "variationName": "Size",
+                "variationValue": "31W x 35L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HLFMNY",
+                "variationName": "Size",
+                "variationValue": "32W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HK261L",
+                "variationName": "Size",
+                "variationValue": "32W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HJJFPS",
+                "variationName": "Size",
+                "variationValue": "32W x 35L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HK759Y",
+                "variationName": "Size",
+                "variationValue": "33W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HKMX7K",
+                "variationName": "Size",
+                "variationValue": "33W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HKS4ZR",
+                "variationName": "Size",
+                "variationValue": "33W x 35L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HJL399",
+                "variationName": "Size",
+                "variationValue": "34W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HL8733",
+                "variationName": "Size",
+                "variationValue": "34W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C7HKD1JT",
+                "variationName": "Size",
+                "variationValue": "34W x 35L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CQD87RZW",
+                "variationName": "Size",
+                "variationValue": "36W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CQD9C2VX",
+                "variationName": "Size",
+                "variationValue": "36W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CQD7RVX2",
+                "variationName": "Size",
+                "variationValue": "22W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CQD9WG9K",
+                "variationName": "Size",
+                "variationValue": "22W x 33L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CQDBD2GQ",
+                "variationName": "Size",
+                "variationValue": "23W x 31L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CQD99BJ7",
+                "variationName": "Size",
+                "variationValue": "23W x 33L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41nMF2YsEeL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41llcuAYXiL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/410nVD0RMJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41bEBTo2aZL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41UMg94k2uL.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Silver Jeans Co. Store",
+            "link": "https://www.amazon.com/stores/SILVERJEANSCO/page/991B3F29-9556-4105-989F-D7B980C9AB8C?ref_=ast_bln"
+        },
+        "brand": "SILVERJEANSCO",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 85,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 78% Cotton, 20% Polyester, 2% Elastane",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Button",
+            "Slim bootcut jeans in a dark indigo wash",
+            "Our highest level of stretch denim with great flexibility shape retention, and softness",
+            "9.25\" mid rise",
+            "5-pocket styling with a zip fly and button closure",
+            "16.5\" leg opening"
+        ],
+        "description": "Silver Jeans Co. Elyse Mid Rise Slim Bootcut Jeans - A relaxed version of our signature curvy fit, Elyse features an eased waistband that prevents gapping and muffin top. It's made for curvy body types who are thicker through the midsection and backside. Designed with a comfortable everyday mid rise and extra room through the hip and thigh.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Womens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1048188"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 15.51 x 13.62 x 1.57 inches; 1.14 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e L03601ECF486"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e June 8, 2023"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Silver Jeans Co."
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0C7HKV51T"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#80,263 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #585 in Women's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 85 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "MEET ELYSE A mid rise for fuller curvy body types \u00b7 Eased waistband = no muffin top, ever \u00b7 Back pockets lift and flatter \u00b7 Ease in the hip and thigh",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3ea8492f-2617-4f0f-a0a7-c84f92d5dce8.__CR0,0,373,373_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "GOODBYE MUFFIN TOP With an approach that always considers waist to hip proportion, we created a fit that features all the curve-enhancing details you love, but with a unique eased waistband that\u2019s designed to eliminate muffin top. Finally, a fit specifically designed to flatter women who have a fuller midsection.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6dd1b0a5-9bb4-48a2-b972-e9d54d0afe61.__CR0,0,373,373_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "QUALITY NEVER FADES Family founded and owned since 1991, Silver Jeans has set the standard for high-quality denim. For decades, each collection has been designed with expert craftsmanship, unrivaled comfort, sustainable innovations and perfect fits. With jeans for every shape, size and style, in a variety rises, leg openings and washes, Silver Jeans Co. is the ultimate denim destination for every body.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/221bd735-e21f-4cf0-ac7e-329c9bdabb36.__CR0,0,746,746_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3ea8492f-2617-4f0f-a0a7-c84f92d5dce8.__CR0,0,373,373_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6dd1b0a5-9bb4-48a2-b972-e9d54d0afe61.__CR0,0,373,373_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/221bd735-e21f-4cf0-ac7e-329c9bdabb36.__CR0,0,746,746_PT0_SX300_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGHEAH7467IX3OH74SE5RBYOKWBA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3F9OJI31R9VZ8?ASIN=B0C7HRBBZK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 13, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great feel",
+                "reviewText": "Love these jeans, they fit just right, have great stretch and they aren\u2019t cheap light denim.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tracy B",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHT2LPO34MTTUX44KJJLZ76O6HGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R18AEQC10TPYR7?ASIN=B0C7HRBBZK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 23, 2023",
+                "reviewTitle": "5.0 out of 5 stars Nice fit",
+                "reviewText": "I had ordered these jeans along with two other pair of Silver Jeans, with Prime Try Before You Buy. These jeans fit amazingly well, and were very figure flattering. I ordered 29/31, I am 5.4 and 151 lbs no bling, no distressing, just a nice looking jean.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Caroline C",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHU2IS22CM3C24PGDUJKJLZASIWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R13INXJONQL12K?ASIN=B0C7HRBBZK",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 24, 2023",
+                "reviewTitle": "4.0 out of 5 stars Happy",
+                "reviewText": "Good price, cute jeans. Size was a little bigger than description, and I just put them in the dryer for a few to shrink. Comfy too.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Linda Sue",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF5Q5JWYIANM56XTHQMMJH2BQUJQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3IEAF2FZ8UNV1?ASIN=B0C7HRBBZK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 29, 2023",
+                "reviewTitle": "5.0 out of 5 stars Amazon was prompt and efficient with my exchange!",
+                "reviewText": "Loved the fit of my Jeans....fit like a glove.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "jerry",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHKFG6JA2VQWQ7XBDYSK54RZNKIA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RRJEBDB8QB7Q1?ASIN=B0C7HRBBZK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 5, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great Fit!",
+                "reviewText": "These fit so well that I ordered a second pair!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Julie Schellhas",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFFYQZUMMYNBK4INV2ISR2BFERCA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RAOZCZQGWW4HR?ASIN=B0C7HRBBZK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 25, 2023",
+                "reviewTitle": "5.0 out of 5 stars Best brand of Jeans EVER!!",
+                "reviewText": "Jeans are the best the fit is perfect, the size is perfect and do not stretch out either. Will always buy Silvers.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lily",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEZ22NJ4DAGJHWFX4YTA7DRHLK7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R221G4LQE8M3IP?ASIN=B0C7HRBBZK",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 10, 2023",
+                "reviewTitle": "3.0 out of 5 stars I wish I would have ordered 2 sizes smaller.",
+                "reviewText": "Too big in the waist, but otherwise I like them. Might try 2 sizes smaller in the waist though next time.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "CAROLYN E.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGVUKEPEWLSVMJY67ZXPK7YMKBGQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/ROMGMJO2553V0?ASIN=B0C7HRBBZK",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 18, 2023",
+                "reviewTitle": "5.0 out of 5 stars Love 'em",
+                "reviewText": "Love these jeans. Fit well, comfortable & perfect length. It's very hard to find women's jeans that are long enough if you're tall, these are great! \ud83d\udc4d\ud83c\udffc",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bee",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 24, 2023",
+                "reviewTitle": "Nice fit and comfy",
+                "reviewText": "Fast delivery and good quality",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

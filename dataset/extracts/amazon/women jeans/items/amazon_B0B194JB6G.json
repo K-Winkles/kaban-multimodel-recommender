@@ -1,0 +1,632 @@
+{
+    "remaining_requests": 17086,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Levis-Womens-Straight-Jeans-Indigo/dp/B0B194JB6G",
+    "body": {
+        "name": "Levi's Women's 724 High Rise Straight Crop Jeans",
+        "price": "$39.30 - $46.53",
+        "originalPrice": "",
+        "rawPrice": 39.3,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Levis-Womens-High-Straight-Jeans/dp/B09N62KXZ6",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09N62KXZ6"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09N5SFRNJ",
+                "variationName": "Color",
+                "variationValue": "Dark Indigo Worn in",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31dI9EKtBiL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B192C36S",
+                "variationName": "Color",
+                "variationValue": "Light Indigo Worn in",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31v3efp9ZML._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07XN2CQHS",
+                "variationName": "Color",
+                "variationValue": "Soft Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31d0XliO0sL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08NV69L5M",
+                "variationName": "Color",
+                "variationValue": "Tribeca Moon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31BuqCk+mjS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096H8XGJ7",
+                "variationName": "Color",
+                "variationValue": "Chelsea Avenue - Dark Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31D-pQ42MdL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BNJTH1PF",
+                "variationName": "Color",
+                "variationValue": "Everyone's a Winner",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/412EcxCU4cL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096HC53JV",
+                "variationName": "Color",
+                "variationValue": "Tribeca Story - Medium Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XtQZR4NYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08NV1HT2W",
+                "variationName": "Color",
+                "variationValue": "Tribeca Moves",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31VRKreFE1S._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07XN9XS1Z",
+                "variationName": "Size",
+                "variationValue": "24",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XKJMWT4",
+                "variationName": "Size",
+                "variationValue": "25",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XN13TYQ",
+                "variationName": "Size",
+                "variationValue": "26",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XKJVZP4",
+                "variationName": "Size",
+                "variationValue": "27",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XN2CQJ5",
+                "variationName": "Size",
+                "variationValue": "28",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XJD5H65",
+                "variationName": "Size",
+                "variationValue": "29",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XN1LDHR",
+                "variationName": "Size",
+                "variationValue": "30",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XMYS2GK",
+                "variationName": "Size",
+                "variationValue": "31",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XMZMJSP",
+                "variationName": "Size",
+                "variationValue": "32",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XMZBNZ4",
+                "variationName": "Size",
+                "variationValue": "33",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07XN2CQHS",
+                "variationName": "Size",
+                "variationValue": "34",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1918DQV",
+                "variationName": "Size",
+                "variationValue": "24 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1954PP9",
+                "variationName": "Size",
+                "variationValue": "25 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B195DPW5",
+                "variationName": "Size",
+                "variationValue": "26 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B194XP46",
+                "variationName": "Size",
+                "variationValue": "27 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B195MP5C",
+                "variationName": "Size",
+                "variationValue": "28 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B192C36S",
+                "variationName": "Size",
+                "variationValue": "29 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B196QD6D",
+                "variationName": "Size",
+                "variationValue": "30 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B194JB6G",
+                "variationName": "Size",
+                "variationValue": "31 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B192QJKJ",
+                "variationName": "Size",
+                "variationValue": "32 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1944LL9",
+                "variationName": "Size",
+                "variationValue": "33 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1944Z1M",
+                "variationName": "Size",
+                "variationValue": "34 Regular",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08NV1PBK7",
+                "variationName": "Size",
+                "variationValue": "24 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08NV2828D",
+                "variationName": "Size",
+                "variationValue": "25 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08NV1RH5G",
+                "variationName": "Size",
+                "variationValue": "26 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08NV2VX39",
+                "variationName": "Size",
+                "variationValue": "27 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08NV26Y11",
+                "variationName": "Size",
+                "variationValue": "28 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08NV2QF89",
+                "variationName": "Size",
+                "variationValue": "29 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08NV1D338",
+                "variationName": "Size",
+                "variationValue": "30 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08NV45KKW",
+                "variationName": "Size",
+                "variationValue": "31 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08NV2FRW2",
+                "variationName": "Size",
+                "variationValue": "32 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08NV69L5M",
+                "variationName": "Size",
+                "variationValue": "33 Short",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08NV2C3M1",
+                "variationName": "Size",
+                "variationValue": "34 Short",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31v3efp9ZML.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31RqhVq 5BL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31yHON2hABL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51FpB-Cn6gL.jpg"
+        ],
+        "imagesCount": 4,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Levi's Store",
+            "link": "https://www.amazon.com/stores/Levis/page/7B18FACC-DCB8-4735-B4AC-CDE16CD147DD?ref_=ast_bln"
+        },
+        "brand": "Levis",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 4033,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 65% Cotton, 21% Viscose, 7% Polyester, 5% Elastomultiester, 2% Elastane",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "High Rise: Sits above waist",
+            "Slim through hip and thigh",
+            "Inseam: 26\"",
+            "The model in the image is 5'9\" and is wearing 27 x 26."
+        ],
+        "description": "Levi's signature 'Lot 700' fits are the ultimate look-amazing jeans, designed to flatter, hold and lift. Cropped at just the right length. Flatters your waist and holds you Sculpt with Hypersoft is super-soft for enhanced comfort with supportive stretch.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Womens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1048188"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 11.34 x 7.99 x 2.24 inches; 12.7 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 58825-0118"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e December 6, 2021"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Levi's"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09N5XCP2Z"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#24,207 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #219 in Women's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 4,033 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "You May Also Like 724 High Rise Straight See Details Classic Straight See Details Ribcage Straight Ankle See Details Original Trucker See Details The Ultimate Western See Details Perfect Tee See Details Customer Reviews 4.2 out of 5 stars 7,650 4.3 out of 5 stars 11,612 4.3 out of 5 stars 8,004 4.6 out of 5 stars 9,982 4.4 out of 5 stars 3,554 4.4 out of 5 stars 9,504 Price \u2014 \u2014 \u2014 $47.82$47.82 $39.64$39.64 $14.69$14.69 Waist/Rise High rise Mid Rise Super high rise \u2013 \u2013 \u2013 Stretch Mid-stretch Mid-Stretch Mid-stretch Low stretch Low stretch N/A Leg Opening Straight leg Straight leg Straight leg \u2013 \u2013 \u2013 Fit Slim fit Easy fit Slim fit Standard fit Standard fit Standard fit Fabric Type Denim Denim Denim Denim Denim Jersey Sustainability Type N/A N/A Water<Less Water<Less Water<Less N/A",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b0236ab-88dc-4f5a-91b4-924cd72fc0e2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/845da6bb-9dab-4522-ab0e-7066aa24d6e0.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/92d1ca84-9144-4006-baf8-f49d456b2cdc.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fd3b94bc-a578-4ca9-9cd2-d50a99fc9657.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d7d22a22-2adc-4f20-9acb-a1d8bc5e09f7.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/89a5eb9a-70ee-482a-b894-7802276956bc.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2436f20a-5754-4a4a-a556-3aff274e91f1.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0e0cf9db-6e88-42d5-b753-b57c10d98e02.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed2b4796-dc4a-4ae4-bbe0-4cda36e2e355.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f3961b43-3ded-4fcf-92d8-889c917d55cf.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Scout",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFY3TZVUNGA56SHV7AAIC4XIOHGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2IGW00EY6CN1T?ASIN=B09N62KXZ6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2022",
+                "reviewTitle": "5.0 out of 5 stars Fits like a glove, true to size",
+                "reviewText": "5'7\", 135lb, curves on hips and rear. Size 28 fits me like a glove. There is no room to get any more of me into these pants, but I know they will relax throughout the day, and the fabric is slightly stretchy, so I can breathe, move and squat freely. No gap at all in the waist, and no muffin top. They are sleek and stylish, and can be dressed up or down with flats or heels. (I bought the darker blue wash with no rips or tears.).Buy your regular size if you want a fitted sleek look. Size up if you want a more relaxed casual look.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Joni YankusJoni Yankus",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG6ASVC54VUMI6YTEXJ6DQUYWHXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2MABJCLLENVKX?ASIN=B09N62KXZ6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 9, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfortable and cute",
+                "reviewText": "I followed the measurements given in the size guide. I was between sizes 29 and 30. I opted for size 30 and it fits nicely. The jeans are soft and allow for easy movement. Be aware they stretch out a LOT during the day. They\u2019re jeans that only held their shape for me for one day.",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71WnKbu5pdL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71Yg1nLkQqL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "KK",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGCGWJKRF4MU724ZQPNG4LOYZ4YA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3B4YX8IQYCOCW?ASIN=B09N62KXZ6",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 15, 2023",
+                "reviewTitle": "4.0 out of 5 stars Fit big for Levi's.",
+                "reviewText": "I got these in a size 30, 31 and 32 (all short), all in the color Tribeca Moves. For sizing reference, I'm usually a medium-large or a 8-12/29-31 in bottoms and jeans. If it helps, I wear a size 6 or 8 in Lulu leggings. I'm 5'3\" tall with a short torso, and my measurements are about 44\"-33\"-44\" (bust-waist-hip) right now, give or take.I think at this point I think I've purchased nearly every single style of women's Levi's jeans, and they have all been in a variety of sizes, as I find this brand is horribly inconsistent in that area. I've worn a size 33 in some, 29 in others, or in this case, a 30 fit me best. The first pair I got was in a size 32 and they were just too loose all over, mainly in the crotch and the waist. I have thicker thighs and calves, so they were fine there. I have pics of the size 32 and the 30, and I made sure to specify what size I'm wearing in which pics. I then returned that size for a 31, which was still looser than what I wanted (I forgot to take pics), and finally got a 30. For me, that was the perfect size. I don't like when jeans like this are loose in the crotch, so that size was perfect. I still have plenty of extra room in the waistband because it's stretchy, but I will say I wish there was a tad more room in the hips, as I have a bigger butt. Still, the 30 was the best fit for me. This is one of the few pairs of Levi's I've tried that I'd say is TTS.The material on these is soft and stretchy, though thankfully not as stretchy as the 711 skinny jeans I tried. I like stretch because it's generally just more comfortable, but too much and they end up bagging out and they just don't hold in the tummy like I prefer. These make me feel held in without being suffocated and they're still comfy. I've worn and washed mine probably about a dozen times now since purchase and they still look great and fit the same. I haven't had any issues with them bagging out, though I suppose they loosen up a tad throughout the day.I also really like this color. It's a pretty normal jean shade without being too dark or light. I'm glad it doesn't have much whiskering (those lines across the upper thighs) or weird patches of lighter material (some of them do that to make the thighs look \"smaller\", but I just think it looks stupid).The fit of these is a good median between a skinny jean and a straight jean. I appreciate that they aren't tight on the calf and I've grown to love ankle length. I got mine in the short version and ended up cutting the very edge of the cuff off to give them more of a raw look.Out of all the Levi's I've tried, I think I'd recommend these first. Comfy, cute, good color, TTS, fairly sturdy. Great jeans.",
+                "reviewVotes": "16 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71+G1H+f-yL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/712QYjL2u0L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71SsdhsQVjL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71TUpOV599L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71mSEN8cvtL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71mtLpG3UsL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71uWPNNFk6L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Essie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH23L7COKYCJW7PCKUMVVAN3Q7LA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2YLBID4D7VJOX?ASIN=B09N62KXZ6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 9, 2023",
+                "reviewTitle": "5.0 out of 5 stars Perfect curvy fit",
+                "reviewText": "Jeans are SO hard to find. I\u2019m 5\u20192\u201d in between a size 6 and 8 depending on maker and the sz 30 fit me perfectly. The length came to the tops of my feet - definitely not ankle length for me so I cut them to be above the ankles and kept the raw hem. I paired these with slim ankle boots and it\u2019s such a great look!! There\u2019s enough stretch to keep these comfy. The material is in the thinner side FYI for cold winter people.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Silvia",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFOGSLSQVOQE6MLGDK75XFZOYSDA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R29JTVO4WLA3EJ?ASIN=B09N62KXZ6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 3, 2023",
+                "reviewTitle": "5.0 out of 5 stars As comfy as your favorite Pjs!",
+                "reviewText": "I recently bought these jeans and I can confidently say that they are worth taking a few minutes to write a review. For reference, I'm 5'5\" and weigh 115 lbs. As far as length goes, they're just as advertised in the picture and look great with ankle boots, loafers, or even mid-rise tennis shoes. I opted for a 27 regular size, which was perfect for me since I like having some room. However, if you prefer a more snug fit, I recommend going a size down as they were a little big around the hips and waist. Overall, these jeans are worth considering. Trust me, they're incredibly comfortable and feel like you're wearing your favorite PJs all day long!",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "A. Cairns",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFLY5RWPIXEFMRTFXLDQ4L3MXYYQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R35SHW4NIKYR8J?ASIN=B09N62KXZ6",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 28, 2023",
+                "reviewTitle": "3.0 out of 5 stars Thin and runs small for Levi\u2019s",
+                "reviewText": "The material is not thick, like a gene, it\u2019s much thinner, seems lesser quality. These ran small for me: I ordered the size that fits me in the Levi\u2019s rib cage straight leg and these were several sizes too small. I am 5\u20193, and the length was perfect.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mrs. BriMrs. Bri",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHTH3NQNNFP7BV37RC6DNQ5OTBHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3MGKBFDJE5B5H?ASIN=B09N62KXZ6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 8, 2023",
+                "reviewTitle": "5.0 out of 5 stars LOVE THESE JEANS!!!!",
+                "reviewText": "I am 5\u20192\u201d, 155lbs and I ordered 29 short.I am a 42 year old mother of two and the heaviest I have ever been. I usually hate buying clothes because nothing looks the way I want it to so I never spend more than $25 on anything.These jeans are awesome and they are my favorite pieces of clothing!For $25 they look good, feel good and accentuate my curves.I own two pairs of the Chelsea Scrape - Dark Indigo which are great for business dress down days in the office.I recently purchased the Tribeca Moon distressed jeans and they are so much better than i anticipated. They are soft, have the right amount of stretch without feeling like you are suffocating. I usually stay away from light colors but this color looks fantastic and is very flattering and versatile.I highly recommend giving these jeans a try!",
+                "reviewVotes": "35 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71AjYvZilwL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71Kz2+6SdxL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71uxAv-yt0L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "M.A.H.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE2ZOHVAHCFG7KBABOQQGHCRP54A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2SUBODQF6LAFR?ASIN=B09N62KXZ6",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 25, 2023",
+                "reviewTitle": "1.0 out of 5 stars Ridiculously short front pocket, returning",
+                "reviewText": "Come on Levi's...you can't afford a couple inches of white fabric for a real front pocket?!? This feature alone completely ruins otherwise nice jeans. It's stupid design--you can barely fit the first knuckle of your fingers. Some people actually like to use their front pockets to rest their hands in, or carry something!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "NAT",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 9, 2023",
+                "reviewTitle": "Love these jeans!",
+                "reviewText": "I am 5'2\" , 95 lbs & ordered size 24 short. They fit perfectly! Anyone who is short knows how hard it is to find jeans that don't have to be shortened. They have plenty of stretch so are comfortable to wear.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cliente de Amazon",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 16, 2019",
+                "reviewTitle": "Levi's 58825 Jeans para Mujer",
+                "reviewText": "LA CALIDAD ES MUY BUENA, NO ME SIRVI\u00d3 PORQUE LA TALLA ERA MUY REDUCIDA Y NO HUBO M\u00c1S TALLAS PARA REEMPLAZARLO.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Anya",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 10, 2023",
+                "reviewTitle": "Fit according to size",
+                "reviewText": "Cute crops for summer, fit well",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Crista ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 14, 2022",
+                "reviewTitle": "They attract every little hair/fluff",
+                "reviewText": "I bought the black cropped, size 27. I\u2019m 5\u20192 1/2\u201d and 127lbs. They are the perfect length, stretch and rise but they attract everything!! Make sure to have a sticky roller in your bag when wearing these.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sahara Ali",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 21, 2022",
+                "reviewTitle": "So comfortable and pockets are super flattering!",
+                "reviewText": "Totally recommend. They've got such a nice stretch to them. Excellent quality.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

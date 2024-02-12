@@ -1,0 +1,597 @@
+{
+    "remaining_requests": 16986,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Skechers-Womens-Virtue-Sneaker-Navy/dp/B09PZ8B5R2",
+    "body": {
+        "name": "Skechers Sport Women's Virtue Fashion Sneaker",
+        "price": "$43.56 - $59.97",
+        "originalPrice": "",
+        "rawPrice": 43.56,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Skechers-Womens-Virtue-Fashion-Sneaker/dp/B003UMN96C",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B003UMN96C"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09PZ7LQ95",
+                "variationName": "Color",
+                "variationValue": "Navy/Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41FNipIH4JL._SS47_.jpg"
+            },
+            {
+                "asin": "B09PZ76XHR",
+                "variationName": "Color",
+                "variationValue": "Black/Pink=bkpk",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NxV2HBLcL._SS47_.jpg"
+            },
+            {
+                "asin": "B09Q8373ZF",
+                "variationName": "Color",
+                "variationValue": "Gray/Multi",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LkwzkZw5L._SS47_.jpg"
+            },
+            {
+                "asin": "B0CKKS5ZXV",
+                "variationName": "Color",
+                "variationValue": "Charcoal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41yh1qrEa8L._SS47_.jpg"
+            },
+            {
+                "asin": "B0BVPBQNV4",
+                "variationName": "Color",
+                "variationValue": "White/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41mJFlmMqsL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BV1XNVNT",
+                "variationName": "Color",
+                "variationValue": "Charcoal=char",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EuWkWId3L._SS47_.jpg"
+            },
+            {
+                "asin": "B0BV1XJ9W8",
+                "variationName": "Color",
+                "variationValue": "Black/Black=bbk",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41BtdLbWeSL._SS47_.jpg"
+            },
+            {
+                "asin": "B09PZ7HMKV",
+                "variationName": "Color",
+                "variationValue": "Taupe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41J75Z0WMtL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BQHQW26F",
+                "variationName": "Color",
+                "variationValue": "Ntpk",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41OJeJuPb7L._SS47_.jpg"
+            },
+            {
+                "asin": "B09PZ8CNKM",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLVYDB8D",
+                "variationName": "Size",
+                "variationValue": "5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PZ8GPX2",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLW64PJX",
+                "variationName": "Size",
+                "variationValue": "5.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PZ86Z67",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKR2QMJM",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PZ81C8G",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BL5JGRP2",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PZ8B5R2",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLVZGNJK",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PZ7G1CD",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKR3KDKM",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PZB8LLD",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKR6YPQX",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PZ7LQ95",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLVYS658",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PZ5MZTD",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLW1S3VR",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PZ6HC8D",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLW11XXZ",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PZ8499H",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKWVW36M",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PZ79R9H",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BLWCBGG8",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CKKZYSQ5",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CKKY8BM5",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PZ793BR",
+                "variationName": "Size",
+                "variationValue": "24.0 cm",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PZ7TCHX",
+                "variationName": "Size",
+                "variationValue": "26.0 cm",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09PZ6M3QQ",
+                "variationName": "Size",
+                "variationValue": "6 US",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BQHQW26F",
+                "variationName": "Size",
+                "variationValue": "3 UK (6 US)",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BQHSJ2PY",
+                "variationName": "Size",
+                "variationValue": "8 UK (11 US)",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41FNipIH4JL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41G6T1fnNpL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51IxzuzTP0L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51KOPcv83aL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41a 20tX89L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/416jp0yCK8L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51oWyuBHLVL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Skechers Store",
+            "link": "https://www.amazon.com/stores/Skechers/page/4B1ECBE0-2659-48D2-A5C3-A8252218356A?ref_=ast_bln"
+        },
+        "brand": "Skechers",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 393,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Sole material Rubber",
+            "Outer material Synthetic",
+            "Memory foam insole",
+            "Machine washable",
+            "Flexible"
+        ],
+        "description": "There has been a significant shift in the way that women think, act and shop. The way they dress reflects this new independent spirit but women, with incredible person style, have been void a special shoe brand until Seychelles!! The Seychelles girl thrives on being unique and doesn't follow any rules or trends. She is hip and vibrant and has her own natural style, using fashion as a way to supplement it. She wears what she wants, how she wants and looks fabulous doing so. With her own sense of flair, the Seychelles Girl mixes current trends, vintage finds and designer pieces to enhance her every look. Enjoy the comfort of sneaker with a bit more casual style when you slip on the Virtue sneaker from Skechers. Suede, smooth leather and textile overlays creates a lot of visual interest in the upper while a fabric lining and cushioned footbed creates a lot of comfort for your foot. A nicely treaded outsole keeps you interested in walking even when the going gets a bit slippery.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Fashion Sneakers",
+                "link": "https://www.amazon.com/womens-sneakers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=679394011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 10 x 15 x 6 inches; 1.06 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 104411"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e January 12, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Skechers"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09PZ8CNKM"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#17,750 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #151 in Women's Fashion Sneakers"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 393 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "22823 GRATIS STROLLING 22823 GRATIS STROLLING 104411 VIRTUE 104411 VIRTUE 104411 VIRTUE COLOR BBK, WSL WSL, BBK GYMT, BKPK, NVBL, CHAR, BBK GYMT, BKPK, NVBL, CHAR, BBK GYMT, BKPK, NVBL, CHAR, BBK MEMORY FOAM INSOLE \u2713 \u2713 \u2713 \u2713 \u2713 WIDE WITH \u2713 \u2713 \u2713 BUNGEE CLOSURE \u2713 \u2713 \u2713 \u2713 \u2713",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9c3303c1-4337-444a-8f12-b24459bd03d2.__CR0,0,150,300_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a442ad30-d8c7-47ef-b7d1-a69511143cd6.__CR0,0,150,300_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2f6511e4-2bee-41d2-8882-3567efc3b377.__CR0,0,150,300_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ef35d0db-f17c-4e51-814e-53f03c4c4eb7.__CR0,0,150,300_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/55d39555-0031-415c-a425-aede8709539b.__CR0,0,150,300_PT0_SX150_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Lynda",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEI234YJAE5PN35VBRRQBIQAXZBA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1X0EMF1BWYNVF?ASIN=B003UMN96C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 10, 2024",
+                "reviewTitle": "5.0 out of 5 stars fit perfectly and are cute",
+                "reviewText": "I love these shoes, which is pretty unusual for me. They are easy to put on, don't make my feet look bigger than they are and are very comfortable. Added bonus they have some colors embedded in the black or grey fabric which makes them kinda fun.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rshop",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFD5BPDSW2C5YPXH6HYHVFBUJEJA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3E3FV86L1GODE?ASIN=B003UMN96C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Cute and comfortable",
+                "reviewText": "Easy to get on and off and great for wearing around town.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Grouchyf",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH5O2AMTTEUHD5HHFVYQCAYUJGJA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1Y45NHJ48HL8C?ASIN=B003UMN96C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 19, 2024",
+                "reviewTitle": "5.0 out of 5 stars Fantastic",
+                "reviewText": "Very comfortable, feel like they can be worn all day. The size was as expected. They hold your foot well. Suitable for trail walking.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Galina Strizheva",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFTROT2M46S2D2LYNWRKRQ5LWQVA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2HJLTH5ZQFQ5C?ASIN=B003UMN96C",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 26, 2023",
+                "reviewTitle": "4.0 out of 5 stars Super comfy, but started to discolor in some parts after 2 months",
+                "reviewText": "These sneakers are one of the most comfortable pair I ever had. It fits as expected, supports my high arch well, eases my steps with special bumps on the sole, and overall very nice looking. However, the tip of the toe part, the rubber, which was originally of dark blue color, suddenly started to discolor and now I have white lines on each shoe which looks like a slight salt dusting. Kind of expected for Sketchers to look less than new after longer than 2 months time - all my other pairs from this brand usually start to show signs of wear after 1-1.5 years of intense use.",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Marcee",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHNYM5RGFI54WUNRXFOPIL73CNEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3D84V4UYE9NKR?ASIN=B003UMN96C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 14, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great quality",
+                "reviewText": "As usual with Sketchers, these fit great, feel comfortable, and I love this design.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Grammie & Grandpa",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHFMGXJRCDY335RAZLNYLMM42G7Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R34M3QP7WK9H26?ASIN=B003UMN96C",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "3.0 out of 5 stars Wrong Color",
+                "reviewText": "I ordered Navy blue, box said navy blue, however when I opened the box the shoes inside were black. I'm going to keep the black, I do like the shoe, they are very comfortable and look really good and who can't use another pair of black shoes, but I'm very disappointed that they aren't Navy. I had planned to take them on upcoming vacation to wear with jeans, don't have time to reorder, plus I'm afraid I'll get black again.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Barbara Frandsen",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG7QHJFYR7ZZMAU3ZI7ZLR4QXRYA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2HZ2Q8F1N150E?ASIN=B003UMN96C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 14, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfort",
+                "reviewText": "I ordered a size larger than usual because my feet seem to be getting flatter and spreading out more. The size 7 shoes are a little too long but are more comfortable than my usual size of 6 and 1/2.They are cute shores and are easier to get on and off.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Janice Dealy",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH62Q4OU5LTHBTHPDLG7ZJT7NQBQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3EZF7FY2N4HF1?ASIN=B003UMN96C",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 28, 2024",
+                "reviewTitle": "5.0 out of 5 stars Most comfortable walking shoes ever!",
+                "reviewText": "Love the fit and the look. I bought a second pair in another color!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mariza",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 25, 2023",
+                "reviewTitle": "Super comodos",
+                "reviewText": "Me encanta comprar skeachers x lo c\u00f3modos y no pesan nada",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tomke",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on June 29, 2023",
+                "reviewTitle": "Super",
+                "reviewText": "Sch\u00f6ne Schuhe, passen super, super bequem wie gewohnt bei Skechers",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Glosvegan",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on June 11, 2023",
+                "reviewTitle": "Amazingly Comfortable",
+                "reviewText": "The media could not be loaded. Really comfortable, look good and most importantly no animal products used. Definitely worth the money (purchased on offer for 35\u00a3)",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": "https://m.media-amazon.com/images/I/C1OMnwqxOtL.mp4"
+                }
+            },
+            {
+                "reviewerName": "chantal",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in France on March 8, 2023",
+                "reviewTitle": "Confortable comme toutes les skechers",
+                "reviewText": "Tr\u00e8s jolies et confortables, semelles sans grosses rainures pour les cailloux. Je fais du 37 mais le 36,5 va tr\u00e8s bien.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "sasasa",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Japan on December 2, 2023",
+                "reviewTitle": "\u4e01\u5ea6\u826f\u3044",
+                "reviewText": "\u307e\u3060\u4f7f\u7528\u3057\u3066\u307e\u305b\u3093\u304c\u901a\u6c17\u6027\u304c\u826f\u3055\u305d\u3046\u3067\u3001\u6691\u3044\u6642\u671f\u306b\u4e01\u5ea6\u826f\u3044\u30b9\u30cb\u30fc\u30ab\u30fc\u3060\u3068\u601d\u3044\u307e\u3059\u30b4\u30e0\u7d10\u30bf\u30a4\u30d7\u306a\u306e\u3067\u3001\u30ef\u30f3\u30b5\u30a4\u30ba\u4e0a\u306b\u3057\u3066\u826f\u304b\u3063\u305f\u3067\u3059",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

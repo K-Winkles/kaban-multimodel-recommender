@@ -1,0 +1,707 @@
+{
+    "remaining_requests": 7447,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Stanley-Classic-IceFlowTM-Straw-Tumbler/dp/B09PL7GCHV",
+    "body": {
+        "name": "STANLEY IceFlow Stainless Steel Tumbler with Straw, Vacuum Insulated Water Bottle for Home, Office or Car, Reusable Cup with Straw Leak Resistant Flip",
+        "price": "$35.00",
+        "originalPrice": "$40.00",
+        "rawPrice": 35.0,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Stanley-Stainless-Insulated-Reusable-Leakproof/dp/B0C663Z8JD",
+        "soldBy": {
+            "sellerID": "",
+            "name": "Amazon.com",
+            "link": "https://www.amazon.com"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0C663Z8JD"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0BSLVNK1N",
+                "variationName": "Color",
+                "variationValue": "Alpine",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/215mmRI6Q4L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CSF3VXP2",
+                "variationName": "Color",
+                "variationValue": "Ash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21azJVdaaIL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CT47PNRQ",
+                "variationName": "Color",
+                "variationValue": "Azure",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21xItoaJR7L._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21XJtKnyMZL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CSF47VXR",
+                "variationName": "Color",
+                "variationValue": "Black 2.0",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21XJtKnyMZL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B319RF7M",
+                "variationName": "Color",
+                "variationValue": "Carnelian",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11qfd4PL5XL._SS36_.jpg"
+            },
+            {
+                "asin": "B08VPQZKWK",
+                "variationName": "Color",
+                "variationValue": "Charcoal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01SKXsr+3HL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BSLVQG9N",
+                "variationName": "Color",
+                "variationValue": "Citron",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21S+RJwW66L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BNYQJWL8",
+                "variationName": "Color",
+                "variationValue": "Citron Swirl",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/516uRmr0wPL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Cloud",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/0115RHTbLBL._SS36_.jpg"
+            },
+            {
+                "asin": "B09PL7GCHV",
+                "variationName": "Color",
+                "variationValue": "Cream",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/014QnLeJNUL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CGXZVRL1",
+                "variationName": "Color",
+                "variationValue": "Cream Mesh",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51RS2XbMJQL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CN1PZM54",
+                "variationName": "Color",
+                "variationValue": "Cream Stripe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51WiV8AHkOL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BNYQY82B",
+                "variationName": "Color",
+                "variationValue": "Fog",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01nexF-gAZL._SS36_.jpg"
+            },
+            {
+                "asin": "B09PCM6RG7",
+                "variationName": "Color",
+                "variationValue": "Grapefruit",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01VmPcuBS2L._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Hammertone Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51SV8e5Va0L._SS36_.jpg"
+            },
+            {
+                "asin": "B0C549K6VB",
+                "variationName": "Color",
+                "variationValue": "Iris",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21-eZdpQgFL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BSLX55J9",
+                "variationName": "Color",
+                "variationValue": "Jade",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/2183vhITL9L._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Lagoon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01fxpNKtKuL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B31BZWCY",
+                "variationName": "Color",
+                "variationValue": "Lapis",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01wj4zfAFfL._SS36_.jpg"
+            },
+            {
+                "asin": "B0C549Q5G4",
+                "variationName": "Color",
+                "variationValue": "Lapis Swirl",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/515AqK7iQnL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B31B5PH3",
+                "variationName": "Color",
+                "variationValue": "Lavender",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21L0dWjiKUL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CT4BB651",
+                "variationName": "Color",
+                "variationValue": "Lilac",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11lh13WqzeL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CT491T6Z",
+                "variationName": "Color",
+                "variationValue": "Mist",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21O4sgvw8xL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CSF2NXCR",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/218pVTPp-mL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CGY3FHY4",
+                "variationName": "Color",
+                "variationValue": "Navy Mesh",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51TocrE6HnL._SS36_.jpg"
+            },
+            {
+                "asin": "B09PL6SRFM",
+                "variationName": "Color",
+                "variationValue": "Ochre",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01WtBqKzsvL._SS36_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Plum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21NGGYk709L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CGXZ6CNM",
+                "variationName": "Color",
+                "variationValue": "Plum Stripe",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/511bdcDqR3L._SS36_.jpg"
+            },
+            {
+                "asin": "B08VPSGX5G",
+                "variationName": "Color",
+                "variationValue": "Polar",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01h129Aj3tL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CT49XPPY",
+                "variationName": "Color",
+                "variationValue": "Pomelo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21pYVwMGIuL._SS36_.jpg"
+            },
+            {
+                "asin": "B09PL65CG3",
+                "variationName": "Color",
+                "variationValue": "Pool",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/017FjBsCxML._SS36_.jpg"
+            },
+            {
+                "asin": "B0BNYRGRZS",
+                "variationName": "Color",
+                "variationValue": "Pool Swirl",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414Pd142l1L._SS36_.jpg"
+            },
+            {
+                "asin": "B0B319SJF3",
+                "variationName": "Color",
+                "variationValue": "Raspberry",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01E8YuAXCKL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BNYR7MQV",
+                "variationName": "Color",
+                "variationValue": "Rose Quartz",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01nH0-yls2L._SS36_.jpg"
+            },
+            {
+                "asin": "B09PL6R66N",
+                "variationName": "Color",
+                "variationValue": "Spirulina",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/01ExdyYbOKL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B318LK8J",
+                "variationName": "Color",
+                "variationValue": "Tidepool",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/11ZKeP3Wx+L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BNYRDPZH",
+                "variationName": "Color",
+                "variationValue": "Tigerlily",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21XN2d5ELcL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CT49BDP3",
+                "variationName": "Color",
+                "variationValue": "Tigerlily Plum",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21T1er5ngiL._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/21rqp4BNE6L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/21vhNxUjRYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31y2F8KzK L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41uHT45EUQL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/414nipAgksL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41id0AMSCYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51lkGdUz2ML.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/034c5941-bf53-489b-86a1-9f209d2b07c0/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/05e9c0d6-895c-4826-add0-89ce304e4ecc/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/596fe88b-912c-47c0-8ef1-226fd1d5e30a/default.vertical.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/73e36ecb-84a8-4a57-b6d8-197e84bcd3d8/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/88240267-4741-42bc-a752-10f5f4752cca/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5b5a534a-2add-4944-9cec-54c06a15cb90/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 6,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the STANLEY Store",
+            "link": "https://www.amazon.com/stores/Stanley/page/47A7E765-00AF-4F34-AC01-240A7EDD822A?ref_=ast_bln"
+        },
+        "brand": "Stanley",
+        "merchantInfo": "Sold by Amazon Warehouse and Fulfilled by Amazon.",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 25150,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Wednesday, February 21",
+            "Or fastest delivery Tuesday, February 20. Order within 5 hrs 15 mins",
+            "FREE delivery Wednesday, February 21 on orders shipped by Amazon over $35",
+            "Or fastest delivery Tuesday, February 20. Order within 5 hrs 15 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "STAY HYDRATED FOR THE WHOLE DAY: This large tumbler with lid and straw can hold 30 oz of thirst-quenching beverage to power you through your longest days; Perfect for drinking water, smoothies, or iced coffee; Just fill it up and get on with your day",
+            "KEEPS COLD FOR A LONG TIME: Constructed with double-wall vacuum insulation and 18/8 stainless steel, your drinks will stay nice and chilled for 12 hours or iced for up to 2 days. Plus it can take a beating and is 100% free of BPA material",
+            "STRAW PERFECTED: Say goodbye to disposable straws that are flimsy and wasteful, or reusable straws that make a mess when tipped over. Our exclusive IceFlow flip straw allows effortless sipping and is leak resistant when closed, just snap it shut and you are done. At least 10% of our lid\u2019s material is made of recycled fish nets to keep our planet healthy.",
+            "MADE TO FIT YOUR LIFE: The ergonomic, rotating handle lets you quickly grab this cute tumbler with straw and go; Fits comfortably in most cupholders in your car or on most exercise machines; Easy to clean and dishwasher safe; It's the indispensable companion to bring with you anywhere",
+            "LIFETIME WARRANTY: \u2018BUILT FOR LIFE'. Since 1913 we've promised to provide rugged, capable gear for food and drink, built to last a lifetime. It's a promise we still keep. Stanley products purchased from Stanley Resellers come with a lifetime warranty"
+        ],
+        "description": "These bold, colorful tumblers are made to keep you hydrated in a fully functional style. Ideal for car commutes or workouts at home, it has a built-in flip straw for easy and effortless sipping. Snap it shut and the double-wall vacuum insulation will keep your drink fully leakproof and extra cold for hours. It fits comfortably in your vehicle\u2019s cup holder (treadmills and spin cycles, too!) and the folding handle lets you quickly grab and go",
+        "breadCrumbs": [
+            {
+                "name": "Home & Kitchen",
+                "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_aui_C_1?ie=UTF8&node=1055398"
+            },
+            {
+                "name": "Kitchen & Dining",
+                "link": "https://www.amazon.com/kitchen-dining/b/ref=dp_bc_aui_C_2?ie=UTF8&node=284507"
+            },
+            {
+                "name": "Dining & Entertaining",
+                "link": "https://www.amazon.com/dining-entertaining/b/ref=dp_bc_aui_C_3?ie=UTF8&node=13162311"
+            },
+            {
+                "name": "Glassware & Drinkware",
+                "link": "https://www.amazon.com/glassware/b/ref=dp_bc_aui_C_4?ie=UTF8&node=13217501"
+            },
+            {
+                "name": "Tumblers & Water Glasses",
+                "link": "https://www.amazon.com/Tumblers/b/ref=dp_bc_aui_C_5?ie=UTF8&node=13218451"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Brand",
+                "value": "STANLEY"
+            },
+            {
+                "name": "Color",
+                "value": "Cream"
+            },
+            {
+                "name": "Special Feature",
+                "value": "Leak Resistant, Vacuum Insulated"
+            },
+            {
+                "name": "Style",
+                "value": "30oz"
+            },
+            {
+                "name": "Theme",
+                "value": "Colorful,Car"
+            },
+            {
+                "name": "Recommended Uses For Product",
+                "value": "\u200eHome"
+            },
+            {
+                "name": "Occasion",
+                "value": "\u200eAnniversary,Baby Shower,Bachelor Party,Bachelorette Party,Baptism,Bar Mitzvah,Birthday,Bridal Shower,Christmas,Cinco de Mayo,Cocktail Party,Communion,Confirmation,Easter,Engagement,Father's Day,Funeral,Gender Reveal,Graduation,Grandparents Day,Hanukkah,Halloween,Housewarming,Independence Day,Kwanzaa,Memorial Day,Mother's Day,New Year,Passover,Retirement,St. Patrick's Day,Thanksgiving,Valentine's Day,Wedding"
+            },
+            {
+                "name": "Included Components",
+                "value": "\u200eTumbler"
+            },
+            {
+                "name": "Pattern",
+                "value": "\u200eSolid"
+            },
+            {
+                "name": "Product Care Instructions",
+                "value": "\u200eHand Wash Only"
+            },
+            {
+                "name": "Age Range (Description)",
+                "value": "\u200eAdult"
+            },
+            {
+                "name": "Material Feature",
+                "value": "\u200eInsulated"
+            },
+            {
+                "name": "Reusability",
+                "value": "\u200eReusable"
+            },
+            {
+                "name": "Unit Count",
+                "value": "\u200e1.0 Count"
+            },
+            {
+                "name": "Number of Items",
+                "value": "\u200e1"
+            },
+            {
+                "name": "Item Package Dimensions L x W x H",
+                "value": "\u200e10.35 x 6.02 x 4.06 inches"
+            },
+            {
+                "name": "Package Weight",
+                "value": "\u200e0.58 Kilograms"
+            },
+            {
+                "name": "Brand Name",
+                "value": "\u200eSTANLEY"
+            },
+            {
+                "name": "Warranty Description",
+                "value": "\u200eLifetime Warranty"
+            },
+            {
+                "name": "Model Name",
+                "value": "\u200eThe IceFlow\u2122 Flip Straw Tumbler"
+            },
+            {
+                "name": "Suggested Users",
+                "value": "\u200eUnisex-Adult"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "\u200eStanley"
+            },
+            {
+                "name": "Part Number",
+                "value": "\u200e10-09993-100"
+            },
+            {
+                "name": "Model Year",
+                "value": "\u200e2022"
+            },
+            {
+                "name": "Size",
+                "value": "\u200e30oz"
+            },
+            {
+                "name": "ASIN",
+                "value": "B09PL7GCHV"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 25,150 ratings 4.6 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#3 in Kitchen & Dining (See Top 100 in Kitchen & Dining) #2 in Tumblers & Water Glasses"
+            },
+            {
+                "name": "Date First Available",
+                "value": "February 18, 2022"
+            },
+            {
+                "name": "Material Stainless Steel",
+                "value": "Capacity 1.9 Pounds"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Previous page Next page 1 Quick Flip GO 2 Quencher H2.O 3 Aerolight Transit 4 Trigger-Action Mug 5 Fast Flow Jug",
+                "media_link": []
+            },
+            {
+                "media_text": "Previous page Next page",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8391aba1-ba26-44b8-be57-5b0431311694.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f20b5c23-8d92-476f-92e4-73ab370e09ff.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cdb25192-156f-4ae5-acae-14fa804110b5.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/880aa799-4597-4a61-9e8b-cc1166b7230f.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/307e461e-e65e-4a22-93aa-df120f2543ed.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f1fe33aa-565e-4d32-aa64-df856b33ac7e.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fbb78c19-a67d-4a09-8d2a-dc185bfc5892.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d6d0ecff-dd55-42fe-8de4-557f67e619f6.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bcbca667-4b1d-4ccd-b653-0f63e1072937.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/af434d84-68b7-4e1b-a06f-8b535a4ac3f4.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/915b3579-2a47-4506-a751-555890b20084.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/61d61583-93bd-4003-9109-a365be2e6a9a.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/37110a5d-ad50-4d4c-a113-81c7e9ab3954.__CR0,0,2928,1200_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3088441b-25a1-48e8-abb6-ba84ba0876df.__CR0,0,2928,1200_PT0_SX1464_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Meghan M",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGQNH7HQ7K6TUVGEAJVIZZMJ3M7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RXN04FHIZ2G2M?ASIN=B09PL7GCHV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Stanley at a great price",
+                "reviewText": "I'm very happy with this product! It came packaged nice and had no damage to the bottle like I've seen some others have experienced. I love the color and style of this Stanley. It is easy to hold with a sturdy handle that can easily be moved out of the way when it's sitting at my desk. It keeps my ice frozen all day while I refill my water multiple times. It's dishwasher safe but it's so easy to hand wash which is what I do since I just use it for water.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "NJ Forest",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEPTWNA36XYUGLFMGKYA6PRNFCOQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R8KZG0BAJ9RNV?ASIN=B09PL7GCHV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Hydration Hero for Tween Royalty",
+                "reviewText": "Meet the Stanley IceFlow 30 oz \u2013 the ultimate hydration wingman for your tween! With a sleek design and a cap that opens with a smooth push, it's hydration with a touch of style.This bottle is like a mini-fridge on the go, keeping drinks ice-cold for up to 11 hours. Perfect for busy tween days filled with school, sports, and adventures.Durable as a tank but without the clunkiness, it's made of stainless steel armor ready for anything. Plus, the wide color palette ensures there's a shade for every mood and outfit.Cleaning? Easy peasy. The wide mouth and disassembling feature make it a breeze. Upgrade your tween's hydration game with the Stanley IceFlow 30 oz \u2013 where staying cool and refreshed is always on-trend!",
+                "reviewVotes": "27 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "L. West",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFQPORT2LIMYHUAX2JGUODVRIIQQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R315T6YV36Q2W?ASIN=B09PL7GCHV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 31, 2023",
+                "reviewTitle": "5.0 out of 5 stars STANLEY IceFlow Stainless Steel Tumbler: Sip in Style, Anytime, Anywhere!",
+                "reviewText": "Rating: \u2b50\u2b50\u2b50\u2b50\u2b50As a Southern enthusiast who values a blend of style and functionality, the STANLEY IceFlow Stainless Steel Tumbler has quickly become my favorite companion for staying refreshed, whether at home, in the office, or on the go.The vacuum-insulated design is a game-changer, keeping my beverages at the perfect temperature for extended periods. From ice-cold water on a scorching Southern day to piping hot coffee during early morning commutes, this tumbler ensures my drinks are always just the way I like them.The inclusion of a leakproof flip lid is a small detail that makes a big difference. It means I can confidently toss this tumbler into my bag without worrying about spills or leaks. It's the perfect solution for those of us who are always on the move.The stainless steel construction not only adds a touch of sophistication but also ensures durability that stands up to the daily hustle and bustle. The tumbler feels substantial in hand, and the sleek design fits seamlessly into cup holders, making it an ideal companion for road trips or errand-filled days.The reusable straw is a thoughtful addition, providing a convenient and eco-friendly way to enjoy drinks on the go. The straw also flips down for easy storage, making it a versatile choice for any setting.Whether I'm working from home, tackling tasks in the office, or hitting the Southern roads for a weekend adventure, the STANLEY IceFlow Tumbler is my go-to hydration partner. It's not just a cup; it's a stylish statement that elevates my beverage experience wherever I am.In conclusion, this tumbler embodies the perfect marriage of style and functionality\u2014a true Southern essential. Whether you're sipping iced tea on the porch or tackling a busy day, the STANLEY IceFlow Stainless Steel Tumbler with Straw is the epitome of sipping in style, anytime, anywhere. Five stars for keeping hydration cool and classy!",
+                "reviewVotes": "23 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "jerakejerake",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGWPNQNIPXIGOTSFGS5K7SBJK2WA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R26DNHDBH7A58N?ASIN=B09PL7GCHV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "5.0 out of 5 stars Made me a believer from the first use - easy to hold and fun to drink from.",
+                "reviewText": "I was a little tired of hauling around my 32 oz Camelback, which I like, but it only has a chug lid (no straw). I kept forgetting it was even on my desk most days...well, I decided to try out this guy and see if the Stanley craze was worth the hype.This is the perfect desk water bottle (it's meant to hold water, not coffee, per the instructions, and it makes sense due to the straw lid). It keeps my ice water very cold for long periods, I love the handle (makes it so much easier to carry around when I have other things in my hands IMO, I can hang it off my finger with packages in my arms as an example), and it's got a utilitarian charm my practical nature finds irresistible. I have the Stanley admiral mug (which I adore, I love being able to put my coffee cup on the bed or in my car and NOT have it tip over, it's genius), but wasn't sure about this bottle - but after the first use, I'm hooked, I just love it. The price point on this is lower than the other more popular Stanley mugs, so if you only need a water bottle, you should give this some consideration!",
+                "reviewVotes": "14 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61K-ICmDcJL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "katkat",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE2CN63CYOC4LEGBXOOXEFBN5GPA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1JJGIO7KM8NHC?ASIN=B09PL7GCHV",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "5.0 out of 5 stars love it so much",
+                "reviewText": "I LOVE IT I AM OBSESSED. love the color. the size. it doesn\u2019t spill or leak. fits in cup holder of car. keeps my iced water cold, ice lasts well into the next day when i put the ice water in the morning before. the straw lid is perfect and exactly what i wanted. the straw is not a rubber material which i like. no weird taste. easy to clean. very happy with my purchase.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/619J6XzUs9L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "VeroAGDVeroAGD",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 14, 2024",
+                "reviewTitle": "Stanley es garant\u00eda",
+                "reviewText": "No es mi primer Stanley asi que ya conozco la calidad que manejan me encant\u00f3 el color y la tapa de este formato. \ud83d\udc9a",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61aIKvM9-eL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Usuario",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 14, 2024",
+                "reviewTitle": "Me encant\u00f3",
+                "reviewText": "Me encanta el color y lo encontr\u00e9 a buen precio. Lleg\u00f3 poco antes de lo previsto. Hab\u00eda le\u00eddo rese\u00f1as donde dec\u00edan que no lo hab\u00edan empaquetado correctamente. Aunque el m\u00edo lleg\u00f3 envuelto y en una caja regular. Sin ning\u00fan da\u00f1o.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ana Barnes",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 13, 2024",
+                "reviewTitle": "Amazing",
+                "reviewText": "Love my bottle",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alejandra",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 12, 2024",
+                "reviewTitle": "Excelente producto",
+                "reviewText": "No derrama ni una gota, mantiene por horas lo fr\u00edo",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Susan Bowkett",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 11, 2024",
+                "reviewTitle": "Excellent Water bottle",
+                "reviewText": "This does not leak when tipped . I love the color fog all accents are pale blue looks very tidy . I have had many compliments on it . The size is perfect 30 oz",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": [
+            {
+                "price": "$35.00",
+                "sellerName": "ECO BEST LIFE",
+                "sellerRating": "1.5"
+            }
+        ]
+    }
+}

@@ -1,0 +1,675 @@
+{
+    "remaining_requests": 13443,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Columbia-Womens-Heavenly-Jacket-Black/dp/B077Y3NX1C",
+    "body": {
+        "name": "Columbia Women's Heavenly Jacket",
+        "price": "$69.95 - $87.40",
+        "originalPrice": "",
+        "rawPrice": 69.95,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Columbia-1788661-Womens-Heavenly-Jacket/dp/B08323WH88",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B08323WH88"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09KMD79KC",
+                "variationName": "Color",
+                "variationValue": "Aura",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41GGqxL3v9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B077YC6H4X",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HUfLkXJ2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09KMD2JJK",
+                "variationName": "Color",
+                "variationValue": "Blush Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/419TB1mmKiL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08MQ6TFXH",
+                "variationName": "Color",
+                "variationValue": "Bright Geranium",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41cBKY6+erL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BKNZ54ZX",
+                "variationName": "Color",
+                "variationValue": "Camel Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41M5Hey5rnL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08MPV99MC",
+                "variationName": "Color",
+                "variationValue": "Canyon Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rv3-gmEjL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07J9KJ1FY",
+                "variationName": "Color",
+                "variationValue": "Chalk",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410RptI5J2L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07JCK2L4J",
+                "variationName": "Color",
+                "variationValue": "Dark Nocturnal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41t9w0Aw7hL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BKP7L5NT",
+                "variationName": "Color",
+                "variationValue": "Faded Peach",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41oo0jg9NQL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BKNQ7D7J",
+                "variationName": "Color",
+                "variationValue": "Marionberry",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41BX4dMAETL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0814CB3CG",
+                "variationName": "Color",
+                "variationValue": "Mineral Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41WoegOEjSL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BKQWK3SL",
+                "variationName": "Color",
+                "variationValue": "Night Wave",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4109t2EkacL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0814BNDZD",
+                "variationName": "Color",
+                "variationValue": "Olive Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41lm3ml4DdL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09KMCG7JM",
+                "variationName": "Color",
+                "variationValue": "Peach Blossom",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41QNU6IRAFL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZSF8QB",
+                "variationName": "Color",
+                "variationValue": "Ala - Red Velvet",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qzWbaZ+UL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZS3V5H",
+                "variationName": "Color",
+                "variationValue": "Alternative Team Color",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41VhQkZTtiL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZRYX65",
+                "variationName": "Color",
+                "variationValue": "Cle - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41tO1HpCOtL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZS3DTN",
+                "variationName": "Color",
+                "variationValue": "Iw - City Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41OS+UQksCL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZSL51H",
+                "variationName": "Color",
+                "variationValue": "Ms - City Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41CPE0t8X-L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZS3DW2",
+                "variationName": "Color",
+                "variationValue": "Nc - Chalk",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/411Wxyi0WJL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZRYY5S",
+                "variationName": "Color",
+                "variationValue": "Nd - City Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/416PaJ+sd6L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZSKBW2",
+                "variationName": "Color",
+                "variationValue": "Neb - Chalk",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31npqZT+FAL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZRR3K3",
+                "variationName": "Color",
+                "variationValue": "Ok - Chalk",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HT6JTdNzL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZS4LBK",
+                "variationName": "Color",
+                "variationValue": "Os - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41bhVhcttBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZS3N4R",
+                "variationName": "Color",
+                "variationValue": "Psu - Chalk",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31aYptP0rvL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZRXMLT",
+                "variationName": "Color",
+                "variationValue": "Tam - Deep Maroon",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41QO8r8frUL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08MQHPRRT",
+                "variationName": "Color",
+                "variationValue": "Uk - Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41HxdVibFcL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZRXFRR",
+                "variationName": "Color",
+                "variationValue": "Um - Chalk",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31f0Uv3hUNL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZS9796",
+                "variationName": "Color",
+                "variationValue": "Uo - City Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/411Si6KgnQL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZSMKWN",
+                "variationName": "Color",
+                "variationValue": "Uw - Chalk",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31eSv2FAGkL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZRHW4P",
+                "variationName": "Color",
+                "variationValue": "Waz - Red Velvet",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41pVs3hrWlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZSFL92",
+                "variationName": "Color",
+                "variationValue": "Wis - Chalk",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41gAD3FkCJS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZRNZCM",
+                "variationName": "Color",
+                "variationValue": "Mn - City Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41TBd14m3+S._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZSCM9Q",
+                "variationName": "Color",
+                "variationValue": "Osu - City Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41cdquzswTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08223PL1V",
+                "variationName": "Color",
+                "variationValue": "Red Lily",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410VtHLg90L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07ZZS29DP",
+                "variationName": "Color",
+                "variationValue": "Wv - City Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41CcyI8UTeL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B08MQHM585",
+                "variationName": "Color",
+                "variationValue": "Cirrus Grey Metallic",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/318XBPKE+IL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B077YC6H4X",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077Y5W7SF",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077Y4ZKVY",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077Y3NX1C",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077Y5JBR4",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0814BGH75",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077Y1YST3",
+                "variationName": "Size",
+                "variationValue": "1X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077YC6H4Y",
+                "variationName": "Size",
+                "variationValue": "2X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077Y731XF",
+                "variationName": "Size",
+                "variationValue": "3X",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41HUfLkXJ2L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41SYO56apqL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41WNRZz9sCL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/413MaPjMi2L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41jtDGfRpEL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41qlznSNjEL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51ZAGDs7LFL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/220e505a-c0c8-4f76-a2e6-8de6bbf8609f/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Columbia Store",
+            "link": "https://www.amazon.com/stores/Columbia/page/E21F2281-2F97-4BDA-B5DC-8F83EA77C1F0?ref_=ast_bln"
+        },
+        "brand": "Columbia",
+        "merchantInfo": "",
+        "customerReview": "4.7 out of 5 stars",
+        "customerReviewCount": 2870,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Polyester",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "OMNI-HEAT: Our patented Heat Reflective lining provides the ultimate hand warmth management for outdoor performance. This interior lining consists of our metallic dot pattern designed to retain heat, while the breathable fabric dissipates hand moisture.",
+            "100% SYNTHETIC DOWN INSULATION: The down-style baffling is flexible at all the right points, providing additional air-loft, versatile fit, and maximum warmth and enjoyment.",
+            "CLASSIC FIT: This women's water resistant jacket features an active fit for comfortable warmth and protection during active outings.",
+            "HANDY FEATURES: Starting with a yummy fleece pile lined collar, an interior security pocket, zippered hand pockets, and comfort cuffs with thumb holes to keep hands really warm on chilly days.",
+            "BUILT TO LAST: Columbia\u2019s attention to detail is what sets our apparel apart. Specifying only the highest quality materials, expert stitching and craftsmanship. This is a long-lasting jacket you will enjoy for seasons to come."
+        ],
+        "description": "The Columbia Women's Heavenly Jacket combines stylish urban looks with technology to keep you warm and dry. A great fall and winter jacket, you'll love the feminine silhouette shaped in a modern cut. Its water resistant shell is lined with our signature Omni-HEAT reflective lining, along with a yummy plush fleece-lined collar that instills a sense of confidence when the weather turns super blustery and cold. Unique to this jacket, the sleeves have built-in thumb holes and comfort cuffs to provide a sense of control and warmth to your arms and hands. An internal security pocket, and two zippered side pockets keep your small items secure (including your hands when the outdoors get extra cold). The water resistant fabric keeps you protected during wet excursions. This women's winter jacket is offered in multiple colors and sizes. Extended sizing available. Active and Regular Fit. To ensure the size you choose is right, utilize our sizing chart and the following measurement instructions: For the sleeves, start at the center back of your neck and measure across the shoulder and down to the sleeve. If you come up with a partial number, round up to the next even number. For the chest, measure at the fullest part of the chest, under the armpits and over the shoulder blades, keeping the tape measure firm and level.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Sport Specific Clothing",
+                "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_2?ie=UTF8&node=23575629011"
+            },
+            {
+                "name": "Skiing",
+                "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_3?ie=UTF8&node=2371058011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2419364011"
+            },
+            {
+                "name": "Jackets",
+                "link": "https://www.amazon.com/Womens-Ski-Jackets/b/ref=dp_bc_aui_C_5?ie=UTF8&node=2371122011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 21.5 x 15.04 x 2.95 inches; 1.22 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 1788661"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e Womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e October 28, 2021"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Columbia"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09KMD99MF"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#18,008 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #14 in Women's Skiing Jackets"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.7 4.7 out of 5 stars 2,870 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Previous page Next page",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b095f43b-0ea5-4ce6-a2e1-2e36b7cc2b37.__CR0,1,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/04bdf55c-e4e3-4f72-820d-b7072667981f.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0e6c0141-7ba8-4851-9fbe-35e7737cf2e5.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/09fdb4bb-f7e0-48b1-a8ba-472e64a41644.__CR0,1,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/17f820c5-ac92-4ab8-b7f2-d915c3d4a8d0.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/475a870f-8ecf-44a4-9e56-9ef9e5e6fe6d.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f1b8de97-97bc-4693-94c1-c22355779b5e.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dc191f47-29b3-40fc-bfda-d7554405486c.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/269c9ee7-aa4b-4ffd-9bcf-aa5fa93cec76.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e85096e5-46e6-48c1-90f5-12f9ff73bc53.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fe2b3afb-1d30-4d0e-8a52-13ac4f46dba0.__CR0,0,2034,834_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/407e6884-97c1-41d3-9eee-5c6b5651be1a.__CR0,1,2034,834_PT0_SX1464_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Solargirl",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGI2WFKVOD44FGFOA7PHFKZWCRHQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RZ9D3OQQ7Z5EY?ASIN=B08323WH88",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 28, 2023",
+                "reviewTitle": "5.0 out of 5 stars Love it",
+                "reviewText": "So comfortable and warm! I hate bulky coats and this one is toasty while still being light. I have full range of motion and it looks great! I am ALWAYS cold and it snows abundantly here, so this gets heavy use and yet has almost no visible wear over the two years I have owned it. I recently lost the original purchase, so I bought another of the same coat and I have no regrets. Fits great!",
+                "reviewVotes": "13 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cheryl L. Koval",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHAN4BCUKAZMB22EYRC3E6RURLHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1B703VIZ9LPIH?ASIN=B08323WH88",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 26, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love this jacket!!",
+                "reviewText": "This jacket is the perfect winter jacket the perfect fit and size I ordered a large the only thing wish there was inside pockets!! It is really warm I live in Northern Wisconsin on Lake Superior the omni heat is awesome!! Love the dark blue color too!! I highly recommend it!!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "kc",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFBRQBDF6GCSSPVEE6CNIM3PQXAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1EEDZEC0YVBEA?ASIN=B08323WH88",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 5, 2023",
+                "reviewTitle": "5.0 out of 5 stars Sleeves long enough for 5'10",
+                "reviewText": "It is super hard for me to find a coat that has sleeves that are long enough. I'm 5'10 ( 150lbs) with long arms and this is perfect. Nice design, very lightweight but warm. So happy I found this Jacket, now I have three of them . Easy to clean. Great for walking, shopping.. basically any event. Would definitely recommend. And runs true to size.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Joanne",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFPOY6V3ARXCKJRWO3ZQ7XV6LS6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1ZEGZTUGSILIR?ASIN=B08323WH88",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great coat",
+                "reviewText": "Comfortable and warm without the being bulky. Nice fit and like the length.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gina Olivarez",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AESTQZMYMY7KFH2SVRY4V2MHHDBA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R12FADUZ81NWLO?ASIN=B08323WH88",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 15, 2024",
+                "reviewTitle": "5.0 out of 5 stars Light weight but keeps you warm",
+                "reviewText": "Bought this for our daughter. She was skeptical when she saw it because the jacket is not bulky. She wore it with the temps in the mid 20s and with a decent windchill. She was surprised how warm it kept her. I will probably have to break down and buy one.The zippered pockets are a plus.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Liz",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGTZUWX6DIIU6GUFYCCB4PTYCCXA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R22CIX9SWLHZ0A?ASIN=B08323WH88",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 21, 2023",
+                "reviewTitle": "4.0 out of 5 stars Doesn\u2019t fit 3x with big hips",
+                "reviewText": "I really wanted this coat to work, but it was just too tight on my hips and butt. I wear 3x, 24 pants. Otherwise great quality and very warm while being light and thin.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tiffany givens",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEO2W5GSHCJQLGNF3RXN4N5WMSNA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1ZXGHRSZNRJFZ?ASIN=B08323WH88",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 14, 2024",
+                "reviewTitle": "5.0 out of 5 stars Warm and cozy",
+                "reviewText": "Perfect size but I do wish it had a hood on it. Other then that it\u2019s so warm and keeps the wind and cold out",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cory P",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHPPQLDAF3GPJCZY626MPIPCHQLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3U684S5K4GJRF?ASIN=B08323WH88",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great jacket!",
+                "reviewText": "Fits true to size and is very warm",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 10, 2024",
+                "reviewTitle": "Light but warm",
+                "reviewText": "I love the fit of this jacket",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kathy T.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on February 5, 2024",
+                "reviewTitle": "Great quality sizing an issue on this jacket",
+                "reviewText": "Columbia jacket is perfection, as usual, only I didn't know that 1x in plus size is the same size as xxl. I thought xxl was a size smaller than 1x. Its not. Its the same size for both.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Susan H",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "2.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 19, 2024",
+                "reviewTitle": "Size not accurate",
+                "reviewText": "Loved the jacket. But the jacket seemed that it was sized wrong. I own Columbia jackets and never experienced this before.I ordered XXL, felt like a L.Also had to pay to return this jacket\u2026. not happy about that!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jimena",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 10, 2024",
+                "reviewTitle": "Excelente compra",
+                "reviewText": "Original, calientita y ligera.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Godel",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 13, 2023",
+                "reviewTitle": "love this coat perfect so short jaunts and the car.",
+                "reviewText": "light very packable when shopping and surprisingly warm fir short periods outdoors in the winter. Love this coat",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

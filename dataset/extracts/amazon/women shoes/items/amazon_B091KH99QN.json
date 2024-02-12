@@ -1,0 +1,617 @@
+{
+    "remaining_requests": 17065,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/ASICS-Womens-Gel-Venture-Running-Shoes/dp/B091KH99QN",
+    "body": {
+        "name": "ASICS Women's Gel-Venture 8 Running Shoes",
+        "price": "$40.65 - $49.95",
+        "originalPrice": "",
+        "rawPrice": 40.65,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/ASICS-Womens-Gel-Venture-Running-Shoes/dp/B091HZFLKY",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B091HZFLKY"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09Q6LV2PS",
+                "variationName": "Color",
+                "variationValue": "Piedmont Grey/Metropolis",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rz7tPSoSL._SS47_.jpg"
+            },
+            {
+                "asin": "B091KHZFTB",
+                "variationName": "Color",
+                "variationValue": "Carrier Grey/Ginger Peach",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41c23hF+OiL._SS47_.jpg"
+            },
+            {
+                "asin": "B091KQ27P5",
+                "variationName": "Color",
+                "variationValue": "Black/Ivory",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wYBZcfeHL._SS47_.jpg"
+            },
+            {
+                "asin": "B099BZCJSY",
+                "variationName": "Color",
+                "variationValue": "Black/Clear Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Nri7iM8yL._SS47_.jpg"
+            },
+            {
+                "asin": "B091KHYTFD",
+                "variationName": "Color",
+                "variationValue": "Mako Blue/Pink Glo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51FzaAEigCL._SS47_.jpg"
+            },
+            {
+                "asin": "B0894161BX",
+                "variationName": "Color",
+                "variationValue": "Black/Baltic Jewel",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41M9C+clFZL._SS47_.jpg"
+            },
+            {
+                "asin": "B095SVV313",
+                "variationName": "Color",
+                "variationValue": "Deep Sea Teal/Blazing Coral",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414TjhhFYXL._SS47_.jpg"
+            },
+            {
+                "asin": "B09MGD4817",
+                "variationName": "Color",
+                "variationValue": "Piedmont Grey/Blazing Coral",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41AgGgwx-uL._SS47_.jpg"
+            },
+            {
+                "asin": "B09WBZNLXN",
+                "variationName": "Color",
+                "variationValue": "Midnight/Pure Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ISKUwGMwL._SS47_.jpg"
+            },
+            {
+                "asin": "B09MGD2547",
+                "variationName": "Color",
+                "variationValue": "Lapis Lazuli Blue/Pure Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NLx4JNABL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BXVDP2G6",
+                "variationName": "Color",
+                "variationValue": "Blue/Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41xMi2htckL._SS47_.jpg"
+            },
+            {
+                "asin": "B091KJK7JV",
+                "variationName": "Color",
+                "variationValue": "Mako Blue/Pink Glow",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51FzaAEigCL._SS47_.jpg"
+            },
+            {
+                "asin": "B091KJGBG3",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KJM3PB",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KHFPXV",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KJDPC6",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091L798GN",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B088N6WD41",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KHFMHB",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KH99QN",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KFTXKH",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KPPMPZ",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KHYTFD",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KPGKDQ",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09J1QW1SQ",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091L4Q816",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KLX83M",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B093QLK4M2",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KHBBKT",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KH8XCJ",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KH7QQD",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KFNYMM",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09Q76MQRZ",
+                "variationName": "Size",
+                "variationValue": "10.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KJKKPB",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B095KXQJCG",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091LCQTBN",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B091KDG14B",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/51xTW6JeWvL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51rtt7iL2UL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51UWYwnphlL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51j-QgRAvTL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41laoua0UeL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51mFRPPL dL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/412m9uCHlPL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the ASICS Store",
+            "link": "https://www.amazon.com/stores/ASICS/page/3D51EC88-4320-4F70-8CAF-9E7C77D723E2?ref_=ast_bln"
+        },
+        "brand": "ASICS",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 18048,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Outer material Faux Leather",
+            "Closure type Lace-Up",
+            "GEL Technology:",
+            "SYNTHETIC FIBER:",
+            "SYNTHETIC LEATHER:"
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Womens-Athletic-Shoes/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127771011"
+            },
+            {
+                "name": "Running",
+                "link": "https://www.amazon.com/Womens-Running-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679360011"
+            },
+            {
+                "name": "Road Running",
+                "link": "https://www.amazon.com/Womens-Road-Running-Shoes/b/ref=dp_bc_aui_C_6?ie=UTF8&node=14210388011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 10 x 15 x 6 inches; 1.47 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 1012B230.020"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e April 2, 2021"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Asics"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B091KJGBG3"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#540 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #4 in Women's Road Running Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 18,048 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "DURABLE UPPER CONSTRUCTION Synthetic overlays are stitched into the breathable mesh upper in strategic areas for added support and durability. EXCELLENT TRACTION This tread pattern is designed for consumers wearing them on concrete or trail surfaces. The outsole lugs have also been designed to help runners generate better traction on a trail\u2019s uphill and downhill sections. SHOCK ABSORPTION GEL technology is placed directly under the rearfoot for excellent shock absorption at the runner\u2019s point of impact.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b8219cd6-e45c-411e-b6e1-d94cc5588cac.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/515ba091-b552-4002-8747-04013931b9d5.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d48f03c-2c4a-48f2-b7fb-de148d316d75.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "SURFACE Trail HEEL DROP 10 mm WEIGHT 252 g/8.9 oz SUPPORT Neutral CUSHION Regular",
+                "media_link": []
+            },
+            {
+                "media_text": "UNDERPRONATION IS How Your Foot Contacts The Ground: The outside of the heel hits the ground at an increased angle with minimal pronation, causing shock to the lower leg. Push-Off: You experience pressure on your outer toes. Considered Injuries: Plantar fasciitis, shin splints, ankle strain. Foot Type: High arches. NEUTRAL FOOT TYPE IS How Your Foot Contacts The Ground: Your foot lands on the outside of the heel and then rolls inward, absorbing impact on the body. Push-Off: Your experience even distribution from the front of the foot. Considered Injuries: Getting hurt is less likely due to effective shock absorption, but not impossible. Foot Type: Normal-size arches. OVERPRONATION IS How Your Foot Contacts The Ground: Your foot lands on the outside of the heel and then rolls inward, transferring excess weight. Push-Off: Your experience pressure mainly on your big toe and second toe. Considered Injuries: Shin splints, plantar fasciitis, bunions, heel spurs. Foot Type: Low arches or flat feet.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/37ca7936-2304-4756-a718-0368252d375b.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1bbdb84a-8da3-4101-bc0b-19e6c5b9bf28.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a28237fa-9fb5-47be-ac95-84008cc600e5.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sc/b191ca8d-9d1b-4b26-9128-3224cd168939.__CR0,0,600,180_PT0_SX600_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1fc81949-962e-4a88-b377-f01e7234c21e.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b8219cd6-e45c-411e-b6e1-d94cc5588cac.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/515ba091-b552-4002-8747-04013931b9d5.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d48f03c-2c4a-48f2-b7fb-de148d316d75.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/37ca7936-2304-4756-a718-0368252d375b.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1bbdb84a-8da3-4101-bc0b-19e6c5b9bf28.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a28237fa-9fb5-47be-ac95-84008cc600e5.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Tarah GrayTarah Gray",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGUU55633RJ5I2MCR3PMQH622LRA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R37U7JTNM27GP3?ASIN=B091HZFLKY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 19, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good, comfortable, affordable",
+                "reviewText": "I am one happy girl. These shoes fit so nicely on my feet. No more foot sliding around in my shoes while walking. They are light and breathable. I can't believe these are such good quality for the price! Also I love the style.",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81y6ruiwCgL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Great Lakes Hunt & Fish",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG73OLT6GNRE4L33TYBBWNZ6VCAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2T1UHQ1DFSTBN?ASIN=B091HZFLKY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "5.0 out of 5 stars EVS Hospital Worker Approved",
+                "reviewText": "This is my 2nd pair of these comfortable great fitting shoes and I have to tell you being on my feet all day these make my life easier. Who wants sore feet at the end of the day right. Working in a fast paced hospital in Environmental Services I'm on the go in all kinds of conditions and these shoes are Devine. Knowing I have a dependable great quality shoe is important and these shoes can take a beating and remain rock solid. Comfort, fit and long lasting makes these my top pick I keep coming back to when I need to. Which is usually 2 pairs of shoes a year in my line of work. I highly recommend. You won't be sorry.",
+                "reviewVotes": "9 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Pandora",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEFURQDYKDBKGDWDAHVCWMOIY64A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R34PX5T3F1BG1?ASIN=B091HZFLKY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable & wide",
+                "reviewText": "These are really good looking! I ordered a wide & when I saw them I was bummed because they didn\u2019t look like they would fit. They do! The colors are outstanding. If much walking was planned you would need inserts as they\u2019re not very cushioned. I was looking for an everyday attractive shoe and these are perfect.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "DK",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AECPOAYJZDMNWU7MP4Z332L5ZAMQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2WZHELV86KH6P?ASIN=B091HZFLKY",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 13, 2023",
+                "reviewTitle": "4.0 out of 5 stars Runs a bit smaller than usual",
+                "reviewText": "I have been wearing this Asics venture model for many years now, this might be my 5th or 6th pair. I love the fit, the comfort, the design. This is the first time that the shoes fit a bit snug, however. I have always ordered size 9 and I have always felt that the sizing was true, until now. But... who knows... Maybe my feet are getting larger with age :) so far, I have worn them three or four in times walking my dog, and it does feel more normal now.",
+                "reviewVotes": "16 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Emily",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFD3I6XQSY2LROY3FU6KXOO7EUJQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R12RU8IWVC11A?ASIN=B091HZFLKY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 23, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfortable workout shoes",
+                "reviewText": "I really like these shoes, they do run a bit narrow, so I had to order them in wide vs regular. Overall I really like how comfortable they are and how durable they seem to be.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "L. Scott",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEGT6PNFW4BFCEBEW7T4WAZOEORA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R35RCG4AA74MFC?ASIN=B091HZFLKY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Shoe!",
+                "reviewText": "I love everything about these shoes, the style, color and comfort. Not to mention the affordability!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jan",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG2MGOAXHA2QAXZ5W7PKXMQSBD3Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RV4QZGOMFJ1YL?ASIN=B091HZFLKY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Fit well, wear well",
+                "reviewText": "I have been an Asics fan for many years and this sneaker fit my needs. Although they are a running shoe, I wear them inside at the gym for weight lifting and light cardio exercises. They have a very deep, grooved bottom so I'm sure they would work well if running through just about anything. I usually wear a 7-1/2 wide shoe, but these size 8s fit me well. They are very light and comfortable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Cheyla Stotler",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGLR2EQNVVU6GO7EDSWJNBC3SV7Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2LPCAEHWUVK0X?ASIN=B091HZFLKY",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "4.0 out of 5 stars Very nice shoes but had to return due to being narrow",
+                "reviewText": "There are supportive and comfortable ascics. I work on my feet and love the venture 8 style. However this particular pair are more narrow than my other venture 8s.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Adriana Tapia",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on October 21, 2023",
+                "reviewTitle": "C\u00f3modos",
+                "reviewText": "Excelente producto, c\u00f3modo, bonito, excelente precio.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "CS",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 17, 2023",
+                "reviewTitle": "Great quality and very comfortable",
+                "reviewText": "These shoes are true to size and great quality. The design is also nice. I am using these mostly for walking and the weight room and so far they are providing great support and holding up well.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "RoslynRoslyn",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 23, 2023",
+                "reviewTitle": "Great colour and fit.",
+                "reviewText": "Have been wearing ASICS for years, size 8Maybe my feet have grown (with age). Had to buy new and upsized to 8 1/2Perfect fit and comfortable use in gym and to walk outdoors. Love the bright colours",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71ySg15S55L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71le9tdNc7L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Armando H.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on September 2, 2022",
+                "reviewTitle": "Entregan lo que ofrecen en la pagina.",
+                "reviewText": "Misma marca y color que se ofrece en la publicaci\u00f3n.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "mnb",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on June 6, 2023",
+                "reviewTitle": "Viel zu klein",
+                "reviewText": "Kam super sp\u00e4t an, da aus den USA und eine R\u00fccksendung muss selbst gezahlt werden. Ich trage 39 und 39.5 war viel zu klein. Danke f\u00fcr nichts",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

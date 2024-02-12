@@ -1,0 +1,564 @@
+{
+    "remaining_requests": 15701,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Dr-Scholls-mens-Sync-Oxford/dp/B08BYYCPNF",
+    "body": {
+        "name": "Dr. Scholl's Shoes Men's Sync Oxford",
+        "price": "$65.00",
+        "originalPrice": "",
+        "rawPrice": 65.0,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Dr-Scholls-Shoes-Mens-Oxford/dp/B0CN37G5Z6",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CN37G5Z6"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0BJ4C6W1K",
+                "variationName": "Color",
+                "variationValue": "Brown/Brown Smooth",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310ZYRJPFhL._SS47_.jpg"
+            },
+            {
+                "asin": "B08BYYFXFZ",
+                "variationName": "Color",
+                "variationValue": "Dark Brown Fearless",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ESmWCuFdL._SS47_.jpg"
+            },
+            {
+                "asin": "B08BYZ4HXN",
+                "variationName": "Color",
+                "variationValue": "Black Fearless",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31cMPUVdulL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BJ4KX5P5",
+                "variationName": "Color",
+                "variationValue": "Dark Grey Gmooth",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31juueL6B3L._SS47_.jpg"
+            },
+            {
+                "asin": "B07TYHVRZZ",
+                "variationName": "Color",
+                "variationValue": "Dark Tan Smooth",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31S8k+6rA+L._SS47_.jpg"
+            },
+            {
+                "asin": "B07TXGGN5F",
+                "variationName": "Color",
+                "variationValue": "Black/Black Smooth",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31QagxjIuAL._SS47_.jpg"
+            },
+            {
+                "asin": "B005A417K8",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31edQl5wvGL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BJ498YVN",
+                "variationName": "Color",
+                "variationValue": "Black Fabric",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31rFAsaOFfL._SS47_.jpg"
+            },
+            {
+                "asin": "B07TRNYPTP",
+                "variationName": "Color",
+                "variationValue": "Grey Striped Wool",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ejEe7tDlL._SS47_.jpg"
+            },
+            {
+                "asin": "B07TS4S578",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TS4T92X",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TRNX199",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08BYZLQ7R",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TRNZCS4",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08BYXN3TW",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TV8Q5GN",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08BYXKD51",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TWCKYGH",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08BYYCPNF",
+                "variationName": "Size",
+                "variationValue": "10.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TYHVRZZ",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08BYY8G39",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TXGGN6V",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B001V938XU",
+                "variationName": "Size",
+                "variationValue": "11.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TWCN266",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08BYYZNK1",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07TWCMVT1",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08BYYGJMV",
+                "variationName": "Size",
+                "variationValue": "13 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09TX5SYBG",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08BYXNNR3",
+                "variationName": "Size",
+                "variationValue": "14 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09TX4YSZJ",
+                "variationName": "Size",
+                "variationValue": "15",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BJ3B8SXZ",
+                "variationName": "Size",
+                "variationValue": "15 Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31S8k 6rA L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41XiYg5exKL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41vloDJIMJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/21MB3v7DkAL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31hPi LNdAL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31XVmaWrhuL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51ZqY2tt8ML.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ed710678-ded9-41f6-b22d-c98bf31cd15d/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Dr. Scholl's Shoes Store",
+            "link": "https://www.amazon.com/stores/DrSchollsShoes/page/DFB74C4F-D68E-479C-A718-4FE24655071C?ref_=ast_bln"
+        },
+        "brand": "DrSchollsShoes",
+        "merchantInfo": "",
+        "customerReview": "4.3 out of 5 stars",
+        "customerReviewCount": 5292,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Synthetic",
+            "Care instructions Machine Wash",
+            "Origin Made in the USA or Imported",
+            "Sole material Synthetic",
+            "PROFESSIONALLY CRAFTED: Soft neoprene tongue & collar for comfortable fit to wear to the office or party",
+            "MATERIALS: Faux leather upper",
+            "FIT: Lace-up casual oxford for men offering a secure fit",
+            "STYLE: Lace-up casual oxford for men with plain round toe and a top-stitched midsole detail",
+            "SUSTAINABLE COMFORT: BE FREE Energy Technology insole with 3 distinct zones designed for maximum comfort: extra support under the toe, high-recovery foam at the ball of the foot, and dense foam cradling the heel",
+            "CONSCIOUSLY PACKAGED: This style is shipped in a box made with recyclable materials & soy-based inks"
+        ],
+        "description": "Amp up your everyday look in a versatile casual oxford for men that looks as good as it feels. Faux leather upper. Round toe work shoe with lace-up front with wax laces. Soft neoprene tongue & collar for comfortable fit. BE FREE Energy Technology insole with 3 distinct zones designed for maximum comfort: extra support under the toe, high-recovery foam at the ball of the foot, and dense foam cradling the heel. Flexible, durable sole.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/Mens-Shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679255011"
+            },
+            {
+                "name": "Oxfords",
+                "link": "https://www.amazon.com/Mens-Oxfords/b/ref=dp_bc_aui_C_4?ie=UTF8&node=679319011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 13.2 x 8.1 x 5.1 inches; 1.9 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e G4875S1210"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e October 13, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Dr. Scholl's Shoes"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0BJ4V9J6D"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#6,144 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #11 in Men's Oxfords"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.3 4.3 out of 5 stars 5,292 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Dr. Scholl's Sync Dr. Scholl's Sync Up Dr. Scholl's Sync Moc Dr. Scholl's Sync Up Chukka Dr. Scholl's Gerard Closure Lace Up Lace Up Slip On Lace Up Lace Up Silhouette Oxford Oxford Loafer Chukka Oxford",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed969ce3-93dc-458c-87a0-876238e9e3a9.__CR0,0,1940,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e923224f-1a8c-485f-a3d2-3dd4105890e2.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3b6a35e6-e56b-4648-8a37-ca96638b1811.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/892d0936-d675-49ca-b3e0-284f0545a359.__CR0,0,1940,1200_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/39f59218-ac93-44de-9f3c-5fc5e0a37b30.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eecf9081-710b-4933-a9c1-872f390ea3d4.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f532d464-f5ce-4d79-9206-fdaedc5d958c.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5f23fcad-d255-4804-a587-826a0fe2bd83.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7f938e3a-0b7f-4136-9ba6-61af30942659.__CR0,0,150,300_PT0_SX150_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "mas",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGALI6JY7OA3WEOXHN7KWBEETU3Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2O2J76O709197?ASIN=B0CN37G5Z6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice shoes",
+                "reviewText": "Just wore them for the first time today. They look better than expected, fit as expected and are very comfortable. Time will tell how they hold up...",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH5J4NTTMPSIF2YAC7CEKTBZDNIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2W5G12ZR2XIKT?ASIN=B0CN37G5Z6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 23, 2024",
+                "reviewTitle": "5.0 out of 5 stars Such a great pair of shoes",
+                "reviewText": "Great value, and great young look....yet comfortable. Husband loved these!!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Retail Rice",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF5DHNERZACWKZRQYF7G2V4BMUNA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2GPFHH0ILIB86?ASIN=B0CN37G5Z6",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 30, 2023",
+                "reviewTitle": "4.0 out of 5 stars Very stylish and comfortable",
+                "reviewText": "I work in a grocery store and found these shoes to be very comfortable from the second I tried them on. Usually a work shoe needs some breaking in but these shoes felt good from the second I put them on. They\u2019re stylish but wear and tear got to them after about 4-5 months, the bottom of the shoe separated from the toe area.",
+                "reviewVotes": "11 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lwillis200",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHO43OEB6O7WKRVNGBINOU5ZBK7Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R267P7DQQY7R1S?ASIN=B0CN37G5Z6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 21, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice shoes fit well!",
+                "reviewText": "I was pleased with these shoes as they provided both comfort and style. That\u2019s is to say they\u2019re not sneakers which is what I mostly wear these days. They\u2019re wide enough to fit my southern grown feet and still fit well enough to be on my feet for the day.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kevin EncisoKevin Enciso",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEVBX2FC34GUOBWEEXJLVU2NBFMQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1CMOUWZ58XAPU?ASIN=B0CN37G5Z6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 31, 2023",
+                "reviewTitle": "5.0 out of 5 stars 6 months is all it lasts",
+                "reviewText": "I work in IT so I don\u2019t even walk or move around that often and these lasted 6 months of light usage. Peeling at the seems and not worth it or even comfortable. Avoid at all costs",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61CDjIhlRrL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/715u36XVkKL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71Y7CA0N58L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71ZwhFhiXNL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Aaron HostetterAaron Hostetter",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGLPITXGMXDFPEETOCPVJQNYGHJA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1M6M5POI9JV7A?ASIN=B0CN37G5Z6",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 24, 2024",
+                "reviewTitle": "3.0 out of 5 stars Comfortable but not built to last",
+                "reviewText": "I have enjoyed wearing these shoes for work - nice look and comfortable on my feet. However, I am only 6 months in and the soles are already worn through, putting uncomfortable pressure on different parts of my foot. For me, having a Dr. Scholl\u2019s brand shoe was almost all for the sake of the support of the sole. I wish it would have held up longer.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61aFFViO9jL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFD5SBDKKFRHZM6ZRENIV6C7BWYQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1WY148LSNGR6G?ASIN=B0CN37G5Z6",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 20, 2024",
+                "reviewTitle": "5.0 out of 5 stars Shoes",
+                "reviewText": "Purchased for my husband for Christmas. Size 14 wide. He says they are very comfortable and really like the look of them for casual wear.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "J. Kang",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE3HSNPQWY7GYUVKLPU3MLFHXYHQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RQ5X5I7V54EFC?ASIN=B0CN37G5Z6",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 26, 2023",
+                "reviewTitle": "3.0 out of 5 stars Great shoes but horrible shoelaces",
+                "reviewText": "The shoes are fantastic and comfortable. However, the included shoelaces are way too long to use practically. If they included shoelaces of the right length, would be an easy 5 star product.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JAPV",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on July 29, 2023",
+                "reviewTitle": "Muy c\u00f3modos",
+                "reviewText": "Muy bonitos y c\u00f3modos",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "EFT",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 10, 2022",
+                "reviewTitle": "Doesn\u2019t hurt and non-slip",
+                "reviewText": "I\u2019m glad I found this pair of Oxford style shoe by Dr. Scholls brand. They are the first pair of dress shoe that doesn\u2019t hurt my feet while also having non-slip soles. They don\u2019t shine over the top and so they give a laid back look when I dress casual formal.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "G:A:",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on November 4, 2023",
+                "reviewTitle": "Made in China",
+                "reviewText": "Billig aussehender Chinaramsch",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "mr a warren",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on August 12, 2023",
+                "reviewTitle": "Comfort",
+                "reviewText": "I have arthritis in my feet and have been looking for comfortable shoes for years. These are absolutely perfect, cushioned and flexible.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Australia on December 3, 2023",
+                "reviewTitle": "Good deal",
+                "reviewText": "Very comfortable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,561 @@
+{
+    "remaining_requests": 16775,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Ryka-Womens-Impress-Walking-Sneaker/dp/B0B5L263C7",
+    "body": {
+        "name": "Ryka Women's Impress Walking Shoe Sneaker",
+        "price": "$34.99 - $74.99",
+        "originalPrice": "",
+        "rawPrice": 34.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Ryka-Womens-Impress-Walking-Sneaker/dp/B0B6672PRY",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0B6672PRY"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0B5KZ8Q3H",
+                "variationName": "Color",
+                "variationValue": "Blue Fog",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41uUnftVYsL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B5L2YG2N",
+                "variationName": "Color",
+                "variationValue": "Brilliant White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Pl+ePOKTL._SS47_.jpg"
+            },
+            {
+                "asin": "B0BLGYDNT2",
+                "variationName": "Color",
+                "variationValue": "Gardenia",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41aUGmLTY2L._SS47_.jpg"
+            },
+            {
+                "asin": "B0B5L188LJ",
+                "variationName": "Color",
+                "variationValue": "Paloma Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41tOvLK+4bL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B5L13ZZG",
+                "variationName": "Color",
+                "variationValue": "Navy Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XuswSPp7L._SS47_.jpg"
+            },
+            {
+                "asin": "B0B5L1J4RJ",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41dEmRpj7pL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B65TVZ9D",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B65TX5Z6",
+                "variationName": "Size",
+                "variationValue": "5.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5KZGC1V",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B65RKL8X",
+                "variationName": "Size",
+                "variationValue": "6 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5L1CGRN",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5L1TQ3D",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5L1CY13",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5KZPQP7",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5L1SSFY",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5L2356Y",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5L1J4RJ",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5KZMWRL",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5L263C7",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5L1GTNB",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5L2LH81",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5KYKYGN",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5L17DZH",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5L13F6R",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5L2KWSG",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5KZ3NF2",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5L1VTBM",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B5L17WVN",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B65S6V2Q",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B65TXYKQ",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41dEmRpj7pL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41DB94GVR9L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41HF9D5laBL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31FQJsDiwTL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31Z3uQnF1aL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31eKX3  qzL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41Onh9Y4wnL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Ryka Store",
+            "link": "https://www.amazon.com/stores/Ryk%C3%A4/page/2CB2C68D-4208-474C-BD27-240557C0DF20?ref_=ast_bln"
+        },
+        "brand": "Ryk\u00e4",
+        "merchantInfo": "",
+        "customerReview": "4.2 out of 5 stars",
+        "customerReviewCount": 390,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Sole material Polyurethane",
+            "Closure type Lace-Up",
+            "BEST FOR: High-performance fitness walking",
+            "MADE FOR WOMEN FIT: Designed for a woman\u2019s unique foot shape, muscle movement, and build with a narrower heel, roomier toe, and softer foot cushioning",
+            "MATERIALS: Breathable mesh with durable faux leather + Padded collar for extra cushioning",
+            "CLOSURE: Lace-up front for a secure fit + Pull tab for easy on/off",
+            "INSOLE: Memory Foam for all-day cushioning + Soft jersey lining"
+        ],
+        "description": "A walking sneaker that makes an impression. Step with strength in this cushioned lace-up sneaker. BEST FOR: High-performance fitness walking. PERFORMANCE TECH: Exceptional cushioning throughout for standout comfort. MADE FOR WOMEN FIT: Designed for a woman\u2019s unique foot shape, muscle movement, and build with a narrower heel, roomier toe, and softer foot cushioning. MATERIALS: Breathable mesh with durable faux leather + Padded collar for extra cushioning. CLOSURE: Lace-up front for a secure fit + Pull tab for easy on/off. INSOLE: Memory Foam for all-day cushioning + Soft jersey lining. MIDSOLE: Lightweight EVA for soft cushioning + Gel insert at the heel. OUTSOLE: Durable outsole with rubber at the heel and forefoot for extra traction. WEIGHT: 192 g/6.8 oz per shoe. HEEL-TO-TOE DROP: 7 mm.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/womens-shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679337011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Womens-Athletic-Shoes/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127771011"
+            },
+            {
+                "name": "Walking",
+                "link": "https://www.amazon.com/Womens-Athletic-Walking-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679377011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 11.97 x 8.9 x 4.76 inches; 1.37 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e I0548L1401"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 9, 2022"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Ryka"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0B65TPSJT"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#85,739 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #323 in Women's Walking Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.2 4.2 out of 5 stars 390 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "THIRTY YEARS AGO, WE TOOK A STAND AND DARED TO DO THINGS DIFFERENTLY. To give women athletic shoes engineered exclusively for us. We're talking shoes made specifically for a woman's unique foot shape, muscle movement and build, not just a sized down version of a man's shoe. (It's pretty powerful stuff.) We are a fearless tribe of women who want better. And we want it now.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/989d8d19-83e4-40ac-b59a-ddc5c2ff5516.__CR0,0,970,600_PT0_SX970_V1___.png"
+                ]
+            },
+            {
+                "media_text": "WHAT STARTED WITH A SHOE HAS BECOME A MANTRA UNITING WOMEN EVERYWHERE. A Made for Women movement, where our individuality is rightfully celebrated and actions speak louder than words. Because women deserve better. Better shoes, better rights, a better world. Our resolve is stronger than ever to create shoes that keep breaking the mold. Shoes that stand for change. We know the power of our female tribe. It's an unstoppable force that moves us with every step, every shoe. Because when women come together, we will change the world.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/517dce6f-0e52-460c-bd81-8c80abc3974b.__CR0,0,300,300_PT0_SX300_V1___.png"
+                ]
+            },
+            {
+                "media_text": "Feel the power of our signature Made for Women fit, designed for our unique foot shape, muscle movement and build. We call it our Made for Women IQ.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/f0335631-9b54-4987-9d3e-00ae469a74d7.__CR0,0,970,600_PT0_SX970_V1___.png"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sota/989d8d19-83e4-40ac-b59a-ddc5c2ff5516.__CR0,0,970,600_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/517dce6f-0e52-460c-bd81-8c80abc3974b.__CR0,0,300,300_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/20a30d16-2862-499c-b492-a2da0194234b.__CR0,0,970,300_PT0_SX970_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/f0335631-9b54-4987-9d3e-00ae469a74d7.__CR0,0,970,600_PT0_SX970_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "BaileyBailey",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE7NJIBZ33PRAIEETM6FKRSSI57A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3JXNAL7RA0PAE?ASIN=B0B6672PRY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars COMFORTABLE!",
+                "reviewText": "Having tried numerous manufacturers I was convinced there was no such thing as a comfortable walking shoe and began a quest to find a pair that felt good on my feet. My research led me to read numerous Amazon advertisements & reviews before deciding to order Rykas because they design shoes specifically for women\u2019s feet! The first pair looked great but felt too big on my feet. However, the next pair was a completely different style which Amazon had sent a, \u201cYou might like this\u201d message that exactly matched my search! They were discounted as a slighted used return but they looked comfortable & gorgeous! They fit perfectly & felt COMFORTABLE! The next day I wore them on our four mile hike and they felt great!The Ryka Impress was MY perfect match. The sizing was correct according to their measurement with enough room to add silicone arch pads under the insole if needed, have generous toe room to accommodate my \u201cDuck Feet\u201d, great stability & structure, no sliding forward or heal rubbing, soles have excellent grip on pavement, gravel or rock & the memory foam insoles are heavenly\ud83d\ude4fThank you Ryka & thank you Amazon",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71nl95ONU5L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "TiffanyTiffany",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFT7PUHN33NG753NLGIQ2LK2G6GQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1AU74F10QDMHQ?ASIN=B0B6672PRY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 25, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great shoes",
+                "reviewText": "I've bought three pairs of ryka shoes now and have loved them all. It's time I submit a review. They will be my go-to tennis shoe from here out unless quality changes. Perfect fit, great sole support, just the right amount of arch support. I wasn't too thrilled about the color but I bought them to wear to the gym, so I don't need to care about looks as much as function. These shoes are mostly white but also a slight pastel blue and pink which is cute. All of my pairs have held up well. Well worth the money.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/619VGZZ2T1L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61XHgmbrp8L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Twila Trumain",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHAY7WMYC3REDY3LMO7J6H5LUHZQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2O6M2ND0297C9?ASIN=B0B6672PRY",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 15, 2023",
+                "reviewTitle": "4.0 out of 5 stars Ryka is always a great shoe.",
+                "reviewText": "Love the light grey shade and color splashes. Fit is good -- I've owned so many over the years and they are always comfy for working out and walking. With this pair, I cannot use my orthotics because the footbeds aren't removable. That's just a bit annoying. Still a good value for the cost.",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEKAKFY7DF2VHTCNSVKFH6OB66LA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R255IL3I8SCSX8?ASIN=B0B6672PRY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 6, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfortable right out of the box, wide width sneakers",
+                "reviewText": "Very happy with my purchase! After trying countless \u201cwide width\u201d sneakers at stores and online, I finally found a pair that fits across the toe box. I got the 6 1/2 wide & they fit me perfectly. I wore them at home the day they were shipped to me & wore them on a 30 minute brisk walk this morning. They are true to size for me. AMAZED, no rubbing or blisters! I ordered the brilliant white and they\u2019re very pretty. Love finding a pair of shoes that don\u2019t make your feet look humongous, are a neon color, etc. I had also ordered another style of Rykas in 2 different sizes. However, they did not fit me well. I did the try before you buy, and find that\u2019s the way to go because shoes are so inconsistently sized anymore. This way, you don\u2019t have all those charges going in and out, confusing and annoying ha ha!",
+                "reviewVotes": "6 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Diane Stutting",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGZ5RZQ456PFFRKZLX2M6JUFPY7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R18FM4HBX6TP37?ASIN=B0B6672PRY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 23, 2024",
+                "reviewTitle": "5.0 out of 5 stars That the shoes are comfortable",
+                "reviewText": "Very good walking shoes",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "eenakide",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGHDRKKWUKZXOF3IRR7H7F5YVXAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2BVEU2UTG2M1G?ASIN=B0B6672PRY",
+                "reviewRating": "2.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 19, 2023",
+                "reviewTitle": "2.0 out of 5 stars Shoddy",
+                "reviewText": "I bought these shoes is April. It's now October and they're falling apart. Also, not as comfortable as the Devotion models. I don't like the heel drop. I used these sneakers specifically for walking., but found that my back hurt after walking in these. Won't buy this model again. I do like the Devotions for walking and they seem to hold up better",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Hannah Warlitner",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFUU5NLK6RT66QXEAC6QR7QVCORQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2D7C205U2F92R?ASIN=B0B6672PRY",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 22, 2023",
+                "reviewTitle": "3.0 out of 5 stars Cheap material, doesn\u2019t hold up well",
+                "reviewText": "I like the look of these shoes. They are comfortable. HOWEVER, I\u2019ve only had them for 3 months and the bottom and edges are shedding material; and the inside heel is peeling. For 70 bucks, they should hold up longer!! Very disappointed in the end.",
+                "reviewVotes": "8 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jessie Peto",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AECSUQ7FWZMLQKVK27EACUIQTULA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3DFW1NG7D31DG?ASIN=B0B6672PRY",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 30, 2023",
+                "reviewTitle": "1.0 out of 5 stars Very stif and hard.",
+                "reviewText": "As I see, I cannot trust the majority of the reviews. These shoes are not comfortable; they are very hard, it does not bend at all and after wearing for 15 minutes my toes start to hurt. I been wearing them with a very thick sucks and hoping to break in a little bit. It was my mistake for not have return earlier.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ari",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 15, 2024",
+                "reviewTitle": "Buenos para caminar",
+                "reviewText": "Llegaron en muy buen estado. El empaque fue apropiado. El tiempo de espera quiz\u00e1s podr\u00eda haber sido menor. Son muy c\u00f3modos y dejan espacio suficiente para los dedos de los pies. Me ha sorprendido que el material sea tan ligero, pero espero que no se rompan tan r\u00e1pido.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mina_Afshar",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 3, 2023",
+                "reviewTitle": "Very comfortable",
+                "reviewText": "I like these sneakers. It looks good and is very comfortable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "sweety",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 23, 2023",
+                "reviewTitle": "confort",
+                "reviewText": "Love RYKA shoes. They are confortable and provide great stability. I'm an elderly person so it was vital that I maintain my daily walking. These shoes are it for me.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jennifer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 31, 2023",
+                "reviewTitle": "Very comfy walking shoes",
+                "reviewText": "These are fantastic walking shoes. Very comfortable and lightweight. I ordered a 8.5W and they are a perfect fit. It\u2019s often challenging to find a wide running shoe so I was pleased to find these and see the good reviews. I walk a lot and would definitely buy these again!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sharon",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on July 30, 2023",
+                "reviewTitle": "Ryka Shoes",
+                "reviewText": "Just Love these shoes",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,595 @@
+{
+    "remaining_requests": 16426,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Hanes-Ecosmart-Fleece-Sweatshirt-Medium/dp/B01L8JJ840",
+    "body": {
+        "name": "Hanes Men's Ecosmart Fleece Sweatshirt, Cotton-blend Pullover, Crewneck Sweatshirt for Men, 1 Or 2 Pack Available",
+        "price": "$13.08 - $14.03",
+        "originalPrice": "",
+        "rawPrice": 13.08,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Hanes-Ecosmart-Sweatshirt-Cotton-blend-Available/dp/B0CLH53WVN",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CLH53WVN"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0C3WTQBWP",
+                "variationName": "Color",
+                "variationValue": "Army Brown - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41O6GZ6kALL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0723DT84C",
+                "variationName": "Color",
+                "variationValue": "Ash - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41lLrL1f4yL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01L8JJ5IE",
+                "variationName": "Color",
+                "variationValue": "Black - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Bvl6679ZL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00JUM15YO",
+                "variationName": "Color",
+                "variationValue": "Black - 2 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31JTrTh2HHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B092MZ6X28",
+                "variationName": "Color",
+                "variationValue": "Charcoal Heather - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41xgNF-WpJL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C4MFFWD4",
+                "variationName": "Color",
+                "variationValue": "Deep Forest - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/412buFDIFtL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BTMW27SH",
+                "variationName": "Color",
+                "variationValue": "Deep Red - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41KNqvwDPpL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C1TD3WDZ",
+                "variationName": "Color",
+                "variationValue": "Deep Royal - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415eJg0Hu4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C8VYNW9P",
+                "variationName": "Color",
+                "variationValue": "Denim Blue - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/412WDRQkydL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B072FS1DKT",
+                "variationName": "Color",
+                "variationValue": "Kelly Green - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Rdt1kWBEL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01L8JJIVI",
+                "variationName": "Color",
+                "variationValue": "Light Blue - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EGP+xQHJL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01L8JJIWM",
+                "variationName": "Color",
+                "variationValue": "Light Steel - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41fq+CUCZ9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00JUM1JIQ",
+                "variationName": "Color",
+                "variationValue": "Light Steel - 2 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/516sbBqpZrL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B073X3TD94",
+                "variationName": "Color",
+                "variationValue": "Maroon - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/419PoBNZYqL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01L8JJLKG",
+                "variationName": "Color",
+                "variationValue": "Navy - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41cuOT3zJgL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00JUM1DGY",
+                "variationName": "Color",
+                "variationValue": "Navy - 2 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Y6SKeUZaL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C4MZW4SG",
+                "variationName": "Color",
+                "variationValue": "Pale Pink - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31bRT3L1UWL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B073X24166",
+                "variationName": "Color",
+                "variationValue": "Purple - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41FzpsckOEL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B073X42F98",
+                "variationName": "Color",
+                "variationValue": "Safety Green - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41h4F9u0fhL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B073X344L5",
+                "variationName": "Color",
+                "variationValue": "Safety Orange - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41n0m87qCRL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B073X13PDC",
+                "variationName": "Color",
+                "variationValue": "Stonewashed Green - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sl-OUoz8L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B073X2NNNV",
+                "variationName": "Color",
+                "variationValue": "White - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31GMF6ApveL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00JUM2GF6",
+                "variationName": "Color",
+                "variationValue": "Deep Forest - 2 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XCSDKdvjL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00JUM21LU",
+                "variationName": "Color",
+                "variationValue": "Deep Red - 2 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Ic18LnS-L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00JUM27AK",
+                "variationName": "Color",
+                "variationValue": "Deep Royal - 2 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31BhRw8NdlL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CP8P3FH6",
+                "variationName": "Color",
+                "variationValue": "Cardinal - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wxqcVQVxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C8VHVWJY",
+                "variationName": "Color",
+                "variationValue": "Metallic Teal - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41U6hALNhHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0C8W59Y1J",
+                "variationName": "Color",
+                "variationValue": "Mulled Berry - 1 Pack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41q55UMsBvL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01L8JJ57K",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01L8JJ840",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01L8JJ57U",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01L8JJ5KC",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01L8JJ80E",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01L8JJ89A",
+                "variationName": "Size",
+                "variationValue": "3X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01L8JJ7YG",
+                "variationName": "Size",
+                "variationValue": "4X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01L8JJ5IE",
+                "variationName": "Size",
+                "variationValue": "5X-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41Bvl6679ZL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31LOsKwMPSL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31XBxmKUgkL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31FHFHgG9uL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51B9DNaqzIL.jpg"
+        ],
+        "imagesCount": 5,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Hanes Store",
+            "link": "https://www.amazon.com/stores/Hanes/page/F83022EC-A709-4B2F-BCB7-7BBFA1896AB0?ref_=ast_bln"
+        },
+        "brand": "Hanes",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 168908,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 80% Cotton, 20% Polyester",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Pull On",
+            "FLEECE TO FEEL GOOD ABOUT - Hanes EcoSmart midweight sweatshirt is made with cotton sourced from American farms.",
+            "CLASSIC SILHOUETTE - Basic crewneck sweatshirt shaping for that versatile look you love.",
+            "MADE TO LAST - Double-needle stitching at the neck and armholes adds extra quality and sturdiness.",
+            "STAYS SOFT - Thick, sturdy fleece stays warm and cozy.",
+            "CONVENIENT TEARAWAY TAGS - Say bye-bye to itchy tags.",
+            "COLD WATER WASH - Hanes recommends machine washing this sweatshirt cold water to reduce energy usage."
+        ],
+        "description": "Hanes\u00ae EcoSmart\u00ae men's fleece sweatshirt is sure to become your new go-to wardrobe staple. Soft and plush, this cozy pullover sweatshirt is made from a midweight blend featuring cotton sourced from American farms. A classic crewneck style, this pullover is sturdy and made to keep its plush comfort for a long time. The fleece design is built to hold its shape thanks to a ribbed crewneck, cuffs, and hem. Double-needle stitching at the neck and armholes further enhance the quality and sturdiness. Pair this Hanes crewneck sweatshirt with everything from jeans to sweats for a laid-back look.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Active",
+                "link": "https://www.amazon.com/Mens-Activewear/b/ref=dp_bc_aui_C_4?ie=UTF8&node=3455821"
+            },
+            {
+                "name": "Active Sweatshirts",
+                "link": "https://www.amazon.com/Mens-Sweatshirts/b/ref=dp_bc_aui_C_5?ie=UTF8&node=1045664"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 11.65 x 9.37 x 2.2 inches; 11.11 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e OP160"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e April 28, 2023"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Hanes"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0C3WT736B"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#3 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #1 in Men's Sweatshirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 168,908 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/89302f6f-78bf-49a0-b8d0-dbe1d7cdf3c7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/89302f6f-78bf-49a0-b8d0-dbe1d7cdf3c7.__CR0,600,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed0a9437-106d-45b3-a96b-27bba6531edf.__CR0,11,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e8964189-7233-4734-947e-3f33340f0c82.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4b754c2b-0c8c-4fc4-bf9e-0f00f03279a2.__CR0,11,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGJLRBA7OKDT36NFOS4TO5ZOPVMQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14MHG4KEURE9F?ASIN=B0CLH53WVN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great fitting shirt!",
+                "reviewText": "I got this shirt for my boyfriend for Christmas. He loved the color and the texture of the shirt. He\u2019s a size medium and I got the shirt in a size medium, it fit him perfectly. It\u2019s a little thin, it\u2019s more like a long sleeve shirt instead of a sweater. It\u2019s very soft and overall, the shirt is great. My boyfriend wants it in more colors!",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Emir",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH4DHX3TCBLCEP37IDSV62RCNLVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R363IPW83LLO7I?ASIN=B0CLH53WVN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "5.0 out of 5 stars Simple but stylish piece of clothing",
+                "reviewText": "I\u2019ve been trying to elevate my style a bit this year and these sweatshirts did the trick. They have a fairly loose fit but are extremely comfortable. Plus if you\u2019re a gym rat with some decent muscle mass they make great pump covers. Layer it with a nice jacket and add a necklace you like and boom, you have yourself a going out fit too. I liked these so much I bought them in 5 different colors.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kindle Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH4JRA43EUUEQZQM5Y5MQBN4MENQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2GLQP2QJKPM1X?ASIN=B0CLH53WVN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 13, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Value and Fit",
+                "reviewText": "The product arrived promptly and was well packaged.I have been wearing Hanes products for years, and I can assure you that they consistently deliver excellent results...The comfort and warmth are exceptional, making them a must-buy again.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Aiden Robertson",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGVNRKJIXGLAI66CFGNBD5QBR2EA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3K2D4Z3JJQNJ7?ASIN=B0CLH53WVN",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 30, 2023",
+                "reviewTitle": "4.0 out of 5 stars Comfortable but Prone to Pilling",
+                "reviewText": "The Hanes Crewneck is a comfortable and versatile piece of clothing. The fabric is soft, the fit is true to size, and the tagless design enhances the overall comfort. The range of available colors is also a plus.However, one issue I\u2019ve noticed is that the shirt tends to pill after a few washes. Pilling refers to the formation of small, fuzzy balls on the surface of the fabric. It\u2019s a common problem with many types of clothing, especially those made from synthetic fibers. While it doesn\u2019t affect the comfort or fit of the shirt, it can make it look worn out and old.Despite this, I still believe the Hanes Crewneck offers good value for the price. It\u2019s not perfect, but it\u2019s a reliable, everyday shirt. Just be prepared for some pilling after a few washes. If Hanes could address this issue, it would greatly enhance the longevity and appearance of their crewnecks.",
+                "reviewVotes": "8 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "N. HALL",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGAOD6EOZ2XEKEF2UF6VHNUC6Z4A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2SRPOS0OWTJNJ?ASIN=B0CLH53WVN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars Nice, casual, medium weight sweatshirt.",
+                "reviewText": "Hanes has been around for eons...I proudly wore their tighy-whities as a kid...and I'm sure may kids still do. I think this is the first garment I've owned by them that was NOT underwear...but I like it a lot. It's not too thck or heavy...but definitely not flimsy or thin. It's kind of in that Goldilocks weight for just casual, being a slug around the house...or maybe going for a jog if it's cool out (haha...I don't EVER jog...was talking about someone else). it's very soft insude...which I expect will \"pill up\" a little with several washings/dryings...but that's par for the course with sweatshirts. Being that it's a 50/50 blend, it didn't shrunk 2 sizes as 100% cotton garments often will...and I love that I CAN throw it in the dryer without worrying about that. Many a clothing item of mine has slipped past my noticing...and inadvertently gone into the dryer...and then were instantly retired for being too small. Don't get me wrong...this is not something that you're going to wear to that 3-Michelin-star restaurant you were going to propose to you girlfriend at (don't do it...>50% of marriages fail)...but it's perfect for the upcoming Super Bowl...or the like.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rachelle",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGQ5FUOP3Y6EVFCSASYWCQ66JE7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3CBVVCVM2CHOZ?ASIN=B0CLH53WVN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars I really like the texture",
+                "reviewText": "Got these shirts for work, one in 'deep red' and one in 'denim blue', to wear in colder weather. I usually wear sizes in the neighborhood of women's 2 - 3x, so I figured a men's 2x would do the trick. It fits very comfortably and did not appear to shrink at all after being washed. The sleeves are a touch long but that is alright. The feel of the fabric is very pleasant especially the inside of the shirt, which is very soft and cozy. I can be picky about fabric textures sometimes due to sensitivities, but this was nice enough that I almost didn't want to take it off. I'm quite happy with them, work said the blue I got wasn't quite the right shade (though they were happy with the red one) and while I suppose I could have returned it I liked it enough that I was happy to keep it for personal use. Very happy with my purchase. :)",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Christine",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHBN2XWNSU5E3ONMQKJGKTZVAR2A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2NAUYEPFTSHSY?ASIN=B0CLH53WVN",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 8, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great quality classic sweatshirt",
+                "reviewText": "Reminds me of fall days raking leaves with my father in the 90s. Classic sweatshirt, high quality, washes well. Soft on the inside.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "A.J.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG5WBXAYOTINO2BACU6XI2N674XQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R385K8YJS22CLP?ASIN=B0CLH53WVN",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 11, 2023",
+                "reviewTitle": "3.0 out of 5 stars Several things to be aware of",
+                "reviewText": "FOR REFERENCE: I bought 2 of the sweatshirts in Stonewash Green, sizes Medium and Large.My intent was to find something reasonably priced, warm, and comfy to wear - mainly so I could quickly put together a basic, casual, and decent looking outfit that was suitable to wear in public. I wanted a sweatshirt I could launder at least 15 times before it became too worn out looking to try to wear at a social event. Even after the appearance degraded, I still wanted the sweatshirt to remain warm, comfy, and in tact so I could wear it while lounging inside my home or during other situations that didn't require me to look quite as put together.I'm a female, 5'6 tall, about 115 lbs, 32C bra size, 26 inch waist, and 36.5 inch hips. I have slightly broader shoulders and a slightly longer torso than the average female of my size. I have a slender build.I wanted one sweatshirt to fit pretty loose (for layering and comfort) and another to have a trendy oversized looked.I definitely should have bought larger sizes, and I don't think these sweatshirts will hold up the way I had hoped.MAIN THOUGHTS: Overall quality is \"barely okay.\" (I guess it really depends on how you intend to use this sweatshirt and the pricing. You may find the quality to be acceptable... or very disappointing.) Shrinks a lot after just one wash - almost by a size and a half. Shrinkage is more drastic in the length of the body and sleeves, but also affects the width. Overall, does not launder well under \"normal conditions.\" You may have to be very careful to avoid any heat or abrasiveness to keep this sweatshirt looking its best for as long as possible. (Not worth the effort, IMO.) Stains show easily on this particular color and are surprisingly difficult to remove. Possible dye issues. The large sweatshirt came out with what appears to be bleached/faded spots on the bottom banding. (We don't use bleach or a lot of harsh chemicals in my home due to allergies and skin sensitivity issues. So, I'm not sure how this occured. No other clothing item came out of the laundry with the same problem.) Already noticed some slight pilling in spots. Barely noticeable now, but this is only after one laundry session. Sweatshirts aren't very warm, but they are comfortable (as long as you get the correct size).If you choose to buy this sweatshirt, I'd recommend you buy 1-2 sizes larger to account for shrinkage and to allow for layering. If you only plan to wear a thin tank top underneath, you probably don't need to size up too much. But if you plan to wear a long sleeve thermal underneath and still want a loose fit, I'd go up 2 sizes.MORE SPECIFIC DETAILS: This sweatshirt is between light-weight and mid-weight thickness. It's more suitable to wear during chilly/cooler days in the Fall or Spring. It's not enough to keep someone warm during very cold Winter weather without adding several layers underneath and on top.I wore both sweatshirts twice before washing them. Once with only a tank top underneath, and once with a thin long sleeve thermal underneath. Then I machine washed them in semi-warm water and dried them on medium heat (being careful not to leave them in the dryer more than necessary).BEFORE LAUNDERING: Both sweatshirts felt slightly rough (nothing really bothersome or too noticeable) and disappointingly thin. The color was as expected - a lovely muted, pale green. One sweatshirt arrived with excess threads hanging from the bottom. But I was able to safely cut them off without risk of anything unraveling. I liked the way both tops fit and draped. The sizes were as I hoped they would be. I accidentally spilled a cold, milky coffee drink on the smaller sweatshirt. I treated it with a pre-wash stain remover. Then threw both sweatshirts in the washer with a pair of jeans and no-lint sports towel (all similar colors as the sweatshirts).AFTER LAUNDERING: Both tops became softer and slightly fluffier after washing. This made them feel a bit thicker and warmer. Both were noticably smaller, though. The large top now fits similar to the way the medium used to fit. Except it's a tad bit shorter. Both tops no longer drape the way they did before I washed them. It's not a huge issue for me, though. The banding on both tops also shrank a bit. I no longer like the way the medium fits me. Prior to washing, the end of the sleeves reached halfway down my fingers. The sleeve cuffs were loose enough that I could have them drape that way, but just snug enough that I could pull them back around my wrists. Now the wrist cuffs sit snuggly around my wrists. When I reach for items above my head, the sleeves pull back a bit, exposing more of my wrists... and the waist hem rides up so that I have to yank it down when I drop my arms back down to my sides. (That's how badly the top shrank in length after just one wash!) The brown color from where I spilled my coffee on the medium top was gone, but there's still a visible stain. It just looks a couple shades darker than the sweatshirt color... like I spilled water on myself and it's starting to dry a bit. (I'm going to try a different stain remover and wash it again. Hopefully it works, otherwise this top will permanently look dirty.) As I already mentioned, the larger top had some pale pumkin-yellow spots on the lower banding - similar to what bleach spots would look like. I'm okay with the fit of the larger size sweatshirt even after it shrank. So, it's a shame that the color bled the way it did.Overall, I'm disappointed with my purchases. These are already going to be dedicated lounging and housework shirts. They are a bit warmer and very soft inside, which is nice. And nothing has unraveled, so it seems the stitching is good. I don't think these would be great for screen-printing, simply because of the amount of shrinkage and the fact that they're already showing signs of pilling in areas that don't get much friction.Hope this info helps. If anything, these aren't bad sweatshirts to have on hand to adapt to temperature fluctuations. They're stretchy, so they're easy to quickly throw on as an extra layer and take off as needed. Just be mindful they leave some lint behind on 100% cotton shirts. The lint problem will probably diminish after a few washes, though.",
+                "reviewVotes": "41 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "AcrAcr",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 7, 2024",
+                "reviewTitle": "Buen producto",
+                "reviewText": "Es de buena calidad muy suave por dentro y color uniforme, aun despues de lavado conserva la misma apariencia.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71F7TJ-NPlL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Maz",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 4, 2024",
+                "reviewTitle": "Perfect Blend of Style and Comfort",
+                "reviewText": "I recently snagged this vibrant orange crew neck and, honestly, it's been a game changer. The color's a real eye-catcher and the fit's just perfect for my build - not too tight, not too baggy. Super impressed with the fabric too; it's stayed soft even after a few washes, and it's cozy without being too heavy. Plus, it's roomy enough around my belly without looking oversized, which is a big win for me. It's held up great so far, no fading or stretching out of shape, and I'm seriously considering grabbing another in a different color.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "M.Malach",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 19, 2023",
+                "reviewTitle": "Excellent",
+                "reviewText": "Looks great, feels and fits great. I'm 5'7 and 160lbs. Large is perfect. Great price",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Peachy",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 12, 2023",
+                "reviewTitle": "Good fitting for larger men",
+                "reviewText": "They are well made, good colors , wash very well .Very satisfied",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gabriel",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on April 17, 2023",
+                "reviewTitle": "Buena calidad",
+                "reviewText": "Calidad y precio",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

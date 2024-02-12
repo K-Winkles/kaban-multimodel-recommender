@@ -1,0 +1,774 @@
+{
+    "remaining_requests": 15797,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Ariat-Mens-Flame-Resistant-Shale/dp/B00FP2YI74",
+    "body": {
+        "name": "ARIAT Men's Fr M4 Low Wise Boot Cut Jean",
+        "price": "$77.15 - $104.95",
+        "originalPrice": "",
+        "rawPrice": 77.15,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/ARIAT-Mens-Wise-Boot-Jean/dp/B0CKY5Q18D",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CKY5Q18D"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B00FP2Z5W6",
+                "variationName": "Color",
+                "variationValue": "Flint",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41aG3hLim9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00FP2YYXM",
+                "variationName": "Color",
+                "variationValue": "Shale",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4191ntTh3VL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B075FPY53W",
+                "variationName": "Color",
+                "variationValue": "Alloy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41kdTd7ZY0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00WI40GQE",
+                "variationName": "Color",
+                "variationValue": "Boundary Clay",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41EWdBv7wkS._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00WI4A2UO",
+                "variationName": "Color",
+                "variationValue": "Boundary Shale",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41aEWMZDBML._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B01DFWRFK2",
+                "variationName": "Color",
+                "variationValue": "Glacier",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41sbf+3P9hL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B00FP2YBVC",
+                "variationName": "Size",
+                "variationValue": "29W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2B24G",
+                "variationName": "Size",
+                "variationValue": "29W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2CJSE",
+                "variationName": "Size",
+                "variationValue": "29W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2Y48C",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YCWA",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YMQ6",
+                "variationName": "Size",
+                "variationValue": "30W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YWUC",
+                "variationName": "Size",
+                "variationValue": "30W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP27JWU",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YD7Y",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YN6U",
+                "variationName": "Size",
+                "variationValue": "31W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2Z41I",
+                "variationName": "Size",
+                "variationValue": "31W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2Y4XC",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YEN2",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YO6Y",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YYXM",
+                "variationName": "Size",
+                "variationValue": "32W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2ZA6C",
+                "variationName": "Size",
+                "variationValue": "32W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2Y64Y",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B075FS2YYS",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2BHVY",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YZFY",
+                "variationName": "Size",
+                "variationValue": "33W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2ZAIK",
+                "variationName": "Size",
+                "variationValue": "33W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP27TY8",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B075FTCKRP",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B075FSQ14D",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YZTK",
+                "variationName": "Size",
+                "variationValue": "34W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2ZS0U",
+                "variationName": "Size",
+                "variationValue": "34W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP27VG4",
+                "variationName": "Size",
+                "variationValue": "35W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YHKC",
+                "variationName": "Size",
+                "variationValue": "35W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YRAC",
+                "variationName": "Size",
+                "variationValue": "35W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2Z2TM",
+                "variationName": "Size",
+                "variationValue": "35W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07NPKRZ18",
+                "variationName": "Size",
+                "variationValue": "35W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2Y860",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YI74",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2BZ84",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2Z3WS",
+                "variationName": "Size",
+                "variationValue": "36W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2ZSDC",
+                "variationName": "Size",
+                "variationValue": "36W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2Y8TW",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YJ32",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YS8S",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2Z576",
+                "variationName": "Size",
+                "variationValue": "38W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07NP6FJY9",
+                "variationName": "Size",
+                "variationValue": "38W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP28Y4C",
+                "variationName": "Size",
+                "variationValue": "40W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YKC2",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2YUEU",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2Z7CE",
+                "variationName": "Size",
+                "variationValue": "40W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07NP872CH",
+                "variationName": "Size",
+                "variationValue": "40W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00WI3ZZ34",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2AVZ2",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00WI5L68K",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FP2Z8M8",
+                "variationName": "Size",
+                "variationValue": "42W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00LEX6NZI",
+                "variationName": "Size",
+                "variationValue": "42W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00LEX6J1G",
+                "variationName": "Size",
+                "variationValue": "44W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00LEX6JMK",
+                "variationName": "Size",
+                "variationValue": "44W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B075FV1RXP",
+                "variationName": "Size",
+                "variationValue": "44W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00LEX6P88",
+                "variationName": "Size",
+                "variationValue": "44W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07MF87ZT1",
+                "variationName": "Size",
+                "variationValue": "46W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07MP52XPY",
+                "variationName": "Size",
+                "variationValue": "46W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H5K9GBN",
+                "variationName": "Size",
+                "variationValue": "48W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07LD9LBP1",
+                "variationName": "Size",
+                "variationValue": "48W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H5KCT6S",
+                "variationName": "Size",
+                "variationValue": "48W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07CZ6DCNH",
+                "variationName": "Size",
+                "variationValue": "50W x 34L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/4191ntTh3VL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41Jc2YyvyrL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41sf9yzYWbL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41VdAf32N0L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51OXkeqw-tS.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61XvQppG5hL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41n9N3 Qy4L.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the ARIAT Store",
+            "link": "https://www.amazon.com/stores/Ariat/page/5C580235-0937-42C9-B857-0EF70D457602?ref_=ast_bln"
+        },
+        "brand": "Ariat",
+        "merchantInfo": "",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 1002,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "STACKABLE BOOT CUT: These bootcut jeans are relaxed through the waist, hip and thigh for the most comfortable fit, all day long; Show off your boots with the stackable design, creating a perfect over-the-boot silhouette with a great fit and unmatched comfort",
+            "PREMIUM FEATURES: These work jeans for men have no-rub comfort inseams that prevent abrasion against the skin; Other features include reinforced pockets with coin pocket feature, anchored belt loops, and heavy-duty zippers and hardware",
+            "GREAT GIFTS: Shopping for your husband or boyfriend shouldn't be difficult, and with these durable jeans from Ariat, it won't be; Perfect for work, outdoor or a night out, the hard-working man can wear these jeans for any occasion",
+            "MADE TO LAST: Made of a premium blend of cotton, the ring-spun denim gives these pants optimum durability; These jeans are made to last and create a western style statement that cowboys are known for",
+            "SCIENCE OF INNOVATION: Ariat excels in advanced technologies to deliver products that outperform in various conditions; Partnering with world-class biomechanical research groups and testing labs, Ariat strives to improve performance, comfort, and durability;"
+        ],
+        "description": "Jeans that can handle the heat. The 100% ring spun cotton denim is flame resistant and hrc 2 rated. They're dark washed with light hand sanding and tacking to give them a worn in look. Tailored with a lower-rise waist, straight leg opening and extra relaxed fit through the thigh. These jeans feature no-rub comfort inseams, extra deep front pockets and anchored belt loops. Apt 20, NFPA 70e, NFPA 2112 rated.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.5 x 8.5 x 4.3 inches; 1 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 10016174"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e October 7, 2013"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Ariat Men's Sportswear"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B00FP296M6"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#120,812 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #428 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 1,002 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Tough. Determined. Tested.",
+                "media_link": []
+            },
+            {
+                "media_text": "Explore Ariat Work Best-Sellers Groundbreaker 6\" Work Boot M4 Low Rise Boot Cut Jeans Fire Resistant Work Shirt Lace-Up Comfortability The lace-up design adds stability and security as you go about your day. Stackable Boot Cut This stackable design creates a perfect over-the-boot silhouette. Durability on the Job Built for all-day comfort and durability on the job. 4LR Technology Features Four Layer Rebound technology that provides optimum stability. Premium Features Designed with no-rub comfort inseams that prevent abrasion against the skin. Moisture Management Wicks away the sweat and keeps you dry and cool throughout the day. Versatile Traction Designed to wear at the construction site, warehouse, or during farm work. Made to Last Ring-spun denim gives these pants optimum durability, made with premium cotton. Fire Resistant FR Durable soft twill that is comfortable against your skin.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/427771a0-54e1-4f04-a46b-fd0e7a1b9b45.__CR0,0,300,225_PT0_SX300_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/52e91847-566b-4412-affa-690d50fccab6.__CR0,0,300,225_PT0_SX300_V1___.png",
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/765db74e-7eaf-4441-a07e-9989b6d9a823.__CR0,0,300,225_PT0_SX300_V1___.png"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7d54ea0f-5ac3-4f78-9773-28720db539b8.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e664b9e8-a8c9-45ab-a65f-6aa1cbc1557a.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/50604c53-03f8-4d7d-828d-088e8a027780.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/427771a0-54e1-4f04-a46b-fd0e7a1b9b45.__CR0,0,300,225_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/52e91847-566b-4412-affa-690d50fccab6.__CR0,0,300,225_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/765db74e-7eaf-4441-a07e-9989b6d9a823.__CR0,0,300,225_PT0_SX300_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGGAYXLJOR7VPG5Z3FDCAXRRRPFQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1K8CV3DNBPDQ2?ASIN=B0CKY5Q18D",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 2, 2022",
+                "reviewTitle": "5.0 out of 5 stars Perfect. As tough as a Lineman!",
+                "reviewText": "This style, Ariat FR jeans are durable, and fit comfortably. No belt needed, to get in the way. Perfect for climbing and building/repairing utility poles!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Matthew Quinn",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHCPIJJYHIGT7STJQLS322QCEOIA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3GNWX8C5BPZSF?ASIN=B0CKY5Q18D",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 5, 2021",
+                "reviewTitle": "5.0 out of 5 stars Solid pair of pants",
+                "reviewText": "Fit well and the price and too bad.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Christine Harris",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFFUIC4YAGDJ7TGZPO2VPBW3KLWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R13DIWN7SWIMFS?ASIN=B0CKY5Q18D",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 30, 2022",
+                "reviewTitle": "5.0 out of 5 stars Purchased for by husband for work.",
+                "reviewText": "He said they are very comfortable",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "John Franson",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGSDOKGFM5LP2ET66KM27AFQM2OQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RU375RITLQ1JI?ASIN=B0CKY5Q18D",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 26, 2022",
+                "reviewTitle": "4.0 out of 5 stars Work pants",
+                "reviewText": "These jeans fit as expected. Comfortable! Not too much stretch which is what they were purchased for.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nicholas Soileau",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEBBUKWPO3EAARZSLVNVYECKZSRA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3LERLOOLU9AZO?ASIN=B0CKY5Q18D",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 9, 2022",
+                "reviewTitle": "5.0 out of 5 stars Awesome product",
+                "reviewText": "Great pair of jeans! It may cost more but I've always gotten beyond my money's worth out of a pair of ariats!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Madeline Nunnery",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHN7GUQZTFJGNIVNUBGOWL4JIHIA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RTLUZL5OF20AV?ASIN=B0CKY5Q18D",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 25, 2021",
+                "reviewTitle": "5.0 out of 5 stars Husband says best jean ever!",
+                "reviewText": "These are my husbands favorite jean! Waist size & length are perfect. They have the perfect amount of stretch too!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Hubbs",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFIZZRIPEMZPOOW4OFHOK77M6EAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1RA2VSQ09RJ2N?ASIN=B0CKY5Q18D",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 11, 2020",
+                "reviewTitle": "5.0 out of 5 stars Great jeans.",
+                "reviewText": "These are NOT the DuraStretch. It took me 5 different purchases to figure out which jeans I like... Read the description. 100% cotton are standard Jean's with no stretch. 98% cotton and 2% lycra is the only way to tell the difference. Don't get me wrong, I love them both, but the stretchy jeans are much better for flexibility and work.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "R BR B",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHVSET7TCIL26QJ7IGMJKX7QPWYQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RNIW87DP18WZ6?ASIN=B0CKY5Q18D",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 11, 2016",
+                "reviewTitle": "3.0 out of 5 stars Great office jeans but work jeans not so much.",
+                "reviewText": "First the good: These jeans fit great I like how they fit low on the hips, and the length is perfect. Very stylish, bordering on designer looking jeans. By far coolest looking FR jeans you will find. Even with Under Armor 4.0's on they still fit great. The boot cut is perfect and they fit over my Arctic ST Muck boots perfectly. When you are not wearing boots they don't feel too baggy. Pockets are good depth and the 5th pocket size is perfect as well. The jeans release oil and other shop stains easily, always look good after coming out of the wash.Now the bad: First if you have a desk or management job that requires you to wear FR clothing then these should be perfect for you. However, if you turn wrenches or, are out in the field these jeans will just not hold up. Even when treating these like designer jeans \"washing inside out, on delicate, tap cold\" they still seem to fade quickly. Using a front loader washing machine seems to have extended the life a bit. The stitching spacing looks cool but it's gaped to far and does not hold the seams together like it should. The fabric wears out very quickly especially in the knees, upper thighs and the fly. I carry a PD35 Fenix in my right pocket and it has eaten these jeans for lunch. I have two year old Carhartt's that don't show any signs of damage from carrying my flashlight.By far the most comfortable FR jeans out there. Carhartt jeans are more durable without a doubt, but their cut is always either to baggy or to tight. If you have an office job that requires FR jeans then buy these. If you work in the shop or, in the field you might want to stick with your current FR jeans or just buy two pairs of these jeans. The price of these jeans seems to have gone up by 20 to 40 dollars over the past six months.",
+                "reviewVotes": "12 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/61OlSRTM20L.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/61ZVn4E0GRL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/I/61xs1LRiRhL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 11, 2021",
+                "reviewTitle": "Good work jeans",
+                "reviewText": "Good work pants, thick, tough.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "AOates",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "2.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on June 22, 2023",
+                "reviewTitle": "Good denim, bad stitching",
+                "reviewText": "The denim was good quality, but the stitching was not good and the jeans were returned immediately.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Enrique",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 11, 2019",
+                "reviewTitle": "Muy diferente al mostrado",
+                "reviewText": "Muy diferente (muy grande ) al mostrado, de cintura es 31 pero lo dem\u00e1s es como un 40",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sean",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on June 19, 2018",
+                "reviewTitle": "Four Stars",
+                "reviewText": "Jeans fit a little big but the service and quality is a 5 star",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Martin",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Australia on January 21, 2023",
+                "reviewTitle": "Perfect",
+                "reviewText": "Fitted as expected. Well made, good product.\ud83d\ude01",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,740 @@
+{
+    "remaining_requests": 15524,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Venum-Elite-Boxing-Shoes-White/dp/B0BYFGM2L6",
+    "body": {
+        "name": "Venum Elite Boxing Shoes",
+        "price": "$120.00 - $160.00",
+        "originalPrice": "",
+        "rawPrice": 120.0,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Venum-VENUM-03681-P-Elite-Boxing-Shoes/dp/B0CK547YJ5",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CK547YJ5"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09VQ2BK6T",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41mnivk1K2L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CJ9X12DC",
+                "variationName": "Color",
+                "variationValue": "Black/Beige",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31-tRnsf-dL._SS36_.jpg"
+            },
+            {
+                "asin": "B09RG68P1C",
+                "variationName": "Color",
+                "variationValue": "Black/Bronze",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31B0+im26tL._SS36_.jpg"
+            },
+            {
+                "asin": "B09VPYSJDD",
+                "variationName": "Color",
+                "variationValue": "Black/Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/410vxBB35FL._SS36_.jpg"
+            },
+            {
+                "asin": "B09VQ4C9GX",
+                "variationName": "Color",
+                "variationValue": "Black/Burgundy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qWHbawP9L._SS36_.jpg"
+            },
+            {
+                "asin": "B0CJ9VFXNZ",
+                "variationName": "Color",
+                "variationValue": "Black/Grey/Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31a2dY4c3wL._SS36_.jpg"
+            },
+            {
+                "asin": "B09VQKGY12",
+                "variationName": "Color",
+                "variationValue": "Black/Navy Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51WHjaXGVCL._SS36_.jpg"
+            },
+            {
+                "asin": "B07KXC56YM",
+                "variationName": "Color",
+                "variationValue": "Black/Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Is50ILQYL._SS36_.jpg"
+            },
+            {
+                "asin": "B07Q13539Z",
+                "variationName": "Color",
+                "variationValue": "Black/Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41+2LXjmzUL._SS36_.jpg"
+            },
+            {
+                "asin": "B07KXN3STX",
+                "variationName": "Color",
+                "variationValue": "Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414FGGsVTzL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CJ9VHRRD",
+                "variationName": "Color",
+                "variationValue": "Black/White-gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31a2dY4c3wL._SS36_.jpg"
+            },
+            {
+                "asin": "B09JL5D5BS",
+                "variationName": "Color",
+                "variationValue": "Dark Camo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41TV2WtR2WL._SS36_.jpg"
+            },
+            {
+                "asin": "B09RG68M5H",
+                "variationName": "Color",
+                "variationValue": "Khaki",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41CPXyW5wwL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CJ9Y2R1M",
+                "variationName": "Color",
+                "variationValue": "Navy/Black/Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31VLrRZ+aQL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BYFGD26W",
+                "variationName": "Color",
+                "variationValue": "White/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41urJMmJpSL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CJ9W79Z1",
+                "variationName": "Color",
+                "variationValue": "White/Black-gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31HXv6tNdqL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZWXLBPJ",
+                "variationName": "Color",
+                "variationValue": "White/Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41tFYP8VUFL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BYFCF9VN",
+                "variationName": "Color",
+                "variationValue": "White/Gold",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31v2quwNn3L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BZX121ZJ",
+                "variationName": "Color",
+                "variationValue": "White/Off-white",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312X2LBW+tL._SS36_.jpg"
+            },
+            {
+                "asin": "B09VQ3V634",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VPZBNCN",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VQ25LC5",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VPXG3H4",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VQ13HWC",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VPZBBGR",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VPZYW2D",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VQ2BK6T",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VQ4CK6X",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VQ4891Q",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VPYSJDD",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFGM2L6",
+                "variationName": "Size",
+                "variationValue": "10 Men/11.5 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFGZP87",
+                "variationName": "Size",
+                "variationValue": "10.5 Men/ 12 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFG77WB",
+                "variationName": "Size",
+                "variationValue": "11 Men/12.5 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFF1MGC",
+                "variationName": "Size",
+                "variationValue": "11.5 Men/13 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFHZM8V",
+                "variationName": "Size",
+                "variationValue": "12 Men/13.5 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFBFGPL",
+                "variationName": "Size",
+                "variationValue": "12.5 Men/14 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFGD26W",
+                "variationName": "Size",
+                "variationValue": "13 Men/14.5 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFBHHSK",
+                "variationName": "Size",
+                "variationValue": "13.5 Men/ 15 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFFL2T2",
+                "variationName": "Size",
+                "variationValue": "14 Men/15.5 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFCFGJG",
+                "variationName": "Size",
+                "variationValue": "4.5 Men/6 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFSTVG6",
+                "variationName": "Size",
+                "variationValue": "5 Men/6.5 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFF4KZ5",
+                "variationName": "Size",
+                "variationValue": "5.5 Men/7 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFCV129",
+                "variationName": "Size",
+                "variationValue": "6 Men/7.5 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFCP79W",
+                "variationName": "Size",
+                "variationValue": "6.5 Men/8 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFJT8SD",
+                "variationName": "Size",
+                "variationValue": "7 Men/ 8.5 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFD2Y37",
+                "variationName": "Size",
+                "variationValue": "7.5 Men/9 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFFP1G2",
+                "variationName": "Size",
+                "variationValue": "8 Men/9.5 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFBFPZY",
+                "variationName": "Size",
+                "variationValue": "8.5 Men/ 10 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFFJ3VX",
+                "variationName": "Size",
+                "variationValue": "9 Men/10.5 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BYFGQZWG",
+                "variationName": "Size",
+                "variationValue": "9.5 Men/11 Women",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09VQ5L3DF",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41urJMmJpSL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/416Y0LXwFyL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41gD3vmmULL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41QlUnMgZGL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41jk6iq4KLL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/416kBg3-RCL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41o7TplY7EL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/89620f9a-0429-4cbd-bdc1-8ddacb4e725d/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Venum Store",
+            "link": "https://www.amazon.com/stores/VENUM/page/155812D6-6666-41F8-8514-A79A9DC0F608?ref_=ast_bln"
+        },
+        "brand": "VENUM",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 525,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Rubber outsole: increased grip, durability and stability",
+            "Optimized comfort with anatomical designed insole",
+            "Bonded insole to prevent slipping",
+            "IMPORTANT: fit will be a half size larger than standard US sizing. If you are normally a US size 10, you should order a size 9. 5"
+        ],
+        "description": "The Elite boxing shoes are the result of strategic research, development and collaboration between our product engineers and #TeamVenum boxing champions.Battle tested in training and live bouts, VENUM fighters Jorge Linares, Miguel Berchelt, and Juan Francisco Estrada have had the privilege of experiencing the support, stability and grip of the Venum Elite boxing shoe. Our goal was not to offer \u2018just\u2019 another boxing shoe, but the best product available on the market. The sole was one of the most intricate components to develop. Whilst necessary to combine characteristics such as lightness, strength, stability and grip, it had to provide explosive support to allow a boxer to move very quickly in any direction. Whilst including these dynamic qualities, the Venum boxing shoe had to offer comfort and protection to the wearer. The insole was designed to perfectly fit the plantar arch of the foot, without being too bulky or uncomfortable. Despite being a shoe optimized for the attacker, the Venum Elite allows the wearer to manage the distance thanks to the excellent lateral ankle support provided by its mid-cut silhouette. Defensive manoeuvres are handled with ease. To maximize comfort, the \u201dHoneycomb\u201d mesh enables the foot to breathe during the most intense workouts, whilst being incredibly resistant and increasing the longevity of the shoe. Although performance was at the heart of the design, being a Venum product, style and design have not been forgotten.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/Mens-Shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679255011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Mens-Sneakers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127770011"
+            },
+            {
+                "name": "Wrestling",
+                "link": "https://www.amazon.com/Mens-Wrestling-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679305011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Item Package Dimensions L x W x H",
+                "value": "\u200e12.48 x 11.3 x 4.53 inches"
+            },
+            {
+                "name": "Package Weight",
+                "value": "\u200e0.88 Kilograms"
+            },
+            {
+                "name": "Brand Name",
+                "value": "\u200eVenum"
+            },
+            {
+                "name": "Warranty Description",
+                "value": "\u200e30 day warranty"
+            },
+            {
+                "name": "Model Name",
+                "value": "\u200eVenum \"Elite\" Boxing Shoes"
+            },
+            {
+                "name": "Color",
+                "value": "\u200eBlack"
+            },
+            {
+                "name": "Material",
+                "value": "\u200ePolyurethane"
+            },
+            {
+                "name": "Suggested Users",
+                "value": "\u200eunisex-adult"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "\u200eVenum"
+            },
+            {
+                "name": "Part Number",
+                "value": "\u200eVENUM-03681"
+            },
+            {
+                "name": "Style",
+                "value": "\u200eVenum \"Elite\" Boxing Shoes"
+            },
+            {
+                "name": "Included Components",
+                "value": "\u200eBoxing shoes"
+            },
+            {
+                "name": "Outer Material",
+                "value": "\u200eRubber, Mesh"
+            },
+            {
+                "name": "Size",
+                "value": "\u200e6"
+            },
+            {
+                "name": "Sport Type",
+                "value": "\u200eTraining"
+            },
+            {
+                "name": "ASIN",
+                "value": "B09VQ3V634"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 525 ratings 4.4 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#31,810 in Sports & Outdoors (See Top 100 in Sports & Outdoors) #17 in Men's Wrestling Shoes #206 in Wrestling Equipment"
+            },
+            {
+                "name": "Date First Available",
+                "value": "March 16, 2022"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Venum Elite Boxing Shoes The Venum Elite Boxing Shoe offers the perfect balance between stability on the canvas and lightweight mobility. An excellent choice for regular training and competition, the superior construction of the Venum Elite Boxing Shoe was developed and refined through feedback from professional fighters. A true attacker\u2019s shoe, the Venum Elite allows you to maneuver out of precarious positions thanks to the support offered by the lightweight mid-cut upper. Meanwhile, the shoes\u2019 \"honeycomb\" mesh allows the foot to breathe during even the most intense workouts, providing a comfortable and long-lasting footwear option for fighters. Key benefits: Lateral reinforcements and exceptional grip on the outsole provide superior support and control. A flatter insole provides further stability throughout the shoe. Lightweight mid-cut upper for optimal support Honeycomb mesh upper for breathability Suitable for all levels of boxer.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/51b5ec40-5c35-4bb2-8498-1fe4e52c7387.__CR0,0,1277,1277_PT0_SX300_V1___.png"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ca0d96fe-6530-4866-affd-5c4061873f8f.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/51b5ec40-5c35-4bb2-8498-1fe4e52c7387.__CR0,0,1277,1277_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03c1e739-c6f3-4611-af5d-137268303753.__CR0,12,970,600_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c80bfa55-9371-46e4-bba9-5d0def38f687.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Kelsey",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGZAXXW2TCOE3ZA6DGTZJEFGBZYQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1JRI4RL8XKK7L?ASIN=B0CK547YJ5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars It was great, but the sizing...",
+                "reviewText": "I had to return it 2 times. I purchased smaller than my shoe size as advised but it was wrong... In the end I got my regular shoe size and it finally fit as expected. Great shoes, perfect for pivots, weaves and slips.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "UplateagainUplateagain",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGXLHSMDYWGWMO64TNRAQ7JZB2TQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RV202TUG62D4A?ASIN=B0CK547YJ5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 18, 2023",
+                "reviewTitle": "5.0 out of 5 stars High quality!",
+                "reviewText": "I\u2019ve been boxing for a little while now and decided to leave the wrestling shoes and the cheep gloves behind. Spoke to a lot of fighters and decided to get Venum boots. It was a big jump in cost for me the wrestling shoes were only $60. So worth the jump up!!!!Super well made and so much more ankle support. Something I had no idea I was missing was the glide a real boxing show allows. These boots glide and grip hard when you throw your punch. The wrestling shoes grip constantly.Get these boots! Your able to move your feet faster and more natural. Trust me it\u2019s noticeable! As soon as the weight transfers all the grip you want and need is right there.",
+                "reviewVotes": "13 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71azIqhsYUL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71c0KA1DuLL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71gYdsxgwOL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Arnold D. Moon",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHZ3AZV5L53HRANEDUOJBO5EGIOQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RGWG4AR99SKYR?ASIN=B0CK547YJ5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 26, 2023",
+                "reviewTitle": "5.0 out of 5 stars Lots of compliments",
+                "reviewText": "I\u2019m new to training but everyone in my class complimented me on these shoes. They fit well but I guess they still need to be broken in since I can\u2019t pivot well in them yet. Not sure how long that is supposed to take so I won\u2019t take a star off for that.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "slickrick",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFCQY7Q6F55TKXGK6F7GAP4YSQFQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3R8N4GYM9K5WT?ASIN=B0CK547YJ5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 13, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great shoes",
+                "reviewText": "Bought for my cousin she loves the look and the fit as she uses it for gym",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jimmy",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AED2YOEEYLSVM36IEWHDRHCOJ73A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R31GM4YK41TFE5?ASIN=B0CK547YJ5",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 2, 2023",
+                "reviewTitle": "4.0 out of 5 stars Got these on a great sale\u2026",
+                "reviewText": "but to be quite honest, I\u2019m not a fan. They don\u2019t have sufficient cushion on the bottom and felt a bit small. There is definitely a break in period. I found my Everlast and Rival to be much more comfortable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Tyhir",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGHZVFAJDDGKKJ2DSQR4OA6Y2JAA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3SFYBKTGCWNQJ?ASIN=B0CK547YJ5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 7, 2022",
+                "reviewTitle": "5.0 out of 5 stars Stylish",
+                "reviewText": "They hold up pretty good it\u2019s been 3 months of almost daily abuse and still looking good. Gets plenty of compliments also",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Bryce",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFUFUQMFPZ7JKYB5BN4X427OIURA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3TKHMP5EQ288X?ASIN=B0CK547YJ5",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 21, 2023",
+                "reviewTitle": "1.0 out of 5 stars Venum DOESNT honor warranty on products bought through Amazon!",
+                "reviewText": "Only reason for 1 star is the refusal of customer service. Wore these 10 times and the sole started to break. It was a manufacturing defect in the stitching.I contacted Venum. They told me they couldn\u2019t honor any warranty because I didn\u2019t buy them through the official website. I only ordered on Amazon because they have basically no inventory on the website. So basically Venum doesn\u2019t stand behind their shoes. AVOID! Go with Adidas or Nike because they stand behind their product.I had Nike soccer cleats awhile back and they honored the warranty 1 year later !",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Janae",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGDCAACRYRZXAPB2LV7OX7N53HCA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R30WR8CE44UTCP?ASIN=B0CK547YJ5",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 4, 2022",
+                "reviewTitle": "5.0 out of 5 stars Black and Bronze Women Size 8",
+                "reviewText": "Ordered a size 7 as these are in mens sizes and I wear an 8 in women. Originally ordered a 6.5 and had to return. Absolutely love the look and the comfort in the boxing gym. They seem like great quality but I\u2019ve only worn twice.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Luis A.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on December 2, 2023",
+                "reviewTitle": "Excelentes botas",
+                "reviewText": "Mi sobrino pelea amateur y se ve como un profesional con estas botas. De verdad son muy especiales y tienen muy buen dise\u00f1o, agarre y son de excelente material, valen cad centavo que se paga por ellas.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rocko",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on August 10, 2023",
+                "reviewTitle": "Excelente !",
+                "reviewText": "Excelente bota. El dise\u00f1o est\u00e1 padr\u00edsimo y es muy c\u00f3moda para los pivotes. Aparte da buen soporte al tobillo y son muy ligeros. Me encantaron para mis sparings.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Crystal",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on July 4, 2023",
+                "reviewTitle": "Fit true to size",
+                "reviewText": "I ordered a size 7 ( said Adult) I have a wide foot for a woman and these fit perfectly and would fit if you had a narrow foot as well. Great arch support also.. 100% satisfied",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Johan Gromaire Johan Gromaire ",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in France on January 27, 2023",
+                "reviewTitle": "Le produit ne correspond pas \u00e0 l\u2019annonce !",
+                "reviewText": "Ma fille est d\u00e9\u00e7ue, l\u2019article ne correspond pas \u00e0 l\u2019annonce !",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71WoF8IqMJL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/718FQGJ776L.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "The KaiserThe Kaiser",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in India on December 29, 2021",
+                "reviewTitle": "Best Boxing Shoes I\u2019ve used",
+                "reviewText": "They\u2019re great but rarely available unfortunately.Sole- Firmly attached rubber with a very firm grip. Better for generating power punches and quick direction changes with footwork.Cushioning- Very little, but your feet can\u2019t slip. I added a silicone gel insole to reduce blistering.Ankle support- GoodLaces- Should be longer imo, but I\u2019ve thought that about every pair of boxing shoes I\u2019ve used. Even 180cm laces feel short on these but I can\u2019t find laces longer than that in India.Durability- Will edit with pica when they get worn out.Beats the RXN pair and the Decathlon pair but it\u2019s 10k more. If hyperkos are ever available in India, I\u2019d love to compare them.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/611dMvllTUL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71buNc8LTOL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61YmC9TABqL.jpg"
+                    ],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

@@ -1,0 +1,617 @@
+{
+    "remaining_requests": 18038,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/AUTOMET-Oversized-Flannel-Shacket-Apricot/dp/B09HC6DFMS",
+    "body": {
+        "name": "AUTOMET Womens Casual Plaid Shacket Button Down Long Sleeve Shirts",
+        "price": "$25.19",
+        "originalPrice": "",
+        "rawPrice": 25.19,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/AUTOMET-Womens-Casual-Shacket-Shackets/dp/B09HC3TWXY",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09HC3TWXY"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B09MRP2RD4",
+                "variationName": "Color",
+                "variationValue": "Apricot",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41tLTJedlML._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BB262C58",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NpSRusyoL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BB24PCND",
+                "variationName": "Color",
+                "variationValue": "Bluebrown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41181XWkvCL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BB234BZ2",
+                "variationName": "Color",
+                "variationValue": "Bluepink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51TLcy8U7-L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BB26MQ9M",
+                "variationName": "Color",
+                "variationValue": "Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NmElcdR3L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BB243GDR",
+                "variationName": "Color",
+                "variationValue": "Dark Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qYxCZ57QL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BB26FGSM",
+                "variationName": "Color",
+                "variationValue": "Darkblue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41M+v54aWoL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BB279BKC",
+                "variationName": "Color",
+                "variationValue": "Darkkhaki",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41aUXCXU+-L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BB2796YV",
+                "variationName": "Color",
+                "variationValue": "Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41jD7uFuRQL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09P4Y7X3S",
+                "variationName": "Color",
+                "variationValue": "Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qxX01URTL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BB27C2H3",
+                "variationName": "Color",
+                "variationValue": "Khaki",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51MxS4gJN1L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BB27F5YN",
+                "variationName": "Color",
+                "variationValue": "Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51onSSG-S4L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BB268RRD",
+                "variationName": "Color",
+                "variationValue": "Pink",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41uEOIQ+00L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09JLZPKTD",
+                "variationName": "Color",
+                "variationValue": "Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41KppmdOS0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0B7WTN3CX",
+                "variationName": "Color",
+                "variationValue": "Blackwhite",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41dvR3SmozL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BDLBCZKQ",
+                "variationName": "Color",
+                "variationValue": "Bluegrey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41yKixqIWwL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BDDP8QYL",
+                "variationName": "Color",
+                "variationValue": "Bluewhite",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41s3TEwp3pL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BDL6DQ9D",
+                "variationName": "Color",
+                "variationValue": "Greybrown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41JRQEb8JxL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BFDJWMKR",
+                "variationName": "Color",
+                "variationValue": "Khakigrey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ebdn3EX1L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BDLCTYKG",
+                "variationName": "Color",
+                "variationValue": "Pinkwhite",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41AmqYHhkfL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJ8YSLZ7",
+                "variationName": "Color",
+                "variationValue": "Whitegrey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41akyI76-9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BGH9V281",
+                "variationName": "Color",
+                "variationValue": "Brownwhite",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZtKrNtVUL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BGXDX5ZF",
+                "variationName": "Color",
+                "variationValue": "Grassgreen",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41IkGredANL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJ8XPRSF",
+                "variationName": "Color",
+                "variationValue": "Pinkgrey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/519hph7JV+L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJ8ZN1WJ",
+                "variationName": "Color",
+                "variationValue": "Orangewhite",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51bT2YwzWEL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CJ915X87",
+                "variationName": "Color",
+                "variationValue": "Orangeblack",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51OHj9H7ajL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0BGHDCJPS",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41iTx8p9pSL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B09MRP2RD4",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09HC6DFMS",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09HC6P2BT",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09HC57WDZ",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B09HC4L498",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BB27MTFB",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/41tLTJedlML.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41KA WBNepL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51Hsr2N3kML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51OraT0owRL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/414fQpDg5GL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51-evGcWefL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51EYvbcWEdL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/11b013f8-f4d3-49fe-8432-f7887a632b2b/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/275b5fa4-f6aa-4551-9860-39ca9d81849f/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/91bc0bc9-acb4-4383-9c3e-1a71cc9b7550/default.jobtemplate.mp4.480.mp4",
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0ee84d07-edac-48da-be38-5bd363929fbf/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 4,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the AUTOMET Store",
+            "link": "https://www.amazon.com/stores/AUTOMET/page/FCCD3AC0-B62A-45A7-BF7C-452CD65FDF26?ref_=ast_bln"
+        },
+        "brand": "AUTOMET",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 14422,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Polyester",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Material: Made of high quality 100% Polyester fabric, skin-friendly, soft and comfortable to wear, will keep your warm and fashion style in fall,spring and cold winter.",
+            "Feature:It features soft fuzzy fabric, front button closure , and midweight feel for keeping warm all day. It'll be the prefect addition to your wardrobe.Two buttoned chest pockets / long sleeves with button cuffs / plaid pattern / loose fit shacket / collared.This shacket is a must have in your closet!",
+            "Match: You can pair this shirts with variety of tank tops, cami, bodysuit , jeans, denim shorts, jeggings, sneakers or boots to complete casual look that's easy to love all season long.",
+            "Occasion: Perfect for casual daily life,shopping, street wear, working, office, school,holiday, vacation, night out, outdoor etc,suitable for autumn, winter and spring.",
+            "Season\uff1aThis flannel shacket jackets suits for spring,fall and winter,you can match it with everything you like to enjoy your life."
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Tops, Tees & Blouses",
+                "link": "https://www.amazon.com/Womens-Tops-Tees/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2368343011"
+            },
+            {
+                "name": "Blouses & Button-Down Shirts",
+                "link": "https://www.amazon.com/Womens-Shirts/b/ref=dp_bc_aui_C_5?ie=UTF8&node=2368365011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.5 x 10.16 x 4.37 inches; 1.01 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 009"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e November 30, 2021"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B09MRP2RD4"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#901 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #10 in Blouses & Button-Down Shirts"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 14,422 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "AUTOMET Shacket Women Fall Fashion Outfits",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed942034-5ddb-4e88-8247-e1b4fbfbb555.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "AUTOMET Fall Fashion Clothes Outfits for Women Previous page Next page",
+                "media_link": []
+            },
+            {
+                "media_text": "Product Details",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/10e4ca13-1244-4c1b-8754-930c54c44cfb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "Previous page Next page",
+                "media_link": []
+            },
+            {
+                "media_text": "AUTOMET Womens Casual Flannel Plaid Fall Fashion Outerwear Shacket Jacket Coat",
+                "media_link": []
+            },
+            {
+                "media_text": "AUTOMET Fall Jacket Shacket Flannel Long Sleeve Shirts Button Down Coat",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dc3e0a8f-d9fd-429a-8049-92f0f4705fe5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            },
+            {
+                "media_text": "AUTOMET Fall Jacket Winter Fashion Shacket Size Chart",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a0056a98-f797-4bbe-9c71-f54686ee28ea.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ed942034-5ddb-4e88-8247-e1b4fbfbb555.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4b3d38b0-e5b0-4519-9b21-b575a52de5c0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ab57745-1a02-486f-afd4-42a9f5deaa69.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/10e4ca13-1244-4c1b-8754-930c54c44cfb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/77052273-f7a2-4914-aafb-6a457da30f92.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9157a22c-aefe-4a88-a766-c93d101e7005.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dc3e0a8f-d9fd-429a-8049-92f0f4705fe5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a0056a98-f797-4bbe-9c71-f54686ee28ea.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Martine",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG73Y5NWCMLTCL4CGMCJ7HE6VUFA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3TYNTRHKBBD0J?ASIN=B09HC3TWXY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 30, 2023",
+                "reviewTitle": "5.0 out of 5 stars Really cute",
+                "reviewText": "Pretty standard flannel. I bought the tan one in a size medium. I am 5\u20198\u201d and 9 months pregnant and this fits. I will also be able to wear this pp. it runs a bit large but perfect flannel fit. The length is great, can wear with leggings/covers the bum just enough. I get a lot of compliments when I wear it out. I will be buying in another color.The only negative thing I have to add is that the inside is not the most comfortable material. It\u2019s not itchy but it\u2019s not soft. The outside is however, soft.I would recommend this flannel.",
+                "reviewVotes": "5 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "ZayZay",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGOWV2YFALARNYEIQHV5FHFJP44Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RSI9S9JGVXSJP?ASIN=B09HC3TWXY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 3, 2024",
+                "reviewTitle": "5.0 out of 5 stars Perfect shacket!",
+                "reviewText": "It's a little long for a shorter person but besides that it's a good fit. I love the colors and it keeps me warm for sure. It's a nice style.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71X3g2NIdwL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amy PT",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGUPSNMO6STN4YLODD5Z5U4WLSMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1QWSU3DA3XIDY?ASIN=B09HC3TWXY",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 7, 2023",
+                "reviewTitle": "4.0 out of 5 stars Runs big and material is thin for a \u201cshaket\u201d",
+                "reviewText": "The colors are great and the material is super soft, but it\u2019s quite thin for a \u201cshaket\u201d, especially living in Chicago. I\u2019m usually bet a Med / Lg, but the Lg was too big for me. Seemed like it was well made, but had to return since it wasn\u2019t durable enough for fall in my neck of the woods.",
+                "reviewVotes": "12 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "danaAClovesamazon77",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFEK2ZPNAHTAW5QLRKA5F2HYYHCQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R10R2KJWU7GNZS?ASIN=B09HC3TWXY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "5.0 out of 5 stars Super soft and beautiful colors",
+                "reviewText": "I had looked at this last year actually and I decided to pull the trigger and just get it and I can say that it was definitely worth buying. First of all it\u2019s so soft and it\u2019s not so thick where you can\u2019t like wear it indoors with a shirt underneath it and feel too hot. I hate that I hate that about the winter time when layering just gets to be too much and you\u2019re sweating everywhere you go so this is a very thin but still, it\u2019s very warm so I would recommend this flannel to anyone it\u2019s gorgeous it\u2019s soft and like I said you won\u2019t sweat in it but you will keep warm, I recommend it to anyone",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Sharon M",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEP7P7TQ2EWFH7WMPUMC7TZNMWYA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R32VHDUNIZT6X0?ASIN=B09HC3TWXY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 11, 2024",
+                "reviewTitle": "5.0 out of 5 stars Perfect for Cold Weather",
+                "reviewText": "Very nice and warm. Heavier and larger than expected. I wear it several times a week for a quick trip outside.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Laureen ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFJFC56WKZBROWR7KSLJLVDRIC5A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2VU1FHO9MVA28?ASIN=B09HC3TWXY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "5.0 out of 5 stars Soft, comforts, and cute",
+                "reviewText": "This is a great shirt/jacket. The material is nice and soft and not too thick. Covers your bum and is roomie. It\u2019s just what I wanted.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "binkster",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEW6O4VIT3JDAR2TSTYIHTTRGXPA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3KPN0F7I3PY1M?ASIN=B09HC3TWXY",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "5.0 out of 5 stars PRETTY but big",
+                "reviewText": "Love this! I got the green. The color is as pictured and the fabric is thick enough to be warm & durable but not too heavy. However, I'm typically a Large so that's what I ordered and I felt swallowed! And I'm not small at all, 5'9\" and 170lbs. I returned the L and reordered in medium.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Katie",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEVATUSGALIBTUUF24V3NPVU4PHA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RYXKUFH7EP1E6?ASIN=B09HC3TWXY",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 20, 2024",
+                "reviewTitle": "4.0 out of 5 stars The jury is still out",
+                "reviewText": "This is the second one I have gotten and I love the colors. Very soft and since I ordered the first one in an XL I got this in a large and it is a much nicer fit. I said the jury is still out because I have worn the first one a few times for short periods and there looks like a bit of pilling is going on under the sleeves and down the sides from where your arms rub against the sides. It\u2019s not bad but haven\u2019t worn it that much. Will update this as time goes on.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 15, 2024",
+                "reviewTitle": "Love It",
+                "reviewText": "Bought for my sister, she just loves it, nice and cozy.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nichole Peterson",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 27, 2023",
+                "reviewTitle": "Very nice jacket",
+                "reviewText": "I was skeptical to purchase this shacket with some of the mixed reviews, however I decided to go for it. I really like the shacket. I've got several compliments and it is super comfortable. One con is that the one arm is noticeably shorter than the other. I have to turn the cuff up on one arm, and the other arm is the perfect length....so quality control may not be the highest of caliber. I kind of agree with the one person who said she kind of wished it was either a bit longer or a bit shorter. I'm a shorter person at 5'2\" so it feels a bit long on me, but if I compare to the picture, it is exactly the length on the model, so it matches the advertised product. I'm certain nobody has noticed the sleeves except for me.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Donna Minihane",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 16, 2023",
+                "reviewTitle": "Shacket",
+                "reviewText": "I like the material ,size and length.I also loved the colour",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rhoda",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on October 18, 2023",
+                "reviewTitle": "Sleeves too short",
+                "reviewText": "This jacket is garbage. Very itchy even to touch. Sleeves are too short. One sleeve is actually shorter than the other. Very little thought was put into making this jacket. Don\u2019t waste your money! Trying to return it. Seems I have to pay postage back for a defective jacket. I\u2019ll prob just trash it rather than lose more money into it. Just not worth it.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "kirkwest",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 12, 2024",
+                "reviewTitle": "Good product",
+                "reviewText": "Good product, nice and thick. Was worried it was going to be a thin shirt",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

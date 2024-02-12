@@ -1,0 +1,808 @@
+{
+    "remaining_requests": 16636,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Columbia-Bahama-Short-Sleeve-Collegiate/dp/B0089ONPXI",
+    "body": {
+        "name": "Columbia Men's Bahama Ii Short Sleeve Shirt",
+        "price": "$30.13 - $48.00",
+        "originalPrice": "",
+        "rawPrice": 30.13,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Columbia-Bahama-Short-Sleeve-Shirt/dp/B0CJPPRSLL",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CJPPRSLL"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B018IOJ8HU",
+                "variationName": "Color",
+                "variationValue": "Beet",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RDSM1K7",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000BMPW14",
+                "variationName": "Color",
+                "variationValue": "Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07R822KZ2",
+                "variationName": "Color",
+                "variationValue": "Bright Aqua",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C6FLVL64",
+                "variationName": "Color",
+                "variationValue": "Bright Lavender",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RDRTJH5",
+                "variationName": "Color",
+                "variationValue": "Bright Nectar",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C6FDDSKF",
+                "variationName": "Color",
+                "variationValue": "Canyon Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RDSM1Q5",
+                "variationName": "Color",
+                "variationValue": "Carbon",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1LFTJJC",
+                "variationName": "Color",
+                "variationValue": "Circuit",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01GU7P9IY",
+                "variationName": "Color",
+                "variationValue": "Coastal Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1P83QW4",
+                "variationName": "Color",
+                "variationValue": "Cocoa Butter",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089OQ3SW",
+                "variationName": "Color",
+                "variationValue": "Collegiate Navy",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01ABW9G2Y",
+                "variationName": "Color",
+                "variationValue": "Collegiate Navy - Legacy",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1LZGH2P",
+                "variationName": "Color",
+                "variationValue": "Cool Green",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01NCOY5FU",
+                "variationName": "Color",
+                "variationValue": "Cool Grey",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PR2M97",
+                "variationName": "Color",
+                "variationValue": "Cool Grey - Legacy",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PNPFV6",
+                "variationName": "Color",
+                "variationValue": "Cypress",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01GU7MOUA",
+                "variationName": "Color",
+                "variationValue": "Cypress - Legacy",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RCCZXRD",
+                "variationName": "Color",
+                "variationValue": "Dark Pool",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0050VKK54",
+                "variationName": "Color",
+                "variationValue": "Eclipse Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0031RFYBE",
+                "variationName": "Color",
+                "variationValue": "Fossil",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B01ABW9IIQ",
+                "variationName": "Color",
+                "variationValue": "Fossil - Legacy",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B089L8WP4J",
+                "variationName": "Color",
+                "variationValue": "Fossil/Realtree Edge",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00C40X6W8",
+                "variationName": "Color",
+                "variationValue": "Gleem",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKRCXZKW",
+                "variationName": "Color",
+                "variationValue": "Granite Purple",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07J5V2WM2",
+                "variationName": "Color",
+                "variationValue": "Green Glow",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RCV1GD7",
+                "variationName": "Color",
+                "variationValue": "Gulf Stream",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0031RFXA6",
+                "variationName": "Color",
+                "variationValue": "Gulf Stream - Legacy",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C6FBHYMH",
+                "variationName": "Color",
+                "variationValue": "Icy Morn",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B071J7XL3J",
+                "variationName": "Color",
+                "variationValue": "Island Orange",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RCV14BP",
+                "variationName": "Color",
+                "variationValue": "Jade Lime",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B002BZDIME",
+                "variationName": "Color",
+                "variationValue": "Light Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0050VK4GO",
+                "variationName": "Color",
+                "variationValue": "Light Metal",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0058YQQS8",
+                "variationName": "Color",
+                "variationValue": "Mirage",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0C6FFQG1H",
+                "variationName": "Color",
+                "variationValue": "New Mint",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B008FDFIWE",
+                "variationName": "Color",
+                "variationValue": "Night Tide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1LFVCCX",
+                "variationName": "Color",
+                "variationValue": "Ocean Teal",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0BKR7JJXM",
+                "variationName": "Color",
+                "variationValue": "Pool",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07J5YNHNT",
+                "variationName": "Color",
+                "variationValue": "Red Spark",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07R961F62",
+                "variationName": "Color",
+                "variationValue": "Sail",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0031RFXBA",
+                "variationName": "Color",
+                "variationValue": "Sail - Legacy",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0814QHKMP",
+                "variationName": "Color",
+                "variationValue": "Skyler",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00AB1SQIG",
+                "variationName": "Color",
+                "variationValue": "Sorbet",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1N4YLSD",
+                "variationName": "Color",
+                "variationValue": "Spring Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07R821VKM",
+                "variationName": "Color",
+                "variationValue": "Sunlit",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1L2B5ZV",
+                "variationName": "Color",
+                "variationValue": "Sunset Red",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B08N1N6HL9",
+                "variationName": "Color",
+                "variationValue": "Tanzanite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0B1P5DH8B",
+                "variationName": "Color",
+                "variationValue": "Violet Sea",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089OQSNC",
+                "variationName": "Color",
+                "variationValue": "Vivid Blue",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B077PTH8J8",
+                "variationName": "Color",
+                "variationValue": "Vivid Blue - Legacy",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00261AA8I",
+                "variationName": "Color",
+                "variationValue": "White",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B001BJFB4Y",
+                "variationName": "Color",
+                "variationValue": "White - Legacy",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B089K14CX5",
+                "variationName": "Color",
+                "variationValue": "White/Realtree Edge",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RCTY18Z",
+                "variationName": "Size",
+                "variationValue": "XX-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089OPZ2W",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089OPZTK",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089OQ0YE",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089OQ2YM",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089ONNTO",
+                "variationName": "Size",
+                "variationValue": "Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089OQ3SW",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089ONODY",
+                "variationName": "Size",
+                "variationValue": "X-Large Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089OQ4NQ",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089ORYGW",
+                "variationName": "Size",
+                "variationValue": "1X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089ORZ7K",
+                "variationName": "Size",
+                "variationValue": "2X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089ONOXO",
+                "variationName": "Size",
+                "variationValue": "2X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089ORZWU",
+                "variationName": "Size",
+                "variationValue": "3X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089ONPHE",
+                "variationName": "Size",
+                "variationValue": "3X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089OS14Q",
+                "variationName": "Size",
+                "variationValue": "4X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089ONPXI",
+                "variationName": "Size",
+                "variationValue": "4X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089OS2C2",
+                "variationName": "Size",
+                "variationValue": "5X",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0089ONQJQ",
+                "variationName": "Size",
+                "variationValue": "5X Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07R821V5S",
+                "variationName": "Size",
+                "variationValue": "6X",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/413gC9h-wkL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41rUfGgjbaL.jpg"
+        ],
+        "imagesCount": 2,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Columbia Store",
+            "link": "https://www.amazon.com/stores/Columbia/page/E21F2281-2F97-4BDA-B5DC-8F83EA77C1F0?ref_=ast_bln"
+        },
+        "brand": "Columbia",
+        "merchantInfo": "",
+        "customerReview": "3.8 out of 5 stars",
+        "customerReviewCount": 11,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "100% Other Fibers",
+            "Imported",
+            "SUN PROTECTION: Columbia Men's PFG Bahama II Short Sleeve fishing shirt features our signature UPF 30 fabric that helps to blocks UVA and UVA rays to help prevent sunburns and skin damage during long hours in the sun.",
+            "HANDY FEATURES: This short sleeve fishing shirt features two handy chest pockets with velcro closure for convenient storing.",
+            "COMFORT & BREATHABILITY: Hidden vents at the shoulders and 100% nylon quick dry fabric make for a shirt that's breathable and comfortable during any outdoor activity.",
+            "RELAXED FIT: A relaxed, lightweight fit make this fishing shirt the ultimate choice for casual days outside as well as for activity out on the water.",
+            "OMNI-SHADE: Be safe and protected. Omni-Shade blocks UVA and UVB rays to help prevent sunburns and long-term skin damage. The tight weave construction with UV absorbent yarns block the full spectrum of harmful UV rays."
+        ],
+        "description": "Columbia's PFG line is loved by everyone, but specifically designed with anglers in mind. Its comfort and functionality make this Columbia Men's PFG Bahama II Short Sleeve Shirt a first choice for enjoying a day out on the water and in the sun. The high quality materials used to craft this men's fishing shirt are what make it so special, while its modern classic fit speak to style and comfort. The Bahama II Short Sleeve fishing shirt features some of Columbia's best sun protection technology to help prevent skin damage while outdoors. The fabric is crafted of UPF 30 to protect against harmful UVA and UVA rays, sunburns, and long-term skin damage. The mesh-lined back vents add breathability to the shirt to ensure comfort even when things get hot; the 100% nylon fabric is lightweight and dries quickly to keep you cool. Lastly, this short sleeve shirt's utility features makes fishing life a little easier with a rod holder and multiple low-profile pockets. Columbia's short sleeve fishing shirt comes in many size categories and colors. To ensure the size you choose is right, utilize our sizing chart and the following measurement instructions: For the sleeves, start at the center back of your neck and measure across the shoulder and down to the elbow. If you come up with a partial number, round up to the next even number. For the chest, measure at the fullest part of the chest, under the armpits and over the shoulder blades, keeping the tape measure firm and level.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Shirts",
+                "link": "https://www.amazon.com/Mens-Shirts/b/ref=dp_bc_aui_C_4?ie=UTF8&node=2476517011"
+            },
+            {
+                "name": "Button-Down Shirts",
+                "link": "https://www.amazon.com/b/ref=dp_bc_aui_C_5?ie=UTF8&node=121177981011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Item Package Dimensions L x W x H",
+                "value": "\u200e12.6 x 11.18 x 1.42 inches"
+            },
+            {
+                "name": "Package Weight",
+                "value": "\u200e0.24 Kilograms"
+            },
+            {
+                "name": "Brand Name",
+                "value": "\u200eColumbia"
+            },
+            {
+                "name": "Model Name",
+                "value": "\u200eBahama Ii Short Sleeve Shirt"
+            },
+            {
+                "name": "Color",
+                "value": "\u200eBeet"
+            },
+            {
+                "name": "Material",
+                "value": "\u200etaffeta"
+            },
+            {
+                "name": "Suggested Users",
+                "value": "\u200emens"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "\u200eColumbia"
+            },
+            {
+                "name": "Part Number",
+                "value": "\u200e1011651-607-Large"
+            },
+            {
+                "name": "Model Year",
+                "value": "\u200e2016"
+            },
+            {
+                "name": "Style",
+                "value": "\u200eBahama Ii Short Sleeve Shirt"
+            },
+            {
+                "name": "Included Components",
+                "value": "\u200eBahama\u2122 II S/S Shirt^"
+            },
+            {
+                "name": "Size",
+                "value": "\u200eLarge"
+            },
+            {
+                "name": "Sport Type",
+                "value": "\u200eOutdoor Lifestyle"
+            },
+            {
+                "name": "ASIN",
+                "value": "B018IOOBZ4"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "3.8 3.8 out of 5 stars 11 ratings 3.8 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,073 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #1 in Men's Activewear Button-Down Shirts"
+            },
+            {
+                "name": "Date First Available",
+                "value": "December 1, 2015"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Columbia Sportswear | Get Out There For more than 80 years, Columbia Sportswear Company has been making gear for people who enjoy the rugged outdoors found in the Pacific Northwest and far beyond. Based in Portland, Oregon we still make no-nonsense apparel, footwear, and accessories to keep you warm, dry, cool, and protected no matter what. Innovative gear with irreverent spirit, quality, and a family business ethos is what sets us apart. Columbia Sportswear | Stay Warm Take on the bitter elements with confidence. Whether it's relentless rain found in the valleys, non-stop wind coming down the Gorge, or frigid mountain snow fall... look for our advanced technologies on your garment to keep you cozy warm, dry, and protected. No matter what. Columbia Sportswear | Stay Cool When your extended activities keep you out under the sun, we've got you covered \u2013 literally. Look for clothing that incorporates our advanced technologies designed to protect you from harmful UVA/UVB sun rays, while keeping you dry, cool, and comfortable. Columbia Sportswear | Tested Tough Our signature Columbia logo is your affirmation of our attention to detail. It's what sets our apparel apart from others. We use only the highest quality materials, expert craftsmanship, and durable stitching. This is sportswear you will enjoy for seasons to come.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/29405c85-9020-4fea-a427-b7b9e62f9c68.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/d686bbe5-5ace-460c-aab2-3aee6847f217.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/e0ebe90d-0880-4b2a-aaaf-09455b9d8e99.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/eb7bd80f-aef0-4998-892e-bb9c1c775cfe.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sota/ce331d55-51f6-4ae3-a82c-e3a168b1d5c5.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/29405c85-9020-4fea-a427-b7b9e62f9c68.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/d686bbe5-5ace-460c-aab2-3aee6847f217.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/e0ebe90d-0880-4b2a-aaaf-09455b9d8e99.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/eb7bd80f-aef0-4998-892e-bb9c1c775cfe.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Karen Smith",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AF4TZJIGQPLKWVCWDIOP7QFVE72A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3M7NKO8XOQFPF?ASIN=B0CJPPRSLL",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Fits great.",
+                "reviewText": "There\u2019s nothing bad to talk about it all good all good here looks wonderful too",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "P.K. Frary",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AESQFRJJHV2FLBPAJ64SPGJZBAXQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2T0Z8S8BROO2O?ASIN=B0CJPPRSLL",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2014",
+                "reviewTitle": "5.0 out of 5 stars Great for travel, looks smart and easy to care for",
+                "reviewText": "I take photo trips for 2 or 3 weeks at a time and dealing with clothing on top of my gear is a PITA. The Columbia Bahama helps me keep it simple: super lightweight and folds tiny, can be washed in hotel room sinks and dries fast. Plus it's comfortable, cool, not prone to wrinkles and rocks the safari look. I love the sage color but be forewarned it's similar to park ranger and zoo keeper attire. I was asked for park information a couple times while enjoying the California Redwoods! Next time around, I'll spring for the blue Bahama...The workmanship of this made in Vietnam shirt is excellent but, as other reviewers noted, runs at least one size too large. I'm 5'8\" 140LBs with slim athletic build (biker/runner) and normally wear small. However, I bought extra small and it fits okay but is still oversized, sort of a 1980s tent shirt fit. I've been wearing Columbia jackets and shirts for years and most run a size large, so par for the course.I live in the tropics and the sun burns me through my t-shirt within 30 minutes. UV protection is excellent and I'm good for hours of shooting without a hint of redness. As for coolness, it's okay but not much better than a normal light cotton shirt. The nylon fabric is more prone to abrasion than cotton shirts: Cordura bags and daypack straps tend to \"sand\" it if you walk around all day.Finally, as a photographer I find the large pockets useful for holding filters, memory cards, lens caps, etc. The velcro makes for quick one-handed access and the pockets expand enough to hold a small lens. All in all a great shirt for photographers, travelers and outdoorsmen.",
+                "reviewVotes": "31 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jesse Mims",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG77ICR3FAKOXF7RW57GBIV322GA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2A1VFY2JYH8IQ?ASIN=B0CJPPRSLL",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 8, 2023",
+                "reviewTitle": "5.0 out of 5 stars Love these shirts and the seller has always been great",
+                "reviewText": "I have probably ten of these shirts and I work in construction daily, they hold up very well and keep me cool. I\u2019m also a very big guy and they fit me with room to spare.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Gravity's Gone",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG3SDYM5QR4KELRX3WPRA4Q7TS4A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R11GTMZAG7I0RT?ASIN=B0CJPPRSLL",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 24, 2015",
+                "reviewTitle": "4.0 out of 5 stars Comparison of Columbia Tamiami II, Bahama II, Blood & Guts III, and Bonehead PFG Shirts",
+                "reviewText": "Columbia makes some fantastic shirts, but make sure to order the appropriate size. I am 5\u201910\u201d, 195 lbs, and would typically wear a Large in most similar styled (button-up) shirts, but I have to get a Medium in Columbia PFG shirts. (The Medium is still a moderately loose fit, as the Large is like a tent on me). Tip number two is that because these shirts are on different sizing scale, many get returned to the Amazon Warehouse, so keep an eye for Amazon Warehouse deals on these shirts (see tips to finds the easiest way to compare prices across sizes and colors at the conclusion of this review). I have tried the Tamiami II, Bahama II, and Bonehead (AND new Blood & Guts III \u2013 see below for updated comparison including the BG3 series) versions of the Columbia PFG shirts, and have been mostly pleased with all of them. The Tamiami II was my favorite due to the cooling effect of the weave, but the similar Blood & Guts III is now right there with it. My reasoning for giving the Bahama II 4 starts instead of 5, is that out of the four series discussed in this review, it is my least favorite. The Bahama II tends to wrinkle, is not as cool feeling in extreme heat as the open weave Tamiami or Blood&Guts, and the nylon tend to feel slimy during periods of heavy perspiration. Below I have noted the differences in four of the PFG styles, for those trying to decide which shirt they may prefer.TAMIAMI II STYLE (POLY) - SUMMERTIME CASUAL FAVORITEThe Tamiami II (T2) and the Blood & Guts III (BG3) are my favorite of the aforementioned PFG styles. The main difference between each of these styles is material. The T2 & BG3 are 100% polyester (liner and exterior), the Bahama II (Ba2) is nylon, and the Bonehead (BH) is poplin cotton. The T2 is the thinnest/lightest (most breathable) material of the three styles, also has a slightly shinier appearance, and is probably the most wrinkle resistant of the three (as the fabric is less rigid that the nylon Bahama II or cotton Bonehead). (Update 7/11/16 \u2013 The Blood & Guts series is also breathable polyester similar to the Tamiami with a slightly different styling, and stain resistant fabric. See update at end of review for full comparison.) The T2 has a snap button pocket on top with Velcro pockets underneath on both sides, which I also prefer over the pocket style on the other two (Ba2 & BH have identical pocket styles). The synthetic T2 and Ba2 both wick moisture and create a cooling effect better than the cotton BH, but the lightness and weave of the T2 makes it by far the coolest wearing of the three. For outdoor activity in the heat and humidity of summer, it would definitely be my preferred choice. The long-sleeve version is fantastic for offshore fishing when lightweight sun protection is essential. The Ta series also does not wrinkle as badly as the Ba and BH series shirts do. (The PFG apparel which has an SPF rating, such as the Tamiami & Blood/Guts series, has an open fabric weave which is \u201close\u201d enough to allow some penetration of UV through the material itself; which means the material is much more breathable ergo cool feeling, although technically you could get some UV exposure through the shirt.)BAHAMA II STYLE (NYLON) - WORK WEAR IN MILD WEATHERThe Bahama II is the middle ground between the T2 and the BH. It is synthetic - similar to the T2, but is a nylon exterior shell with a polyester liner (whereas T2 is poly liner and shell). The pockets on the Ba are the same traditional Columbia PFG look as the pockets on the Bonehead. The slightly more rigid feel of the nylon, also gives the Bahama a more traditional (cotton-look) appearance than the T2. In a certain respect, the Ba nylon manages moisture better than the BH cotton version \u2013 i.e. it evaporates sweat more quickly. On the other hand, the nylon does not absorb moisture as cotton does, so while it does dry faster, it has a \u201cslimy\u201d feel to when sweaty that simply is not comfortable. The Bahama also wrinkles worse than any of the other PFG series shirts, so it is my least favorite series. That said, it is still a good quality shirt, and makes for a great work shirt during temperate weather (i.e. when it isn\u2019t going to get slimy with sweat).BONEHEAD STYLE (COTTON) - COOL WEATHER FAVORITEMost everything has already been covered. The BH and the aforementioned Ba styles look virtually identical. Essentially, I like the Bonehead over the Bahama because it does not get that slimy feeling when you sweat, and it is slightly better from a wrinkle perspective. The Bonehead is probably my favorite series when moisture management and cooling effect are not important, so I like these in long sleeve for fall and winter wear. I also like the traditional appearance of the Ba and the BH for work wear, but the T2 look I like better for casual. (The newer Blood & Guts series has the comfort of the Tamiami series, but has a look similar to the Bonehead, so it is my new favorite summertime work shirt.) The Bonehead long sleeve also makes a great layering option for hunting season, and Sage is a great natural neutral (earth tone) color for this purpose.UPDATE 7/11/16 \u2013 BLOOD & GUTS III (POLY) - HOT WEATHER FISHING FAVORITEWhen this review was originally posted, I only contrasted the Bahama, Tamiami, and Bonehead series shirts, but recently I have found a new favorite \u2013 the Blood & Guts III (BG3). While the name may not be all that appealing, these are really great shirts. They have an SPF rating, therefore breathable/open weave, similar to the Tamiami, with a styling that more closely resembles the Bahama & Bonehead series. The BG3 is also treated for stain resistance, making it a great shirt for fishing, work, and outdoor activities. Finally, the BG3 does not wrinkle nearly as severely as the Bahama nylon or Bonehead cotton shirts do. Out of the four PFG series shirts discussed, the BG3 series probably have the tightest fit. I still wear a medium in the BG3, but the series has a slimmer type cut than the previous versions discussed. All in all, this is my favorite alongside the Tamiami. I slightly prefer the Blood & Guts for fishing due to the stain resistance, whereas, I prefer the Tamiami for casual and boating wear just from an aesthetic standpoint. The Tamiami may have the slightest of edges in the cooling department, but they are very close in that regard.AMAZON PRICE COMPARISON & WAREHOUSE DEALSI used to always get aggravated at the way Amazon list apparel items with multiple colors, as it can take forever to search through multiple color (and size) options to see the cheapest offerings. On my iPad version the color prices are displayed in a list style automatically, but on my PC desktop I would have to select each color/size to see the price options. I did not realize there is a much simpler way. Select the \u201cnew and used from\u201d (or \u201cnew\u201d if no used offerings available) icon, which will take you to a list view. There must be multiple offerings for the exact size and color selected for this option to appear, so if you do not see the \u201cnew and used from\u201d hyper-link, then select another size/color combination till the link appears.) In the list view screen, select your size and click the \u201clowest offer for each\u201d icon beside the color selector. It will display the cheapest offering for each color shirt in that size, so you can quickly see which colors are the cheapest. Also, this view will show any Amazon Warehouse Deals available. As mentioned in the first paragraph, these shirts get returned often due to sizing issues, so many times the Warehouse deals are shirts that were tried on and immediately returned for a smaller size.",
+                "reviewVotes": "513 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Robany",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHBFP52LUIJWXWUNY3FTN2OIQC6A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R349F92OSSQ12S?ASIN=B0CJPPRSLL",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 8, 2019",
+                "reviewTitle": "5.0 out of 5 stars Columbia exceeds my expectations",
+                "reviewText": "This is a really nice sports shirt and my \u201cgo-to\u201d shirts for casual Friday at the office or any outdoor activities (football games, baseball games, picnics, beach, etc). I bought it primarily because it has built-in sunscreen to protect my skin from the bright/hot Texas sun. The color of this shirt is a beautiful rusty red that looks nice with my tan skin and dark hair. I must have 10+ Columbia Bahama II / Tamiami shirts, both short sleeve as well as long sleeve, for all indoor-outdoor occasions. These shirts are incredibly lightweight and wick away moisture really well, keeping me cool in the Texas heat. They also wash and dry really nicely and never need ironing. Amazon has a great price, which is much less than the Columbia retail price. This shirt is definitely worth more money and looks much more expensive than it was. I'm pleased with my purchase definitely recommend this shirt, especially if you're looking for sun protection. It's the perfect thing to wear in Texas or any place with a bright sun.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Fauxmoney",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFIWZTGYTG342ZBAOJZ4VP7ZDPWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R167GQ71XYY9OQ?ASIN=B0CJPPRSLL",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 28, 2022",
+                "reviewTitle": "5.0 out of 5 stars Perfect Shirt for everyday life",
+                "reviewText": "My husband could not be happier with this shirt. The fit is perfect, color is on point, its cooling and comfortable. He loved it so much we bought another. Highly recommend for the men that work outside or just a casual shirt to wear to dinner.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kelly fernandez ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGQPV36K57QY7CDVYIZAWVFF77JA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1QLE2GQS0W3WQ?ASIN=B0CJPPRSLL",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 18, 2024",
+                "reviewTitle": "5.0 out of 5 stars Excelente",
+                "reviewText": "Excelente",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "STG",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 29, 2022",
+                "reviewTitle": "Me lleg\u00f3 una talla XS muy peque\u00f1a motivo por el cual la devolvere",
+                "reviewText": "Me lleg\u00f3 una talla XS muy peque\u00f1a motivo por el cual la devolver\u00e9, pedi esta talla porque vienen muy amplias y las tallas S me quedan muy amplias",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Joe Match 40",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on September 7, 2021",
+                "reviewTitle": "Excelente camisa",
+                "reviewText": "Excelente camisa pero vienen muy amplias, recomiendo si eres talla mediana pidas la chica, o si eres talla grande pidas la mediana",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Alfonso Echeverria",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 7, 2019",
+                "reviewTitle": "Tiempo de entrega y calidad del articulo",
+                "reviewText": "Si",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Keren",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on June 14, 2019",
+                "reviewTitle": "Excelente",
+                "reviewText": "S\u00faper pero viene grande",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jorge Pantoja",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on July 9, 2019",
+                "reviewTitle": "Comodidad",
+                "reviewText": "Excelente material",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

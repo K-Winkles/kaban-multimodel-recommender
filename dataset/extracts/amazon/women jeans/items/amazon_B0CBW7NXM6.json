@@ -1,0 +1,527 @@
+{
+    "remaining_requests": 17177,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Lee-Womens-Plus-Legendary-Trouser/dp/B0CBW94W9P",
+    "body": {
+        "name": "Women's Plus Size Legendary High Rise Trouser Jean",
+        "price": "$36.99",
+        "originalPrice": "",
+        "rawPrice": 36.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Lee-Womens-Plus-Legendary-Trouser/dp/B0CBW94W9P",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CBW94W9P"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0CBW8TCDQ",
+                "variationName": "Color",
+                "variationValue": "Blurred Darks",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/419ZhYpuACL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CBW7L12T",
+                "variationName": "Color",
+                "variationValue": "Elevated Retro",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41WXzBhglqL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CBW8MTD2",
+                "variationName": "Color",
+                "variationValue": "Inner Strength",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41GNqi2qgBL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B0CBW7XV4L",
+                "variationName": "Size",
+                "variationValue": "16 Plus",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW8JBWL",
+                "variationName": "Size",
+                "variationValue": "16 Plus Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW8X487",
+                "variationName": "Size",
+                "variationValue": "16 Plus Petite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW866R8",
+                "variationName": "Size",
+                "variationValue": "18 Plus Petite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW7XJ9H",
+                "variationName": "Size",
+                "variationValue": "18 Plus",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW6BDMS",
+                "variationName": "Size",
+                "variationValue": "18 Plus Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW79V51",
+                "variationName": "Size",
+                "variationValue": "20 Plus Petite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW8QH3N",
+                "variationName": "Size",
+                "variationValue": "20 Plus",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW7GKL2",
+                "variationName": "Size",
+                "variationValue": "20 Plus Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW7S5LL",
+                "variationName": "Size",
+                "variationValue": "22 Plus Petite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW88JKT",
+                "variationName": "Size",
+                "variationValue": "22 Plus",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW7G4QX",
+                "variationName": "Size",
+                "variationValue": "22 Plus Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW77QXZ",
+                "variationName": "Size",
+                "variationValue": "24 Plus Petite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW7MHQK",
+                "variationName": "Size",
+                "variationValue": "24 Plus",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW7NRHB",
+                "variationName": "Size",
+                "variationValue": "24 Plus Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW76WNT",
+                "variationName": "Size",
+                "variationValue": "26 Plus Petite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW8TCDQ",
+                "variationName": "Size",
+                "variationValue": "26 Plus",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW8MCJ4",
+                "variationName": "Size",
+                "variationValue": "26 Plus Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW76CSQ",
+                "variationName": "Size",
+                "variationValue": "28 Plus Petite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW6QHMS",
+                "variationName": "Size",
+                "variationValue": "28 Plus",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW8BKNV",
+                "variationName": "Size",
+                "variationValue": "28 Plus Long",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW81L58",
+                "variationName": "Size",
+                "variationValue": "30 Plus Petite",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW7VT5G",
+                "variationName": "Size",
+                "variationValue": "30 Plus",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0CBW8RR6Y",
+                "variationName": "Size",
+                "variationValue": "30 Plus Long",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/419ZhYpuACL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/419PhXXoQ5L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41w6HIj35iL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51UKJUZPeSL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51Cggir 1xL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/5179L-FlNiL.jpg"
+        ],
+        "imagesCount": 6,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Lee Store",
+            "link": "https://www.amazon.com/stores/LEE%C2%AE/page/450C35B6-2305-427C-87D9-A5E75DDF379F?ref_=ast_bln"
+        },
+        "brand": "LEE\u00ae",
+        "merchantInfo": "",
+        "customerReview": "4.2 out of 5 stars",
+        "customerReviewCount": 135,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 99% Cotton, 1% Spandex",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "HIGH RISE. Show the world a thing or two about being the fashionable legend you already know you are with these high-rise jeans. A relaxed, high-rise fit gives way to a trouser silhouette with front creases for a fashionable twist to your everyday jeans.",
+            "LEGENDARY DETAILS. These high-waisted jeans are finished with our iconic logo patch, spade pockets and hardware that make Lee jeans unique.",
+            "STRETCH DENIM. Strut with confidence in these fashionable trouser jeans. Made from authentic stretch denim, they move with you for all-day comfort.",
+            "A LIFETIME OF QUALITY. For over 100 years, Lee has produced quality apparel with durability and long-lasting construction in mind. Lee is committed to designing clothing that conforms to your body, allowing you to move through life freely.",
+            "SPECIFICATIONS. 5 pockets. Zipper fly with button closure. Inseam: 30\" plus petite, 32\" plus, 34\" plus long. Bottom Leg Opening: 25.5\". Rise: 12.25\""
+        ],
+        "description": "Lee is an iconic American denim and casual apparel brand that's been making legendary product for legendary people since 1889. With over 125 years of purposeful design and craftsmanship, we know a thing or two about style. Fueled by our core values of authenticity, integrity, and drive, we create products our customers love, time and time again. From uniquely styled jeans, pants, and shorts to on-trend shirts and jackets, our movement-inspired innovations, versatile styling, and superior fit have inspired generations.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Women",
+                "link": "https://www.amazon.com/Womens-Fashion/b?ie=UTF8&node=7147440011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Womens-Clothing/b?ie=UTF8&node=1040660"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Womens-Jeans/b?ie=UTF8&node=1048188"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 13.98 x 11.06 x 2.52 inches; 2.01 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 112343774"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 14, 2023"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Lee"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B0CBW7XV4L"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#36,068 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #307 in Women's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.2 4.2 out of 5 stars 135 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Legendary Denim Jacket See Details Legendary Button Shirt See Details Legendary Boyfriend Jean See Details Legendary Flare Jean See Details Legendary Trouser Jean See Details Legendary Bootcut Jean See Details Legendary Straight Jean See Details Customer Reviews 5.0 out of 5 stars 7 5.0 out of 5 stars 1 4.2 out of 5 stars 6 3.8 out of 5 stars 72 4.2 out of 5 stars 135 4.3 out of 5 stars 1,464 4.4 out of 5 stars 2,746 Price $59.90$59.90 $31.99$31.99 $29.95$29.95 $32.89$32.89 $52.00$52.00 $34.90$34.90 $32.44$32.44 Rise - - Mid Mid High Mid Mid Fit Regular Regular Relaxed Regular Regular Regular Regular Multiple Color / Wash Options \u2718 \u2714 \u2714 \u2714 \u2714 \u2714 \u2714 Material Cotton, Elastane Cotton Cotton, Elastane Cotton, Spandex Cotton, Spandex Cotton, Polyester, Spandex Cotton, Polyester, Elastane Other Features Iconic & classic Lee styling Soft, stretchy denim Fit looser in hip and thigh Soft, stretchy denim Pairs with heeled boots Dress up or down No-fuss wardrobe staple Offered in Petite & Missy? Missy Only Missy Only Missy Only Missy Only Missy Only Missy Only Yes",
+                "media_link": []
+            },
+            {
+                "media_text": "More Lee to Love. Shop the Ultra Lux Collection. Premium fabrics, unbeatable comfort. Shop the Women's Ultra Lux Collection. Explore Lee Ultra Lux Flex-to-Go Utility Pant For the woman on the go, there's nothing like a utility pant to keep you moving throughout your day. Explore Lee Ultra Lux Comfort High Rise Skinny Jean With their high-rise fit and skinny leg, they show off your curves while always leaving you plenty of room to move. Explore Lee Ultra Lux Comfort Straight Jean This iconic straight jean has all the right moves. Explore",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/79854802-87db-4183-bdb7-e8f1c15c36a2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/20493476-c751-4814-8d47-51e5a68412da.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ce4412a0-3483-40d0-8626-fd21ad5f702c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/792affab-f273-4e2d-8ebb-fb67bd695af0.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/820462bb-0594-48aa-8ff3-cd62dbbcd105.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9bb01fb7-dd44-4e6f-acdd-97599420113e.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/be587544-87ab-44f1-a9e5-f3750dd5dd98.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3e0a4409-83e4-4765-9e54-5d5539445f63.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1812f340-9bd0-4baa-a303-991d4d1632f9.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/81c4f375-9ac5-46c7-a0e2-6da7bbc7b3fb.__CR0,0,200,225_PT0_SX200_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/43b0098a-ac46-4154-90d6-c6be57bf3219.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6f85982e-2b66-484f-9983-152237ca88f9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/def1bb2c-aa85-4016-a2e4-0e6975a2af13.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ecb7e123-a571-4f89-a23e-9368a8307aef.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "cassell",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEALATDAFYFBJC7VYGSAMIFLK22A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R7AH6A308KJDK?ASIN=B0CBW94W9P",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 24, 2024",
+                "reviewTitle": "5.0 out of 5 stars Runs large and super high and long!",
+                "reviewText": "These jeans are nice but man are they super long and high! I am normally a regular length gal and the petites were a bit too long when I re-odered and too high too. Cut very high and go very long. Even the petites are too long and high but I'm keeping them. I am having a hard time finding 24 plus jeans that fit. The rest is fine.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "bassplayer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGNPYPWP3IQERISB5A54BZHAXGCQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2UIWDQYLCS4SS?ASIN=B0CBW94W9P",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "5.0 out of 5 stars Looks great, really long.",
+                "reviewText": "I really like these pants. They fit nice and are really comfortable. I ordered the petite length, and they are still really long. I think they are designed for those who wear high heels. That would be my only complaint with them.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kathie W. W.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG2FN4LVFTJ523IUHAXDQIQGZMNA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R20O2UXUNJ0VXS?ASIN=B0CBW94W9P",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 28, 2023",
+                "reviewTitle": "4.0 out of 5 stars Nice looking jeans but SOOOO long!",
+                "reviewText": "I like the color, the size is a bit big, which I wanted, they washed up well, but the biggest issue I have with them is that they are far TOO long! Other reviews posted wrote the same thing and they are NOT wrong! I washed them as soon as I got them, hoping the length would shrink a little bit, but it didn't happen, so now I'm going to have to take them to a tailor to have them hemmed up. They are extremely comfortable, nice color, fit through hips and thighs is great, and after they are hemmed up I'm sure I will wear them a lot.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "KK",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFLGU72NF6AADJUIEZWAUNLFR5NQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2Z1OEIU7PBV67?ASIN=B0CBW94W9P",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 27, 2023",
+                "reviewTitle": "5.0 out of 5 stars Terrific and Comfy",
+                "reviewText": "The jeans are as comfortable and well-constructed as ever. I, however, am shrinking. I ordered the same size I have worn for years, and they were too long. I really don't think the jeans run long--I suspect I am running short.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Honestlee",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEZHKN7SBMHWOOM2ZKG4F6DTJHGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3195C4QCEL5UA?ASIN=B0CBW94W9P",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 14, 2023",
+                "reviewTitle": "3.0 out of 5 stars WIDE pant legs",
+                "reviewText": "The legs on these jeans are very wide! They were so wide that it was difficult for me to walk in. They fit nicely in the seat and waist but I would return them but for the fact that I have already worn them.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Abigail Larkin",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEIH2FC3ZA2A3GVPMZQIX6RGOTCA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2ZEIED8VSLJKD?ASIN=B0CBW94W9P",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 6, 2024",
+                "reviewTitle": "5.0 out of 5 stars Fit and Comfort are amazing!",
+                "reviewText": "I am very hard to fit, since I have wide hips, big thighs and a smaller waist. These jeans fit perfect when I put them on and even after a few washings, no shrinking, no fading\u2026 just perfect comfort.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jennifer L.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEIAVWOBVKJUPVY6BCK4AVSEA2VQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2KZ7CKMY9F6NL?ASIN=B0CBW94W9P",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 10, 2023",
+                "reviewTitle": "1.0 out of 5 stars Looks different than the picture",
+                "reviewText": "I like the color and the fit, but the legs look something like a clown would wear. They are so much wider than what the picture depicts. I would not purchase these again.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Constance Denning",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGJXMYM7ET66OEWFQSPU3JKQXNCQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1JKUYRQSXAOTB?ASIN=B0CBW94W9P",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 22, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great for curvy girls",
+                "reviewText": "As someone who is pear shaped with a smaller waist and full hip and thigh these are a great find. They fit beautifully, great quality, nice weight of denim. Highly recommend! Just wish they came in a dark wash denim.",
+                "reviewVotes": "8 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Camille",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 13, 2024",
+                "reviewTitle": "Real",
+                "reviewText": "These are real jeans, wide leg and they wash without shrinking.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "DA",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 18, 2023",
+                "reviewTitle": "True to size.",
+                "reviewText": "True to size. Good quality.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kindle Customer",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Australia on September 25, 2023",
+                "reviewTitle": "Happy with the jeans and the delivery",
+                "reviewText": "These jeans are a great quality denim and well made. They fit perfectly except for being too long despite being the petite size (like any jeans that I buy) I will be looking for another pair I think",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kayleigh DeGraw",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 29, 2024",
+                "reviewTitle": "These are VERY long",
+                "reviewText": "I ordered these jeans in a long since I\u2019ve always had issues with wide leg pants being too short for me. I\u2019m a tall girl (6\u2019) and when I tell you my feet were SWIMMING in the extra length. It was too much to work around so I just ended up getting them tailored. I ordered the black pair in regular and even those were quite long. Other than the length, these jeans are a good fit. I\u2019m a 24/26 and I ended up ordering them in a 26 and they\u2019re almost too big for me. If you are ordering these and pants are normally slightly too short for you, you might want to look into the normal ones first.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Dspera",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 21, 2023",
+                "reviewTitle": "Tall was way too long",
+                "reviewText": "I am 5\u201910\u201d and the tall was way too long. When i purchased the regular length they were perfect",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

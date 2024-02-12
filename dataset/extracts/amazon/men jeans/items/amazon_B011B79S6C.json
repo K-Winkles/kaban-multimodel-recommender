@@ -1,0 +1,826 @@
+{
+    "remaining_requests": 15875,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Cinch-Silver-Label-Performance-Stonewash/dp/B011B79S6C",
+    "body": {
+        "name": "Cinch Men's Silver Label Slim-Fit Jean",
+        "price": "$53.86 - $77.94",
+        "originalPrice": "",
+        "rawPrice": 53.86,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Cinch-Mens-Silver-Label-Slim-Fit/dp/B00PH3I33Q",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B00PH3I33Q"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B00FER40IC",
+                "variationName": "Color",
+                "variationValue": "Dark Stone Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Nhm1Xp9dL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07HCDKT7P",
+                "variationName": "Color",
+                "variationValue": "Indigo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51ziU3Bqi0L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B011B79SGW",
+                "variationName": "Color",
+                "variationValue": "Performance Dark Stonewash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41NyOWpMmtL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07G67GVTK",
+                "variationName": "Color",
+                "variationValue": "Dark Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41nNoLOhDzL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07DWJWMXN",
+                "variationName": "Color",
+                "variationValue": "Medium Stone Wash",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZhTO9x4aL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07H5K2BQ8",
+                "variationName": "Color",
+                "variationValue": "Dark Stone",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41nNoLOhDzL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B07R2BF773",
+                "variationName": "Size",
+                "variationValue": "26W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B77LW0",
+                "variationName": "Size",
+                "variationValue": "26W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FERJ118",
+                "variationName": "Size",
+                "variationValue": "26W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FERJ582",
+                "variationName": "Size",
+                "variationValue": "26W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07ZC26L2L",
+                "variationName": "Size",
+                "variationValue": "26W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07Q4LCMRQ",
+                "variationName": "Size",
+                "variationValue": "27W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07JBBF77M",
+                "variationName": "Size",
+                "variationValue": "27W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H63D14K",
+                "variationName": "Size",
+                "variationValue": "27W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HG7VWLJ",
+                "variationName": "Size",
+                "variationValue": "27W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B77U6M",
+                "variationName": "Size",
+                "variationValue": "27W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07YR6PRZ4",
+                "variationName": "Size",
+                "variationValue": "27W x 38L Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07MGYBFRT",
+                "variationName": "Size",
+                "variationValue": "28W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B77U44",
+                "variationName": "Size",
+                "variationValue": "28W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER3RD6",
+                "variationName": "Size",
+                "variationValue": "28W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HCDKT7P",
+                "variationName": "Size",
+                "variationValue": "28W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B77U3A",
+                "variationName": "Size",
+                "variationValue": "28W x 36L Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07H5KP25K",
+                "variationName": "Size",
+                "variationValue": "28W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR9YY1J",
+                "variationName": "Size",
+                "variationValue": "29W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07JBD4YTY",
+                "variationName": "Size",
+                "variationValue": "29W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER4A3W",
+                "variationName": "Size",
+                "variationValue": "29W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B791BY",
+                "variationName": "Size",
+                "variationValue": "29W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKTKCVW",
+                "variationName": "Size",
+                "variationValue": "29W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FTMV4CH",
+                "variationName": "Size",
+                "variationValue": "30W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B796V4",
+                "variationName": "Size",
+                "variationValue": "30W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER4LFO",
+                "variationName": "Size",
+                "variationValue": "30W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER4MGW",
+                "variationName": "Size",
+                "variationValue": "30W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B796UA",
+                "variationName": "Size",
+                "variationValue": "30W x 36L Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07F6ZZTSN",
+                "variationName": "Size",
+                "variationValue": "30W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FTJJD7N",
+                "variationName": "Size",
+                "variationValue": "31W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER4PO6",
+                "variationName": "Size",
+                "variationValue": "31W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GS8YRGY",
+                "variationName": "Size",
+                "variationValue": "31W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GQZ2HWS",
+                "variationName": "Size",
+                "variationValue": "31W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER4VN6",
+                "variationName": "Size",
+                "variationValue": "31W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HD8L91T",
+                "variationName": "Size",
+                "variationValue": "32W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B79DQ2",
+                "variationName": "Size",
+                "variationValue": "32W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER4YQK",
+                "variationName": "Size",
+                "variationValue": "32W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B79EBG",
+                "variationName": "Size",
+                "variationValue": "32W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER56C6",
+                "variationName": "Size",
+                "variationValue": "32W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B79LU0",
+                "variationName": "Size",
+                "variationValue": "33W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B79M8Q",
+                "variationName": "Size",
+                "variationValue": "33W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B79LEG",
+                "variationName": "Size",
+                "variationValue": "33W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER5SC4",
+                "variationName": "Size",
+                "variationValue": "33W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B79LJG",
+                "variationName": "Size",
+                "variationValue": "33W x 36L Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07G63CJ4L",
+                "variationName": "Size",
+                "variationValue": "33W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B79LV4",
+                "variationName": "Size",
+                "variationValue": "34W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B79LPU",
+                "variationName": "Size",
+                "variationValue": "34W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B79S6C",
+                "variationName": "Size",
+                "variationValue": "34W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GDLJ446",
+                "variationName": "Size",
+                "variationValue": "34W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B79SMG",
+                "variationName": "Size",
+                "variationValue": "34W x 36L Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER6C88",
+                "variationName": "Size",
+                "variationValue": "34W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FVSYVSD",
+                "variationName": "Size",
+                "variationValue": "35W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HCJCDVR",
+                "variationName": "Size",
+                "variationValue": "35W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER6IAU",
+                "variationName": "Size",
+                "variationValue": "35W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER6O8G",
+                "variationName": "Size",
+                "variationValue": "35W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07JP16QCJ",
+                "variationName": "Size",
+                "variationValue": "35W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FDLT2N7",
+                "variationName": "Size",
+                "variationValue": "36W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER716K",
+                "variationName": "Size",
+                "variationValue": "36W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER75JS",
+                "variationName": "Size",
+                "variationValue": "36W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GR555XZ",
+                "variationName": "Size",
+                "variationValue": "36W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER7ML4",
+                "variationName": "Size",
+                "variationValue": "36W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B7A1QS",
+                "variationName": "Size",
+                "variationValue": "36W x 38L Tall",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GS9NP42",
+                "variationName": "Size",
+                "variationValue": "38W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07FTQQBYG",
+                "variationName": "Size",
+                "variationValue": "38W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00FER7UT8",
+                "variationName": "Size",
+                "variationValue": "38W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GDM4PX8",
+                "variationName": "Size",
+                "variationValue": "38W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07G649HJV",
+                "variationName": "Size",
+                "variationValue": "38W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B7AD8E",
+                "variationName": "Size",
+                "variationValue": "40W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07GH2MR53",
+                "variationName": "Size",
+                "variationValue": "40W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07HKDJ96Z",
+                "variationName": "Size",
+                "variationValue": "40W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B7AIC0",
+                "variationName": "Size",
+                "variationValue": "40W x 38L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07G8DZHFY",
+                "variationName": "Size",
+                "variationValue": "42W x 30L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B011B7AJCY",
+                "variationName": "Size",
+                "variationValue": "42W x 32L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B00GFXOG2O",
+                "variationName": "Size",
+                "variationValue": "42W x 34L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07KN7MWQC",
+                "variationName": "Size",
+                "variationValue": "42W x 36L",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07MW6YB98",
+                "variationName": "Size",
+                "variationValue": "42W x 38L",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/51ziU3Bqi0L.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/5141 arFbpL.jpg"
+        ],
+        "imagesCount": 3,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Brand: Cinch",
+            "link": "https://www.amazon.com/s/ref=bl_sl_s_ap_web_7141123011?ie=UTF8&node=7141123011&field-brandtextbin=Cinch"
+        },
+        "brand": "Cinch",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 1018,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Cotton",
+            "Closure type Button",
+            "Inseam 30 Inches",
+            "Leg style Straight",
+            "13.25 Oz Premium Denim. 100% Cotton",
+            "Zip-Fly With Button Closure",
+            "5 Pocket Design",
+            "Dark Stonewash",
+            "Straight Leg Fit With 17.25&Quot; Leg Opening"
+        ],
+        "description": "Silver label is one cinch's newest additions in a straight leg jean. This jean has a relaxed waist with a mid-rise for all day comfort. Copper oxide cinch embossed rivets, non-ratcheting zipper slider and double stitched reinforced felled seam on the inside of the legs to eliminate chafing. The fitted hip, thigh, and knee end in a straight leg with a 17 1/4 inch opening. The five-pocket, 100 percent cotton denim is pre-shrunk and fits as good tomorrow as it does today.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jeans",
+                "link": "https://www.amazon.com/Mens-Jeans/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045564"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 13 x 9 x 1 inches; 1.4 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e MB98034002"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e July 12, 2017"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Cinch"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07CTFKXCC"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#32,725 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #182 in Men's Jeans"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 1,018 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Kc Truby",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH45TDFQRY2BIXOYDZTEYDRFQDYQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RSV7E8GV2PGSZ?ASIN=B00PH3I33Q",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 24, 2023",
+                "reviewTitle": "5.0 out of 5 stars Good jeans for tall lanky `13 yr old boy",
+                "reviewText": "We've been forced to buy him womens jeans to get the right fit in the past. this pair of young mens jeans worked out perfect. they fit well, look like mens pants and he likes them.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Brian McDonald",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGSSM7E3CWIL6GGNLXUX7XM4XKTA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R248R31IELMXPR?ASIN=B00PH3I33Q",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 9, 2023",
+                "reviewTitle": "5.0 out of 5 stars Cinch Jeans",
+                "reviewText": "Great quality, great fitting jeans. True to size.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Chris Devon",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEHR5L6TNNIEVZNIUBNAKMLI4JUA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1FF2FLGDXKLI7?ASIN=B00PH3I33Q",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on May 14, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great fit",
+                "reviewText": "Great fit. Good stretch. They seem sturdy. Only been wearing them on the horses a couple of months now, but I like them a lot more than the Wrangler Retro that fell apart fast.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Brian Harlin",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGC7E7TSMMIONAQCR77YVIOEGYRQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2J58NS729LSO8?ASIN=B00PH3I33Q",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 13, 2024",
+                "reviewTitle": "5.0 out of 5 stars Quality",
+                "reviewText": "Quality and shipping and receiving time",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Todd Manly",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHRFEE7H32YZMD4RHEW7CFHCAK4Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2EUVRL7XAKZZ2?ASIN=B00PH3I33Q",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 8, 2024",
+                "reviewTitle": "4.0 out of 5 stars Cinch pants",
+                "reviewText": "Didn't fit , Size fits small",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "H Hamilton",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEMX7HKT7KRWA7I7G6ATETV7MLZQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2YR7FV8T7CCML?ASIN=B00PH3I33Q",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 11, 2019",
+                "reviewTitle": "5.0 out of 5 stars Favorite jeans (no longer)",
+                "reviewText": "**Review edit** After belt loops ripping in his last 6 pair, we went on the hunt for a new favorite jean and boy did we find it! Kimes Ranch jeans are worth every extra penny. After months of wearing Kimes and one day not having any clean, hubs wore a pair of Cinch and he came home that day and said, \u201cthese feel like sand paper and I was constantly tugging at them, I\u2019m done\u201d and kindly asked me to donate all of his Cinch and buy a few more pair of Kimes. Superior comfort all around, especially in the waist band, denim fabric is far better quality, designed with little details like a knife pocket, all big wins. Bye bye, Cinch.Original review: Favorite jeans for my husband.Love the dark wash for a dressier look. Nice weight, no stretch, hold up well. No silly pocket design or distressing, just a nice clean classic jean with a modern fit.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHVVF3UY3BZTS3DO2MN3KJETUCDA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R33GR2D34DAUNC?ASIN=B00PH3I33Q",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 1, 2023",
+                "reviewTitle": "5.0 out of 5 stars Always a favorite",
+                "reviewText": "My husband loves the fit of these jeans and they look nice too. You can use them for farm work, running around town, or dress them up for church. You can\u2019t go wrong with Cinch.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Ken",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG7BD2ZABTDZSYLBWNQJDKCUA4HQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2KMAPSFMW1DIJ?ASIN=B00PH3I33Q",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2021",
+                "reviewTitle": "5.0 out of 5 stars Great balance between Denim weight, and comfort",
+                "reviewText": "Sometimes you get a pant that fits well but is just too light for what you want to do in it. This jean is a perfect fit, if you are slim to medium, and has just enough stretch in the waist to fit well, but not be too stretched. This fits like a traditional cowboy jean but somehow is just more comfortable.If you get the darker pair, you will want to laundry them first because the blue dye will transfer to the top of your shoes/boots, and your leather seats in your car, furniture, etc.One wash will do it and you will be good to go. I purchased a pair of these and liked them so well I purchased two more pairs.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Kunde",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on November 29, 2022",
+                "reviewTitle": "Schicke Hose",
+                "reviewText": "Gute Qualit\u00e4t",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Valerie C",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 6, 2020",
+                "reviewTitle": "Material i.e. cotten, blend etc",
+                "reviewText": "I like the product, big difference in price from one size to another,,,did not like that",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "cbusing",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on December 23, 2020",
+                "reviewTitle": "Cinch",
+                "reviewText": "Super jeans past perfekt gute Kwalit\u00e4t! Wird T\u00e4glich zum Reiten benutzt.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Excellent quality. Nice feel and great fit\ud83d\ude00Leo Damnics",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Australia on January 26, 2024",
+                "reviewTitle": "Look great!!",
+                "reviewText": "These jeans are super comfortable and fit really well. The only slight issue is that they aren\u2019t a very heavy denim and are lightweight resulting in some small damage. People pay a fortune for rips in their jeans so who am I to complain?",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "paulk13r",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on May 19, 2018",
+                "reviewTitle": "Best jeans ever",
+                "reviewText": "These are my favourite jeans the fit perfectly every time. They are awesome.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

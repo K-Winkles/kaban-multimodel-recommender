@@ -1,0 +1,647 @@
+{
+    "remaining_requests": 15503,
+    "original_status": 301,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/DC-Mens-Villain-Skate-Shoe/dp/B07PD9XTF1",
+    "body": {
+        "name": "Men's Villain Slip On Low Top Slipper Casual Sneaker Shoe",
+        "price": "$42.85 - $49.25",
+        "originalPrice": "",
+        "rawPrice": 42.85,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/DC-Mens-Villain-Skate-Shoe/dp/B07PD9XTF1",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B07PD9XTF1"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07PGDM368",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31P4vKgOEpL._SS47_.jpg"
+            },
+            {
+                "asin": "B07PD2LMNS",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41bB4DHIn1L._SS47_.jpg"
+            },
+            {
+                "asin": "B09QMTVJZJ",
+                "variationName": "Color",
+                "variationValue": "Military Camo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312+qcbxbdL._SS47_.jpg"
+            },
+            {
+                "asin": "B09QMTS2VG",
+                "variationName": "Color",
+                "variationValue": "Black/Black/White Nubuck",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21jBUhoByAL._SS47_.jpg"
+            },
+            {
+                "asin": "B0838KMVHF",
+                "variationName": "Color",
+                "variationValue": "Charcoal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31DJLpWBFRL._SS47_.jpg"
+            },
+            {
+                "asin": "B0838L4WZ6",
+                "variationName": "Color",
+                "variationValue": "Black/Black/White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21HthuHcoZL._SS47_.jpg"
+            },
+            {
+                "asin": "B0838KHPRT",
+                "variationName": "Color",
+                "variationValue": "Dark Chocolate",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/312210nDVwL._SS47_.jpg"
+            },
+            {
+                "asin": "B09QMTPQ17",
+                "variationName": "Color",
+                "variationValue": "Blue Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41pIowtGQWL._SS47_.jpg"
+            },
+            {
+                "asin": "B09NS36TFV",
+                "variationName": "Color",
+                "variationValue": "Black/Print",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31vRrzBHymL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B2HWHT6R",
+                "variationName": "Color",
+                "variationValue": "Tan",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/318mdOB01cL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B2HV6453",
+                "variationName": "Color",
+                "variationValue": "Black Rinse",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31xZJqzu39L._SS47_.jpg"
+            },
+            {
+                "asin": "B07PD215CN",
+                "variationName": "Color",
+                "variationValue": "Heather Armor",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/414zWdS7a9L._SS47_.jpg"
+            },
+            {
+                "asin": "B09NS1KYRD",
+                "variationName": "Color",
+                "variationValue": "Heather/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41k5X-YwRlL._SS47_.jpg"
+            },
+            {
+                "asin": "B07PDB83Y7",
+                "variationName": "Color",
+                "variationValue": "Black Buffalo Plaid",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31zJL7sl+rL._SS47_.jpg"
+            },
+            {
+                "asin": "B09NS1XKBR",
+                "variationName": "Color",
+                "variationValue": "Black/Armor",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41lUMSLlF2L._SS47_.jpg"
+            },
+            {
+                "asin": "B096YDH7QL",
+                "variationName": "Color",
+                "variationValue": "Black Denim",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31ZDG2zO-eL._SS47_.jpg"
+            },
+            {
+                "asin": "B0B2FMW1M1",
+                "variationName": "Color",
+                "variationValue": "Black/Cement",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41slC+daeML._SS47_.jpg"
+            },
+            {
+                "asin": "B07RT6WC8J",
+                "variationName": "Color",
+                "variationValue": "Grey/White/Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41CR2YRCvkL._SS47_.jpg"
+            },
+            {
+                "asin": "B08C2L2KRT",
+                "variationName": "Color",
+                "variationValue": "Charcoal Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31yVrxpuWRL._SS47_.jpg"
+            },
+            {
+                "asin": "B07PHKKX4K",
+                "variationName": "Size",
+                "variationValue": "5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PGFDKCP",
+                "variationName": "Size",
+                "variationValue": "6",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PD9XTF6",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PD2FN5S",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PJNXSD8",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PDBWFYQ",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PD26XSB",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PBXJ1GV",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PHJCGVT",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PJNSWCG",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PDB5T9S",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PF8FND5",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PDB2L4F",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PDB2P4R",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PGDM368",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PD2LMN5",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PBXJ1H2",
+                "variationName": "Size",
+                "variationValue": "15",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PDB5HJ4",
+                "variationName": "Size",
+                "variationValue": "16",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PF98XHH",
+                "variationName": "Size",
+                "variationValue": "17",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PDBWFWX",
+                "variationName": "Size",
+                "variationValue": "18",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PD2JKQG",
+                "variationName": "Size",
+                "variationValue": "14 D M US",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PF7ZZXR",
+                "variationName": "Size",
+                "variationValue": "16 D M US",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PDBWFY3",
+                "variationName": "Size",
+                "variationValue": "17 D M US",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PD215CN",
+                "variationName": "Size",
+                "variationValue": "6 D M US",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07PDB6SGC",
+                "variationName": "Size",
+                "variationValue": "7 D M US",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B07RVCZY5D",
+                "variationName": "Size",
+                "variationValue": "7.5 D M US",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31P4vKgOEpL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41vJnZ60CgL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31I-AxtYlJL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31N1Iv6nJSL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31E31jCWxCL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/21e5NS-eGsL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31CxT2iZFYL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the DC Store",
+            "link": "https://www.amazon.com/stores/DCShoes/page/7CD019E0-DF6C-4DA0-8606-320B2596EC25?ref_=ast_bln"
+        },
+        "brand": "DCShoes",
+        "merchantInfo": "",
+        "customerReview": "4.4 out of 5 stars",
+        "customerReviewCount": 6270,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type Fabric-and-synthetic",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Sole material Rubber",
+            "COMFORT: The lightweight Unilite outsole and moc-toe stitching provide comfort and durability; Ventilation holes help your feet breathe after sessions at the skatepark, or on the way to class, work, or to hangout with friends",
+            "UPPER: The Villain upper is constructed with leather, nubuck, or suede and feature the DC Logo; Match the Villains back with DC tees, hats, fleece hoodies, shirts, pants, jackets, and more",
+            "OUTSOLE: Our Villain is contructed with a Unilite outsole that provides maximum comfort while being extremely lightweight.",
+            "VILLAIN: The classic slip-on silhouette is always evolving with on-trend colors and new materials and comfort that are easy to wear while working from home or heading to school",
+            "DC SHOES: We\u2019re passionate about skateboarding and we spend as much time on our skateboards as we do in the design lab so that we can always be ahead of the trends when it comes to knowing what skateboarders need to perform at their best"
+        ],
+        "description": "Since 1994, DC Shoes has been committed to progression\u2014from game-changing skate shoes to supporting the most groundbreaking skateboarders and snowboarders on the planet. We\u2019re always pushing innovation in the streets, on the mountains and everywhere in between.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/Mens-Shoes/b?ie=UTF8&node=679255011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Mens-Sneakers/b?ie=UTF8&node=6127770011"
+            },
+            {
+                "name": "Skateboarding",
+                "link": "https://www.amazon.com/Mens-Skateboarding-Shoes/b?ie=UTF8&node=679295011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 10 x 15 x 6 inches; 7.6 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e ADYS100567-BL0"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e March 9, 2019"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e DC"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07PHKKX4K"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#19,173 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #5 in Men's Skateboarding Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.4 4.4 out of 5 stars 6,270 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "About Us Since 1994, DC Shoes has been committed to progression\u2014from game-changing skate shoes to supporting the most groundbreaking skateboarders and snowboarders on the planet. We\u2019re always pushing innovation in the streets, on the mountains and everywhere in between. Designed, tested and inspired by our pro skate and snow teams, DC products are geared towards supporting the needs of our top pros, but with the everyday athlete in mind. This is where style meets performance. This is where durability meets affordability. This is DC Shoes.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media/sota/ee2ea606-0b36-4625-9f0f-798b33564741.__CR0,0,300,300_PT0_SX300_V1___.png"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media/sota/ee2ea606-0b36-4625-9f0f-798b33564741.__CR0,0,300,300_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/5ed7d567-e012-4d3b-983d-614e460518d1.__CR0,0,300,300_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/7ed317d3-8edf-497c-9005-024c3c8ef590.__CR0,0,300,300_PT0_SX300_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media/sota/7cdb4332-f6dd-4225-bca3-9c0b0fb2da81.__CR0,0,300,300_PT0_SX300_V1___.png"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Van",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHYDDO6PQWFARS6ELFT7TQF2V2ZA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R39XO014XFIB04?ASIN=B07PD9XTF1",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on August 13, 2023",
+                "reviewTitle": "5.0 out of 5 stars Stylish and Edgy: DC Men's Villain Shoes",
+                "reviewText": "I recently got my hands on the DC Men's Villain Shoes, and I must say, they've exceeded my expectations in more ways than one. As a fan of both comfort and style, these shoes tick all the right boxes.First and foremost, the design is what caught my attention. The edgy yet sophisticated look of the Villain Shoes is perfect for those who want to make a statement with their footwear. The combination of textures and the signature DC logo give these shoes a distinct and modern appeal. They easily transition from casual outings to slightly dressier occasions, adding a touch of flair to any outfit.But it's not just about appearances. The comfort level of these shoes is truly impressive. The padded collar and cushioned insole provide excellent support, making these shoes a joy to wear even for extended periods. Whether I'm walking around the city or spending a day on my feet, my feet feel pampered and well-supported.Another noteworthy feature is the slip-on design. It's incredibly convenient and adds an element of ease to putting on and taking off the shoes. This feature has quickly made the Villain Shoes my go-to choice when I'm in a rush or simply looking for hassle-free footwear.Durability is always a concern with shoes, and I'm happy to report that these shoes have held up remarkably well. The quality craftsmanship is evident in every stitch and detail, ensuring that they withstand daily wear and tear without showing signs of deterioration.In terms of sizing, I found that the shoes run true to size. However, if you're someone who prefers a snug fit, you might consider going half a size down.In conclusion, the DC Men's Villain Shoes offer a winning combination of style, comfort, and durability. These shoes have quickly become a staple in my wardrobe, and I can confidently recommend them to anyone in search of footwear that's both fashionable and functional. Whether you're a DC fan or simply appreciate well-crafted shoes, the Villain Shoes are a must-have.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Shane Swartz",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEKGVQZQCUZIJEL3USSS4LLM2SFA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RI02MAZVWQUJ8?ASIN=B07PD9XTF1",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Third pair, and not my last!",
+                "reviewText": "I absolutely love these shoes, as they're so convenient and comfy. I can just slide them on and go about my day w/o any concerns. They stay pretty well put together, but since they're bright white keeping them clean can be a challenge. I just use a little dish soap on a small rag and they shine bright again afterwards. Love my DC's!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE32FZJ7IVTMZ5JK4YKHSGHWRLDA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R14CIG48FMALD0?ASIN=B07PD9XTF1",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 21, 2023",
+                "reviewTitle": "5.0 out of 5 stars Comfortable, lightweight, look great!",
+                "reviewText": "I love the way they look fit and feel. They look very nice. The durability isn't the greatest on them. I can tell they won't last a super long time. They are decently comfortable. They are not super expensive either so yeah...Overall...Definitely decent.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jacob Scott",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEDX24YUKP3BZX2FHGHQPUKSHQGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3F4OW7L79K5QI?ASIN=B07PD9XTF1",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on March 15, 2023",
+                "reviewTitle": "4.0 out of 5 stars Something just feels off",
+                "reviewText": "I've gotten both the solid white and solid black pair, the solid white pair feels great in both quality and how they fit on my feet, I can wear them on my more casual days at work and stand in them for 8+ hours and be comfortable. The black pair I received feel generic, like the materials are poorer quality, the overall show feels light which isn't neccesarily a bad thing. The black pair is also more narrow for some reason and puts pressure on my little toes in each shoe.Overall not awful but could be better especially for the price. I'll more than likely just buy my next pair in person from a shoe store.",
+                "reviewVotes": "4 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Stefanie S.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFWMLNW2EYFPKZIIFHD4FRWL3XOQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R26PXILAU41FCM?ASIN=B07PD9XTF1",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Hubby Loves Them!",
+                "reviewText": "Got these for my husband for Christmas, he needed news ones as his old ones were worn out. I didn't feel like ordering from Vans directly, plus you have to pay shipping. These came just in time also with some to spare. He loves the color & how comfy they are!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Kelly Patterson",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AER3NG5J6CUN6OX6QOA5BH2YIKJQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R212UB1AOFBF1T?ASIN=B07PD9XTF1",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 1, 2024",
+                "reviewTitle": "5.0 out of 5 stars Favorite House Shoe",
+                "reviewText": "These are my boyfriends favorite shoes to wear around the house. Super comfy. Fit as expected. We reorder them when they need to be replaced, but they last a very long time.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jasterski",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEGNHCAYRP5SMUTHUCA6XLODFW7A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RVW9DB6JZY292?ASIN=B07PD9XTF1",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 17, 2023",
+                "reviewTitle": "3.0 out of 5 stars I used to love these shoes. Now they are narrow and cheap material",
+                "reviewText": "Ive worn dozens of these in every pattern in the last 20 yrs. But now they are making them cheaper. Different material for the soles. The shoes used to be wider. Now they are insanely narrow. So not get if you have wide feet, period.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Lore Bradshaw",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHTPJ5BEFCMCJQKYBCMJ744BUPVQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RQXSBOKH2KXD2?ASIN=B07PD9XTF1",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 25, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good value for the price!",
+                "reviewText": "Shoes fit true to size and are very comfortable. I would buy them again.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Katelynn",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 27, 2024",
+                "reviewTitle": "Good quality",
+                "reviewText": "Very nice!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "isaac",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 10, 2024",
+                "reviewTitle": "Buenos shoes.",
+                "reviewText": "Muy c\u00f3modos.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "roger ulrich",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on September 20, 2023",
+                "reviewTitle": "Good product",
+                "reviewText": "Good looking loafer good quality fits rights",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Leia Kittler",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on August 8, 2023",
+                "reviewTitle": "Nice Shoes",
+                "reviewText": "Really nice shoes but had to return due to size issues. The same style was not available in the size I needed for the same cost",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Eduardo P.Eduardo P.",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on July 26, 2023",
+                "reviewTitle": "Calzado comodo",
+                "reviewText": "El calzado es ligero, yo digo que para sacarse de la duda apenas pedir un numero medio mas, yo los pedi del #7 mexicano y me quedaron bien, solo que no vienen amplios, supongo que con el tiempo se haran mas aguados (el calzado de por si ya se amolda muy bien), no le pongo ningun pero, los compre para mi trabajo (soy enfermero) ya que parecen zapatos clinicos y lo aparentan muy bien con el uniforme y el precio esta super accesible.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61RqwFP52hL.jpg"
+                    ],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

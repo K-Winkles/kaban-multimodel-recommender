@@ -1,0 +1,310 @@
+{
+    "remaining_requests": 47423,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/ElecLab-Raspberry-Touchscreen-Capacitive-1280x400/dp/B09YJ37SBH",
+    "body": {
+        "name": "ElecLab 7.4 Inch 1280x400 Touchscreen Monitor HDMI Capacitive LCD Display Speaker Case for RPI 4B 3B+ 3B 3A+ 2B B+",
+        "price": "$39.99",
+        "originalPrice": "$44.99",
+        "rawPrice": 39.99,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/ElecLab-Raspberry-Touchscreen-Capacitive-1280x400/dp/B09YJ37SBH",
+        "soldBy": {
+            "sellerID": "A2R7GQQ2S5IRDV",
+            "name": "ElecLab-us",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2R7GQQ2S5IRDV&asin=B09YJ37SBH&ref_=dp_merchant_link&isAmazonFulfilled=1"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B09YJ5C9WD"
+        ],
+        "asinVariationValues": [],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31cuXQyYQqL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51OweUBjJWL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51RKzF78FKL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31opXTko1lL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41ixiyjFC6L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51GoHNqv0QL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/61Ssn 04 ZL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/de9d5dbd-bdce-4fb1-82f6-9fa209632a00/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Brand: ElecLab",
+            "link": "https://www.amazon.com/ElecLab/b/ref=bl_dp_s_web_38745905011?ie=UTF8&node=38745905011&field-lbr_brands_browse-bin=ElecLab"
+        },
+        "brand": "ElecLab",
+        "merchantInfo": "ElecLab-us",
+        "customerReview": "3.8 out of 5 stars",
+        "customerReviewCount": 70,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Friday, February 16",
+            "Or fastest delivery Tuesday, February 13. Order within 3 hrs 14 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "This display is suitable for use with X86 PCs and RPI 4B 3B+ 3B 3A+ 2B B+ or other devices capable of outputting 1280x400 resolution.The MCU firmware of the display can be updated via USB, please refer to electlab-rpi/Display_Firmware on github.",
+            "The factory original size of the LCD screen is 7.36\", and the effective display area is 7.029x2.196 inches.HDMI interface 7.4 inch IPS LCD 1280x400 native horizontal screen with 5 point capacitive touch screen.The RPI board can be installed through the 4 positioning holes on the back of the display.It can also be used as a second HDMI display for a computer.",
+            "The brightness of the display can be adjusted through the side brightness potentiometer.(The current is 1A at 10 levels of maximum brightness, and 0.5A at 5 levels of brightness.)",
+            "Integrate 2x3W speakers, the volume can be adjusted by software.(The current is about 1A at the maximum volume.)",
+            "Comes with 2 stands. STL files and CAD files are ready on github under the project eleclab-rpi/7INCH4_HDMI_1280x400."
+        ],
+        "description": "Features and Specs The 7.4\" 1280*400 LCD display is an IPS LCD display which connects to the RPI through the HDMI FPC cable. It has 5 point capacitive touchscreen and connects to RPI1,2,3 via PI3 USB board or to RPI4 via PI4 USB board.. It has 2x3W speakers. It is compatible with X86 PC and RPI 1 model A+ B+/ PI 2 model B/PI 3 model A+ B B+/PI 4 model B nd 2B. It is powered by the USB TypeC socket and the RPI is powered by the display. Connect RPI1,2,3 with micro usb board, and connect RPI4 with USB Typec board.. Package Includes 1 x 7.4 inch hdmi display 1 x TypeC USB cable 4 x pcb(micro usb power board, typeC usb power board, usb board for RPI3, usb board for RPI4) 1 x XH2.54 2Pin cable 1 x touch pen 8 x M2.5x5 screw 4 x M2.5x10 screw 1 x HDMI FPC cable for RPI1,2,3 1 x Micro HDMI FPC cable for RPI4 1 x straight screwdriver 2 x Stand 1 x user manual How to set when Raspbian is not showing When use RPI4, make sure that VC4-KMS-V3D is prohibited in config.txt #dtoverlay = VC4-KMS-V3D Connect to RPI, hdmi_drive must be set to 1 Modify /boot/config.txt hdmi_force_hotplug=1 hdmi_ignore_edid=0xa5000080 hdmi_group=2 hdmi_mode=87 hdmi_timings=1280 0 64 2 18 400 0 10 3 42 0 0 0 60 0 37330000 3 hdmi_drive=1",
+        "breadCrumbs": [
+            {
+                "name": "Electronics",
+                "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_aui_C_1?ie=UTF8&node=172282"
+            },
+            {
+                "name": "Computers & Accessories",
+                "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_aui_C_2?ie=UTF8&node=541966"
+            },
+            {
+                "name": "Monitors",
+                "link": "https://www.amazon.com/Monitors-Computers-Accessories/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1292115011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions",
+                "value": "7.76 x 2.99 x 0.79 inches"
+            },
+            {
+                "name": "Item Weight",
+                "value": "1.12 pounds"
+            },
+            {
+                "name": "Manufacturer",
+                "value": "ElecLab"
+            },
+            {
+                "name": "ASIN",
+                "value": "B09YJ37SBH"
+            },
+            {
+                "name": "Country of Origin",
+                "value": "China"
+            },
+            {
+                "name": "Item model number",
+                "value": "IF-CNHY-42V3"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "3.8 3.8 out of 5 stars 70 ratings 3.8 out of 5 stars"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#33,819 in Electronics (See Top 100 in Electronics) #850 in Computer Monitors"
+            },
+            {
+                "name": "Date First Available",
+                "value": "April 21, 2022"
+            },
+            {
+                "name": "Standing screen display size",
+                "value": "7.4 Inches"
+            },
+            {
+                "name": "Aspect Ratio",
+                "value": "32:9"
+            },
+            {
+                "name": "Resolution",
+                "value": "1280x400 Pixels"
+            },
+            {
+                "name": "Screen Size",
+                "value": "7.4 Inches"
+            },
+            {
+                "name": "Display Resolution Maximum",
+                "value": "1280x400 Pixels"
+            },
+            {
+                "name": "Brand",
+                "value": "ElecLab"
+            },
+            {
+                "name": "Special Feature",
+                "value": "\u8d85\u5bbd\u5c4f"
+            },
+            {
+                "name": "Refresh Rate",
+                "value": "60 Hz"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "ArielAriel",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AENJJECUK4YEQ2HEMKCHRDAQAC4A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3FK4WO1XBSBF8?ASIN=B09YJ37SBH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on November 21, 2023",
+                "reviewTitle": "5.0 out of 5 stars Great, product, great email support",
+                "reviewText": "I changed my review from 4 to 5 stars. Despite the poor documentation It's a great display, with great great picture quality, resolution and touch screen. Perfect for a Volumio local interface. The documentation is bad, very bad. Almost all the info is there but it's not presented or written in a user friendly way. The directions for downloading the STL files for a printable case for a Raspberry Pi specify the online folder but not the main url. Some files are missing like the case back with fan openings for an RPi the PNG files are there but no STL, hopefully they will fix soon. Installation was straightforward despite the poor instructions. Once you modify your config.txt which was properly documented though one line was in red in the docs, not sure why, maybe optional, and then figure out their bad docs on the cabling the display came up smoothly. It appears to have built in speakers which I am not using, has a nice acrylic case though it's not open in the back to attach the FPC cables, so I have to print a case or take my dremel out.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/717k24ttdSL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "H. Liang",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG73QE4D6EBKG2AOR7XIEIVDSY6Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R13A10S607JBKW?ASIN=B09YJ37SBH",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 23, 2023",
+                "reviewTitle": "4.0 out of 5 stars Value small wide display",
+                "reviewText": "The transparent green acrylic case mine came in is quite attractive, but the feet to prop it up are not level or adjustable, and the kit doesn't even come with the right screw size for them. They have STLs for printing your own case on their Github, but I'll probably make a custom design to replace those feet because I really like the look of the acrylic.As for the screen itself, it's surprisingly functional. The touch screen does not work super well with multiple monitors, as it sometimes becomes associated with the wrong display. However, the picture quality is solid, and the brightness adjusts to be bright enough for most setups. The bezel is rather large and bulky, but for the price point, that's part of the tradeoff you're making.Overall a positive unboxing experience. There are definitely little improvements that can be made here or there, but any PC or SBC tinkerer can easily take something like this and do a number of fun projects with it.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "TravisTravis",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEWACGYE6K6G2Y5IFRZVHEXM5CYA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R28OPHFFJLQINN?ASIN=B09YJ37SBH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 13, 2023",
+                "reviewTitle": "5.0 out of 5 stars Perfect Screen for my needs",
+                "reviewText": "So far I'm absolutely impressed with this little screen especially for the price ($50). I purchased it to use as a standalone display for my Raspberry Pi as well as a secondary screen for Discord that sits underneath my primary monitor. It works almost perfectly for both of those purposes, the biggest feature that could make it better would be an HDMI input selector, as far as I know there is none.The display itself looks great and text is very readable even with the small size. The touchscreen seems to function adequately when using it with the Pi. The 3D printed case is pretty nice. It's sturdy and gets the job done but you can see in the picture some minor warping of the plastic. Mine also came with lower-profile stands that seem a lot nicer than those pictured in the description. The speakers are there. They don't sound amazing but they function and that's good enough for my needs. The whole kit was packaged nicely and included all the parts needed to connect either a Raspberry Pi 1, 2, 3 or 4. Overall I think this was an amazing deal for what's included and I'm glad I went with this screen among all the other options.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71-a0MVnsyL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71942RMbgGL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71tucTYk2RL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Steven B.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGX5R5CU4GIOIGK3OEZVQIPRW77Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2J3XPEN2K2FOW?ASIN=B09YJ37SBH",
+                "reviewRating": "1.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on April 21, 2023",
+                "reviewTitle": "1.0 out of 5 stars Dead on Arrival pretty much",
+                "reviewText": "Managed to get it to light up and working once for about 5 seconds before the screen got all pixelated and the led went red. Disappointing, because I really liked the sturdiness of the product ..... If only it worked.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "J. D.J. D.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGD3WGD6QKBUFD5CXQ2QR3DOBXCQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1YHRFI5KKU0AX?ASIN=B09YJ37SBH",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 13, 2022",
+                "reviewTitle": "5.0 out of 5 stars Great Project Screen With a Few Limitations",
+                "reviewText": "I bought the 1600*480 version. First, this is not a finished product. It is a component. I don't think some of the reviews are fair in this regard. Second, mine works perfectly. You do have to follow the instructions in the description about the boot.txt file to get your raspberry pi to display properly. I have got it running correctly in Windows (plug and play), Rasbian (follow the instructions for the pi4 even on a pi3), Volumio, and Moodeaudio. I am using a pi 3b. The photo shows Volumio running with custom CSS.The pi mounts well to the screen, but you do have to take time to align the components. I am running an extension cable from the pi to a digital output board. The way the pi mounts, it would be difficult to plug in the output since they would face downward.As for support, the manual is light. It's enough to get going, but not an all inclusive document to give detail for in depth tinkering. I did contact the manufacturer for the step files of the case and I was sent the files quickly and with a personal note. The case in the photo was made by me from the files they sent.As for things I would change? I would like more documentation. Things like max voltage, max amps on 5v output, ways to power the screen other than the USB C, etc. It would be nice to mount the pi separately, but the included connectors really require the pi to be mounted to the screen. Also, it would be nice if while using the internal HDMI input, the external HDMI could be used as an output (wishful, I know)As for picture quality, I am impressed. Zero bad pixels, very bright. The speakers aren't very good, but that's really not the point. Touch works fine. Menu system works well.Another down side (but not actually an issue with the product) is that some software is not designed for such a wide screen. Both Volumio and Moodeaudio require custom CSS to display correctly - but that's part of the fun, right?I would purchase again.",
+                "reviewVotes": "17 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/717xeEGfGlL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81T6LsehVbL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Private",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEGBNRFWMOWOU6OGYRKRG57Z5KHQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R19QAB73HC0SQ9?ASIN=B09YJ37SBH",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 17, 2023",
+                "reviewTitle": "3.0 out of 5 stars Watch out for debris in the display",
+                "reviewText": "I don't have time to upload the photos, but if you see something that looks like a dead pixel on one of these, with the power off, check it under magnification. The first one I received works great, but what I thought was something wrong with the protective film on the display turned out to be a relatively large piece of debris stuck between the outer glass and inner display. This is very noticeable and looks like poor QA. I am returning this one and ordered a replacement... hoping this next one doesn't have any issues because I already wasted three hours of my limited free time on this one.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jack lee",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "2.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 13, 2022",
+                "reviewTitle": "Seller not truthful about the original size of the screen. The black straps around take Bot 20 %.",
+                "reviewText": "Actual screen size 20 % less than the mentioned measurements. That means actual screen size, leaving the black stripe in only 80% of the mentioned measurements. Advice to the seller please say the truth. Avoid confusion in future. I'm giving 2 star because the seller is not truthful about the product description. I encourage the viewers also to check what they advise and what they offer.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Daniel",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United Kingdom on January 19, 2024",
+                "reviewTitle": "Handy little device",
+                "reviewText": "Might be slightly too wide for some applications but the touchscreen works wonders",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

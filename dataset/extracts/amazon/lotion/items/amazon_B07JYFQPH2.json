@@ -1,0 +1,687 @@
+{
+    "remaining_requests": 23541,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Victorias-Secret-Fragrance-Lotion-Vanilla/dp/B07JYFQPH2",
+    "body": {
+        "name": "Victoria's Secret Bare Vanilla Nourishing Hand & Body Lotion",
+        "price": "$15.49",
+        "originalPrice": "$19.95",
+        "rawPrice": 15.49,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Victorias-Secret-Fragrance-Lotion-Vanilla/dp/B07JYFQPH2",
+        "soldBy": {
+            "sellerID": "A2HECHJK1OLBGZ",
+            "name": "Victoria's Secret",
+            "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2HECHJK1OLBGZ&asin=B07JYFQPH2&ref_=dp_merchant_link&isAmazonFulfilled=1"
+        },
+        "deliveredBy": "",
+        "parentAsin": [
+            "B08S3RS41S"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B07T4L651X",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/3104+MQ69rL._SS36_.jpg"
+            },
+            {
+                "asin": "B01MY5S4N4",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21mH+MJbs8L._SS36_.jpg"
+            },
+            {
+                "asin": "B016APNUQO",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21nV3T6dn+L._SS36_.jpg"
+            },
+            {
+                "asin": "B0BKHB81DV",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41WhwhXic0L._SS36_.jpg"
+            },
+            {
+                "asin": "B0B3Y71V7D",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21AMwn5zZ-L._SS36_.jpg"
+            },
+            {
+                "asin": "B07JYFQPH2",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31k-mysfHJL._SS36_.jpg"
+            },
+            {
+                "asin": "B09HR2798J",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31uySD1L4XL._SS36_.jpg"
+            },
+            {
+                "asin": "B0CPGC6G5X",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31vEOPfiV-L._SS36_.jpg"
+            },
+            {
+                "asin": "B09V1SCHFZ",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21hEQSqy5sL._SS36_.jpg"
+            },
+            {
+                "asin": "B0B55H7C58",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21-s2l4t+eL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BGQJ8G5F",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31szdn0R+uL._SS36_.jpg"
+            },
+            {
+                "asin": "B09TWXK73W",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31VTaZqb-0L._SS36_.jpg"
+            },
+            {
+                "asin": "B079WBZZQC",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21W9Uu9sVmL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BR83XPXJ",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41noVILPKbL._SS36_.jpg"
+            },
+            {
+                "asin": "B00VXTZ8OK",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/319SK0vl3lL._SS36_.jpg"
+            },
+            {
+                "asin": "B08X7HDST8",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31I-SFaBzCL._SS36_.jpg"
+            },
+            {
+                "asin": "B00J4XYN1Q",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31YeDAEXUCL._SS36_.jpg"
+            },
+            {
+                "asin": "B08VW4ZH1R",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XUO8kS6zL._SS36_.jpg"
+            },
+            {
+                "asin": "B09TWTQHNK",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21atG5fnCGL._SS36_.jpg"
+            },
+            {
+                "asin": "B09TWTF76M",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21cVrm9XPbL._SS36_.jpg"
+            },
+            {
+                "asin": "B07JYD632P",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Ur3GpIH9L._SS36_.jpg"
+            },
+            {
+                "asin": "B08Z48KTBZ",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/318vtdb4URL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BRJPGTRM",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21dQ9dtQbdL._SS36_.jpg"
+            },
+            {
+                "asin": "B09V2C9162",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31gNZpmVmGL._SS36_.jpg"
+            },
+            {
+                "asin": "B0058RVR6G",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31aC9ZEPPCL._SS36_.jpg"
+            },
+            {
+                "asin": "B00VXTZAHU",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31znZGtfBkL._SS36_.jpg"
+            },
+            {
+                "asin": "B07T2DXLCS",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31JNcLwv6YL._SS36_.jpg"
+            },
+            {
+                "asin": "B0056QPDF0",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31YOV5xcicS._SS36_.jpg"
+            },
+            {
+                "asin": "B0BRJMYSF6",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31BCwHHY3GL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BQYVV7WN",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31zLkEkctRL._SS36_.jpg"
+            },
+            {
+                "asin": "B09V1RC94N",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31WlN2WcU1L._SS36_.jpg"
+            },
+            {
+                "asin": "B09TDK5JZL",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31uGcLYXIfL._SS36_.jpg"
+            },
+            {
+                "asin": "B09V1QC4XD",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31jt6oAc1oL._SS36_.jpg"
+            },
+            {
+                "asin": "B01B3AWP9E",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/310RCEajKvL._SS36_.jpg"
+            },
+            {
+                "asin": "B0BRJN4M6S",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/319ELxwlGXL._SS36_.jpg"
+            },
+            {
+                "asin": "B000UMJZ1S",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31G0i4FkdPL._SS36_.jpg"
+            },
+            {
+                "asin": "B07JQYTRWM",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31PI-UdLTLL._SS36_.jpg"
+            },
+            {
+                "asin": "B016NGARD4",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/21SAG7DkNDL._SS36_.jpg"
+            },
+            {
+                "asin": "B01N5FQHYJ",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31dZnYXyzAL._SS36_.jpg"
+            },
+            {
+                "asin": "B09TD72BGH",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31Mj7rYUFgL._SS36_.jpg"
+            },
+            {
+                "asin": "B08M1WN98H",
+                "variationName": "Scent",
+                "variationValue": "",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31QztF6rrTL._SS36_.jpg"
+            }
+        ],
+        "isPrime": true,
+        "inStock": true,
+        "maximumQuantity": "30",
+        "stockDetail": "In Stock",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31k-mysfHJL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/41fULf81hML.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31xVDq4lnoL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/11MsPxp2n0L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31sx0klvqoL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/418pO3yxF4L.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41Iemq86k4L.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [],
+        "videosCount": 0,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "https://m.media-amazon.com/images/I/B1t34Lwhg2L.pdf",
+            "userManualLink": "https://m.media-amazon.com/images/I/B1t34Lwhg2L.pdf"
+        },
+        "byLineInfo": {
+            "name": "Visit the Victoria's Secret Store",
+            "link": "https://www.amazon.com/stores/VictoriasSecret/page/030CE456-12F1-493F-88B6-CB5F1028113E?ref_=ast_bln"
+        },
+        "brand": "VictoriasSecret",
+        "merchantInfo": "Victoria's Secret",
+        "customerReview": "4.6 out of 5 stars",
+        "customerReviewCount": 13343,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [
+            "FREE delivery Monday, February 19 on orders shipped by Amazon over $35. Order within 59 mins",
+            "$4.99 delivery Tuesday, February 27.",
+            "Or fastest delivery Friday, February 16. Order within 13 hrs 59 mins.",
+            "FREE pickup Monday, February 19 on orders shipped by Amazon over $35",
+            "Or fastest pickup Friday, February 16. Order within 59 mins"
+        ],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Smells like whipped vanilla, soft cashmere, and skin to skin.",
+            "Our fast-absorbing, fragrance lotion with 24-Hour Moisture is perfect for hands and body.",
+            "Layer on top of matching Bare Vanilla Mist for a long-lasting fragrance experience.",
+            "Discover The Mist Collection. Scents that celebrate all that's individual, unique and of the moment. Shop Amber Romance, Pure Seduction, Velvet Petals, Love Spell, Midnight Bloom, Coconut Passion, and Aqua Kiss.",
+            "Fragrance Style: Gourmand"
+        ],
+        "description": "",
+        "breadCrumbs": [
+            {
+                "name": "Beauty & Personal Care",
+                "link": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/ref=dp_bc_aui_C_1?ie=UTF8&node=3760911"
+            },
+            {
+                "name": "Skin Care",
+                "link": "https://www.amazon.com/Skin-Body-Face-Products/b/ref=dp_bc_aui_C_2?ie=UTF8&node=11060451"
+            },
+            {
+                "name": "Body",
+                "link": "https://www.amazon.com/Body-Skin-Care-Products-Beauty/b/ref=dp_bc_aui_C_3?ie=UTF8&node=11060521"
+            },
+            {
+                "name": "Moisturizers",
+                "link": "https://www.amazon.com/Body-Moisturizers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=11060661"
+            },
+            {
+                "name": "Lotions",
+                "link": "https://www.amazon.com/Body-Lotions/b/ref=dp_bc_aui_C_5?ie=UTF8&node=14024031"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Is Discontinued By Manufacturer \u200f",
+                "value": "\u200e No"
+            },
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 1.75 x 1.75 x 8 inches; 9.6 Ounces"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 597-99257"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e womens"
+            },
+            {
+                "name": "Batteries \u200f",
+                "value": "\u200e 1 A batteries required."
+            },
+            {
+                "name": "UPC \u200f",
+                "value": "\u200e 667554371705 667548099257 667556605105"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Victoria's Secret"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07JYFQPH2"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,133 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care) #28 in Body Lotions"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.6 4.6 out of 5 stars 13,343 ratings"
+            },
+            {
+                "name": "Brand",
+                "value": "Victoria's Secret"
+            },
+            {
+                "name": "Scent",
+                "value": "Bare Vanilla"
+            },
+            {
+                "name": "Item Form",
+                "value": "Lotion"
+            },
+            {
+                "name": "Active Ingredients",
+                "value": "Attribute not applicable for product"
+            },
+            {
+                "name": "Unit Count",
+                "value": "8.00 Fl Oz"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Discover The Mist Collection. Scents that celebrate all that's individual, unique and of the moment. It's a fragrance adventure, and it starts with you.",
+                "media_link": [
+                    "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0c878940-be3b-43c3-aff5-4097ff80ff44.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+                ]
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0c878940-be3b-43c3-aff5-4097ff80ff44.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Amazon Customer",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGHYOTBE3V5ENYZTLIATJ6BPKNIQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RHLYNFAQWTNLM?ASIN=B07JYFQPH2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars Awesome product",
+                "reviewText": "Smells great and leaves your skin soft and moisturized without feeling greasy.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Marisa Clary",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG5ERS3SARIPXHNSCSTXP63RHZUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1YXVQKOAGMSMH?ASIN=B07JYFQPH2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 15, 2021",
+                "reviewTitle": "5.0 out of 5 stars Exactly as says",
+                "reviewText": "The scent is spot on Coconut, tanning lotion type smell and the glitter is small and very cute!",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Victoria J",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFRRTX7TT4R4GXR5BQZR6RGTAYKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1RA65EM0E31D8?ASIN=B07JYFQPH2",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on June 17, 2020",
+                "reviewTitle": "4.0 out of 5 stars Good",
+                "reviewText": "Smells good, and does have shimmer to it but I was hoping for way more shimmer.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Rita",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFZBMAZYXMLKUMHKXANLF3TL7GPA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3GOM0BJL71ER1?ASIN=B07JYFQPH2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "5.0 out of 5 stars Scentsational",
+                "reviewText": "Smells amazing, smooth and silly on my skin. A must have, great product, very satisfied.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Studio 54",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGS4Z5AT5K3RQTPX2I5AWWJIZKJA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R21X8L1HY21FRR?ASIN=B07JYFQPH2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love this lotion so much~!",
+                "reviewText": "Love so much that now I'm buying for girlfriends. Wonderful subtle vanilla scent, and the shimmer is a plus for warm months when we're showing more skin. A little goes a long way, just meaning you only need a small dab. I mix a pea size dab of this lotion with my unscented lotion, and apply to skin showing...",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Heather Shartle",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFWGRYU7UMKT2254QRVGYSLAQCRA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R195R3OGT2DPVI?ASIN=B07JYFQPH2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "5.0 out of 5 stars Smells Delicious!",
+                "reviewText": "This lotion is wonderful! Leaves my skin smelling great and super moisturizing!",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jenn",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE4AF7BJ3BXZRTJN2AXHMYCUCDEQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2OXXZMWFHUVI7?ASIN=B07JYFQPH2",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 31, 2024",
+                "reviewTitle": "4.0 out of 5 stars Kinda like it",
+                "reviewText": "I like the scent and when it first goes on but can dry out my skin so be sure to put on a body moisturizer first before you put this product on\u2014 nice shimmer though",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "mrmr",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGCWLVRLUWX3DWI6M6Y3I5X2JUGA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R3BDXB8FGXBYG9?ASIN=B07JYFQPH2",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 16, 2023",
+                "reviewTitle": "5.0 out of 5 stars Not the real VS Bare Vanilla!!!!",
+                "reviewText": "I put 5 stars for it to show at the top but this is not the real VS lotion for sure this one smells awful i did have the small bare vanilla one from VS and they are not comparible in texture or smell",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Emiliano Miguel Escalante ToncheEmiliano Miguel Escalante Tonche",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 7, 2024",
+                "reviewTitle": "Exelente calidad",
+                "reviewText": "The media could not be loaded.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/61rweDTO9sL.jpg"
+                    ],
+                    "video": "https://m.media-amazon.com/images/I/C1GaNprnf9L.mp4"
+                }
+            },
+            {
+                "reviewerName": "Gabi",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Brazil on January 21, 2024",
+                "reviewTitle": "Hidrata\u00e7\u00e3o",
+                "reviewText": "\u00d3timo!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Julyana",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Brazil on January 19, 2024",
+                "reviewTitle": "Delicioso",
+                "reviewText": "Simplesmente adoro os cremes coconut e o vanilla da Vict\u00f3ria Secret por serem muito cheirosos e suaves ao mesmo tempo (diferente das linhas vermelhas, roxas que acho muito forte)Ainda n\u00e3o conheci creme desodorante melhor para treinos, pois quando voc\u00ea sua, exala perfume.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Li\u00e9ge Strech",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Brazil on January 9, 2024",
+                "reviewTitle": "Maravilhoso",
+                "reviewText": "Recomendo, super cheiroso e brilha",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "louise",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on January 6, 2024",
+                "reviewTitle": "Merci",
+                "reviewText": "Je l'ai offert \u00e0 ma petite fille, et elle a \u00e9t\u00e9 ravie du produit. L'odeur est agr\u00e9able et f\u00e9minin.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": [
+            {
+                "price": "$15.49",
+                "sellerName": "Victoria's Secret",
+                "sellerRating": "5"
+            },
+            {
+                "price": "$15.49",
+                "sellerName": "D'Box",
+                "sellerRating": "5"
+            }
+        ]
+    }
+}

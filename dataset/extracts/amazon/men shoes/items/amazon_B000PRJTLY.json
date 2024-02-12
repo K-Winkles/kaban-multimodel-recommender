@@ -1,0 +1,683 @@
+{
+    "remaining_requests": 15728,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Skechers-Energy-Afterburn-Lace-Up-Sneaker/dp/B000PRJTLY",
+    "body": {
+        "name": "Skechers Men's Energy Afterburn",
+        "price": "$41.08 - $74.95",
+        "originalPrice": "",
+        "rawPrice": 41.08,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Skechers-50081-Mens-Energy-Afterburn/dp/B0CP19XDGZ",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0CP19XDGZ"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B0007TN2JU",
+                "variationName": "Color",
+                "variationValue": "Black/Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XY1Cx1qKL._SS47_.jpg"
+            },
+            {
+                "asin": "B000PRINX4",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41XY1Cx1qKL._SS47_.jpg"
+            },
+            {
+                "asin": "B0007TLLJS",
+                "variationName": "Color",
+                "variationValue": "White",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41SKsrg1vjL._SS47_.jpg"
+            },
+            {
+                "asin": "B000AREEQE",
+                "variationName": "Color",
+                "variationValue": "White/Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41wfRZwOZTL._SS47_.jpg"
+            },
+            {
+                "asin": "B0921F4KHN",
+                "variationName": "Color",
+                "variationValue": "Charcoal/Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Uk4zn4y6S._SS47_.jpg"
+            },
+            {
+                "asin": "B0921PMJQ6",
+                "variationName": "Color",
+                "variationValue": "Black/Silver/Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Fa0O3ztrS._SS47_.jpg"
+            },
+            {
+                "asin": "B08G8VV2TP",
+                "variationName": "Color",
+                "variationValue": "Charcoal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/413eCtTsZjL._SS47_.jpg"
+            },
+            {
+                "asin": "B07S166B1Y",
+                "variationName": "Color",
+                "variationValue": "White/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41kKskLrOrL._SS47_.jpg"
+            },
+            {
+                "asin": "B0921S8F8Q",
+                "variationName": "Color",
+                "variationValue": "Black/Charcoal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41+94-OJACS._SS47_.jpg"
+            },
+            {
+                "asin": "B08T9YM578",
+                "variationName": "Color",
+                "variationValue": "White/Black/Red",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/416pl0d7-oL._SS47_.jpg"
+            },
+            {
+                "asin": "B0921QWZY7",
+                "variationName": "Color",
+                "variationValue": "Black\\grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41y31MlOoeS._SS47_.jpg"
+            },
+            {
+                "asin": "B07NJC4BLW",
+                "variationName": "Color",
+                "variationValue": "White/Navy Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41rLl3luNgL._SS47_.jpg"
+            },
+            {
+                "asin": "B0921XS93B",
+                "variationName": "Color",
+                "variationValue": "Chocolate",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Q4EXc2t9S._SS47_.jpg"
+            },
+            {
+                "asin": "B0921GJ3B6",
+                "variationName": "Color",
+                "variationValue": "Navy/Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41qJoo6SkBL._SS47_.jpg"
+            },
+            {
+                "asin": "B0068Y0NUO",
+                "variationName": "Color",
+                "variationValue": "White/Charcoal",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41MxPsIgL7L._SS47_.jpg"
+            },
+            {
+                "asin": "B08T3VDR3X",
+                "variationName": "Color",
+                "variationValue": "Navy/Grey",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ds2avDWTL._SS47_.jpg"
+            },
+            {
+                "asin": "B08T38K599",
+                "variationName": "Color",
+                "variationValue": "Black/Silver",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4166o1aqM9L._SS47_.jpg"
+            },
+            {
+                "asin": "B000PRJQUS",
+                "variationName": "Size",
+                "variationValue": "6.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRJT28",
+                "variationName": "Size",
+                "variationValue": "6.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRLAYI",
+                "variationName": "Size",
+                "variationValue": "7",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRIPPA",
+                "variationName": "Size",
+                "variationValue": "7 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRJR16",
+                "variationName": "Size",
+                "variationValue": "7.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRJT78",
+                "variationName": "Size",
+                "variationValue": "7.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B0007TN2IQ",
+                "variationName": "Size",
+                "variationValue": "8",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRGU52",
+                "variationName": "Size",
+                "variationValue": "8 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRJR5W",
+                "variationName": "Size",
+                "variationValue": "8.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRJTCI",
+                "variationName": "Size",
+                "variationValue": "8.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRINX4",
+                "variationName": "Size",
+                "variationValue": "9",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRIPY6",
+                "variationName": "Size",
+                "variationValue": "9 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRJRBG",
+                "variationName": "Size",
+                "variationValue": "9.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRGUE8",
+                "variationName": "Size",
+                "variationValue": "9.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRJRES",
+                "variationName": "Size",
+                "variationValue": "10",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRIQ4A",
+                "variationName": "Size",
+                "variationValue": "10 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRJRH0",
+                "variationName": "Size",
+                "variationValue": "10.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRJTLY",
+                "variationName": "Size",
+                "variationValue": "10.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRIO6K",
+                "variationName": "Size",
+                "variationValue": "11",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRGULQ",
+                "variationName": "Size",
+                "variationValue": "11 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRJRLQ",
+                "variationName": "Size",
+                "variationValue": "11.5",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRIQBS",
+                "variationName": "Size",
+                "variationValue": "11.5 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRLBP6",
+                "variationName": "Size",
+                "variationValue": "12",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRJTRI",
+                "variationName": "Size",
+                "variationValue": "12 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRJRQ6",
+                "variationName": "Size",
+                "variationValue": "13",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRLDMC",
+                "variationName": "Size",
+                "variationValue": "13 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRLBSI",
+                "variationName": "Size",
+                "variationValue": "14",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRJTW8",
+                "variationName": "Size",
+                "variationValue": "14 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B002EVQ8Z4",
+                "variationName": "Size",
+                "variationValue": "15",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRLDR2",
+                "variationName": "Size",
+                "variationValue": "15 Wide",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B005IQTJZ8",
+                "variationName": "Size",
+                "variationValue": "16",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B000PRJU1S",
+                "variationName": "Size",
+                "variationValue": "16 Wide",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/311qlPyFbBL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/31Lh3cAakRL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/312vwX4RqYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31f okvBrKL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41JBAwr5muL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31uzcGFjYoL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/31eEAN6LqjL.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e1b1bbd8-e388-4c93-b6ff-3b7ff7107fd0/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Skechers Store",
+            "link": "https://www.amazon.com/stores/Skechers/page/4B1ECBE0-2659-48D2-A5C3-A8252218356A?ref_=ast_bln"
+        },
+        "brand": "Skechers",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 48078,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": false,
+            "details": ""
+        },
+        "features": [
+            "Fabric type 100% Leather",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Sole material Rubber",
+            "Lace-up",
+            "Shock-absorbing supportive midsole",
+            "Flexible rubber traction outsole",
+            "Cushioned comfort insole",
+            "11/2 inch heel",
+            "Skechers logo detail"
+        ],
+        "description": "Hit the track with breakneck speed in Skechers Energy - After Burn. This lace-up sporty athletic sneaker features a smooth leather and mesh upper with a cushioned insole.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Shoes",
+                "link": "https://www.amazon.com/Mens-Shoes/b/ref=dp_bc_aui_C_3?ie=UTF8&node=679255011"
+            },
+            {
+                "name": "Athletic",
+                "link": "https://www.amazon.com/Mens-Sneakers/b/ref=dp_bc_aui_C_4?ie=UTF8&node=6127770011"
+            },
+            {
+                "name": "Running",
+                "link": "https://www.amazon.com/Running-Mens-Shoes/b/ref=dp_bc_aui_C_5?ie=UTF8&node=679286011"
+            },
+            {
+                "name": "Road Running",
+                "link": "https://www.amazon.com/Mens-Road-Running-Shoes/b/ref=dp_bc_aui_C_6?ie=UTF8&node=14210389011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Product Dimensions \u200f",
+                "value": "\u200e 14.6 x 11.1 x 5.6 inches; 1 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e 50081-007"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e August 25, 2009"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Skechers"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B002EVQ8UE"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#1,769 in Clothing, Shoes & Jewelry (See Top 100 in Clothing, Shoes & Jewelry) #17 in Men's Road Running Shoes"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 48,078 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [
+            {
+                "media_text": "Afterburn M. Fit Ridgeburn Hands Free Slip-in Vigor 3.0 Drafting Hands Free Slip-in Afterburn M. Fit Grill Captain Hands Free Slip-in Summits AT Hands Free Slip-in Summits High Range Hands Free Slip-in D'Lux Walker 2.0 Rezinate Hands Free Slip-in Hands Free Slip-in \u2713 \u2713 \u2713 \u2713 \u2713 \u2713 Heel Pillow \u2713 \u2713 \u2713 \u2713 \u2713 \u2713 Mesh/Duraleather Upper \u2713 \u2713 \u2713 Flexible Outsole \u2713 \u2713 \u2713 \u2713 \u2713 \u2713 Available in Wide Width \u2713 \u2713 \u2713 \u2713 \u2713 \u2713",
+                "media_link": []
+            }
+        ],
+        "manufacturerProductImages": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ee60605-b001-4abf-9dbe-655aac03b4f0.__CR0,0,150,300_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f61d312f-4442-4d32-9c67-61067f61fe46.__CR0,0,150,300_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3380abec-dbdd-4d89-9b7f-bd84c3d7e7af.__CR0,0,150,300_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/863edd04-602d-4f95-ba79-32336017e76a.__CR0,0,150,300_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8612f02a-71a0-42bc-988b-43df8b3dd422.__CR0,0,150,300_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b6afc034-85e7-4f82-b259-87ebd0bc8f99.__CR0,0,150,300_PT0_SX150_V1___.png",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d76103d4-5665-4cc4-9fe8-30c9dc9dc794.__CR0,5,970,291_PT0_SX600_V1___.jpg"
+        ],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Charles Bartleson",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHM7TCW2L2GSNAKXYSBDZD5MZIKQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R17C50Q043WBX6?ASIN=B0CP19XDGZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on February 12, 2024",
+                "reviewTitle": "5.0 out of 5 stars Sketchers are the best!",
+                "reviewText": "Excellent buy! Very comfortable and a great support sneaker. Also very stylish and true to size!!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "piloti123",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHRD4YRC36MP2IPGWVHCEWAC4ZSQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1WGT3YHUJ159W?ASIN=B0CP19XDGZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 29, 2024",
+                "reviewTitle": "5.0 out of 5 stars Comfort, Durability",
+                "reviewText": "These Skechers are one of the best I\u2019ve worn. We have come a long way from the days of Converse sneakers, tennis shoes, running and cross trainers. Great for all of the above. Bought a pair almost 5 days and they took a beating.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "A' Winter",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AEXQTIU2YXKVYBRLFQ5WAGVURVHQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1OG72IS6JG7DF?ASIN=B0CP19XDGZ",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2024",
+                "reviewTitle": "4.0 out of 5 stars Very stiff, at first.",
+                "reviewText": "They are not the big name shoes, but they do very well! Very stiff until you break them in. But the soles don't last as long as some others. They have a tendency to pull away from the body. They are a good in between for price and quality.",
+                "reviewVotes": "2 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "YallJacket",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHZG5ZUUNUME33G56GOWK76SPY6A",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R8STTV3PQOUAH?ASIN=B0CP19XDGZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 27, 2023",
+                "reviewTitle": "5.0 out of 5 stars Step Up Your Game with Skechers Energy Afterburn Sneakers",
+                "reviewText": "Finding the right pair of sneakers that balance comfort, style, and functionality can often be a tall order. But the Skechers Men's Energy Afterburn Lace-Up Sneaker manages to tick these boxes quite effectively. With its 100% leather finish, shock-absorbing midsole, and rubber outsole, these shoes go beyond mere aesthetics to deliver a superior walking and light activity experience.Let's start with the exterior. Made from 100% leather, the shoe not only looks slick but also offers the sort of durability that's expected from a high-quality material. The Skechers logo detail adds a touch of brand recognition without being too flashy.The shoe's interior is where the real magic happens. With a cushioned comfort insole, your feet feel like they're walking on clouds. Whether you\u2019re strolling around the neighborhood or running errands, the insole offers consistent comfort throughout the day.One of the standout features has to be the shock-absorbing supportive midsole. A quick jog or a spirited walk often comes with its share of jolts and bumps. This midsole works like a charm in absorbing those shocks, making the walking experience noticeably smoother.But what about traction? A shoe can have all the cushioning in the world, but it's not much use if you're slipping around. That's where the flexible rubber traction outsole comes into play. Coupled with the 1.5-inch heel, this sneaker provides a solid grip on a variety of surfaces, giving you confidence with each step.In terms of care, these shoes are machine washable. This not only makes maintenance a breeze but also adds to the shoe's lifespan, giving you more bang for your buck.All things considered, the Skechers Men's Energy Afterburn Lace-Up Sneaker offers a comprehensive package for anyone in search of a reliable, comfortable, and stylish pair of shoes. Whether you're off to the gym, going on a casual outing, or just need a solid pair for everyday wear, these sneakers could be a strong candidate for your go-to footwear.",
+                "reviewVotes": "17 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "mtbikemike",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AECAFBTIYNBOILIR64OVGJBSIFMA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RPNT25DJBGXAT?ASIN=B0CP19XDGZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 26, 2024",
+                "reviewTitle": "5.0 out of 5 stars Sketchers",
+                "reviewText": "Great shoe, great fit. Very comfortable.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Nathan Smith",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGRFXL7GHGO3G2B7H6AC7ZFDLQBQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1BYSUOWIHCQ93?ASIN=B0CP19XDGZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 27, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great shoe",
+                "reviewText": "Bought these for work, they lasted for over a year. Just bought a second pair. Highly recommend these shoes. Very comfortable!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Mercy Nary",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGLRGUBANC55MACBQTGNA2BUNXLA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R25M7FF31X1FX8?ASIN=B0CP19XDGZ",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on December 6, 2023",
+                "reviewTitle": "5.0 out of 5 stars Exceptional value and active performance for large wide feet!",
+                "reviewText": "Bought these to accommodate my large, wide feet and high arches while doing active physical labor. Very pleased with the value for money with these! Tread grip and durability over a few weeks of some intense work and hiking has been really solid, and the fit - even with arch supports - is comfortable and secure. No pains in my heels and arches after a long day of work. Well worth the price, and would definitely purchase them again!",
+                "reviewVotes": "11 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "TSR",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFZP4SKVDXH47UZO5GXASJOHTSAQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1NP5UNE2N42P8?ASIN=B0CP19XDGZ",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 13, 2024",
+                "reviewTitle": "3.0 out of 5 stars Ok but wish these had removable insoles and better arch support",
+                "reviewText": "I gave up wearing women's running shoes in this brand as I need a wide toe box and the women's Skechers are all too tight, even in wide width. I usually where 8 W or 8 EE. I switched to a men's 6.5 wide in this shoe and it is \"ok\" but I won't buy again. Toe box is pretty wide although I'd love it if it were just a bit wider; shoe seems quite stiff and not totally comfortable but I'm hoping it will wear into a softer fit. I use orthotics and I could not remove the insole as it is glued down, although if I tugged I could get it out, but that would put my foot lower into the shoe which then rubs on the ankle bone, so I'm wearing these as is with my orthotic put on top of the current insole. Concluded this brand is just not for me.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Martha",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 30, 2024",
+                "reviewTitle": "Muy buenos tenis",
+                "reviewText": "De muy buena calidad y c\u00f3modos",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Diana RomeroDiana Romero",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on January 18, 2024",
+                "reviewTitle": "C\u00f3modos",
+                "reviewText": "Se ven bien y puestos se ven mejor, dice mi hijo que son c\u00f3modos, vienen anchos y amplios, por el precio me parece una buena compra, espero que le duren con el uso",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81U19tKfQgL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71OsDc+ZRoL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/71BX4CLBetL.jpg",
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/713V-ZuE2cL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "JD",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on December 9, 2023",
+                "reviewTitle": "Superb quality and value",
+                "reviewText": "These sneakers are superb. The quality is superb and the price point/value is excellent. They fit perfectly too. I was a New Balance guy before but they had skyrocketed in price so I looked elsewhere and went with these\u2014-and everything ended happily ever after.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Susana",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on November 25, 2023",
+                "reviewTitle": "Buena compra!!! Lo recomiendo",
+                "reviewText": "Se los regale a mi esposo y le encantaron, muy c\u00f3modos y amplios. En cuesti\u00f3n a la talla si corresponde a la que se pide. Se ven y son originales de excelente calidad. \ud83d\udc4c los recomiendo.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Jos\u00e9 Rafael medina posada",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on August 29, 2023",
+                "reviewTitle": "Super c\u00f3modos",
+                "reviewText": "Ajuste perfecto y super c\u00f3modos",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}

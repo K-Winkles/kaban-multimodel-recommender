@@ -1,0 +1,523 @@
+{
+    "remaining_requests": 16215,
+    "original_status": 200,
+    "pc_status": 200,
+    "url": "https://www.amazon.com/Amazon-Essentials-Quarter-Zip-Fleece-Jacket-DNU/dp/B096YSC37H",
+    "body": {
+        "name": "Amazon Essentials Men's Quarter-Zip Polar Fleece Jacket",
+        "price": "$11.30 - $29.20",
+        "originalPrice": "",
+        "rawPrice": 11.3,
+        "currency": "$",
+        "canonicalUrl": "https://www.amazon.com/Amazon-Essentials-Quarter-Zip-Fleece-Jacket/dp/B0C9V2VL33",
+        "soldBy": null,
+        "deliveredBy": "",
+        "parentAsin": [
+            "B0C9V2VL33"
+        ],
+        "asinVariationValues": [
+            {
+                "asin": "B096YLB16J",
+                "variationName": "Color",
+                "variationValue": "Black Red Buffalo Check",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41FivyFnkDL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096YM7Q7M",
+                "variationName": "Color",
+                "variationValue": "Light Grey Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31XO2+4y5pL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096YLB1NH",
+                "variationName": "Color",
+                "variationValue": "Oatmeal Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31W6anAFF3L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096ZZSCSD",
+                "variationName": "Color",
+                "variationValue": "Black",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41TgZxUep9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096YM8TYF",
+                "variationName": "Color",
+                "variationValue": "Blue Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/415Mcyfk3sL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096YQ9MHC",
+                "variationName": "Color",
+                "variationValue": "Brown Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LOsA2QzHL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096YM51ND",
+                "variationName": "Color",
+                "variationValue": "Cobalt Blue",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41ZnnPScO-L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Black Charcoal Heather Color Block",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/4134Mo6dFnL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Black Olive Color Block",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/31L8JSbKCYL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096YL7K4H",
+                "variationName": "Color",
+                "variationValue": "Charcoal Heather",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/51Vl4ZTYNuL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Dark Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41DX1Si0dNL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Dark Green Camo",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41Bvo1774JL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096YLZ9CW",
+                "variationName": "Color",
+                "variationValue": "Forest Green",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/313bWBYrSiL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096ZZHW96",
+                "variationName": "Color",
+                "variationValue": "Navy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41oYX1kSt9L._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Dark Green Navy Tartan Plaid",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41BGI1j+-sL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Orange",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41okofnZYSL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Toffee Brown",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41PmfGqqUpL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Burgundy",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41LqrFAEIeL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Black Navy Color Block",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41vRFjfVXzL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "",
+                "variationName": "Color",
+                "variationValue": "Navy Oatmeal Heather Color Block",
+                "price": "",
+                "variationImageURL": "https://m.media-amazon.com/images/I/41RdwDW1bKL._SX38_SY50_CR,0,0,38,50_.jpg"
+            },
+            {
+                "asin": "B096YNFCSP",
+                "variationName": "Size",
+                "variationValue": "X-Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096YLPH8P",
+                "variationName": "Size",
+                "variationValue": "Small",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096YSC37H",
+                "variationName": "Size",
+                "variationValue": "Medium",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096YLXYVY",
+                "variationName": "Size",
+                "variationValue": "Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096YLYT6J",
+                "variationName": "Size",
+                "variationValue": "X-Large",
+                "variationImageURL": null
+            },
+            {
+                "asin": "B096YLZ9CW",
+                "variationName": "Size",
+                "variationValue": "XX-Large",
+                "variationImageURL": null
+            }
+        ],
+        "isPrime": true,
+        "inStock": false,
+        "maximumQuantity": "",
+        "stockDetail": "",
+        "couponInfo": "",
+        "mainImage": "https://images-na.ssl-images-amazon.com/images/I/31Q WRtBTQL.jpg",
+        "images": [
+            "https://images-na.ssl-images-amazon.com/images/I/51saX31vpGL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41up 2lwKTL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41vYlEbn-DL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41HNazRVAiL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/41HyRYaqwYL.jpg",
+            "https://images-na.ssl-images-amazon.com/images/I/51XGYa-Fc6L.jpg"
+        ],
+        "imagesCount": 7,
+        "highResolutionImages": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b5ea7e1b-f82a-44ef-9e40-a319c403d20d/default.jobtemplate.mp4.480.mp4"
+        ],
+        "videosCount": 1,
+        "productGuidesAndDocuments": {
+            "productDocumentationLink": "",
+            "userManualLink": ""
+        },
+        "byLineInfo": {
+            "name": "Visit the Amazon Essentials Store",
+            "link": "https://www.amazon.com/stores/AmazonEssentials/page/F8FB6F3C-F896-455C-BC52-7879F4CEF0CF?ref_=ast_bln"
+        },
+        "brand": "AmazonEssentials",
+        "merchantInfo": "",
+        "customerReview": "4.5 out of 5 stars",
+        "customerReviewCount": 11369,
+        "answeredQuestionsCount": 0,
+        "editorialReviews": [],
+        "warrantyMessage": "",
+        "shippingMessage": "",
+        "deliveryMessages": [],
+        "climatePledgeFriendly": {
+            "present": true,
+            "details": "Recycled Claim Standard 100 (RCS 100) certified products contain at least 95% certified recycled content."
+        },
+        "features": [
+            "Fabric type 100% Polyester",
+            "Care instructions Machine Wash",
+            "Origin Imported",
+            "Closure type Zipper",
+            "REGULAR FIT: Comfortable, easy fit through the shoulders, chest, and waist.",
+            "POLAR FLEECE: Double-sided knit fabric with a brushed finish and subtle texture, this soft and cozy midweight fleece keeps you warm and insulated while withstanding everyday wear.",
+            "COLD-WEATHER STYLING: Designed for outdoor activity, this polar fleece jacket takes you everywhere you need to go. Perfect as a finishing touch for a cool-weather look or a comfy layer when it's time to bundle up.",
+            "DETAILS: Features a mock-neck collar with a quarter-front zip, two zippered hand pockets, and elastic-bound sleeve cuffs and bottom opening. Color blocked versions feature woven fabric detailing at the shoulders and collar and a woven chest pocket with zipper."
+        ],
+        "description": "Amazon Essentials is focused on creating affordable, high-quality, and long-lasting everyday clothing you can rely on. Our line of men's must-haves includes polo shirts, chino pants, classic-fit shorts, casual button-downs, and crew-neck tees. Our consistent sizing takes the guesswork out of shopping, and each piece is put to the test to maintain the highest standards in quality and comfort.",
+        "breadCrumbs": [
+            {
+                "name": "Clothing, Shoes & Jewelry",
+                "link": "https://www.amazon.com/amazon-fashion/b/ref=dp_bc_aui_C_1?ie=UTF8&node=7141123011"
+            },
+            {
+                "name": "Men",
+                "link": "https://www.amazon.com/Mens-Fashion/b/ref=dp_bc_aui_C_2?ie=UTF8&node=7147441011"
+            },
+            {
+                "name": "Clothing",
+                "link": "https://www.amazon.com/Men-Clothing/b/ref=dp_bc_aui_C_3?ie=UTF8&node=1040658"
+            },
+            {
+                "name": "Jackets & Coats",
+                "link": "https://www.amazon.com/Mens-Jackets/b/ref=dp_bc_aui_C_4?ie=UTF8&node=1045830"
+            },
+            {
+                "name": "Fleece",
+                "link": "https://www.amazon.com/Mens-Fleece-Jackets-Coats/b/ref=dp_bc_aui_C_5?ie=UTF8&node=2476496011"
+            }
+        ],
+        "productInformation": [
+            {
+                "name": "Package Dimensions \u200f",
+                "value": "\u200e 17.7 x 12.6 x 1.8 inches; 1.1 Pounds"
+            },
+            {
+                "name": "Item model number \u200f",
+                "value": "\u200e AE2017876"
+            },
+            {
+                "name": "Department \u200f",
+                "value": "\u200e mens"
+            },
+            {
+                "name": "Date First Available \u200f",
+                "value": "\u200e January 15, 2020"
+            },
+            {
+                "name": "Manufacturer \u200f",
+                "value": "\u200e Amazon Essentials"
+            },
+            {
+                "name": "ASIN \u200f",
+                "value": "\u200e B07P3MY27T"
+            },
+            {
+                "name": "Best Sellers Rank",
+                "value": "#859 in Our Brands (See Top 100 in Our Brands) #4 in Men's Fleece Jackets & Coats"
+            },
+            {
+                "name": "Customer Reviews",
+                "value": "4.5 4.5 out of 5 stars 11,369 ratings"
+            }
+        ],
+        "manufacturerProductDescription": [],
+        "manufacturerProductImages": [],
+        "sponsoredAds": [],
+        "productReviewBottom": [],
+        "reviews": [
+            {
+                "reviewerName": "Mays' Healthy Lifestyle ",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFDZJ3DV3UBZ6JLSH5SXHXGWIZBQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1B1H29LN7KP2C?ASIN=B0C9V2VL33",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on September 3, 2023",
+                "reviewTitle": "5.0 out of 5 stars I Take this for every plane flight!",
+                "reviewText": "The Amazon Essentials Men's Quarter-Zip Polar Fleece Jacket is easily one of my favorite Amazon Basics products. This versatile jacket has become a constant companion, especially during travel. Its \"easy on, easy off\" design is a game-changer, making it a breeze to put on or take off, especially during those quick transitions at airport security.What I love most is its exceptional warmth. Despite its lightweight feel, this jacket keeps me perfectly snug during chilly flights. The soft and cozy polar fleece lining is a treat for comfort, and the quarter-zip allows for temperature control. The fit is just right, providing freedom of movement without feeling bulky.The quality and durability of this jacket have truly surprised me. It's held up remarkably well through numerous trips and washes, which is impressive for its price point.Overall, the Amazon Essentials Quarter-Zip Polar Fleece Jacket is a travel essential. It combines practicality, comfort, and style in one package. I wouldn't embark on a flight without it, and I highly recommend it to anyone in need of a reliable, travel-friendly jacket.",
+                "reviewVotes": "11 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Real Deal",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AE7Z57LXPIPMXRIFXY6673V6HTDA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RU60DRAS6UL85?ASIN=B0C9V2VL33",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on July 23, 2023",
+                "reviewTitle": "5.0 out of 5 stars Cozy and Versatile",
+                "reviewText": "The Amazon Essentials Men's Quarter-Zip Polar Fleece Jacket has become my go-to outerwear for staying warm and stylish during chilly days! This quarter-zip jacket offers a cozy and versatile option that perfectly fits my comfort and fashion needs.I am impressed with the high-quality construction of this polar fleece jacket, featuring soft and plush material that provides excellent insulation against the cold.The quarter-zip design allows for easy on-and-off, making it convenient to layer over shirts or wear as a standalone piece.I appreciate the stylish and timeless look of this jacket, making it suitable for various occasions, from casual outings to outdoor activities.The jacket's lightweight and breathable nature ensure comfortable wear, without feeling bulky or restricting movement.I love the attention to detail in the design, including the zippered pocket for secure storage of small essentials.In conclusion, the Amazon Essentials Men's Quarter-Zip Polar Fleece Jacket is a must-have for any man seeking a cozy and versatile outerwear option. Its high-quality construction, practical design, and stylish appearance make it a top-notch choice for chilly weather. Whether you're heading out for a hike, running errands, or simply lounging at home, this jacket will keep you warm and comfortable throughout the day. Embrace the coziness of the Amazon Essentials Men's Quarter-Zip Polar Fleece Jacket and add a touch of comfort and style to your wardrobe!",
+                "reviewVotes": "7 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "FloodRunner",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AG4G5JKVPGJZOE3GCPGSLZ45224Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/RWJXFT5HPMNK5?ASIN=B0C9V2VL33",
+                "reviewRating": "4.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on October 11, 2023",
+                "reviewTitle": "4.0 out of 5 stars Nice Pullover, Thin material and build.",
+                "reviewText": "For the most part I really like this shirt. The material is a bit thinner than expected so it will have some temperature limitations and the build fits me just fine but I'm thinner boned than the average guy so it's easy to see how some would find it too tight, especially in the arms. Not sure how I feel about the banded cuffs, kind'a wish they'd been done differently but that's nit picking. Standup collar is nice, not too short and not too tall and front pocket, whether useful or not, is something you don't see very often in a garment like this. Hasn't been washed yet so we'll see how that goes. Overall this is a good value so I'll probably buy a couple more in different colors. We'll see after a few washings but out of the bag it's extremely soft and comfortable on the skin.",
+                "reviewVotes": "3 people found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Matt",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AFGKZB5LGM5PW22LXKZCV3I5M2IQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R301ALTBT5W8EA?ASIN=B0C9V2VL33",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 5, 2024",
+                "reviewTitle": "5.0 out of 5 stars OG Old Navy Clone",
+                "reviewText": "Very soft and warm, with a look and feel that remind me of the Old Navy fleeces from 15-20 years ago that kicked off the trend. Fit and sizing are perfect by my standards and the full length kangaroo pocket with zippers is the cherry on top. The price is great for the quality and unless the seams start splitting after a couple of washes, I will be back for more.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "claudecat",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHT64JMPDVPANVR7L5DWJUZA6XWA",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R1SJ2ROV4KPOWA?ASIN=B0C9V2VL33",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 15, 2024",
+                "reviewTitle": "5.0 out of 5 stars Love the pattern and softness!",
+                "reviewText": "Normally I like to wear full-zip fleeces, mainly because I'm old and getting some quarter-zips on can be a struggle. This one is about average with that, but I love the pattern (Dark Green Navy Tartan Plaid) so much that I still wear it regularly. It's nicely soft, fits better than most on my weird frame, and has a nice big, dual-zippered pouch pocket in the front. Solidly crafted item, just seems sturdy. So glad I grabbed this deal!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Chris C.",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AGIDCQWHOAZYDGOJRIS5YVQARD4Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2CFOBRFQ1SAS8?ASIN=B0C9V2VL33",
+                "reviewRating": "3.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 5, 2024",
+                "reviewTitle": "3.0 out of 5 stars Too short.",
+                "reviewText": "True to size but too short in the body. Too short for me at 6'3\". Looks like wife has a new fleece.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Burbanked",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AHSZFWA7ZERH42OXR3Y52X5ZWHUQ",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R8JF4RJIU8Z8H?ASIN=B0C9V2VL33",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 22, 2024",
+                "reviewTitle": "5.0 out of 5 stars Great Fleece Great Price",
+                "reviewText": "All the features of quality outdoor fleece wear at a great price! Zippered kangaroo pocket & nice hems & sewing help you skip the overpriced outdoorsy clothing & get value, quality & warmth instead. I\u2019ve bought 2!",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "McGigs",
+                "reviewerLink": "https://www.amazon.com/gp/profile/amzn1.account.AH2ZNDW6CC6BNMFT7OTFN2VGHJ4Q",
+                "reviewLink": "https://www.amazon.com/gp/customer-reviews/R2UBSHGKAN4HP5?ASIN=B0C9V2VL33",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in the United States on January 7, 2024",
+                "reviewTitle": "5.0 out of 5 stars Good Quality for a Great Price",
+                "reviewText": "I purchased this for my 92yo dad for Christmas. He is always cold and he finds it very \u201ctoasty\u201d. It keeps his neck warm which is especially important to him. He\u2019s worn it a lot. My mom has washed it several times because my dad always spills on himself (and has forever). The stains came out and the fleece has neither pilled nor shrunk. My dad is a size large and it is true to size. He loves the light blue color. I got it on sale for a great price right before the holiday. I scored! My dad highly recommends this fleece.",
+                "reviewVotes": "One person found this helpful",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "SpidersarSpidersar",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Mexico on February 1, 2024",
+                "reviewTitle": "Excelente",
+                "reviewText": "Tal como se describe, buen material y me qued\u00f3 bien",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [
+                        "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif.jpg",
+                        "https://m.media-amazon.com/images/I/81PlCkRkbEL.jpg"
+                    ],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Claude Lepine",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on March 19, 2022",
+                "reviewTitle": "prendre un size plus grand que vous portez",
+                "reviewText": "belle qualit\u00e9 de tissus assez \u00e9paistoutes les poches ont des fermetures \u00e9clairesconfortableje porte du m\u00e9dium au commande un large recommand\u00e9 par un autre clientfit parfait",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Robert Biafore",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Canada on November 6, 2021",
+                "reviewTitle": "Excellent price and quality",
+                "reviewText": "Awesome, going to buy more. Good price and quality, warm, comfortable, functional.",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Karen lu",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Italy on January 17, 2024",
+                "reviewTitle": "Molto caldo",
+                "reviewText": "Questo pile \u00e8 caldissimo,lo lavo spesso e lo asciugo in asciugatrice da un anno pi\u00f9 o meno ed \u00e8 come quando l'ho comprato a differenza di alcune marche \"famose\" che a lungo andare da una L sono diventate SLo straconsiglio !",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            },
+            {
+                "reviewerName": "Baumann",
+                "reviewerLink": "",
+                "reviewLink": "",
+                "reviewRating": "5.0 out of 5 stars",
+                "reviewDate": "Reviewed in Germany on December 20, 2023",
+                "reviewTitle": "Super Preis-Leistung",
+                "reviewText": "Sehr sch\u00f6nes, dickes und flauschiges Material. 1 A Empfehlung hierf\u00fcr - Passform Gr\u00f6sse Mf\u00fcr 48/50 auf den Punkt! Danke Amazon",
+                "reviewVotes": "",
+                "reviewVerifiedPurchase": true,
+                "reviewCommentCount": 0,
+                "media": {
+                    "images": [],
+                    "video": ""
+                }
+            }
+        ],
+        "otherSellers": []
+    }
+}
