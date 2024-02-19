@@ -10,7 +10,7 @@ Using Crawlbase, we built a dataset that consists of Amazon products. There are 
 
 ### Summary
 
-* Aggregate the harvested product data into one DataFrame  Create the user matrix
+* Aggregate the harvested product data into one DataFrame Create the user matrix
 * Go through each product and pick up all the reviewers
 * Create the item matrix
     * Create feature vectors 
