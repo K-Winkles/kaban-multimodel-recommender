@@ -16,7 +16,7 @@ Using Crawlbase, we built a dataset that consists of Amazon products. There are 
     * Create feature vectors 
 * Create the user-item matrix
     * Use matrix factorization
-* Try different similarity measures (dot similarity, cosine similarity, etc.)  Serve recommendations to select users
+* Try different similarity measures (dot similarity, cosine similarity, etc.) Serve recommendations to select users
 * Measure performance (top-k recommendations)
     * DCG
     * NDCG
