@@ -25,8 +25,12 @@ Using Crawlbase, we built a dataset that consists of Amazon products. There are 
 #### Extract the data
 We extracted the data by using the Crawlbase API to crawl the Amazon website and scrape approximately 38,000 items.
 
+![DataExtraction](images/DataExtraction.png)
+
 #### Clean the data
 We collated the userbase and itembase by...
+
+![DataCleaning](images/DataCleaning.png)
 
 #### Identified Categories (Tentative)
 * Electronics
