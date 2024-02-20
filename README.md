@@ -35,12 +35,21 @@ Over the period of February 10, 2024 to February 19, 2024, we crawled through a 
 We expended **50,000 Scraper API credits** and approximately **2000 Crawling API credits**. 
 
 #### Clean the data
+##### Programmtic Cleaning
 We collated the userbase and itembase by first defining the categories as seen below. Then, for each of the 16 categories, we put all of the product data of each item in each subcategory into one DataFrame and consequently one CSV file. That means that for each category, there is 1 CSV file. Meaning, there are 16 CSV files because there are 16 categories. The initial cleaning was done programmatically for the prices and features.
 * Check if the file is valid. Some files are just junk from the scraping process whilst others contain nothing important because the request failed.
 * The `description` and `manufacturerProductDescription` columns were concatenated because there are items with no `description` but with a `manufacturerProductDescription` while there are items with `manufacturerProductDescription` and no`description`.
 * Each string column was lowercased, stripped of forbidden special characters, and stripped of ASCII special characters.
 * We take just the float version of the `customerReview`.
 * We take just the number of the `Best Sellers Rank`.
+##### Manual Cleaning
+The cleaning does not stop there. We have to check each of the 16 files for contextually same features and merge them. For example, in Fashion, there is a feature where the following are present:
+* Nike
+* Nike Equipment
+* Nike Golf
+* Nike Apparel
+
+They are tagged as different but they should be the same. This is where the manual cleaning comes in. We comb through all the features and merge the ones that are contextually the same.
 
 ![DataCleaning](images/DataCleaning.png)
 
