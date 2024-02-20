@@ -33,15 +33,27 @@ We collated the userbase and itembase by...
 ![DataCleaning](images/DataCleaning.png)
 
 #### Identified Categories (Tentative)
-* Electronics
-* Children
-* Books
-* Household appliances
-* Furniture
-* Car accessories
-* Travel
-* Fashion
-* Health
+| Fashion         | Electronic devices   | Peripheral Devices | Computer Components | Mobile Accessories      | Personal Care | Car Stuff     | Office Supplies | Travel Essentials |
+|-----------------|----------------------|--------------------|---------------------|-------------------------|---------------|---------------|-----------------|-------------------|
+| belt            | camera               | keyboard           | cpu cooler          | cables (phone chargers, extension, etc.) | conditioner   | car accessories| folder          | first aid (kits) |
+| cap             | cellphone            | mouse              | gpu                 | chargers (mostly phone) | deodorant    | dash cam      | home_office     | luggage           |
+| coat            | headphones           | webcam             | hard drive          | phone case              | face wash    | gps (also includes watch type GPS) | notebook        | packing cubes     |
+| dress           | laptop               | microphone         | intel amd processor | screen protector        | facial toner | ram vehicles  | school supplies | stanley cup (tumbler & accessories) |
+| face mask       | monitor              | printer            | motherboard         | tripod                  | feminine wash| tires         | stationary      | travel essentials |
+| jewelry         | smart watch          | projector          | pc chassis          |                         | lotion       | office chair  | water flask     |                   |
+| men bag         | speakers             | usb                | pc fan              |                         | makeup       |               |                 |                   |
+| men jeans       | surveillance camera | computer accessories| pc power supply     |                         | moisturizer  |               |                 |                   |
+| men shirt       | tablet               | pc ram             |                     |                         | mouthwash    |               |                 |                   |
+| men shoes       | television           |                    | solid state drive   |                         |               |               |                 |                   |
+| men sweater     | videogame console    |                    |                     |                         | shaving cream|               |                 |                   |
+| socks           | wifi router          |                    |                     |                         | shampoo      |               |                 |                   |
+| underwear       |                      |                    |                     |                         | soap         |               |                 |                   |
+| women bag       |                      |                    |                     |                         | tampon       |               |                 |                   |
+| women jeans     |                      |                    |                     |                         | tissue       |               |                 |                   |
+| women shirt     |                      |                    |                     |                         | toothbrush   |               |                 |                   |
+| women shoes     |                      |                    |                     |                         | vitamins     |               |                 |                   |
+| women sweater   |                      |                    |                     |                         |              |               |                 |                   |
+| workout clothes |                      |                    |                     |                         |              |               |                 |                   |
 
 ## Significance of the Study
 
