@@ -4,7 +4,7 @@
 Abstract here
 
 ## Problem Statement
-Using Crawlbase, we built a dataset that consists of Amazon products. There are over 38,000 items across different categories such as bathroom, bedroom, television, smart watch, and more. Using content-based filtering we want to create a recommender that outputs suggested items to users. In this case, since we have the individual reviewers for each product, we will use them as “usersˮ. Here is an example entry of a “userˮ under a sample product.
+Using [Crawlbase](https://crawlbase.com/dashboard), we built a dataset that consists of Amazon products. There are over 38,000 items across different categories such as bathroom, bedroom, television, smart watch, and more. Using content-based filtering we want to create a recommender that outputs suggested items to users. In this case, since we have the individual reviewers for each product, we will use them as “usersˮ. Here is an example entry of a “userˮ under a sample product.
 
 ## Methodology
 
@@ -23,12 +23,24 @@ Using Crawlbase, we built a dataset that consists of Amazon products. There are 
 
 ### Specific Implementation Steps
 #### Extract the data
-We extracted the data by using the Crawlbase API to crawl the Amazon website and scrape approximately 38,000 items.
+We extracted the data by using the [Crawlbase API](https://crawlbase.com/dashboard) to crawl the Amazon website and scrape approximately 38,000 items. The process is as follows.
 
 ![DataExtraction](images/DataExtraction.png)
 
+Over the period of February 10, 2024 to February 19, 2024, we crawled through a list of search terms and scraped each item under that search term.
+
+![crawlingapi](images/crawlingapi.png)
+![scraperapi](images/scraperapi.png)
+
+We expended **50,000 Scraper API credits** and approximately **2000 Crawling API credits**. 
+
 #### Clean the data
-We collated the userbase and itembase by...
+We collated the userbase and itembase by first defining the categories as seen below. Then, for each of the 16 categories, we put all of the product data of each item in each subcategory into one DataFrame and consequently one CSV file. That means that for each category, there is 1 CSV file. Meaning, there are 16 CSV files because there are 16 categories. The initial cleaning was done programmatically for the prices and features.
+* Check if the file is valid. Some files are just junk from the scraping process whilst others contain nothing important because the request failed.
+* The `description` and `manufacturerProductDescription` columns were concatenated because there are items with no `description` but with a `manufacturerProductDescription` while there are items with `manufacturerProductDescription` and no`description`.
+* Each string column was lowercased, stripped of forbidden special characters, and stripped of ASCII special characters.
+* We take just the float version of the `customerReview`.
+* We take just the number of the `Best Sellers Rank`.
 
 ![DataCleaning](images/DataCleaning.png)
 
