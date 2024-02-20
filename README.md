@@ -32,7 +32,7 @@ We collated the userbase and itembase by...
 
 ![DataCleaning](images/DataCleaning.png)
 
-#### Identified Categories (Tentative)
+#### Identified Categories
 | Fashion         | Electronic devices   | Peripheral Devices | Computer Components | Mobile Accessories      | Personal Care | Car Stuff     | Office Supplies | Travel Essentials |
 |-----------------|----------------------|--------------------|---------------------|-------------------------|---------------|---------------|-----------------|-------------------|
 | belt            | camera               | keyboard           | cpu cooler          | cables (phone chargers, extension, etc.) | conditioner   | car accessories| folder          | first aid (kits) |
