@@ -2,8 +2,8 @@ import streamlit as st
 import requests
 import json
 
-# Load the JSON data
 file_path = 'dataset/extracts/amazon/action figures/items/amazon_B00ASKV7FE.json'
+# Load the JSON data
 with open(file_path, "r") as file:
     data = json.load(file)
 # Using object notation
