@@ -21,64 +21,6 @@ st.title("KabanMarket: " + selected_category.title())
 st.divider()
 # Function to display product page
 
-def product_page():
-    if st.button("Back to Main Page"):
-        st.session_state.current_page = 'main_page'
-    asin_value = st.session_state.asin_value
-    file_path = 'dataset/extracts/amazon/action figures/items/amazon_' + asin_value + '.json'
-    # Load the JSON data
-    with open(file_path, "r") as file:
-        data = json.load(file)
-    # Using object notation
-    
-    st.title("KabanMarket.com")
-
-    # Display the e-commerce data
-    st.header(data['body']['name'])
-    st.title(f"Price: {data['body']['price']}",)
-    st.write(f"Brand: {data['body']['brand']}")
-    st.button("Add to Cart", type='secondary')
-    st.button("Buy Now", type='primary')
-    st.image(data['body']['mainImage'],
-            caption='Main Image', use_column_width='always')
-
-    # Display image carousel
-    st.write("Image Carousel")
-    selected_image_index = st.slider(
-        "Select Image", 0, len(data["body"]["images"]) - 1, 0)
-
-    # Display selected image
-    st.image(data["body"]["images"][selected_image_index],
-            width=400, caption="Image")
-
-    # Display other relevant information
-    st.header("Description:")
-    st.write(data['body']['description'])
-    # Create a single container for all images with horizontal layout
-    container = st.container()
-
-
-    st.divider()
-    st.header("Features:")
-    for feature in data['body']['features']:
-        st.write(feature)
-    st.divider()
-    st.header("Customer Reviews:")
-    st.subheader(f"Rating: {data['body']['customerReview']}")
-    # Display reviews
-    st.write(f"Number of Reviews: {data['body']['customerReviewCount']}")
-    for review in data["body"]["reviews"]:
-        st.header(f"Title: {review['reviewTitle']}")
-        st.subheader(f"Rating: {review['reviewRating']}")
-        st.write(f"Reviewer: {review['reviewerName']}")
-        st.write(f"Date: {review['reviewDate']}")
-        st.write(f"Text: {review['reviewText']}")
-        st.write("---")  # Add a horizontal line between reviews
-
-
-
-
-
 # Function to read JSON files in a category folder
 def read_items(category_directory):
     items = []
@@ -132,25 +74,13 @@ def main_page():
                     st.image(item["body"]["mainImage"], use_column_width=True)
                     name = item["body"]["name"]
                     st.markdown(f"<b>{name}</b></div>", unsafe_allow_html=True)
-                    st.write(f"Price: {item['body']['price']}",)
+                    st.markdown(f"<span style='color: red;font-size: 20px;'>{item['body']['price']}</span>", unsafe_allow_html=True)
+                    st.caption(item['body']['customerReview'])
                     asin_value = get_asin(item)
-                    if st.button("Go to Product Page", key='prod_'+asin_value):
-                        st.session_state.current_page = 'product_page'
-                        print("Current page:" ,st.session_state.current_page)
-                        st.session_state.asin_value = asin_value
-                        print(asin_value)
-                    st.text(asin_value)
+                    display_buttons(asin_value)
                     st.divider()
             except Exception as e:
                 print(e)
-
-    # if st.session_state.current_page == 'main_page':
-    #     main_page()
-
-    if 'current_page' not in st.session_state:
-        st.session_state.current_page = 'main_page'
-    if st.session_state.current_page == 'product_page':
-        product_page()
 
 if __name__ == "__main__":
      main_page()
