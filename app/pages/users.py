@@ -4,6 +4,33 @@ import json
 import pandas as pd
 import pickle
 
+custom_css = """
+<style>
+/* Your custom CSS goes here */
+body {
+    font-family: "Times New Roman", Times, serif;
+}
+
+/* Example to force certain desktop styles */
+.container {
+    width: 100% !important;
+}
+
+.row-widget {
+    padding: 10px !important;
+}
+
+/* Adjust the maximum width of the main content area */
+.stApp {
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Additional custom styles */
+</style>
+"""
+
+
 # Load user history and recommendations from the pickle file
 file_path = 'dev/user_hist_reco.pkl'
 with open(file_path, 'rb') as file:
@@ -11,6 +38,10 @@ with open(file_path, 'rb') as file:
 
 # Set page title and bannder image
 st.set_page_config(page_title="KabanMarket.com")
+
+# Inject custom CSS with st.markdown
+st.markdown(custom_css, unsafe_allow_html=True)
+
 st.image('app/pages/image.png')
 df_asin_mapping = pd.read_csv('dataset/utility/reviews.csv')
 
