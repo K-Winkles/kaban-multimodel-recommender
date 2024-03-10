@@ -38,10 +38,6 @@ with open(file_path, 'rb') as file:
 
 # Set page title and bannder image
 st.set_page_config(page_title="KabanMarket.com")
-
-# Inject custom CSS with st.markdown
-st.markdown(custom_css, unsafe_allow_html=True)
-
 st.image('app/pages/image.png')
 df_asin_mapping = pd.read_csv('dataset/utility/reviews.csv')
 
@@ -58,13 +54,11 @@ def display_buttons(asin_value, algo, prodtype):
         col1, col2  = st.columns(2)  # Adjust the ratio as needed for your layout
         with col1:
             # "Add to Cart" button
-            if st.button("Add to Cart", type = 'secondary', key='add_'+asin_value+algo+prodtype):
-                st.write("Add to cart!")  # Placeholder action
+            st.button("Add to Cart", type = 'secondary', key='add_'+asin_value+algo+prodtype)
         with col2:
             # "Buy Now" button
-            if st.button("Buy Now", type = 'primary', key='buy_'+asin_value+algo+prodtype):
-                st.write("Proceed to Buy!")  # Placeholder action
-                # Get URL to navigate to when image is clicked
+            st.button("Buy Now", type = 'primary', key='buy_'+asin_value+algo+prodtype)
+
 def main_page():
     """
     Display the main page of the app containing user history and recommendations
@@ -72,7 +66,7 @@ def main_page():
     # Display expandable container for user history
     with st.expander("User history"):
                 st.title(selected_user.title() + "'s Reviewed products:")
-                df_user_hist = user_hist_reco_dict[selected_user]['SVD'][0].reset_index(drop=True)
+                df_user_hist = user_hist_reco_dict[selected_user]['Payak'][0].reset_index(drop=True)
                 df_user_hist = df_user_hist.drop('ProductName', axis=1)
                 df_user_hist = pd.merge(df_user_hist, df_asin_mapping, on='ASIN')
                 df_user_hist = df_user_hist.drop_duplicates(subset='ASIN', keep='first')
