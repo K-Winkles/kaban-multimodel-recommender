@@ -4,33 +4,24 @@ import json
 import pandas as pd
 import pickle
 
-folder_path = 'dataset/extracts'
-
-
+# Load user history and recommendations from the pickle file
 file_path = 'dev/user_hist_reco.pkl'
 with open(file_path, 'rb') as file:
     user_hist_reco_dict = pickle.load(file)
 
-def get_csv_files(directory):
-    """
-    Get all csv files in a directory
-    """
-    csv_files = []
-    for root, dirs, files in os.walk(directory):
-        for file in files:
-            if (file.startswith('log_amazon') or file.startswith('amazon')) and file.endswith('.csv'):
-                csv_files.append(os.path.join(root, file))
-    return csv_files
-
+# Set page title and bannder image
 st.set_page_config(page_title="KabanMarket.com")
 st.image('app/pages/image.png')
 df_asin_mapping = pd.read_csv('dataset/utility/reviews.csv')
-# Display Top Reviewers
+
+# Display dropdwon of top reviewers
 user_names = list(user_hist_reco_dict.keys())
 selected_user = st.selectbox("Select User:", user_names)
 
-# Function to display buttons
 def display_buttons(asin_value, algo, prodtype):
+    """
+    Display buttons based on ASIN algo and prod type
+    """
     # Container to hold the buttons
     with st.container():
         col1, col2  = st.columns(2)  # Adjust the ratio as needed for your layout
@@ -43,9 +34,11 @@ def display_buttons(asin_value, algo, prodtype):
             if st.button("Buy Now", type = 'primary', key='buy_'+asin_value+algo+prodtype):
                 st.write("Proceed to Buy!")  # Placeholder action
                 # Get URL to navigate to when image is clicked
-# Main function
 def main_page():
-    # Create tabs dynamically based on the keys of the dictionary
+    """
+    Display the main page of the app containing user history and recommendations
+    """
+    # Display expandable container for user history
     with st.expander("User history"):
                 st.title(selected_user.title() + "'s Reviewed products:")
                 df_user_hist = user_hist_reco_dict[selected_user]['SVD'][0].reset_index(drop=True)
@@ -67,6 +60,7 @@ def main_page():
                             st.divider()
                         except Exception as e:
                             print(e)
+    # Display tabs containing recommendations per algorithm
     tabs = st.tabs(list(user_hist_reco_dict[next(iter(user_hist_reco_dict))].keys()))
     # Iterate over each tab and key in the dictionary simultaneously
     for tab, algo in zip(tabs, user_hist_reco_dict[next(iter(user_hist_reco_dict))].keys()):
